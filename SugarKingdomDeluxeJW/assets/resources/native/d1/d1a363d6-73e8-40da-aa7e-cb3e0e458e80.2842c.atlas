@@ -1,0 +1,216 @@
+
+BG_tang_down.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tang/tang_00
+  rotate: false
+  xy: 150, 176
+  size: 73, 73
+  orig: 100, 100
+  offset: 13, 14
+  index: -1
+tang/tang_01
+  rotate: false
+  xy: 2, 174
+  size: 72, 75
+  orig: 100, 100
+  offset: 15, 13
+  index: -1
+tang/tang_02
+  rotate: false
+  xy: 76, 97
+  size: 69, 75
+  orig: 100, 100
+  offset: 18, 13
+  index: -1
+tang/tang_03
+  rotate: true
+  xy: 454, 186
+  size: 63, 75
+  orig: 100, 100
+  offset: 22, 13
+  index: -1
+tang/tang_04
+  rotate: true
+  xy: 762, 194
+  size: 55, 75
+  orig: 100, 100
+  offset: 27, 13
+  index: -1
+tang/tang_05
+  rotate: false
+  xy: 906, 100
+  size: 43, 75
+  orig: 100, 100
+  offset: 33, 13
+  index: -1
+tang/tang_06
+  rotate: true
+  xy: 750, 99
+  size: 30, 76
+  orig: 100, 100
+  offset: 38, 12
+  index: -1
+tang/tang_07
+  rotate: true
+  xy: 762, 177
+  size: 15, 79
+  orig: 100, 100
+  offset: 44, 11
+  index: -1
+tang/tang_08
+  rotate: true
+  xy: 843, 177
+  size: 15, 79
+  orig: 100, 100
+  offset: 41, 11
+  index: -1
+tang/tang_09
+  rotate: true
+  xy: 828, 99
+  size: 30, 76
+  orig: 100, 100
+  offset: 32, 12
+  index: -1
+tang/tang_10
+  rotate: false
+  xy: 951, 117
+  size: 43, 75
+  orig: 100, 100
+  offset: 24, 13
+  index: -1
+tang/tang_11
+  rotate: true
+  xy: 839, 194
+  size: 55, 75
+  orig: 100, 100
+  offset: 18, 13
+  index: -1
+tang/tang_12
+  rotate: true
+  xy: 531, 186
+  size: 63, 75
+  orig: 100, 100
+  offset: 15, 13
+  index: -1
+tang/tang_13
+  rotate: true
+  xy: 300, 180
+  size: 69, 75
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+tang/tang_14
+  rotate: false
+  xy: 2, 97
+  size: 72, 75
+  orig: 100, 100
+  offset: 13, 13
+  index: -1
+tang/tang_15
+  rotate: false
+  xy: 225, 176
+  size: 73, 73
+  orig: 100, 100
+  offset: 14, 14
+  index: -1
+tang/tang_16
+  rotate: false
+  xy: 76, 174
+  size: 72, 75
+  orig: 100, 100
+  offset: 16, 13
+  index: -1
+tang/tang_17
+  rotate: false
+  xy: 76, 20
+  size: 69, 75
+  orig: 100, 100
+  offset: 19, 13
+  index: -1
+tang/tang_18
+  rotate: true
+  xy: 608, 186
+  size: 63, 75
+  orig: 100, 100
+  offset: 23, 13
+  index: -1
+tang/tang_19
+  rotate: true
+  xy: 916, 194
+  size: 55, 75
+  orig: 100, 100
+  offset: 28, 13
+  index: -1
+tang/tang_20
+  rotate: true
+  xy: 750, 131
+  size: 44, 76
+  orig: 100, 100
+  offset: 33, 12
+  index: -1
+tang/tang_21
+  rotate: true
+  xy: 535, 153
+  size: 31, 77
+  orig: 100, 100
+  offset: 38, 12
+  index: -1
+tang/tang_22
+  rotate: true
+  xy: 2, 2
+  size: 16, 79
+  orig: 100, 100
+  offset: 44, 11
+  index: -1
+tang/tang_23
+  rotate: true
+  xy: 454, 168
+  size: 16, 79
+  orig: 100, 100
+  offset: 40, 11
+  index: -1
+tang/tang_24
+  rotate: true
+  xy: 614, 153
+  size: 31, 77
+  orig: 100, 100
+  offset: 31, 12
+  index: -1
+tang/tang_25
+  rotate: true
+  xy: 828, 131
+  size: 44, 76
+  orig: 100, 100
+  offset: 23, 12
+  index: -1
+tang/tang_26
+  rotate: false
+  xy: 693, 109
+  size: 55, 75
+  orig: 100, 100
+  offset: 17, 13
+  index: -1
+tang/tang_27
+  rotate: true
+  xy: 685, 186
+  size: 63, 75
+  orig: 100, 100
+  offset: 14, 13
+  index: -1
+tang/tang_28
+  rotate: true
+  xy: 377, 180
+  size: 69, 75
+  orig: 100, 100
+  offset: 12, 13
+  index: -1
+tang/tang_29
+  rotate: false
+  xy: 2, 20
+  size: 72, 75
+  orig: 100, 100
+  offset: 12, 13
+  index: -1

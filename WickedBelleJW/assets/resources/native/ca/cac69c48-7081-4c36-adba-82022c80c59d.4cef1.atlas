@@ -1,0 +1,244 @@
+
+jiqixunhuan.png
+size: 269,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000135_00
+  rotate: false
+  xy: 0, 140
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+liuguang01/slotMachine_scene_0
+  rotate: false
+  xy: 208, 47
+  size: 14, 13
+  orig: 107, 310
+  offset: 9, 1
+  index: -1
+liuguang01/slotMachine_scene_1
+  rotate: true
+  xy: 203, 62
+  size: 16, 26
+  orig: 107, 310
+  offset: 8, 0
+  index: -1
+liuguang01/slotMachine_scene_10
+  rotate: true
+  xy: 125, 98
+  size: 16, 74
+  orig: 107, 310
+  offset: 10, 59
+  index: -1
+liuguang01/slotMachine_scene_11
+  rotate: true
+  xy: 120, 116
+  size: 16, 75
+  orig: 107, 310
+  offset: 11, 70
+  index: -1
+liuguang01/slotMachine_scene_12
+  rotate: true
+  xy: 126, 80
+  size: 16, 75
+  orig: 107, 310
+  offset: 11, 82
+  index: -1
+liuguang01/slotMachine_scene_13
+  rotate: true
+  xy: 126, 62
+  size: 16, 75
+  orig: 107, 310
+  offset: 11, 94
+  index: -1
+liuguang01/slotMachine_scene_14
+  rotate: true
+  xy: 167, 134
+  size: 16, 76
+  orig: 107, 310
+  offset: 12, 105
+  index: -1
+liuguang01/slotMachine_scene_15
+  rotate: true
+  xy: 46, 54
+  size: 16, 76
+  orig: 107, 310
+  offset: 12, 117
+  index: -1
+liuguang01/slotMachine_scene_16
+  rotate: true
+  xy: 46, 36
+  size: 16, 76
+  orig: 107, 310
+  offset: 13, 129
+  index: -1
+liuguang01/slotMachine_scene_17
+  rotate: true
+  xy: 167, 188
+  size: 16, 77
+  orig: 107, 310
+  offset: 13, 140
+  index: -1
+liuguang01/slotMachine_scene_18
+  rotate: true
+  xy: 167, 170
+  size: 16, 77
+  orig: 107, 310
+  offset: 13, 152
+  index: -1
+liuguang01/slotMachine_scene_19
+  rotate: true
+  xy: 167, 152
+  size: 16, 77
+  orig: 107, 310
+  offset: 14, 163
+  index: -1
+liuguang01/slotMachine_scene_2
+  rotate: true
+  xy: 201, 98
+  size: 16, 38
+  orig: 107, 310
+  offset: 8, 0
+  index: -1
+liuguang01/slotMachine_scene_20
+  rotate: true
+  xy: 171, 224
+  size: 19, 75
+  orig: 107, 310
+  offset: 14, 173
+  index: -1
+liuguang01/slotMachine_scene_21
+  rotate: true
+  xy: 171, 245
+  size: 23, 72
+  orig: 107, 310
+  offset: 14, 184
+  index: -1
+liuguang01/slotMachine_scene_22
+  rotate: true
+  xy: 50, 109
+  size: 29, 68
+  orig: 107, 310
+  offset: 15, 196
+  index: -1
+liuguang01/slotMachine_scene_23
+  rotate: false
+  xy: 130, 206
+  size: 39, 62
+  orig: 107, 310
+  offset: 15, 210
+  index: -1
+liuguang01/slotMachine_scene_24
+  rotate: false
+  xy: 0, 84
+  size: 48, 54
+  orig: 107, 310
+  offset: 17, 225
+  index: -1
+liuguang01/slotMachine_scene_25
+  rotate: true
+  xy: 0, 28
+  size: 54, 44
+  orig: 107, 310
+  offset: 24, 240
+  index: -1
+liuguang01/slotMachine_scene_26
+  rotate: true
+  xy: 130, 145
+  size: 59, 35
+  orig: 107, 310
+  offset: 33, 252
+  index: -1
+liuguang01/slotMachine_scene_27
+  rotate: false
+  xy: 124, 32
+  size: 61, 28
+  orig: 107, 310
+  offset: 43, 261
+  index: -1
+liuguang01/slotMachine_scene_28
+  rotate: true
+  xy: 246, 153
+  size: 51, 23
+  orig: 107, 310
+  offset: 54, 267
+  index: -1
+liuguang01/slotMachine_scene_29
+  rotate: false
+  xy: 0, 7
+  size: 40, 19
+  orig: 107, 310
+  offset: 65, 271
+  index: -1
+liuguang01/slotMachine_scene_3
+  rotate: true
+  xy: 197, 116
+  size: 16, 50
+  orig: 107, 310
+  offset: 8, 0
+  index: -1
+liuguang01/slotMachine_scene_30
+  rotate: false
+  xy: 203, 80
+  size: 29, 16
+  orig: 107, 310
+  offset: 76, 274
+  index: -1
+liuguang01/slotMachine_scene_31
+  rotate: false
+  xy: 187, 45
+  size: 19, 15
+  orig: 107, 310
+  offset: 86, 275
+  index: -1
+liuguang01/slotMachine_scene_32
+  rotate: true
+  xy: 130, 134
+  size: 9, 13
+  orig: 107, 310
+  offset: 95, 276
+  index: -1
+liuguang01/slotMachine_scene_4
+  rotate: false
+  xy: 248, 206
+  size: 16, 62
+  orig: 107, 310
+  offset: 8, 0
+  index: -1
+liuguang01/slotMachine_scene_5
+  rotate: true
+  xy: 50, 90
+  size: 17, 73
+  orig: 107, 310
+  offset: 8, 1
+  index: -1
+liuguang01/slotMachine_scene_6
+  rotate: true
+  xy: 50, 72
+  size: 16, 74
+  orig: 107, 310
+  offset: 9, 12
+  index: -1
+liuguang01/slotMachine_scene_7
+  rotate: true
+  xy: 171, 206
+  size: 16, 75
+  orig: 107, 310
+  offset: 9, 23
+  index: -1
+liuguang01/slotMachine_scene_8
+  rotate: true
+  xy: 46, 18
+  size: 16, 75
+  orig: 107, 310
+  offset: 10, 35
+  index: -1
+liuguang01/slotMachine_scene_9
+  rotate: true
+  xy: 42, 0
+  size: 16, 75
+  orig: 107, 310
+  offset: 10, 47
+  index: -1

@@ -1,0 +1,97 @@
+
+ng_h4.png
+size: 853,482
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dazhusun1
+  rotate: false
+  xy: 572, 137
+  size: 152, 143
+  orig: 152, 143
+  offset: 0, 0
+  index: -1
+dazhusun2
+  rotate: false
+  xy: 465, 41
+  size: 96, 188
+  orig: 96, 188
+  offset: 0, 0
+  index: -1
+dazhusun3
+  rotate: false
+  xy: 726, 27
+  size: 103, 135
+  orig: 103, 135
+  offset: 0, 0
+  index: -1
+dazhusun4
+  rotate: true
+  xy: 731, 231
+  size: 69, 119
+  orig: 69, 120
+  offset: 0, 1
+  index: -1
+dazhusun5
+  rotate: false
+  xy: 563, 41
+  size: 70, 94
+  orig: 71, 95
+  offset: 1, 0
+  index: -1
+dazhusuntouying
+  rotate: true
+  xy: 465, 282
+  size: 198, 264
+  orig: 200, 264
+  offset: 1, 0
+  index: -1
+huiju2
+  rotate: false
+  xy: 2, 19
+  size: 461, 461
+  orig: 461, 461
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 635, 11
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xiaozhusun1
+  rotate: true
+  xy: 726, 164
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+xiaozhusun2
+  rotate: true
+  xy: 465, 232
+  size: 48, 105
+  orig: 48, 106
+  offset: 0, 1
+  index: -1
+xiaozhusun3
+  rotate: true
+  xy: 465, 2
+  size: 37, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+xiaozhusun4
+  rotate: true
+  xy: 635, 77
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+xiaozhusuntouying
+  rotate: false
+  xy: 731, 302
+  size: 120, 178
+  orig: 120, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+TC_FG_wenan.png
+size: 1831,124
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+extr
+  rotate: false
+  xy: 2, 42
+  size: 854, 80
+  orig: 856, 82
+  offset: 1, 1
+  index: -1
+sgbt/sgbt_00000
+  rotate: false
+  xy: 1754, 44
+  size: 64, 38
+  orig: 428, 38
+  offset: 0, 0
+  index: -1
+sgbt/sgbt_00001
+  rotate: false
+  xy: 1587, 4
+  size: 93, 38
+  orig: 428, 38
+  offset: 0, 0
+  index: -1
+sgbt/sgbt_00002
+  rotate: false
+  xy: 1466, 4
+  size: 119, 38
+  orig: 428, 38
+  offset: 0, 0
+  index: -1
+sgbt/sgbt_00003
+  rotate: false
+  xy: 1039, 4
+  size: 152, 38
+  orig: 428, 38
+  offset: 0, 0
+  index: -1
+sgbt/sgbt_00004
+  rotate: false
+  xy: 1570, 44
+  size: 182, 38
+  orig: 428, 38
+  offset: 0, 0
+  index: -1
+sgbt/sgbt_00005
+  rotate: false
+  xy: 1618, 84
+  size: 211, 38
+  orig: 428, 38
+  offset: 0, 0
+  index: -1
+sgbt/sgbt_00006
+  rotate: false
+  xy: 1119, 44
+  size: 240, 38
+  orig: 428, 38
+  offset: 1, 0
+  index: -1
+sgbt/sgbt_00007
+  rotate: false
+  xy: 524, 2
+  size: 256, 38
+  orig: 428, 38
+  offset: 11, 0
+  index: -1
+sgbt/sgbt_00008
+  rotate: false
+  xy: 2, 2
+  size: 259, 38
+  orig: 428, 38
+  offset: 41, 0
+  index: -1
+sgbt/sgbt_00009
+  rotate: false
+  xy: 858, 84
+  size: 259, 38
+  orig: 428, 38
+  offset: 70, 0
+  index: -1
+sgbt/sgbt_00010
+  rotate: false
+  xy: 263, 2
+  size: 259, 38
+  orig: 428, 38
+  offset: 100, 0
+  index: -1
+sgbt/sgbt_00011
+  rotate: false
+  xy: 858, 44
+  size: 259, 38
+  orig: 428, 38
+  offset: 129, 0
+  index: -1
+sgbt/sgbt_00012
+  rotate: false
+  xy: 1119, 84
+  size: 259, 38
+  orig: 428, 38
+  offset: 159, 0
+  index: -1
+sgbt/sgbt_00013
+  rotate: false
+  xy: 1380, 84
+  size: 236, 38
+  orig: 428, 38
+  offset: 188, 0
+  index: -1
+sgbt/sgbt_00014
+  rotate: false
+  xy: 1361, 44
+  size: 207, 38
+  orig: 428, 38
+  offset: 218, 0
+  index: -1
+sgbt/sgbt_00015
+  rotate: false
+  xy: 858, 4
+  size: 179, 38
+  orig: 428, 38
+  offset: 247, 0
+  index: -1
+sgbt/sgbt_00016
+  rotate: false
+  xy: 1193, 4
+  size: 149, 38
+  orig: 428, 38
+  offset: 277, 0
+  index: -1
+sgbt/sgbt_00017
+  rotate: false
+  xy: 1344, 4
+  size: 120, 38
+  orig: 428, 38
+  offset: 306, 0
+  index: -1
+sgbt/sgbt_00018
+  rotate: false
+  xy: 1682, 4
+  size: 90, 38
+  orig: 428, 38
+  offset: 336, 0
+  index: -1
+sgbt/sgbt_00019
+  rotate: false
+  xy: 782, 2
+  size: 60, 38
+  orig: 428, 38
+  offset: 365, 0
+  index: -1

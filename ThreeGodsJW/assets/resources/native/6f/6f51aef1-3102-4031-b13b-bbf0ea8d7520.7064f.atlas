@@ -1,0 +1,216 @@
+
+yingfen.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingfen/yingfen_00
+  rotate: false
+  xy: 2, 115
+  size: 138, 111
+  orig: 150, 125
+  offset: 6, 7
+  index: -1
+yingfen/yingfen_01
+  rotate: false
+  xy: 142, 230
+  size: 138, 111
+  orig: 150, 125
+  offset: 6, 7
+  index: -1
+yingfen/yingfen_02
+  rotate: false
+  xy: 282, 345
+  size: 138, 111
+  orig: 150, 125
+  offset: 6, 7
+  index: -1
+yingfen/yingfen_03
+  rotate: false
+  xy: 2, 2
+  size: 138, 111
+  orig: 150, 125
+  offset: 6, 7
+  index: -1
+yingfen/yingfen_04
+  rotate: false
+  xy: 2, 343
+  size: 138, 113
+  orig: 150, 125
+  offset: 6, 6
+  index: -1
+yingfen/yingfen_05
+  rotate: false
+  xy: 2, 228
+  size: 138, 113
+  orig: 150, 125
+  offset: 6, 6
+  index: -1
+yingfen/yingfen_06
+  rotate: false
+  xy: 142, 115
+  size: 136, 113
+  orig: 150, 125
+  offset: 7, 6
+  index: -1
+yingfen/yingfen_07
+  rotate: false
+  xy: 420, 232
+  size: 136, 111
+  orig: 150, 125
+  offset: 7, 7
+  index: -1
+yingfen/yingfen_08
+  rotate: false
+  xy: 562, 345
+  size: 136, 111
+  orig: 150, 125
+  offset: 7, 7
+  index: -1
+yingfen/yingfen_09
+  rotate: false
+  xy: 558, 232
+  size: 136, 111
+  orig: 150, 125
+  offset: 7, 7
+  index: -1
+yingfen/yingfen_10
+  rotate: false
+  xy: 282, 230
+  size: 136, 113
+  orig: 150, 125
+  offset: 7, 6
+  index: -1
+yingfen/yingfen_11
+  rotate: false
+  xy: 280, 115
+  size: 136, 113
+  orig: 150, 125
+  offset: 7, 6
+  index: -1
+yingfen/yingfen_12
+  rotate: false
+  xy: 142, 343
+  size: 138, 113
+  orig: 150, 125
+  offset: 6, 6
+  index: -1
+yingfen/yingfen_13
+  rotate: false
+  xy: 422, 345
+  size: 138, 111
+  orig: 150, 125
+  offset: 6, 7
+  index: -1
+yingfen/yingfen_14
+  rotate: false
+  xy: 142, 2
+  size: 138, 111
+  orig: 150, 125
+  offset: 6, 7
+  index: -1
+yingfen2/yingfen2_00
+  rotate: false
+  xy: 836, 201
+  size: 136, 83
+  orig: 150, 125
+  offset: 7, 21
+  index: -1
+yingfen2/yingfen2_01
+  rotate: false
+  xy: 700, 288
+  size: 138, 81
+  orig: 150, 125
+  offset: 6, 22
+  index: -1
+yingfen2/yingfen2_02
+  rotate: false
+  xy: 696, 205
+  size: 138, 81
+  orig: 150, 125
+  offset: 6, 22
+  index: -1
+yingfen2/yingfen2_03
+  rotate: false
+  xy: 420, 149
+  size: 136, 81
+  orig: 150, 125
+  offset: 7, 22
+  index: -1
+yingfen2/yingfen2_04
+  rotate: false
+  xy: 558, 147
+  size: 136, 83
+  orig: 150, 125
+  offset: 7, 21
+  index: -1
+yingfen2/yingfen2_05
+  rotate: false
+  xy: 696, 120
+  size: 136, 83
+  orig: 150, 125
+  offset: 7, 21
+  index: -1
+yingfen2/yingfen2_06
+  rotate: false
+  xy: 840, 371
+  size: 136, 85
+  orig: 150, 125
+  offset: 7, 20
+  index: -1
+yingfen2/yingfen2_07
+  rotate: false
+  xy: 282, 28
+  size: 136, 85
+  orig: 150, 125
+  offset: 7, 20
+  index: -1
+yingfen2/yingfen2_08
+  rotate: false
+  xy: 834, 116
+  size: 136, 83
+  orig: 150, 125
+  offset: 7, 21
+  index: -1
+yingfen2/yingfen2_09
+  rotate: false
+  xy: 420, 62
+  size: 136, 85
+  orig: 150, 125
+  offset: 7, 20
+  index: -1
+yingfen2/yingfen2_10
+  rotate: false
+  xy: 558, 60
+  size: 136, 85
+  orig: 150, 125
+  offset: 7, 20
+  index: -1
+yingfen2/yingfen2_11
+  rotate: false
+  xy: 696, 33
+  size: 136, 85
+  orig: 150, 125
+  offset: 7, 20
+  index: -1
+yingfen2/yingfen2_12
+  rotate: false
+  xy: 700, 371
+  size: 138, 85
+  orig: 150, 125
+  offset: 6, 20
+  index: -1
+yingfen2/yingfen2_13
+  rotate: false
+  xy: 834, 31
+  size: 136, 83
+  orig: 150, 125
+  offset: 7, 21
+  index: -1
+yingfen2/yingfen2_14
+  rotate: false
+  xy: 840, 286
+  size: 136, 83
+  orig: 150, 125
+  offset: 7, 21
+  index: -1

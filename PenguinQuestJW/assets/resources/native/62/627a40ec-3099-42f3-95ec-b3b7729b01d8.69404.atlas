@@ -1,0 +1,111 @@
+
+Map_beike.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beike
+  rotate: false
+  xy: 2, 45
+  size: 83, 81
+  orig: 83, 83
+  offset: 0, 1
+  index: -1
+beike_add
+  rotate: false
+  xy: 254, 18
+  size: 48, 47
+  orig: 75, 75
+  offset: 13, 14
+  index: -1
+glow
+  rotate: false
+  xy: 87, 66
+  size: 66, 60
+  orig: 75, 75
+  offset: 4, 7
+  index: -1
+lizi/lizi_01
+  rotate: false
+  xy: 304, 51
+  size: 17, 16
+  orig: 75, 75
+  offset: 28, 30
+  index: -1
+lizi/lizi_02
+  rotate: false
+  xy: 51, 11
+  size: 32, 32
+  orig: 75, 75
+  offset: 21, 21
+  index: -1
+lizi/lizi_03
+  rotate: false
+  xy: 465, 84
+  size: 42, 42
+  orig: 75, 75
+  offset: 15, 15
+  index: -1
+lizi/lizi_04
+  rotate: false
+  xy: 203, 18
+  size: 49, 47
+  orig: 75, 75
+  offset: 12, 12
+  index: -1
+lizi/lizi_05
+  rotate: true
+  xy: 150, 11
+  size: 53, 51
+  orig: 75, 75
+  offset: 10, 10
+  index: -1
+lizi/lizi_06
+  rotate: false
+  xy: 408, 71
+  size: 55, 55
+  orig: 75, 75
+  offset: 8, 9
+  index: -1
+lizi/lizi_07
+  rotate: false
+  xy: 347, 69
+  size: 59, 57
+  orig: 75, 75
+  offset: 7, 8
+  index: -1
+lizi/lizi_08
+  rotate: false
+  xy: 221, 67
+  size: 61, 59
+  orig: 75, 75
+  offset: 6, 7
+  index: -1
+lizi/lizi_09
+  rotate: false
+  xy: 87, 2
+  size: 61, 62
+  orig: 75, 75
+  offset: 6, 6
+  index: -1
+lizi/lizi_10
+  rotate: false
+  xy: 155, 67
+  size: 64, 59
+  orig: 75, 75
+  offset: 5, 9
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 284, 69
+  size: 61, 57
+  orig: 75, 75
+  offset: 7, 12
+  index: -1
+lizi/lizi_12
+  rotate: true
+  xy: 2, 5
+  size: 38, 47
+  orig: 75, 75
+  offset: 12, 14
+  index: -1

@@ -1,0 +1,153 @@
+
+Map_misson_tiao.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinse
+  rotate: false
+  xy: 2, 362
+  size: 637, 99
+  orig: 637, 99
+  offset: 0, 0
+  index: -1
+lvse
+  rotate: false
+  xy: 2, 262
+  size: 637, 98
+  orig: 637, 98
+  offset: 0, 0
+  index: -1
+sg/sg_01
+  rotate: false
+  xy: 455, 158
+  size: 49, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_02
+  rotate: false
+  xy: 944, 411
+  size: 78, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_03
+  rotate: false
+  xy: 752, 255
+  size: 107, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_04
+  rotate: false
+  xy: 169, 2
+  size: 136, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_05
+  rotate: false
+  xy: 2, 2
+  size: 165, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_06
+  rotate: false
+  xy: 2, 54
+  size: 194, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_07
+  rotate: false
+  xy: 2, 106
+  size: 223, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_08
+  rotate: false
+  xy: 286, 210
+  size: 251, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_09
+  rotate: false
+  xy: 641, 359
+  size: 280, 50
+  orig: 400, 100
+  offset: 40, 25
+  index: -1
+sg/sg_10
+  rotate: false
+  xy: 641, 411
+  size: 301, 50
+  orig: 400, 100
+  offset: 49, 25
+  index: -1
+sg/sg_11
+  rotate: false
+  xy: 2, 210
+  size: 282, 50
+  orig: 400, 100
+  offset: 78, 25
+  index: -1
+sg/sg_12
+  rotate: false
+  xy: 2, 158
+  size: 253, 50
+  orig: 400, 100
+  offset: 107, 25
+  index: -1
+sg/sg_13
+  rotate: false
+  xy: 641, 307
+  size: 224, 50
+  orig: 400, 100
+  offset: 136, 25
+  index: -1
+sg/sg_14
+  rotate: false
+  xy: 257, 158
+  size: 196, 50
+  orig: 400, 100
+  offset: 164, 25
+  index: -1
+sg/sg_15
+  rotate: false
+  xy: 227, 106
+  size: 167, 50
+  orig: 400, 100
+  offset: 193, 25
+  index: -1
+sg/sg_16
+  rotate: false
+  xy: 198, 54
+  size: 138, 50
+  orig: 400, 100
+  offset: 222, 25
+  index: -1
+sg/sg_17
+  rotate: false
+  xy: 641, 255
+  size: 109, 50
+  orig: 400, 100
+  offset: 251, 25
+  index: -1
+sg/sg_18
+  rotate: false
+  xy: 923, 359
+  size: 80, 50
+  orig: 400, 100
+  offset: 280, 25
+  index: -1
+sg/sg_19
+  rotate: false
+  xy: 867, 307
+  size: 51, 50
+  orig: 400, 100
+  offset: 309, 25
+  index: -1

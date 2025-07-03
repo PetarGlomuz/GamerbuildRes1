@@ -1,0 +1,125 @@
+
+Betup2.png
+size: 439,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi/lizi_00
+  rotate: true
+  xy: 352, 10
+  size: 52, 50
+  orig: 98, 95
+  offset: 26, 20
+  index: -1
+lizi/lizi_01
+  rotate: false
+  xy: 281, 5
+  size: 69, 63
+  orig: 98, 95
+  offset: 17, 13
+  index: -1
+lizi/lizi_02
+  rotate: false
+  xy: 358, 222
+  size: 79, 75
+  orig: 98, 95
+  offset: 11, 8
+  index: -1
+lizi/lizi_03
+  rotate: true
+  xy: 353, 64
+  size: 86, 84
+  orig: 98, 95
+  offset: 7, 4
+  index: -1
+lizi/lizi_04
+  rotate: true
+  xy: 189, 10
+  size: 92, 90
+  orig: 98, 95
+  offset: 3, 2
+  index: -1
+lizi/lizi_05
+  rotate: true
+  xy: 98, 104
+  size: 94, 93
+  orig: 98, 95
+  offset: 2, 1
+  index: -1
+lizi/lizi_06
+  rotate: true
+  xy: 2, 200
+  size: 97, 95
+  orig: 98, 95
+  offset: 1, 0
+  index: -1
+lizi/lizi_07
+  rotate: true
+  xy: 2, 101
+  size: 97, 94
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+lizi/lizi_08
+  rotate: true
+  xy: 2, 2
+  size: 97, 93
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+lizi/lizi_09
+  rotate: true
+  xy: 97, 4
+  size: 95, 90
+  orig: 98, 95
+  offset: 2, 1
+  index: -1
+lizi/lizi_10
+  rotate: true
+  xy: 99, 203
+  size: 94, 89
+  orig: 98, 95
+  offset: 2, 2
+  index: -1
+lizi/lizi_11
+  rotate: true
+  xy: 190, 203
+  size: 94, 86
+  orig: 98, 95
+  offset: 2, 5
+  index: -1
+lizi/lizi_12
+  rotate: true
+  xy: 193, 109
+  size: 92, 87
+  orig: 98, 95
+  offset: 3, 4
+  index: -1
+lizi/lizi_13
+  rotate: true
+  xy: 278, 209
+  size: 88, 78
+  orig: 98, 95
+  offset: 4, 5
+  index: -1
+lizi/lizi_14
+  rotate: true
+  xy: 282, 70
+  size: 81, 69
+  orig: 98, 95
+  offset: 8, 8
+  index: -1
+lizi/lizi_15
+  rotate: false
+  xy: 358, 152
+  size: 75, 68
+  orig: 98, 95
+  offset: 11, 9
+  index: -1
+lizi/lizi_16
+  rotate: false
+  xy: 282, 153
+  size: 73, 54
+  orig: 98, 95
+  offset: 11, 15
+  index: -1

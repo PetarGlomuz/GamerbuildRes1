@@ -1,0 +1,181 @@
+
+Scatter_Jin.png
+size: 361,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/s1
+  rotate: true
+  xy: 72, 57
+  size: 83, 75
+  orig: 134, 88
+  offset: 24, 6
+  index: -1
+images/s1sg/s1sg_000
+  rotate: false
+  xy: 128, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/s1sg/s1sg_019
+  rotate: false
+  xy: 128, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/s1sg/s1sg_001
+  rotate: false
+  xy: 136, 47
+  size: 5, 8
+  orig: 50, 50
+  offset: 5, 18
+  index: -1
+images/s1sg/s1sg_002
+  rotate: false
+  xy: 72, 41
+  size: 11, 14
+  orig: 50, 50
+  offset: 5, 16
+  index: -1
+images/s1sg/s1sg_003
+  rotate: true
+  xy: 332, 23
+  size: 20, 21
+  orig: 50, 50
+  offset: 1, 12
+  index: -1
+images/s1sg/s1sg_004
+  rotate: false
+  xy: 307, 42
+  size: 23, 45
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/s1sg/s1sg_005
+  rotate: true
+  xy: 309, 110
+  size: 30, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/s1sg/s1sg_006
+  rotate: true
+  xy: 223, 2
+  size: 34, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/s1sg/s1sg_007
+  rotate: false
+  xy: 268, 38
+  size: 37, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/s1sg/s1sg_008
+  rotate: false
+  xy: 221, 90
+  size: 43, 50
+  orig: 50, 50
+  offset: 3, 0
+  index: -1
+images/s1sg/s1sg_009
+  rotate: false
+  xy: 223, 38
+  size: 43, 50
+  orig: 50, 50
+  offset: 7, 0
+  index: -1
+images/s1sg/s1sg_010
+  rotate: false
+  xy: 266, 90
+  size: 41, 50
+  orig: 50, 50
+  offset: 9, 0
+  index: -1
+images/s1sg/s1sg_011
+  rotate: true
+  xy: 106, 2
+  size: 38, 50
+  orig: 50, 50
+  offset: 12, 0
+  index: -1
+images/s1sg/s1sg_012
+  rotate: true
+  xy: 2, 2
+  size: 36, 50
+  orig: 50, 50
+  offset: 14, 0
+  index: -1
+images/s1sg/s1sg_013
+  rotate: true
+  xy: 54, 3
+  size: 35, 50
+  orig: 50, 50
+  offset: 15, 0
+  index: -1
+images/s1sg/s1sg_014
+  rotate: true
+  xy: 275, 6
+  size: 30, 46
+  orig: 50, 50
+  offset: 20, 4
+  index: -1
+images/s1sg/s1sg_015
+  rotate: false
+  xy: 332, 45
+  size: 27, 42
+  orig: 50, 50
+  offset: 23, 8
+  index: -1
+images/s1sg/s1sg_016
+  rotate: true
+  xy: 323, 89
+  size: 19, 35
+  orig: 50, 50
+  offset: 28, 15
+  index: -1
+images/s1sg/s1sg_017
+  rotate: true
+  xy: 85, 42
+  size: 13, 26
+  orig: 50, 50
+  offset: 32, 18
+  index: -1
+images/s1sg/s1sg_018
+  rotate: false
+  xy: 128, 45
+  size: 6, 10
+  orig: 50, 50
+  offset: 35, 32
+  index: -1
+images/s2
+  rotate: true
+  xy: 2, 40
+  size: 100, 68
+  orig: 134, 88
+  offset: 17, 10
+  index: -1
+images/sg1_000
+  rotate: false
+  xy: 149, 70
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/sg2_000
+  rotate: false
+  xy: 158, 5
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+images/star_000
+  rotate: false
+  xy: 113, 42
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

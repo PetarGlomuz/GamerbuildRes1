@@ -1,0 +1,146 @@
+
+TingPai.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/tp/tp_000
+  rotate: true
+  xy: 1218, 284
+  size: 134, 263
+  orig: 150, 280
+  offset: 10, 11
+  index: -1
+images/tp/tp_001
+  rotate: true
+  xy: 1472, 142
+  size: 138, 259
+  orig: 150, 280
+  offset: 9, 11
+  index: -1
+images/tp/tp_002
+  rotate: true
+  xy: 1203, 6
+  size: 138, 257
+  orig: 150, 280
+  offset: 4, 11
+  index: -1
+images/tp/tp_003
+  rotate: true
+  xy: 1462, 2
+  size: 138, 257
+  orig: 150, 280
+  offset: 6, 11
+  index: -1
+images/tp/tp_004
+  rotate: true
+  xy: 684, 149
+  size: 135, 261
+  orig: 150, 280
+  offset: 5, 10
+  index: -1
+images/tp/tp_005
+  rotate: false
+  xy: 2, 153
+  size: 135, 265
+  orig: 150, 280
+  offset: 7, 6
+  index: -1
+images/tp/tp_006
+  rotate: false
+  xy: 139, 153
+  size: 135, 265
+  orig: 150, 280
+  offset: 9, 7
+  index: -1
+images/tp/tp_007
+  rotate: true
+  xy: 1483, 282
+  size: 136, 263
+  orig: 150, 280
+  offset: 9, 10
+  index: -1
+images/tp/tp_008
+  rotate: true
+  xy: 1748, 282
+  size: 136, 263
+  orig: 150, 280
+  offset: 8, 10
+  index: -1
+images/tp/tp_009
+  rotate: true
+  xy: 1733, 141
+  size: 139, 259
+  orig: 150, 280
+  offset: 6, 9
+  index: -1
+images/tp/tp_010
+  rotate: true
+  xy: 1210, 146
+  size: 136, 260
+  orig: 150, 280
+  offset: 5, 10
+  index: -1
+images/tp/tp_011
+  rotate: true
+  xy: 417, 148
+  size: 134, 263
+  orig: 150, 280
+  offset: 8, 9
+  index: -1
+images/tp/tp_012
+  rotate: true
+  xy: 2, 15
+  size: 136, 264
+  orig: 150, 280
+  offset: 9, 6
+  index: -1
+images/tp/tp_013
+  rotate: false
+  xy: 276, 157
+  size: 139, 261
+  orig: 150, 280
+  offset: 7, 10
+  index: -1
+images/tp/tp_014
+  rotate: true
+  xy: 947, 147
+  size: 137, 261
+  orig: 150, 280
+  offset: 6, 10
+  index: -1
+images/tp/tp_015
+  rotate: true
+  xy: 684, 286
+  size: 132, 266
+  orig: 150, 280
+  offset: 8, 9
+  index: -1
+images/tp/tp_016
+  rotate: true
+  xy: 943, 10
+  size: 135, 258
+  orig: 150, 280
+  offset: 7, 12
+  index: -1
+images/tp/tp_017
+  rotate: true
+  xy: 952, 286
+  size: 132, 264
+  orig: 150, 280
+  offset: 9, 6
+  index: -1
+images/tp/tp_018
+  rotate: true
+  xy: 682, 13
+  size: 134, 259
+  orig: 150, 280
+  offset: 7, 9
+  index: -1
+images/tp/tp_019
+  rotate: true
+  xy: 417, 284
+  size: 134, 265
+  orig: 150, 280
+  offset: 6, 8
+  index: -1

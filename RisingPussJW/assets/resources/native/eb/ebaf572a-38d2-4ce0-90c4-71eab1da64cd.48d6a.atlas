@@ -1,0 +1,111 @@
+
+NG_yingfenkuang.png
+size: 478,478
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 252, 374
+  size: 122, 102
+  orig: 299, 308
+  offset: 87, 104
+  index: -1
+images/g/g_01
+  rotate: true
+  xy: 217, 33
+  size: 122, 102
+  orig: 299, 308
+  offset: 87, 104
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 107, 265
+  size: 121, 105
+  orig: 299, 308
+  offset: 88, 101
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 107, 157
+  size: 120, 106
+  orig: 299, 308
+  offset: 89, 101
+  index: -1
+images/g/g_04
+  rotate: true
+  xy: 109, 36
+  size: 119, 106
+  orig: 299, 308
+  offset: 90, 101
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 230, 265
+  size: 119, 105
+  orig: 299, 308
+  offset: 89, 102
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 229, 158
+  size: 119, 105
+  orig: 299, 308
+  offset: 90, 102
+  index: -1
+images/g/g_07
+  rotate: true
+  xy: 2, 2
+  size: 117, 105
+  orig: 299, 308
+  offset: 91, 102
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 350, 158
+  size: 117, 105
+  orig: 299, 308
+  offset: 92, 102
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 372
+  size: 123, 104
+  orig: 299, 308
+  offset: 86, 102
+  index: -1
+images/g/g_10
+  rotate: true
+  xy: 2, 246
+  size: 124, 103
+  orig: 299, 308
+  offset: 86, 103
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 127, 372
+  size: 123, 104
+  orig: 299, 308
+  offset: 87, 102
+  index: -1
+images/g/g_12
+  rotate: true
+  xy: 2, 121
+  size: 123, 103
+  orig: 299, 308
+  offset: 87, 103
+  index: -1
+images/g/g_13
+  rotate: true
+  xy: 321, 34
+  size: 122, 102
+  orig: 299, 308
+  offset: 87, 104
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 351, 270
+  size: 122, 102
+  orig: 299, 308
+  offset: 87, 104
+  index: -1

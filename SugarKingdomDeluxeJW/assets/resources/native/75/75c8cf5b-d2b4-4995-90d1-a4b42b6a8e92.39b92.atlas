@@ -1,0 +1,153 @@
+
+TC_BG_neirong.png
+size: 901,653
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/2_00000
+  rotate: true
+  xy: 658, 227
+  size: 43, 37
+  orig: 294, 142
+  offset: 7, 96
+  index: -1
+1/2_00001
+  rotate: false
+  xy: 434, 143
+  size: 63, 126
+  orig: 294, 142
+  offset: 7, 7
+  index: -1
+1/2_00002
+  rotate: false
+  xy: 664, 14
+  size: 82, 127
+  orig: 294, 142
+  offset: 7, 6
+  index: -1
+1/2_00003
+  rotate: false
+  xy: 560, 17
+  size: 102, 127
+  orig: 294, 142
+  offset: 7, 6
+  index: -1
+1/2_00004
+  rotate: true
+  xy: 305, 153
+  size: 116, 127
+  orig: 294, 142
+  offset: 7, 6
+  index: -1
+1/2_00005
+  rotate: true
+  xy: 305, 2
+  size: 142, 127
+  orig: 294, 142
+  offset: 7, 6
+  index: -1
+1/2_00006
+  rotate: false
+  xy: 734, 524
+  size: 161, 127
+  orig: 294, 142
+  offset: 7, 6
+  index: -1
+1/2_00007
+  rotate: false
+  xy: 711, 395
+  size: 181, 127
+  orig: 294, 142
+  offset: 7, 6
+  index: -1
+1/2_00008
+  rotate: false
+  xy: 514, 398
+  size: 195, 126
+  orig: 294, 142
+  offset: 13, 6
+  index: -1
+1/2_00009
+  rotate: false
+  xy: 305, 271
+  size: 194, 126
+  orig: 294, 142
+  offset: 34, 6
+  index: -1
+1/2_00010
+  rotate: false
+  xy: 305, 399
+  size: 207, 125
+  orig: 294, 142
+  offset: 40, 6
+  index: -1
+1/2_00011
+  rotate: false
+  xy: 305, 526
+  size: 213, 125
+  orig: 294, 142
+  offset: 54, 6
+  index: -1
+1/2_00012
+  rotate: false
+  xy: 520, 526
+  size: 212, 125
+  orig: 294, 142
+  offset: 74, 6
+  index: -1
+1/2_00013
+  rotate: false
+  xy: 501, 272
+  size: 194, 124
+  orig: 294, 142
+  offset: 94, 6
+  index: -1
+1/2_00014
+  rotate: false
+  xy: 697, 269
+  size: 174, 124
+  orig: 294, 142
+  offset: 114, 6
+  index: -1
+1/2_00015
+  rotate: false
+  xy: 501, 146
+  size: 155, 124
+  orig: 294, 142
+  offset: 133, 6
+  index: -1
+1/2_00016
+  rotate: true
+  xy: 434, 6
+  size: 135, 124
+  orig: 294, 142
+  offset: 153, 6
+  index: -1
+1/2_00017
+  rotate: false
+  xy: 784, 143
+  size: 115, 124
+  orig: 294, 142
+  offset: 173, 6
+  index: -1
+1/2_00018
+  rotate: false
+  xy: 748, 17
+  size: 96, 124
+  orig: 294, 142
+  offset: 192, 6
+  index: -1
+1/2_00019
+  rotate: true
+  xy: 658, 149
+  size: 76, 124
+  orig: 294, 142
+  offset: 212, 6
+  index: -1
+neirong
+  rotate: true
+  xy: 2, 40
+  size: 611, 301
+  orig: 611, 301
+  offset: 0, 0
+  index: -1

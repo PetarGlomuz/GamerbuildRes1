@@ -1,0 +1,111 @@
+
+dian_change.png
+size: 535,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_change/dian_change_01
+  rotate: false
+  xy: 497, 120
+  size: 35, 36
+  orig: 88, 82
+  offset: 26, 24
+  index: -1
+dian_change/dian_change_02
+  rotate: true
+  xy: 485, 27
+  size: 49, 48
+  orig: 88, 82
+  offset: 18, 17
+  index: -1
+dian_change/dian_change_03
+  rotate: false
+  xy: 73, 10
+  size: 61, 62
+  orig: 88, 82
+  offset: 12, 10
+  index: -1
+dian_change/dian_change_04
+  rotate: false
+  xy: 416, 8
+  size: 67, 68
+  orig: 88, 82
+  offset: 10, 7
+  index: -1
+dian_change/dian_change_05
+  rotate: true
+  xy: 341, 7
+  size: 72, 73
+  orig: 88, 82
+  offset: 7, 4
+  index: -1
+dian_change/dian_change_06
+  rotate: false
+  xy: 340, 81
+  size: 74, 75
+  orig: 88, 82
+  offset: 6, 3
+  index: -1
+dian_change/dian_change_07
+  rotate: true
+  xy: 416, 78
+  size: 78, 79
+  orig: 88, 82
+  offset: 4, 1
+  index: -1
+dian_change/dian_change_08
+  rotate: false
+  xy: 86, 75
+  size: 82, 81
+  orig: 88, 82
+  offset: 2, 0
+  index: -1
+dian_change/dian_change_09
+  rotate: false
+  xy: 2, 74
+  size: 82, 82
+  orig: 88, 82
+  offset: 1, 0
+  index: -1
+dian_change/dian_change_10
+  rotate: false
+  xy: 170, 77
+  size: 83, 79
+  orig: 88, 82
+  offset: 0, 0
+  index: -1
+dian_change/dian_change_11
+  rotate: false
+  xy: 255, 79
+  size: 83, 77
+  orig: 88, 82
+  offset: 0, 3
+  index: -1
+dian_change/dian_change_12
+  rotate: false
+  xy: 255, 2
+  size: 84, 75
+  orig: 88, 82
+  offset: 3, 5
+  index: -1
+dian_change/dian_change_13
+  rotate: false
+  xy: 170, 2
+  size: 78, 73
+  orig: 88, 82
+  offset: 10, 6
+  index: -1
+dian_change/dian_change_14
+  rotate: false
+  xy: 2, 5
+  size: 69, 67
+  orig: 88, 82
+  offset: 11, 10
+  index: -1
+dian_change/dian_change_15
+  rotate: false
+  xy: 497, 82
+  size: 27, 36
+  orig: 88, 82
+  offset: 52, 18
+  index: -1

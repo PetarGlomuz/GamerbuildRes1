@@ -1,0 +1,321 @@
+
+BetUp_ShangSuo.png
+size: 2001,126
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sg/up_000
+  rotate: false
+  xy: 1377, 89
+  size: 4, 4
+  orig: 140, 25
+  offset: 3, 6
+  index: -1
+images/sg/up_001
+  rotate: false
+  xy: 653, 2
+  size: 11, 16
+  orig: 140, 25
+  offset: 2, 5
+  index: -1
+images/sg/up_002
+  rotate: false
+  xy: 1952, 26
+  size: 17, 17
+  orig: 140, 25
+  offset: 2, 5
+  index: -1
+images/sg/up_003
+  rotate: true
+  xy: 1876, 18
+  size: 24, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_004
+  rotate: false
+  xy: 1615, 3
+  size: 27, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_005
+  rotate: false
+  xy: 1545, 3
+  size: 35, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_006
+  rotate: false
+  xy: 1500, 2
+  size: 43, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_007
+  rotate: true
+  xy: 1356, 4
+  size: 47, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_008
+  rotate: true
+  xy: 1336, 2
+  size: 49, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_009
+  rotate: false
+  xy: 1444, 22
+  size: 60, 18
+  orig: 140, 25
+  offset: 2, 4
+  index: -1
+images/sg/up_010
+  rotate: false
+  xy: 1376, 23
+  size: 66, 17
+  orig: 140, 25
+  offset: 3, 5
+  index: -1
+images/sg/up_011
+  rotate: false
+  xy: 1731, 24
+  size: 71, 18
+  orig: 140, 25
+  offset: 3, 4
+  index: -1
+images/sg/up_012
+  rotate: false
+  xy: 1890, 45
+  size: 74, 18
+  orig: 140, 25
+  offset: 4, 4
+  index: -1
+images/sg/up_013
+  rotate: false
+  xy: 1655, 24
+  size: 74, 18
+  orig: 140, 25
+  offset: 14, 4
+  index: -1
+images/sg/up_014
+  rotate: false
+  xy: 1655, 65
+  size: 79, 18
+  orig: 140, 25
+  offset: 17, 4
+  index: -1
+images/sg/up_015
+  rotate: false
+  xy: 1736, 65
+  size: 77, 18
+  orig: 140, 25
+  offset: 24, 4
+  index: -1
+images/sg/up_016
+  rotate: false
+  xy: 1815, 65
+  size: 76, 18
+  orig: 140, 25
+  offset: 30, 4
+  index: -1
+images/sg/up_017
+  rotate: false
+  xy: 1893, 65
+  size: 76, 18
+  orig: 140, 25
+  offset: 37, 4
+  index: -1
+images/sg/up_018
+  rotate: true
+  xy: 1980, 47
+  size: 77, 19
+  orig: 140, 25
+  offset: 42, 4
+  index: -1
+images/sg/up_019
+  rotate: false
+  xy: 1655, 44
+  size: 77, 19
+  orig: 140, 25
+  offset: 48, 4
+  index: -1
+images/sg/up_020
+  rotate: false
+  xy: 1734, 44
+  size: 76, 19
+  orig: 140, 25
+  offset: 57, 4
+  index: -1
+images/sg/up_021
+  rotate: false
+  xy: 1812, 44
+  size: 76, 19
+  orig: 140, 25
+  offset: 61, 4
+  index: -1
+images/sg/up_022
+  rotate: false
+  xy: 1804, 23
+  size: 70, 19
+  orig: 140, 25
+  offset: 68, 4
+  index: -1
+images/sg/up_023
+  rotate: false
+  xy: 1376, 3
+  size: 64, 18
+  orig: 140, 25
+  offset: 74, 4
+  index: -1
+images/sg/up_024
+  rotate: false
+  xy: 1442, 2
+  size: 56, 18
+  orig: 140, 25
+  offset: 82, 4
+  index: -1
+images/sg/up_025
+  rotate: false
+  xy: 1506, 23
+  size: 51, 17
+  orig: 140, 25
+  offset: 87, 5
+  index: -1
+images/sg/up_026
+  rotate: false
+  xy: 1559, 23
+  size: 46, 17
+  orig: 140, 25
+  offset: 92, 5
+  index: -1
+images/sg/up_027
+  rotate: false
+  xy: 1607, 23
+  size: 38, 17
+  orig: 140, 25
+  offset: 100, 5
+  index: -1
+images/sg/up_028
+  rotate: false
+  xy: 1582, 4
+  size: 31, 17
+  orig: 140, 25
+  offset: 107, 5
+  index: -1
+images/sg/up_029
+  rotate: false
+  xy: 1923, 26
+  size: 27, 17
+  orig: 140, 25
+  offset: 111, 5
+  index: -1
+images/sg/up_030
+  rotate: false
+  xy: 683, 61
+  size: 19, 15
+  orig: 140, 25
+  offset: 119, 6
+  index: -1
+images/sg/up_031
+  rotate: true
+  xy: 666, 5
+  size: 13, 15
+  orig: 140, 25
+  offset: 124, 6
+  index: -1
+images/sg/up_032
+  rotate: false
+  xy: 1971, 70
+  size: 7, 13
+  orig: 140, 25
+  offset: 130, 8
+  index: -1
+images/sg/up_033
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/star_000
+  rotate: false
+  xy: 1896, 18
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+images/sy1
+  rotate: false
+  xy: 683, 5
+  size: 651, 46
+  orig: 651, 46
+  offset: 0, 0
+  index: -1
+images/sy2
+  rotate: false
+  xy: 2, 20
+  size: 679, 56
+  orig: 679, 56
+  offset: 0, 0
+  index: -1
+images/sy3
+  rotate: false
+  xy: 2, 78
+  size: 700, 46
+  orig: 700, 46
+  offset: 0, 0
+  index: -1
+images/sy4
+  rotate: false
+  xy: 704, 53
+  size: 671, 40
+  orig: 671, 40
+  offset: 0, 0
+  index: -1
+images/u1
+  rotate: false
+  xy: 704, 95
+  size: 688, 29
+  orig: 688, 29
+  offset: 0, 0
+  index: -1
+images/u2
+  rotate: false
+  xy: 2, 5
+  size: 649, 13
+  orig: 649, 13
+  offset: 0, 0
+  index: -1
+images/u3
+  rotate: false
+  xy: 1394, 111
+  size: 584, 13
+  orig: 584, 13
+  offset: 0, 0
+  index: -1
+images/u4
+  rotate: false
+  xy: 1394, 85
+  size: 584, 9
+  orig: 584, 9
+  offset: 0, 0
+  index: -1
+images/u5
+  rotate: false
+  xy: 1394, 96
+  size: 584, 13
+  orig: 584, 13
+  offset: 0, 0
+  index: -1
+images/up
+  rotate: false
+  xy: 1377, 42
+  size: 276, 41
+  orig: 276, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+NG_L4.png
+size: 741,154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/zi/zi_00000
+  rotate: true
+  xy: 686, 111
+  size: 41, 53
+  orig: 150, 160
+  offset: 7, 13
+  index: -1
+sg/zi/zi_00001
+  rotate: true
+  xy: 323, 2
+  size: 48, 65
+  orig: 150, 160
+  offset: 13, 9
+  index: -1
+sg/zi/zi_00002
+  rotate: false
+  xy: 470, 2
+  size: 60, 64
+  orig: 150, 160
+  offset: 13, 19
+  index: -1
+sg/zi/zi_00003
+  rotate: false
+  xy: 612, 2
+  size: 72, 66
+  orig: 150, 160
+  offset: 14, 19
+  index: -1
+sg/zi/zi_00004
+  rotate: false
+  xy: 532, 2
+  size: 78, 66
+  orig: 150, 160
+  offset: 22, 19
+  index: -1
+sg/zi/zi_00005
+  rotate: true
+  xy: 500, 70
+  size: 82, 76
+  orig: 150, 160
+  offset: 31, 9
+  index: -1
+sg/zi/zi_00006
+  rotate: true
+  xy: 578, 70
+  size: 82, 75
+  orig: 150, 160
+  offset: 39, 9
+  index: -1
+sg/zi/zi_00007
+  rotate: false
+  xy: 431, 68
+  size: 67, 84
+  orig: 150, 160
+  offset: 62, 11
+  index: -1
+sg/zi/zi_00008
+  rotate: false
+  xy: 367, 53
+  size: 62, 99
+  orig: 150, 160
+  offset: 75, 19
+  index: -1
+sg/zi/zi_00009
+  rotate: false
+  xy: 215, 35
+  size: 49, 117
+  orig: 150, 160
+  offset: 88, 24
+  index: -1
+sg/zi/zi_00010
+  rotate: false
+  xy: 164, 32
+  size: 49, 120
+  orig: 150, 160
+  offset: 94, 32
+  index: -1
+sg/zi/zi_00011
+  rotate: false
+  xy: 266, 39
+  size: 49, 113
+  orig: 150, 160
+  offset: 94, 41
+  index: -1
+sg/zi/zi_00012
+  rotate: false
+  xy: 317, 52
+  size: 48, 100
+  orig: 150, 160
+  offset: 95, 54
+  index: -1
+sg/zi/zi_00013
+  rotate: true
+  xy: 390, 6
+  size: 45, 78
+  orig: 150, 160
+  offset: 98, 76
+  index: -1
+sg/zi/zi_00014
+  rotate: true
+  xy: 266, 2
+  size: 35, 55
+  orig: 150, 160
+  offset: 106, 99
+  index: -1
+sg/zi/zi_00015
+  rotate: true
+  xy: 164, 8
+  size: 22, 31
+  orig: 150, 160
+  offset: 119, 123
+  index: -1
+xx_1x
+  rotate: false
+  xy: 686, 59
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 2, 2
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1

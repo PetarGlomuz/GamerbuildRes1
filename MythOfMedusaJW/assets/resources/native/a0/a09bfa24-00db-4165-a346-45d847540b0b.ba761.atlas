@@ -1,0 +1,132 @@
+
+NG_wild_xialuo.png
+size: 1006,407
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2x
+  rotate: true
+  xy: 2, 176
+  size: 229, 460
+  orig: 229, 471
+  offset: 0, 0
+  index: -1
+5x
+  rotate: true
+  xy: 464, 176
+  size: 229, 460
+  orig: 229, 471
+  offset: 0, 0
+  index: -1
+feilizi/feilizi_00
+  rotate: false
+  xy: 537, 17
+  size: 118, 73
+  orig: 157, 101
+  offset: 18, 12
+  index: -1
+feilizi/feilizi_01
+  rotate: true
+  xy: 926, 148
+  size: 122, 78
+  orig: 157, 101
+  offset: 16, 9
+  index: -1
+feilizi/feilizi_02
+  rotate: false
+  xy: 537, 92
+  size: 124, 82
+  orig: 157, 101
+  offset: 15, 6
+  index: -1
+feilizi/feilizi_03
+  rotate: false
+  xy: 270, 14
+  size: 125, 75
+  orig: 157, 101
+  offset: 13, 13
+  index: -1
+feilizi/feilizi_04
+  rotate: false
+  xy: 2, 7
+  size: 129, 75
+  orig: 157, 101
+  offset: 12, 10
+  index: -1
+feilizi/feilizi_05
+  rotate: true
+  xy: 926, 272
+  size: 133, 77
+  orig: 157, 101
+  offset: 10, 8
+  index: -1
+feilizi/feilizi_06
+  rotate: false
+  xy: 136, 8
+  size: 126, 78
+  orig: 157, 101
+  offset: 18, 7
+  index: -1
+feilizi/feilizi_07
+  rotate: false
+  xy: 405, 91
+  size: 130, 83
+  orig: 157, 101
+  offset: 16, 4
+  index: -1
+feilizi/feilizi_08
+  rotate: false
+  xy: 270, 91
+  size: 133, 83
+  orig: 157, 101
+  offset: 15, 5
+  index: -1
+feilizi/feilizi_09
+  rotate: false
+  xy: 136, 88
+  size: 132, 86
+  orig: 157, 101
+  offset: 13, 4
+  index: -1
+feilizi/feilizi_10
+  rotate: false
+  xy: 2, 84
+  size: 132, 90
+  orig: 157, 101
+  offset: 11, 1
+  index: -1
+feilizi/feilizi_11
+  rotate: false
+  xy: 663, 88
+  size: 123, 86
+  orig: 157, 101
+  offset: 9, 6
+  index: -1
+feilizi/feilizi_12
+  rotate: false
+  xy: 397, 10
+  size: 123, 79
+  orig: 157, 101
+  offset: 8, 3
+  index: -1
+feilizi/feilizi_13
+  rotate: false
+  xy: 788, 92
+  size: 123, 82
+  orig: 157, 101
+  offset: 10, 0
+  index: -1
+feilizi/feilizi_14
+  rotate: false
+  xy: 788, 21
+  size: 120, 69
+  orig: 157, 101
+  offset: 14, 14
+  index: -1
+zzz
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

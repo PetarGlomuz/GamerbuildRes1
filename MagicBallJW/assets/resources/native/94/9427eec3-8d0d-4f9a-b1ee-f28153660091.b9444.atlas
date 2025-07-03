@@ -1,0 +1,566 @@
+
+TC_JP_jackpot.png
+size: 1220,1220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/MAJOR
+  rotate: false
+  xy: 504, 1108
+  size: 402, 110
+  orig: 402, 110
+  offset: 0, 0
+  index: -1
+images/MINI
+  rotate: false
+  xy: 908, 1111
+  size: 240, 107
+  orig: 240, 107
+  offset: 0, 0
+  index: -1
+images/MINOR
+  rotate: true
+  xy: 1105, 644
+  size: 365, 110
+  orig: 365, 110
+  offset: 0, 0
+  index: -1
+images/grand1
+  rotate: false
+  xy: 2, 1000
+  size: 393, 107
+  orig: 393, 107
+  offset: 0, 0
+  index: -1
+images/grand_g/grand_g_00
+  rotate: false
+  xy: 992, 138
+  size: 89, 99
+  orig: 393, 107
+  offset: 3, 7
+  index: -1
+images/grand_g/grand_g_01
+  rotate: false
+  xy: 956, 491
+  size: 116, 100
+  orig: 393, 107
+  offset: 3, 7
+  index: -1
+images/grand_g/grand_g_02
+  rotate: false
+  xy: 805, 389
+  size: 147, 101
+  orig: 393, 107
+  offset: 3, 6
+  index: -1
+images/grand_g/grand_g_03
+  rotate: true
+  xy: 207, 29
+  size: 173, 101
+  orig: 393, 107
+  offset: 5, 6
+  index: -1
+images/grand_g/grand_g_04
+  rotate: false
+  xy: 884, 695
+  size: 188, 101
+  orig: 393, 107
+  offset: 19, 6
+  index: -1
+images/grand_g/grand_g_05
+  rotate: false
+  xy: 196, 897
+  size: 192, 101
+  orig: 393, 107
+  offset: 43, 6
+  index: -1
+images/grand_g/grand_g_06
+  rotate: false
+  xy: 498, 593
+  size: 189, 100
+  orig: 393, 107
+  offset: 72, 6
+  index: -1
+images/grand_g/grand_g_07
+  rotate: false
+  xy: 2, 796
+  size: 192, 98
+  orig: 393, 107
+  offset: 101, 8
+  index: -1
+images/grand_g/grand_g_08
+  rotate: false
+  xy: 503, 799
+  size: 193, 98
+  orig: 393, 107
+  offset: 130, 8
+  index: -1
+images/grand_g/grand_g_09
+  rotate: true
+  xy: 107, 203
+  size: 175, 98
+  orig: 393, 107
+  offset: 176, 8
+  index: -1
+images/grand_g/grand_g_10
+  rotate: false
+  xy: 689, 593
+  size: 187, 98
+  orig: 393, 107
+  offset: 188, 8
+  index: -1
+images/grand_g/grand_g_11
+  rotate: true
+  xy: 518, 224
+  size: 154, 99
+  orig: 393, 107
+  offset: 235, 7
+  index: -1
+images/grand_g/grand_g_12
+  rotate: false
+  xy: 1070, 239
+  size: 146, 98
+  orig: 393, 107
+  offset: 244, 8
+  index: -1
+images/grand_g/grand_g_13
+  rotate: false
+  xy: 390, 710
+  size: 109, 98
+  orig: 393, 107
+  offset: 281, 8
+  index: -1
+images/grand_g/grand_g_14
+  rotate: true
+  xy: 1083, 148
+  size: 89, 97
+  orig: 393, 107
+  offset: 301, 9
+  index: -1
+images/jp
+  rotate: false
+  xy: 2, 1109
+  size: 500, 109
+  orig: 500, 109
+  offset: 0, 0
+  index: -1
+images/jp_g/jp_g_00
+  rotate: true
+  xy: 1083, 66
+  size: 80, 89
+  orig: 500, 109
+  offset: 3, 9
+  index: -1
+images/jp_g/jp_g_01
+  rotate: false
+  xy: 1105, 1011
+  size: 111, 98
+  orig: 500, 109
+  offset: 3, 9
+  index: -1
+images/jp_g/jp_g_02
+  rotate: false
+  xy: 1074, 442
+  size: 139, 98
+  orig: 500, 109
+  offset: 3, 9
+  index: -1
+images/jp_g/jp_g_03
+  rotate: true
+  xy: 517, 40
+  size: 168, 101
+  orig: 500, 109
+  offset: 8, 6
+  index: -1
+images/jp_g/jp_g_04
+  rotate: true
+  xy: 207, 204
+  size: 174, 101
+  orig: 500, 109
+  offset: 28, 6
+  index: -1
+images/jp_g/jp_g_05
+  rotate: false
+  xy: 2, 896
+  size: 192, 102
+  orig: 500, 109
+  offset: 43, 6
+  index: -1
+images/jp_g/jp_g_06
+  rotate: false
+  xy: 190, 482
+  size: 182, 102
+  orig: 500, 109
+  offset: 84, 6
+  index: -1
+images/jp_g/jp_g_07
+  rotate: false
+  xy: 698, 900
+  size: 193, 102
+  orig: 500, 109
+  offset: 103, 6
+  index: -1
+images/jp_g/jp_g_08
+  rotate: true
+  xy: 2, 20
+  size: 177, 101
+  orig: 500, 109
+  offset: 142, 8
+  index: -1
+images/jp_g/jp_g_09
+  rotate: true
+  xy: 310, 31
+  size: 172, 101
+  orig: 500, 109
+  offset: 163, 8
+  index: -1
+images/jp_g/jp_g_10
+  rotate: false
+  xy: 701, 1004
+  size: 194, 102
+  orig: 500, 109
+  offset: 194, 7
+  index: -1
+images/jp_g/jp_g_11
+  rotate: false
+  xy: 2, 586
+  size: 189, 103
+  orig: 500, 109
+  offset: 224, 6
+  index: -1
+images/jp_g/jp_g_12
+  rotate: false
+  xy: 897, 902
+  size: 193, 103
+  orig: 500, 109
+  offset: 254, 6
+  index: -1
+images/jp_g/jp_g_13
+  rotate: false
+  xy: 501, 695
+  size: 190, 102
+  orig: 500, 109
+  offset: 285, 6
+  index: -1
+images/jp_g/jp_g_14
+  rotate: true
+  xy: 413, 40
+  size: 168, 102
+  orig: 500, 109
+  offset: 315, 6
+  index: -1
+images/jp_g/jp_g_15
+  rotate: false
+  xy: 805, 492
+  size: 149, 99
+  orig: 500, 109
+  offset: 348, 9
+  index: -1
+images/jp_g/jp_g_16
+  rotate: true
+  xy: 722, 116
+  size: 121, 99
+  orig: 500, 109
+  offset: 376, 9
+  index: -1
+images/jp_g/jp_g_17
+  rotate: false
+  xy: 993, 38
+  size: 88, 98
+  orig: 500, 109
+  offset: 409, 9
+  index: -1
+images/major_g/major_g_00
+  rotate: true
+  xy: 620, 2
+  size: 77, 100
+  orig: 402, 110
+  offset: 3, 9
+  index: -1
+images/major_g/major_g_01
+  rotate: false
+  xy: 388, 608
+  size: 108, 100
+  orig: 402, 110
+  offset: 3, 9
+  index: -1
+images/major_g/major_g_02
+  rotate: false
+  xy: 1074, 542
+  size: 139, 100
+  orig: 402, 110
+  offset: 3, 9
+  index: -1
+images/major_g/major_g_03
+  rotate: false
+  xy: 354, 380
+  size: 163, 100
+  orig: 402, 110
+  offset: 10, 9
+  index: -1
+images/major_g/major_g_04
+  rotate: false
+  xy: 195, 692
+  size: 191, 100
+  orig: 402, 110
+  offset: 13, 9
+  index: -1
+images/major_g/major_g_05
+  rotate: false
+  xy: 884, 593
+  size: 188, 100
+  orig: 402, 110
+  offset: 44, 9
+  index: -1
+images/major_g/major_g_06
+  rotate: false
+  xy: 504, 1005
+  size: 195, 101
+  orig: 402, 110
+  offset: 74, 8
+  index: -1
+images/major_g/major_g_07
+  rotate: false
+  xy: 2, 380
+  size: 181, 102
+  orig: 402, 110
+  offset: 116, 7
+  index: -1
+images/major_g/major_g_08
+  rotate: false
+  xy: 893, 798
+  size: 193, 102
+  orig: 402, 110
+  offset: 137, 7
+  index: -1
+images/major_g/major_g_09
+  rotate: false
+  xy: 494, 488
+  size: 170, 103
+  orig: 402, 110
+  offset: 184, 7
+  index: -1
+images/major_g/major_g_10
+  rotate: false
+  xy: 693, 693
+  size: 189, 103
+  orig: 402, 110
+  offset: 202, 7
+  index: -1
+images/major_g/major_g_11
+  rotate: true
+  xy: 413, 210
+  size: 168, 103
+  orig: 402, 110
+  offset: 231, 7
+  index: -1
+images/major_g/major_g_12
+  rotate: false
+  xy: 666, 488
+  size: 137, 103
+  orig: 402, 110
+  offset: 262, 7
+  index: -1
+images/major_g/major_g_13
+  rotate: false
+  xy: 386, 504
+  size: 106, 102
+  orig: 402, 110
+  offset: 293, 7
+  index: -1
+images/major_g/major_g_14
+  rotate: false
+  xy: 823, 136
+  size: 75, 101
+  orig: 402, 110
+  offset: 324, 8
+  index: -1
+images/mini_g/mini_g_00
+  rotate: false
+  xy: 810, 13
+  size: 80, 101
+  orig: 240, 107
+  offset: 3, 6
+  index: -1
+images/mini_g/mini_g_01
+  rotate: false
+  xy: 397, 1006
+  size: 105, 101
+  orig: 240, 107
+  offset: 3, 6
+  index: -1
+images/mini_g/mini_g_02
+  rotate: false
+  xy: 1074, 339
+  size: 131, 101
+  orig: 240, 107
+  offset: 3, 6
+  index: -1
+images/mini_g/mini_g_03
+  rotate: true
+  xy: 619, 232
+  size: 149, 101
+  orig: 240, 107
+  offset: 6, 6
+  index: -1
+images/mini_g/mini_g_04
+  rotate: true
+  xy: 310, 205
+  size: 173, 101
+  orig: 240, 107
+  offset: 10, 6
+  index: -1
+images/mini_g/mini_g_05
+  rotate: false
+  xy: 196, 794
+  size: 192, 101
+  orig: 240, 107
+  offset: 15, 6
+  index: -1
+images/mini_g/mini_g_06
+  rotate: false
+  xy: 698, 798
+  size: 193, 100
+  orig: 240, 107
+  offset: 38, 7
+  index: -1
+images/mini_g/mini_g_07
+  rotate: true
+  xy: 105, 22
+  size: 175, 100
+  orig: 240, 107
+  offset: 62, 7
+  index: -1
+images/mini_g/mini_g_08
+  rotate: true
+  xy: 620, 81
+  size: 149, 100
+  orig: 240, 107
+  offset: 88, 7
+  index: -1
+images/mini_g/mini_g_09
+  rotate: false
+  xy: 943, 287
+  size: 125, 100
+  orig: 240, 107
+  offset: 112, 7
+  index: -1
+images/mini_g/mini_g_10
+  rotate: false
+  xy: 892, 34
+  size: 99, 100
+  orig: 240, 107
+  offset: 138, 7
+  index: -1
+images/mini_g/mini_g_11
+  rotate: false
+  xy: 1150, 1118
+  size: 63, 100
+  orig: 240, 107
+  offset: 174, 7
+  index: -1
+images/minor_g/minor_g_00
+  rotate: false
+  xy: 900, 137
+  size: 90, 100
+  orig: 365, 110
+  offset: 3, 9
+  index: -1
+images/minor_g/minor_g_01
+  rotate: false
+  xy: 954, 389
+  size: 118, 100
+  orig: 365, 110
+  offset: 3, 9
+  index: -1
+images/minor_g/minor_g_02
+  rotate: false
+  xy: 795, 287
+  size: 146, 100
+  orig: 365, 110
+  offset: 3, 9
+  index: -1
+images/minor_g/minor_g_03
+  rotate: false
+  xy: 185, 380
+  size: 167, 100
+  orig: 365, 110
+  offset: 10, 9
+  index: -1
+images/minor_g/minor_g_04
+  rotate: false
+  xy: 2, 484
+  size: 186, 100
+  orig: 365, 110
+  offset: 14, 9
+  index: -1
+images/minor_g/minor_g_05
+  rotate: false
+  xy: 908, 1007
+  size: 195, 102
+  orig: 365, 110
+  offset: 41, 7
+  index: -1
+images/minor_g/minor_g_06
+  rotate: false
+  xy: 2, 691
+  size: 191, 103
+  orig: 365, 110
+  offset: 70, 6
+  index: -1
+images/minor_g/minor_g_07
+  rotate: true
+  xy: 397, 810
+  size: 194, 104
+  orig: 365, 110
+  offset: 98, 6
+  index: -1
+images/minor_g/minor_g_08
+  rotate: false
+  xy: 195, 586
+  size: 189, 104
+  orig: 365, 110
+  offset: 127, 6
+  index: -1
+images/minor_g/minor_g_09
+  rotate: false
+  xy: 503, 899
+  size: 193, 104
+  orig: 365, 110
+  offset: 155, 6
+  index: -1
+images/minor_g/minor_g_10
+  rotate: true
+  xy: 2, 199
+  size: 179, 103
+  orig: 365, 110
+  offset: 183, 7
+  index: -1
+images/minor_g/minor_g_11
+  rotate: false
+  xy: 519, 383
+  size: 147, 103
+  orig: 365, 110
+  offset: 215, 7
+  index: -1
+images/minor_g/minor_g_12
+  rotate: false
+  xy: 668, 383
+  size: 125, 103
+  orig: 365, 110
+  offset: 237, 7
+  index: -1
+images/minor_g/minor_g_13
+  rotate: false
+  xy: 722, 12
+  size: 86, 102
+  orig: 365, 110
+  offset: 276, 7
+  index: -1
+images/minor_g/minor_g_14
+  rotate: false
+  xy: 722, 282
+  size: 69, 99
+  orig: 365, 110
+  offset: 293, 10
+  index: -1

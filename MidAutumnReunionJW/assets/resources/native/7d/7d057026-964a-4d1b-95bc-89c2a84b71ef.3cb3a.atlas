@@ -1,0 +1,153 @@
+
+TC_boosttitle.png
+size: 483,538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sg/1_00
+  rotate: false
+  xy: 429, 91
+  size: 36, 85
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_01
+  rotate: false
+  xy: 430, 450
+  size: 51, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_02
+  rotate: false
+  xy: 361, 90
+  size: 66, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_03
+  rotate: false
+  xy: 325, 2
+  size: 81, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_04
+  rotate: false
+  xy: 263, 90
+  size: 96, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_05
+  rotate: false
+  xy: 286, 178
+  size: 111, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_06
+  rotate: false
+  xy: 2, 2
+  size: 127, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_07
+  rotate: false
+  xy: 148, 266
+  size: 142, 86
+  orig: 426, 182
+  offset: 109, 51
+  index: -1
+images/sg/1_08
+  rotate: false
+  xy: 2, 178
+  size: 143, 86
+  orig: 426, 182
+  offset: 123, 51
+  index: -1
+images/sg/1_09
+  rotate: false
+  xy: 2, 266
+  size: 144, 86
+  orig: 426, 182
+  offset: 138, 51
+  index: -1
+images/sg/1_10
+  rotate: false
+  xy: 2, 90
+  size: 139, 86
+  orig: 426, 182
+  offset: 153, 51
+  index: -1
+images/sg/1_11
+  rotate: false
+  xy: 147, 178
+  size: 137, 86
+  orig: 426, 182
+  offset: 170, 51
+  index: -1
+images/sg/1_12
+  rotate: false
+  xy: 292, 266
+  size: 133, 86
+  orig: 426, 182
+  offset: 184, 51
+  index: -1
+images/sg/1_13
+  rotate: false
+  xy: 143, 90
+  size: 118, 86
+  orig: 426, 182
+  offset: 199, 51
+  index: -1
+images/sg/1_14
+  rotate: false
+  xy: 131, 2
+  size: 103, 86
+  orig: 426, 182
+  offset: 214, 51
+  index: -1
+images/sg/1_15
+  rotate: false
+  xy: 236, 2
+  size: 87, 86
+  orig: 426, 182
+  offset: 230, 51
+  index: -1
+images/sg/1_16
+  rotate: false
+  xy: 399, 178
+  size: 72, 86
+  orig: 426, 182
+  offset: 245, 51
+  index: -1
+images/sg/1_17
+  rotate: false
+  xy: 408, 2
+  size: 57, 86
+  orig: 426, 182
+  offset: 260, 51
+  index: -1
+images/sg/1_18
+  rotate: false
+  xy: 430, 367
+  size: 42, 81
+  orig: 426, 182
+  offset: 275, 51
+  index: -1
+images/sg/1_19
+  rotate: true
+  xy: 430, 339
+  size: 26, 40
+  orig: 426, 182
+  offset: 291, 51
+  index: -1
+images/title
+  rotate: false
+  xy: 2, 354
+  size: 426, 182
+  orig: 426, 182
+  offset: 0, 0
+  index: -1

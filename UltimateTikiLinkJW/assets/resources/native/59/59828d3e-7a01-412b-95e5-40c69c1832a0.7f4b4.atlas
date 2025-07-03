@@ -1,0 +1,90 @@
+
+Spins.png
+size: 352,268
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h5/H5_001
+  rotate: true
+  xy: 184, 86
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_002
+  rotate: true
+  xy: 226, 86
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_003
+  rotate: true
+  xy: 268, 86
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_004
+  rotate: true
+  xy: 310, 86
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_005
+  rotate: true
+  xy: 2, 44
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_006
+  rotate: true
+  xy: 44, 44
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_007
+  rotate: true
+  xy: 86, 44
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_008
+  rotate: true
+  xy: 128, 44
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_009
+  rotate: false
+  xy: 170, 44
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_010
+  rotate: false
+  xy: 2, 2
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_011
+  rotate: false
+  xy: 2, 226
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1
+images/h5/H5_000
+  rotate: false
+  xy: 2, 226
+  size: 180, 40
+  orig: 180, 40
+  offset: 0, 0
+  index: -1

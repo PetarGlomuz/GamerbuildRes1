@@ -1,0 +1,125 @@
+
+ShouJiChuan.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shui4/shui4_001
+  rotate: true
+  xy: 239, 2
+  size: 112, 107
+  orig: 160, 160
+  offset: 23, 28
+  index: -1
+images/shui4/shui4_002
+  rotate: false
+  xy: 427, 2
+  size: 118, 114
+  orig: 160, 160
+  offset: 21, 25
+  index: -1
+images/shui4/shui4_003
+  rotate: false
+  xy: 849, 6
+  size: 127, 124
+  orig: 160, 160
+  offset: 17, 20
+  index: -1
+images/shui4/shui4_004
+  rotate: false
+  xy: 575, 123
+  size: 134, 130
+  orig: 160, 160
+  offset: 14, 16
+  index: -1
+images/shui4/shui4_005
+  rotate: false
+  xy: 711, 126
+  size: 136, 127
+  orig: 160, 160
+  offset: 11, 17
+  index: -1
+images/shui4/shui4_006
+  rotate: false
+  xy: 293, 122
+  size: 141, 131
+  orig: 160, 160
+  offset: 5, 16
+  index: -1
+images/shui4/shui4_007
+  rotate: false
+  xy: 2, 116
+  size: 145, 137
+  orig: 160, 160
+  offset: 1, 10
+  index: -1
+images/shui4/shui4_008
+  rotate: false
+  xy: 149, 116
+  size: 142, 137
+  orig: 160, 160
+  offset: 2, 8
+  index: -1
+images/shui4/shui4_009
+  rotate: false
+  xy: 436, 118
+  size: 137, 135
+  orig: 160, 160
+  offset: 5, 10
+  index: -1
+images/shui4/shui4_010
+  rotate: true
+  xy: 849, 132
+  size: 121, 133
+  orig: 160, 160
+  offset: 20, 11
+  index: -1
+images/shui4/shui4_011
+  rotate: true
+  xy: 711, 2
+  size: 122, 125
+  orig: 160, 160
+  offset: 17, 16
+  index: -1
+images/shui4/shui4_012
+  rotate: false
+  xy: 2, 2
+  size: 116, 112
+  orig: 160, 160
+  offset: 15, 16
+  index: -1
+images/shui4/shui4_013
+  rotate: false
+  xy: 120, 3
+  size: 117, 111
+  orig: 160, 160
+  offset: 17, 18
+  index: -1
+images/shui4/shui4_014
+  rotate: true
+  xy: 348, 18
+  size: 102, 77
+  orig: 160, 160
+  offset: 30, 51
+  index: -1
+images/shui4/shui4_015
+  rotate: true
+  xy: 547, 16
+  size: 100, 46
+  orig: 160, 160
+  offset: 31, 52
+  index: -1
+images/shui4/shui4_016
+  rotate: false
+  xy: 984, 252
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/shui4/shui4_000
+  rotate: false
+  xy: 984, 252
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+BG.png
+size: 120,62
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_00029
+  rotate: false
+  xy: 2, 2
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1
+lizi_00030
+  rotate: false
+  xy: 61, 2
+  size: 57, 58
+  orig: 57, 58
+  offset: 0, 0
+  index: -1

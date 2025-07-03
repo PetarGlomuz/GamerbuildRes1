@@ -1,0 +1,146 @@
+
+NG_yugao.png
+size: 502,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xh/xunhuan_00
+  rotate: false
+  xy: 2, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_01
+  rotate: false
+  xy: 2, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_02
+  rotate: false
+  xy: 52, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_03
+  rotate: false
+  xy: 52, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_04
+  rotate: false
+  xy: 102, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_05
+  rotate: false
+  xy: 102, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_06
+  rotate: false
+  xy: 152, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_07
+  rotate: false
+  xy: 152, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_08
+  rotate: false
+  xy: 202, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_09
+  rotate: false
+  xy: 202, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_10
+  rotate: false
+  xy: 252, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_11
+  rotate: false
+  xy: 252, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_12
+  rotate: false
+  xy: 302, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_13
+  rotate: false
+  xy: 302, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_14
+  rotate: false
+  xy: 352, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_15
+  rotate: false
+  xy: 352, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_16
+  rotate: false
+  xy: 402, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_17
+  rotate: false
+  xy: 402, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_18
+  rotate: false
+  xy: 452, 199
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1
+xh/xunhuan_19
+  rotate: false
+  xy: 452, 2
+  size: 48, 195
+  orig: 67, 196
+  offset: 11, 0
+  index: -1

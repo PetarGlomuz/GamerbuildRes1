@@ -1,0 +1,20 @@
+
+L5.png
+size: 150,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/10_zi
+  rotate: false
+  xy: 2, 2
+  size: 80, 70
+  orig: 80, 70
+  offset: 0, 0
+  index: -1
+wenjian/xiaobeibei2_00
+  rotate: false
+  xy: 84, 10
+  size: 64, 62
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

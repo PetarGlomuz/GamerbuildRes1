@@ -1,0 +1,209 @@
+
+BG_jiafen.png
+size: 1982,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00001
+  rotate: true
+  xy: 2, 367
+  size: 105, 232
+  orig: 116, 375
+  offset: 1, 143
+  index: -1
+1/1_00003
+  rotate: true
+  xy: 236, 356
+  size: 116, 309
+  orig: 116, 375
+  offset: 0, 66
+  index: -1
+1/1_00005
+  rotate: true
+  xy: 547, 356
+  size: 116, 375
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00007
+  rotate: true
+  xy: 924, 356
+  size: 116, 375
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00009
+  rotate: true
+  xy: 1301, 356
+  size: 116, 375
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00011
+  rotate: true
+  xy: 126, 238
+  size: 116, 365
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00013
+  rotate: true
+  xy: 493, 238
+  size: 116, 356
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00015
+  rotate: true
+  xy: 851, 238
+  size: 116, 355
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00017
+  rotate: true
+  xy: 1208, 238
+  size: 116, 353
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00019
+  rotate: true
+  xy: 1563, 238
+  size: 116, 365
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00021
+  rotate: true
+  xy: 126, 120
+  size: 116, 343
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00022
+  rotate: true
+  xy: 471, 120
+  size: 116, 361
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00023
+  rotate: true
+  xy: 834, 120
+  size: 116, 340
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00024
+  rotate: true
+  xy: 1176, 120
+  size: 116, 338
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00025
+  rotate: true
+  xy: 1516, 120
+  size: 116, 340
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00026
+  rotate: true
+  xy: 126, 2
+  size: 116, 331
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00027
+  rotate: true
+  xy: 459, 2
+  size: 116, 331
+  orig: 116, 375
+  offset: 0, 0
+  index: -1
+1/1_00028
+  rotate: true
+  xy: 792, 2
+  size: 116, 330
+  orig: 116, 375
+  offset: 0, 1
+  index: -1
+1/1_00029
+  rotate: true
+  xy: 1124, 2
+  size: 116, 329
+  orig: 116, 375
+  offset: 0, 2
+  index: -1
+2/2_00006
+  rotate: true
+  xy: 1678, 356
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00008
+  rotate: true
+  xy: 1802, 356
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00010
+  rotate: true
+  xy: 2, 249
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00012
+  rotate: true
+  xy: 2, 131
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00014
+  rotate: true
+  xy: 1858, 120
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00016
+  rotate: true
+  xy: 2, 13
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00018
+  rotate: true
+  xy: 1455, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00020
+  rotate: true
+  xy: 1579, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00022
+  rotate: true
+  xy: 1703, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1
+2/2_00024
+  rotate: true
+  xy: 1827, 2
+  size: 116, 122
+  orig: 116, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+TC_bonuswin.png
+size: 882,115
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bon/bon_000
+  rotate: true
+  xy: 845, 39
+  size: 18, 23
+  orig: 146, 27
+  offset: 3, 3
+  index: -1
+bon/bon_001
+  rotate: true
+  xy: 855, 59
+  size: 28, 24
+  orig: 146, 27
+  offset: 3, 2
+  index: -1
+bon/bon_002
+  rotate: false
+  xy: 792, 11
+  size: 38, 24
+  orig: 146, 27
+  offset: 3, 2
+  index: -1
+bon/bon_003
+  rotate: false
+  xy: 795, 37
+  size: 48, 24
+  orig: 146, 27
+  offset: 3, 2
+  index: -1
+bon/bon_004
+  rotate: false
+  xy: 795, 63
+  size: 58, 24
+  orig: 146, 27
+  offset: 3, 2
+  index: -1
+bon/bon_005
+  rotate: false
+  xy: 813, 89
+  size: 67, 24
+  orig: 146, 27
+  offset: 3, 2
+  index: -1
+bon/bon_006
+  rotate: false
+  xy: 572, 10
+  size: 77, 24
+  orig: 146, 27
+  offset: 3, 2
+  index: -1
+bon/bon_007
+  rotate: false
+  xy: 652, 36
+  size: 76, 24
+  orig: 146, 27
+  offset: 10, 2
+  index: -1
+bon/bon_008
+  rotate: false
+  xy: 653, 62
+  size: 77, 24
+  orig: 146, 27
+  offset: 20, 2
+  index: -1
+bon/bon_009
+  rotate: false
+  xy: 572, 89
+  size: 79, 24
+  orig: 146, 27
+  offset: 28, 2
+  index: -1
+bon/bon_010
+  rotate: false
+  xy: 733, 89
+  size: 78, 24
+  orig: 146, 27
+  offset: 38, 2
+  index: -1
+bon/bon_011
+  rotate: false
+  xy: 572, 63
+  size: 79, 24
+  orig: 146, 27
+  offset: 47, 2
+  index: -1
+bon/bon_012
+  rotate: false
+  xy: 653, 88
+  size: 78, 25
+  orig: 146, 27
+  offset: 56, 2
+  index: -1
+bon/bon_013
+  rotate: false
+  xy: 572, 36
+  size: 78, 25
+  orig: 146, 27
+  offset: 65, 2
+  index: -1
+bon/bon_014
+  rotate: false
+  xy: 651, 9
+  size: 70, 25
+  orig: 146, 27
+  offset: 74, 2
+  index: -1
+bon/bon_015
+  rotate: false
+  xy: 733, 62
+  size: 60, 25
+  orig: 146, 27
+  offset: 84, 2
+  index: -1
+bon/bon_016
+  rotate: false
+  xy: 730, 35
+  size: 51, 25
+  orig: 146, 27
+  offset: 93, 2
+  index: -1
+bon/bon_017
+  rotate: false
+  xy: 749, 8
+  size: 41, 25
+  orig: 146, 27
+  offset: 103, 2
+  index: -1
+bon/bon_018
+  rotate: true
+  xy: 723, 2
+  size: 31, 24
+  orig: 146, 27
+  offset: 113, 2
+  index: -1
+bon/bon_019
+  rotate: false
+  xy: 832, 11
+  size: 21, 24
+  orig: 146, 27
+  offset: 123, 2
+  index: -1
+bonuswin
+  rotate: false
+  xy: 2, 7
+  size: 568, 106
+  orig: 570, 107
+  offset: 1, 1
+  index: -1

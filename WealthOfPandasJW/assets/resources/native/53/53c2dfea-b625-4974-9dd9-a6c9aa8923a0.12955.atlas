@@ -1,0 +1,111 @@
+
+tubiao_taiji.png
+size: 884,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+an
+  rotate: false
+  xy: 813, 176
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+g_00000
+  rotate: false
+  xy: 489, 129
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 742, 176
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1
+sg2/sg2_00000
+  rotate: true
+  xy: 529, 2
+  size: 125, 115
+  orig: 136, 126
+  offset: 6, 5
+  index: -1
+sg2/sg2_00001
+  rotate: true
+  xy: 240, 118
+  size: 127, 117
+  orig: 136, 126
+  offset: 6, 5
+  index: -1
+sg2/sg2_00002
+  rotate: true
+  xy: 121, 117
+  size: 128, 117
+  orig: 136, 126
+  offset: 5, 5
+  index: -1
+sg2/sg2_00003
+  rotate: true
+  xy: 2, 116
+  size: 129, 117
+  orig: 136, 126
+  offset: 5, 5
+  index: -1
+sg2/sg2_00004
+  rotate: false
+  xy: 359, 129
+  size: 128, 116
+  orig: 136, 126
+  offset: 5, 6
+  index: -1
+sg2/sg2_00005
+  rotate: false
+  xy: 399, 12
+  size: 128, 115
+  orig: 136, 126
+  offset: 5, 6
+  index: -1
+sg2/sg2_00006
+  rotate: false
+  xy: 269, 2
+  size: 128, 114
+  orig: 136, 126
+  offset: 5, 6
+  index: -1
+sg2/sg2_00007
+  rotate: false
+  xy: 757, 63
+  size: 121, 111
+  orig: 136, 126
+  offset: 11, 6
+  index: -1
+sg2/sg2_00008
+  rotate: true
+  xy: 646, 10
+  size: 124, 109
+  orig: 136, 126
+  offset: 8, 8
+  index: -1
+sg2/sg2_00009
+  rotate: false
+  xy: 615, 136
+  size: 125, 109
+  orig: 136, 126
+  offset: 7, 8
+  index: -1
+sg2/sg2_00010
+  rotate: false
+  xy: 2, 4
+  size: 131, 110
+  orig: 136, 126
+  offset: 1, 7
+  index: -1
+sg2/sg2_00011
+  rotate: false
+  xy: 135, 2
+  size: 132, 113
+  orig: 136, 126
+  offset: 0, 4
+  index: -1

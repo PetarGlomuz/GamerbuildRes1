@@ -1,0 +1,20 @@
+
+xiao_yfk.png
+size: 486,343
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biankuang
+  rotate: false
+  xy: 2, 141
+  size: 482, 200
+  orig: 484, 202
+  offset: 1, 1
+  index: -1
+kuangg_00
+  rotate: false
+  xy: 2, 2
+  size: 366, 137
+  orig: 366, 137
+  offset: 0, 0
+  index: -1

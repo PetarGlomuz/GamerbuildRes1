@@ -1,0 +1,13 @@
+
+chips_tishi.png
+size: 359,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chips_tishi_glow
+  rotate: false
+  xy: 2, 2
+  size: 355, 356
+  orig: 355, 356
+  offset: 0, 0
+  index: -1

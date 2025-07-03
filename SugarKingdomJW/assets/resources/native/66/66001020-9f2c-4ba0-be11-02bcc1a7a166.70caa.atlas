@@ -1,0 +1,132 @@
+
+dian_win_lizi.png
+size: 998,314
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_win_lizi/dian_win_lizi_01
+  rotate: true
+  xy: 817, 37
+  size: 35, 39
+  orig: 179, 179
+  offset: 67, 100
+  index: -1
+dian_win_lizi/dian_win_lizi_02
+  rotate: true
+  xy: 817, 74
+  size: 49, 55
+  orig: 179, 179
+  offset: 59, 91
+  index: -1
+dian_win_lizi/dian_win_lizi_03
+  rotate: true
+  xy: 817, 125
+  size: 63, 69
+  orig: 179, 179
+  offset: 52, 83
+  index: -1
+dian_win_lizi/dian_win_lizi_04
+  rotate: true
+  xy: 901, 141
+  size: 77, 82
+  orig: 179, 179
+  offset: 45, 75
+  index: -1
+dian_win_lizi/dian_win_lizi_05
+  rotate: true
+  xy: 901, 220
+  size: 92, 95
+  orig: 179, 179
+  offset: 38, 66
+  index: -1
+dian_win_lizi/dian_win_lizi_06
+  rotate: true
+  xy: 888, 32
+  size: 107, 108
+  orig: 179, 179
+  offset: 31, 56
+  index: -1
+dian_win_lizi/dian_win_lizi_07
+  rotate: false
+  xy: 777, 190
+  size: 122, 122
+  orig: 179, 179
+  offset: 24, 45
+  index: -1
+dian_win_lizi/dian_win_lizi_08
+  rotate: true
+  xy: 162, 5
+  size: 135, 134
+  orig: 179, 179
+  offset: 17, 35
+  index: -1
+dian_win_lizi/dian_win_lizi_09
+  rotate: true
+  xy: 350, 2
+  size: 140, 147
+  orig: 179, 179
+  offset: 11, 24
+  index: -1
+dian_win_lizi/dian_win_lizi_10
+  rotate: false
+  xy: 471, 152
+  size: 153, 160
+  orig: 179, 179
+  offset: 4, 13
+  index: -1
+dian_win_lizi/dian_win_lizi_11
+  rotate: false
+  xy: 152, 142
+  size: 162, 170
+  orig: 179, 179
+  offset: 0, 3
+  index: -1
+dian_win_lizi/dian_win_lizi_12
+  rotate: false
+  xy: 626, 157
+  size: 149, 155
+  orig: 179, 179
+  offset: 15, 17
+  index: -1
+dian_win_lizi/dian_win_lizi_13
+  rotate: true
+  xy: 499, 4
+  size: 146, 160
+  orig: 179, 179
+  offset: 16, 13
+  index: -1
+dian_win_lizi/dian_win_lizi_14
+  rotate: true
+  xy: 661, 9
+  size: 146, 154
+  orig: 179, 179
+  offset: 21, 22
+  index: -1
+dian_win_lizi/dian_win_lizi_15
+  rotate: false
+  xy: 316, 144
+  size: 153, 168
+  orig: 179, 179
+  offset: 16, 10
+  index: -1
+dian_win_lizi/dian_win_lizi_16
+  rotate: false
+  xy: 2, 133
+  size: 148, 179
+  orig: 179, 179
+  offset: 21, 0
+  index: -1
+dian_win_lizi/dian_win_lizi_17
+  rotate: true
+  xy: 2, 4
+  size: 127, 158
+  orig: 179, 179
+  offset: 47, 18
+  index: -1
+dian_win_lizi/dian_win_lizi_18
+  rotate: true
+  xy: 298, 17
+  size: 123, 50
+  orig: 179, 179
+  offset: 56, 80
+  index: -1

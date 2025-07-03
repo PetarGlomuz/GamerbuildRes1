@@ -1,0 +1,48 @@
+
+H4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h2_7
+  rotate: false
+  xy: 2, 97
+  size: 170, 150
+  orig: 170, 150
+  offset: 0, 0
+  index: -1
+images/h4_1
+  rotate: false
+  xy: 174, 195
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+images/h4_2
+  rotate: false
+  xy: 2, 29
+  size: 132, 66
+  orig: 132, 66
+  offset: 0, 0
+  index: -1
+images/h4_3
+  rotate: true
+  xy: 136, 58
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+images/h4_4
+  rotate: false
+  xy: 2, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+images/qp
+  rotate: false
+  xy: 174, 179
+  size: 17, 14
+  orig: 25, 25
+  offset: 5, 7
+  index: -1

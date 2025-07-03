@@ -1,0 +1,153 @@
+
+BG_jishuchongzhi.png
+size: 1505,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/huiban_00
+  rotate: true
+  xy: 1381, 2
+  size: 97, 122
+  orig: 160, 138
+  offset: 31, 9
+  index: -1
+images/lizi/lizi_00
+  rotate: true
+  xy: 1122, 121
+  size: 118, 129
+  orig: 160, 138
+  offset: 20, 6
+  index: -1
+images/lizi/lizi_01
+  rotate: true
+  xy: 1253, 122
+  size: 117, 126
+  orig: 160, 138
+  offset: 21, 7
+  index: -1
+images/lizi/lizi_02
+  rotate: true
+  xy: 691, 5
+  size: 112, 123
+  orig: 160, 138
+  offset: 23, 9
+  index: -1
+images/lizi/lizi_03
+  rotate: true
+  xy: 142, 2
+  size: 109, 124
+  orig: 160, 138
+  offset: 25, 8
+  index: -1
+images/lizi/lizi_04
+  rotate: true
+  xy: 282, 2
+  size: 111, 127
+  orig: 160, 138
+  offset: 24, 7
+  index: -1
+images/lizi/lizi_05
+  rotate: true
+  xy: 562, 3
+  size: 114, 127
+  orig: 160, 138
+  offset: 22, 7
+  index: -1
+images/lizi/lizi_06
+  rotate: false
+  xy: 1381, 101
+  size: 116, 138
+  orig: 160, 138
+  offset: 21, 0
+  index: -1
+images/lizi/lizi_07
+  rotate: true
+  xy: 842, 120
+  size: 119, 138
+  orig: 160, 138
+  offset: 19, 0
+  index: -1
+images/lizi/lizi_08
+  rotate: true
+  xy: 982, 120
+  size: 119, 138
+  orig: 160, 138
+  offset: 19, 0
+  index: -1
+images/lizi/lizi_09
+  rotate: true
+  xy: 422, 118
+  size: 121, 138
+  orig: 160, 138
+  offset: 19, 0
+  index: -1
+images/lizi/lizi_10
+  rotate: true
+  xy: 562, 119
+  size: 120, 138
+  orig: 160, 138
+  offset: 19, 0
+  index: -1
+images/lizi/lizi_11
+  rotate: true
+  xy: 702, 119
+  size: 120, 138
+  orig: 160, 138
+  offset: 20, 0
+  index: -1
+images/lizi/lizi_12
+  rotate: true
+  xy: 282, 115
+  size: 124, 138
+  orig: 160, 138
+  offset: 18, 0
+  index: -1
+images/lizi/lizi_13
+  rotate: true
+  xy: 142, 113
+  size: 126, 138
+  orig: 160, 138
+  offset: 17, 0
+  index: -1
+images/lizi/lizi_14
+  rotate: true
+  xy: 2, 111
+  size: 128, 138
+  orig: 160, 138
+  offset: 16, 0
+  index: -1
+images/lizi/lizi_15
+  rotate: true
+  xy: 1122, 3
+  size: 116, 128
+  orig: 160, 138
+  offset: 22, 6
+  index: -1
+images/lizi/lizi_16
+  rotate: true
+  xy: 842, 2
+  size: 116, 127
+  orig: 160, 138
+  offset: 22, 6
+  index: -1
+images/lizi/lizi_17
+  rotate: true
+  xy: 1253, 5
+  size: 115, 126
+  orig: 160, 138
+  offset: 22, 7
+  index: -1
+images/lizi/lizi_18
+  rotate: true
+  xy: 971, 3
+  size: 115, 126
+  orig: 160, 138
+  offset: 22, 7
+  index: -1
+images/lizi/lizi_19
+  rotate: true
+  xy: 422, 3
+  size: 113, 126
+  orig: 160, 138
+  offset: 23, 6
+  index: -1

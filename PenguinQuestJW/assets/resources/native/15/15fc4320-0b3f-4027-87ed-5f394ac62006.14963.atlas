@@ -1,0 +1,97 @@
+
+BetUp_bg.png
+size: 700,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jies/jue_001
+  rotate: false
+  xy: 2, 230
+  size: 468, 56
+  orig: 500, 76
+  offset: 17, 8
+  index: -1
+images/jies/jue_002
+  rotate: false
+  xy: 2, 288
+  size: 470, 57
+  orig: 500, 76
+  offset: 16, 8
+  index: -1
+images/jies/jue_003
+  rotate: false
+  xy: 2, 406
+  size: 472, 58
+  orig: 500, 76
+  offset: 15, 8
+  index: -1
+images/jies/jue_004
+  rotate: true
+  xy: 537, 55
+  size: 472, 60
+  orig: 500, 76
+  offset: 16, 7
+  index: -1
+images/jies/jue_005
+  rotate: false
+  xy: 2, 466
+  size: 473, 61
+  orig: 500, 76
+  offset: 16, 6
+  index: -1
+images/jies/jue_006
+  rotate: true
+  xy: 599, 55
+  size: 472, 59
+  orig: 500, 76
+  offset: 17, 8
+  index: -1
+images/jies/jue_007
+  rotate: true
+  xy: 477, 54
+  size: 473, 58
+  orig: 500, 76
+  offset: 16, 8
+  index: -1
+images/jies/jue_008
+  rotate: false
+  xy: 2, 347
+  size: 472, 57
+  orig: 500, 76
+  offset: 16, 10
+  index: -1
+images/jies/jue_009
+  rotate: false
+  xy: 2, 169
+  size: 467, 59
+  orig: 500, 76
+  offset: 17, 9
+  index: -1
+images/jies/jue_010
+  rotate: false
+  xy: 2, 108
+  size: 460, 59
+  orig: 500, 76
+  offset: 23, 8
+  index: -1
+images/jies/jue_011
+  rotate: false
+  xy: 2, 49
+  size: 454, 57
+  orig: 500, 76
+  offset: 24, 9
+  index: -1
+images/jies/jue_012
+  rotate: false
+  xy: 2, 2
+  size: 393, 45
+  orig: 500, 76
+  offset: 58, 14
+  index: -1
+images/jies/jue_013
+  rotate: true
+  xy: 660, 148
+  size: 379, 38
+  orig: 500, 76
+  offset: 60, 15
+  index: -1

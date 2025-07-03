@@ -1,0 +1,146 @@
+
+TC_FG_jiesuankuang.png
+size: 852,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jieduankuang
+  rotate: false
+  xy: 2, 118
+  size: 744, 178
+  orig: 744, 178
+  offset: 0, 0
+  index: -1
+jieduankuang_sg/jieduankuang_sg_01
+  rotate: false
+  xy: 819, 109
+  size: 31, 61
+  orig: 290, 63
+  offset: 2, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_02
+  rotate: true
+  xy: 673, 2
+  size: 51, 61
+  orig: 290, 63
+  offset: 1, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_03
+  rotate: false
+  xy: 748, 109
+  size: 69, 61
+  orig: 290, 63
+  offset: 1, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_04
+  rotate: false
+  xy: 748, 235
+  size: 87, 61
+  orig: 290, 63
+  offset: 2, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_05
+  rotate: true
+  xy: 547, 10
+  size: 106, 61
+  orig: 290, 63
+  offset: 2, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_06
+  rotate: true
+  xy: 365, 5
+  size: 111, 60
+  orig: 290, 63
+  offset: 15, 2
+  index: -1
+jieduankuang_sg/jieduankuang_sg_07
+  rotate: true
+  xy: 2, 4
+  size: 112, 58
+  orig: 290, 63
+  offset: 33, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_08
+  rotate: true
+  xy: 62, 4
+  size: 112, 58
+  orig: 290, 63
+  offset: 52, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_09
+  rotate: true
+  xy: 427, 5
+  size: 111, 58
+  orig: 290, 63
+  offset: 71, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_10
+  rotate: true
+  xy: 122, 4
+  size: 112, 58
+  orig: 290, 63
+  offset: 89, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_11
+  rotate: true
+  xy: 182, 4
+  size: 112, 58
+  orig: 290, 63
+  offset: 108, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_12
+  rotate: true
+  xy: 487, 5
+  size: 111, 58
+  orig: 290, 63
+  offset: 127, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_13
+  rotate: true
+  xy: 242, 4
+  size: 112, 58
+  orig: 290, 63
+  offset: 145, 3
+  index: -1
+jieduankuang_sg/jieduankuang_sg_14
+  rotate: true
+  xy: 302, 5
+  size: 111, 61
+  orig: 290, 63
+  offset: 164, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_15
+  rotate: true
+  xy: 610, 11
+  size: 105, 61
+  orig: 290, 63
+  offset: 183, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_16
+  rotate: false
+  xy: 748, 172
+  size: 87, 61
+  orig: 290, 63
+  offset: 201, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_17
+  rotate: false
+  xy: 673, 55
+  size: 69, 61
+  orig: 290, 63
+  offset: 220, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_18
+  rotate: true
+  xy: 736, 3
+  size: 50, 61
+  orig: 290, 63
+  offset: 239, 1
+  index: -1
+jieduankuang_sg/jieduankuang_sg_19
+  rotate: false
+  xy: 799, 46
+  size: 31, 61
+  orig: 290, 63
+  offset: 257, 1
+  index: -1

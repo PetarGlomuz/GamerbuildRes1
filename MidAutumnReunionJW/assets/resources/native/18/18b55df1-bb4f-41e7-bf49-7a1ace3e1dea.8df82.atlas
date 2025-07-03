@@ -1,0 +1,90 @@
+
+NG_H5.png
+size: 532,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_erduo
+  rotate: true
+  xy: 462, 137
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+L_gebo
+  rotate: false
+  xy: 471, 213
+  size: 59, 49
+  orig: 62, 52
+  offset: 0, 2
+  index: -1
+R-gebo
+  rotate: false
+  xy: 371, 13
+  size: 98, 56
+  orig: 98, 56
+  offset: 0, 0
+  index: -1
+R_erdup
+  rotate: false
+  xy: 245, 2
+  size: 124, 67
+  orig: 126, 69
+  offset: 2, 2
+  index: -1
+di
+  rotate: true
+  xy: 2, 6
+  size: 256, 241
+  orig: 256, 241
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: true
+  xy: 371, 2
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+guan
+  rotate: true
+  xy: 432, 71
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+guandi
+  rotate: true
+  xy: 432, 206
+  size: 56, 28
+  orig: 56, 28
+  offset: 0, 0
+  index: -1
+gui
+  rotate: true
+  xy: 471, 22
+  size: 47, 51
+  orig: 47, 51
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 245, 71
+  size: 191, 185
+  orig: 194, 185
+  offset: 3, 0
+  index: -1
+yanjing
+  rotate: false
+  xy: 432, 179
+  size: 26, 25
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+yanqiu
+  rotate: false
+  xy: 432, 164
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+fg_bg.png
+size: 2032,799
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG
+  rotate: false
+  xy: 2, 77
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+lizi1
+  rotate: true
+  xy: 144, 19
+  size: 56, 55
+  orig: 59, 55
+  offset: 2, 0
+  index: -1
+ye1
+  rotate: true
+  xy: 201, 18
+  size: 57, 52
+  orig: 60, 58
+  offset: 3, 3
+  index: -1
+ye2
+  rotate: true
+  xy: 255, 30
+  size: 45, 31
+  orig: 48, 36
+  offset: 1, 1
+  index: -1
+zhu10
+  rotate: false
+  xy: 2, 8
+  size: 140, 67
+  orig: 140, 67
+  offset: 0, 0
+  index: -1
+zhu11
+  rotate: false
+  xy: 1872, 2
+  size: 118, 160
+  orig: 118, 161
+  offset: 0, 1
+  index: -1
+zhu12
+  rotate: true
+  xy: 1792, 6
+  size: 250, 78
+  orig: 250, 78
+  offset: 0, 0
+  index: -1
+zhu13
+  rotate: true
+  xy: 1892, 566
+  size: 231, 120
+  orig: 231, 120
+  offset: 0, 0
+  index: -1
+zhu14
+  rotate: true
+  xy: 1889, 164
+  size: 194, 141
+  orig: 194, 141
+  offset: 0, 0
+  index: -1
+zhu15
+  rotate: false
+  xy: 1564, 479
+  size: 326, 318
+  orig: 326, 318
+  offset: 0, 0
+  index: -1
+zhu16
+  rotate: true
+  xy: 1564, 26
+  size: 230, 226
+  orig: 230, 226
+  offset: 0, 0
+  index: -1
+zhu17
+  rotate: false
+  xy: 1564, 258
+  size: 323, 219
+  orig: 324, 219
+  offset: 0, 0
+  index: -1
+zhu9
+  rotate: false
+  xy: 1892, 360
+  size: 100, 204
+  orig: 101, 204
+  offset: 0, 0
+  index: -1

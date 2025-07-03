@@ -1,0 +1,160 @@
+
+da_yfk.png
+size: 999,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dik
+  rotate: false
+  xy: 2, 90
+  size: 915, 159
+  orig: 917, 161
+  offset: 1, 1
+  index: -1
+sg6/sg6_00
+  rotate: true
+  xy: 960, 75
+  size: 38, 36
+  orig: 245, 53
+  offset: 7, 9
+  index: -1
+sg6/sg6_01
+  rotate: false
+  xy: 905, 49
+  size: 53, 39
+  orig: 245, 53
+  offset: 7, 8
+  index: -1
+sg6/sg6_02
+  rotate: false
+  xy: 849, 7
+  size: 68, 40
+  orig: 245, 53
+  offset: 7, 8
+  index: -1
+sg6/sg6_03
+  rotate: false
+  xy: 648, 8
+  size: 83, 40
+  orig: 245, 53
+  offset: 7, 8
+  index: -1
+sg6/sg6_04
+  rotate: false
+  xy: 218, 2
+  size: 98, 40
+  orig: 245, 53
+  offset: 7, 8
+  index: -1
+sg6/sg6_05
+  rotate: false
+  xy: 2, 2
+  size: 111, 40
+  orig: 245, 53
+  offset: 8, 8
+  index: -1
+sg6/sg6_06
+  rotate: false
+  xy: 318, 9
+  size: 123, 39
+  orig: 245, 53
+  offset: 11, 9
+  index: -1
+sg6/sg6_07
+  rotate: false
+  xy: 643, 50
+  size: 132, 38
+  orig: 245, 53
+  offset: 17, 9
+  index: -1
+sg6/sg6_08
+  rotate: false
+  xy: 235, 50
+  size: 134, 38
+  orig: 245, 53
+  offset: 30, 9
+  index: -1
+sg6/sg6_09
+  rotate: true
+  xy: 959, 115
+  size: 134, 38
+  orig: 245, 53
+  offset: 45, 9
+  index: -1
+sg6/sg6_10
+  rotate: false
+  xy: 371, 50
+  size: 134, 38
+  orig: 245, 53
+  offset: 60, 9
+  index: -1
+sg6/sg6_11
+  rotate: true
+  xy: 919, 114
+  size: 135, 38
+  orig: 245, 53
+  offset: 75, 9
+  index: -1
+sg6/sg6_12
+  rotate: false
+  xy: 507, 50
+  size: 134, 38
+  orig: 245, 53
+  offset: 90, 9
+  index: -1
+sg6/sg6_13
+  rotate: false
+  xy: 777, 49
+  size: 126, 39
+  orig: 245, 53
+  offset: 105, 8
+  index: -1
+sg6/sg6_14
+  rotate: false
+  xy: 443, 9
+  size: 115, 39
+  orig: 245, 53
+  offset: 120, 8
+  index: -1
+sg6/sg6_15
+  rotate: false
+  xy: 115, 2
+  size: 101, 40
+  orig: 245, 53
+  offset: 135, 8
+  index: -1
+sg6/sg6_16
+  rotate: false
+  xy: 560, 8
+  size: 86, 40
+  orig: 245, 53
+  offset: 150, 8
+  index: -1
+sg6/sg6_17
+  rotate: false
+  xy: 776, 7
+  size: 71, 40
+  orig: 245, 53
+  offset: 165, 8
+  index: -1
+sg6/sg6_18
+  rotate: false
+  xy: 919, 8
+  size: 56, 39
+  orig: 245, 53
+  offset: 180, 9
+  index: -1
+sg6/sg6_19
+  rotate: false
+  xy: 733, 11
+  size: 41, 37
+  orig: 245, 53
+  offset: 195, 11
+  index: -1
+yfk_00
+  rotate: false
+  xy: 2, 44
+  size: 231, 44
+  orig: 245, 53
+  offset: 6, 6
+  index: -1

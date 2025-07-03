@@ -1,0 +1,153 @@
+
+TC_totalwin.png
+size: 1724,171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TOTAL WIN_en
+  rotate: false
+  xy: 2, 55
+  size: 617, 114
+  orig: 617, 114
+  offset: 0, 0
+  index: -1
+sg2/sg2_00
+  rotate: false
+  xy: 1630, 118
+  size: 77, 51
+  orig: 311, 57
+  offset: 4, 2
+  index: -1
+sg2/sg2_01
+  rotate: false
+  xy: 1587, 65
+  size: 106, 51
+  orig: 311, 57
+  offset: 4, 2
+  index: -1
+sg2/sg2_02
+  rotate: false
+  xy: 1297, 12
+  size: 132, 51
+  orig: 311, 57
+  offset: 3, 2
+  index: -1
+sg2/sg2_03
+  rotate: false
+  xy: 984, 12
+  size: 158, 51
+  orig: 311, 57
+  offset: 3, 2
+  index: -1
+sg2/sg2_04
+  rotate: false
+  xy: 621, 12
+  size: 183, 51
+  orig: 311, 57
+  offset: 3, 2
+  index: -1
+sg2/sg2_05
+  rotate: false
+  xy: 1419, 118
+  size: 209, 51
+  orig: 311, 57
+  offset: 3, 2
+  index: -1
+sg2/sg2_06
+  rotate: false
+  xy: 1184, 118
+  size: 233, 51
+  orig: 311, 57
+  offset: 4, 2
+  index: -1
+sg2/sg2_07
+  rotate: false
+  xy: 924, 118
+  size: 258, 51
+  orig: 311, 57
+  offset: 4, 2
+  index: -1
+sg2/sg2_08
+  rotate: false
+  xy: 307, 2
+  size: 278, 51
+  orig: 311, 57
+  offset: 4, 2
+  index: -1
+sg2/sg2_09
+  rotate: false
+  xy: 2, 2
+  size: 303, 51
+  orig: 311, 57
+  offset: 4, 2
+  index: -1
+sg2/sg2_10
+  rotate: false
+  xy: 621, 118
+  size: 301, 51
+  orig: 311, 57
+  offset: 6, 2
+  index: -1
+sg2/sg2_11
+  rotate: false
+  xy: 621, 65
+  size: 278, 51
+  orig: 311, 57
+  offset: 29, 2
+  index: -1
+sg2/sg2_12
+  rotate: false
+  xy: 901, 65
+  size: 252, 51
+  orig: 311, 57
+  offset: 55, 2
+  index: -1
+sg2/sg2_13
+  rotate: false
+  xy: 1155, 65
+  size: 226, 51
+  orig: 311, 57
+  offset: 81, 2
+  index: -1
+sg2/sg2_14
+  rotate: false
+  xy: 1383, 65
+  size: 202, 51
+  orig: 311, 57
+  offset: 105, 2
+  index: -1
+sg2/sg2_15
+  rotate: false
+  xy: 806, 13
+  size: 176, 50
+  orig: 311, 57
+  offset: 131, 2
+  index: -1
+sg2/sg2_16
+  rotate: false
+  xy: 1144, 14
+  size: 151, 49
+  orig: 311, 57
+  offset: 156, 3
+  index: -1
+sg2/sg2_17
+  rotate: false
+  xy: 1431, 14
+  size: 112, 49
+  orig: 311, 57
+  offset: 195, 3
+  index: -1
+sg2/sg2_18
+  rotate: false
+  xy: 1545, 14
+  size: 100, 49
+  orig: 311, 57
+  offset: 207, 3
+  index: -1
+sg2/sg2_19
+  rotate: false
+  xy: 1647, 14
+  size: 75, 49
+  orig: 311, 57
+  offset: 232, 3
+  index: -1

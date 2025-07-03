@@ -1,0 +1,223 @@
+
+NG_hehua.png
+size: 2001,309
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hehua
+  rotate: true
+  xy: 1689, 42
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+images/hehua/1_00
+  rotate: true
+  xy: 231, 138
+  size: 169, 110
+  orig: 256, 256
+  offset: 33, 90
+  index: -1
+images/hehua/1_01
+  rotate: true
+  xy: 2, 136
+  size: 171, 122
+  orig: 256, 256
+  offset: 31, 91
+  index: -1
+images/hehua/1_02
+  rotate: true
+  xy: 451, 140
+  size: 167, 122
+  orig: 256, 256
+  offset: 34, 92
+  index: -1
+images/hehua/1_03
+  rotate: false
+  xy: 155, 8
+  size: 154, 126
+  orig: 256, 256
+  offset: 46, 90
+  index: -1
+images/hehua/1_04
+  rotate: false
+  xy: 2, 3
+  size: 151, 131
+  orig: 256, 256
+  offset: 48, 86
+  index: -1
+images/hehua/1_05
+  rotate: false
+  xy: 918, 9
+  size: 149, 133
+  orig: 256, 256
+  offset: 49, 85
+  index: -1
+images/hehua/1_06
+  rotate: false
+  xy: 311, 2
+  size: 145, 134
+  orig: 256, 256
+  offset: 52, 85
+  index: -1
+images/hehua/1_07
+  rotate: false
+  xy: 769, 7
+  size: 147, 135
+  orig: 256, 256
+  offset: 50, 86
+  index: -1
+images/hehua/1_08
+  rotate: false
+  xy: 616, 2
+  size: 151, 136
+  orig: 256, 256
+  offset: 47, 86
+  index: -1
+images/hehua/1_09
+  rotate: false
+  xy: 458, 2
+  size: 156, 136
+  orig: 256, 256
+  offset: 42, 87
+  index: -1
+images/hehua/1_10
+  rotate: true
+  xy: 1047, 146
+  size: 161, 123
+  orig: 256, 256
+  offset: 38, 87
+  index: -1
+images/hehua/1_11
+  rotate: true
+  xy: 1172, 146
+  size: 161, 123
+  orig: 256, 256
+  offset: 38, 88
+  index: -1
+images/hehua/1_12
+  rotate: false
+  xy: 1069, 20
+  size: 159, 124
+  orig: 256, 256
+  offset: 41, 88
+  index: -1
+images/hehua/1_13
+  rotate: true
+  xy: 683, 144
+  size: 163, 124
+  orig: 256, 256
+  offset: 37, 89
+  index: -1
+images/hehua/1_14
+  rotate: true
+  xy: 920, 146
+  size: 161, 125
+  orig: 256, 256
+  offset: 40, 90
+  index: -1
+images/hua1/1_00
+  rotate: true
+  xy: 343, 138
+  size: 169, 106
+  orig: 256, 256
+  offset: 33, 90
+  index: -1
+images/hua1/1_01
+  rotate: true
+  xy: 126, 136
+  size: 171, 103
+  orig: 256, 256
+  offset: 31, 91
+  index: -1
+images/hua1/1_02
+  rotate: true
+  xy: 575, 140
+  size: 167, 106
+  orig: 256, 256
+  offset: 34, 92
+  index: -1
+images/hua1/1_03
+  rotate: true
+  xy: 1727, 153
+  size: 154, 106
+  orig: 256, 256
+  offset: 46, 90
+  index: -1
+images/hua1/1_04
+  rotate: true
+  xy: 1896, 3
+  size: 151, 103
+  orig: 256, 256
+  offset: 48, 86
+  index: -1
+images/hua1/1_05
+  rotate: true
+  xy: 1788, 2
+  size: 149, 106
+  orig: 256, 256
+  offset: 49, 85
+  index: -1
+images/hua1/1_06
+  rotate: false
+  xy: 1542, 38
+  size: 145, 108
+  orig: 256, 256
+  offset: 52, 85
+  index: -1
+images/hua1/1_07
+  rotate: false
+  xy: 1393, 36
+  size: 147, 108
+  orig: 256, 256
+  offset: 50, 86
+  index: -1
+images/hua1/1_08
+  rotate: true
+  xy: 1835, 156
+  size: 151, 106
+  orig: 256, 256
+  offset: 47, 86
+  index: -1
+images/hua1/1_09
+  rotate: true
+  xy: 1618, 151
+  size: 156, 107
+  orig: 256, 256
+  offset: 42, 87
+  index: -1
+images/hua1/1_10
+  rotate: true
+  xy: 1297, 146
+  size: 161, 105
+  orig: 256, 256
+  offset: 38, 87
+  index: -1
+images/hua1/1_11
+  rotate: true
+  xy: 1404, 146
+  size: 161, 105
+  orig: 256, 256
+  offset: 38, 88
+  index: -1
+images/hua1/1_12
+  rotate: true
+  xy: 1511, 148
+  size: 159, 105
+  orig: 256, 256
+  offset: 41, 88
+  index: -1
+images/hua1/1_13
+  rotate: true
+  xy: 809, 144
+  size: 163, 109
+  orig: 256, 256
+  offset: 37, 89
+  index: -1
+images/hua1/1_14
+  rotate: false
+  xy: 1230, 35
+  size: 161, 109
+  orig: 256, 256
+  offset: 40, 90
+  index: -1

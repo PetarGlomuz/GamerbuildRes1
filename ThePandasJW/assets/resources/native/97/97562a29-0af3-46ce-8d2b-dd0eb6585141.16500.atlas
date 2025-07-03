@@ -1,0 +1,76 @@
+
+slot_bottom_win.png
+size: 831,1033
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_31
+  rotate: false
+  xy: 1, 330
+  size: 699, 702
+  orig: 699, 702
+  offset: 0, 0
+  index: -1
+bagua
+  rotate: false
+  xy: 702, 780
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+bww
+  rotate: false
+  xy: 702, 661
+  size: 114, 117
+  orig: 128, 128
+  offset: 7, 5
+  index: -1
+di_00
+  rotate: false
+  xy: 1, 1
+  size: 263, 43
+  orig: 263, 43
+  offset: 0, 0
+  index: -1
+huiju2_00
+  rotate: false
+  xy: 1, 46
+  size: 805, 282
+  orig: 805, 282
+  offset: 0, 0
+  index: -1
+shexian_000
+  rotate: true
+  xy: 266, 12
+  size: 32, 106
+  orig: 32, 106
+  offset: 0, 0
+  index: -1
+shuye
+  rotate: false
+  xy: 374, 24
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 702, 904
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+xx_00
+  rotate: false
+  xy: 702, 904
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: false
+  xy: 702, 604
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1

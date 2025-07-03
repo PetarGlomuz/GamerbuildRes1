@@ -1,0 +1,139 @@
+
+TC_btn_sg.png
+size: 109,276
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_common/btn_common_01
+  rotate: false
+  xy: 92, 54
+  size: 15, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_02
+  rotate: false
+  xy: 84, 2
+  size: 22, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_03
+  rotate: false
+  xy: 53, 2
+  size: 29, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_04
+  rotate: false
+  xy: 65, 180
+  size: 35, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_05
+  rotate: false
+  xy: 65, 212
+  size: 42, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_06
+  rotate: false
+  xy: 2, 2
+  size: 49, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_07
+  rotate: false
+  xy: 2, 84
+  size: 56, 30
+  orig: 99, 35
+  offset: 2, 3
+  index: -1
+btn_common/btn_common_08
+  rotate: false
+  xy: 2, 244
+  size: 62, 30
+  orig: 99, 35
+  offset: 4, 3
+  index: -1
+btn_common/btn_common_09
+  rotate: true
+  xy: 65, 118
+  size: 60, 30
+  orig: 99, 35
+  offset: 12, 3
+  index: -1
+btn_common/btn_common_10
+  rotate: false
+  xy: 2, 212
+  size: 61, 30
+  orig: 99, 35
+  offset: 19, 3
+  index: -1
+btn_common/btn_common_11
+  rotate: false
+  xy: 2, 180
+  size: 61, 30
+  orig: 99, 35
+  offset: 26, 3
+  index: -1
+btn_common/btn_common_12
+  rotate: false
+  xy: 2, 148
+  size: 61, 30
+  orig: 99, 35
+  offset: 33, 3
+  index: -1
+btn_common/btn_common_13
+  rotate: false
+  xy: 2, 116
+  size: 57, 30
+  orig: 99, 35
+  offset: 40, 3
+  index: -1
+btn_common/btn_common_14
+  rotate: true
+  xy: 60, 34
+  size: 50, 30
+  orig: 99, 35
+  offset: 47, 3
+  index: -1
+btn_common/btn_common_15
+  rotate: false
+  xy: 61, 86
+  size: 43, 30
+  orig: 99, 35
+  offset: 54, 3
+  index: -1
+btn_common/btn_common_16
+  rotate: false
+  xy: 66, 244
+  size: 36, 30
+  orig: 99, 35
+  offset: 61, 3
+  index: -1
+btn_common/btn_common_17
+  rotate: false
+  xy: 2, 52
+  size: 29, 30
+  orig: 99, 35
+  offset: 68, 3
+  index: -1
+btn_common/btn_common_18
+  rotate: false
+  xy: 33, 52
+  size: 22, 30
+  orig: 99, 35
+  offset: 75, 3
+  index: -1
+btn_common/btn_common_19
+  rotate: true
+  xy: 2, 34
+  size: 16, 30
+  orig: 99, 35
+  offset: 81, 3
+  index: -1

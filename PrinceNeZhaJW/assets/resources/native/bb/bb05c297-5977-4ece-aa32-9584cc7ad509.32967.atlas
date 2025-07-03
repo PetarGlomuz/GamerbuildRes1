@@ -1,0 +1,20 @@
+
+L3.png
+size: 144,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/q_zi
+  rotate: false
+  xy: 2, 2
+  size: 74, 77
+  orig: 74, 77
+  offset: 0, 0
+  index: -1
+wenjian/xiaobeibei2_00
+  rotate: false
+  xy: 78, 17
+  size: 64, 62
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

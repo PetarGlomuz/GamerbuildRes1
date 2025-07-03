@@ -1,0 +1,153 @@
+
+Major.png
+size: 904,545
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+magor/magor_00
+  rotate: false
+  xy: 413, 10
+  size: 63, 72
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_01
+  rotate: true
+  xy: 314, 9
+  size: 84, 97
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_02
+  rotate: false
+  xy: 797, 216
+  size: 103, 111
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_03
+  rotate: true
+  xy: 414, 84
+  size: 123, 111
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_04
+  rotate: true
+  xy: 527, 82
+  size: 143, 111
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_05
+  rotate: false
+  xy: 644, 216
+  size: 151, 111
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_06
+  rotate: false
+  xy: 230, 95
+  size: 182, 112
+  orig: 253, 136
+  offset: 11, 12
+  index: -1
+magor/magor_07
+  rotate: false
+  xy: 707, 432
+  size: 195, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+magor/magor_08
+  rotate: false
+  xy: 485, 433
+  size: 220, 110
+  orig: 253, 136
+  offset: 12, 14
+  index: -1
+magor/magor_09
+  rotate: false
+  xy: 2, 106
+  size: 226, 101
+  orig: 253, 136
+  offset: 14, 23
+  index: -1
+magor/magor_10
+  rotate: false
+  xy: 2, 209
+  size: 230, 101
+  orig: 253, 136
+  offset: 17, 23
+  index: -1
+magor/magor_11
+  rotate: false
+  xy: 234, 209
+  size: 219, 101
+  orig: 253, 136
+  offset: 29, 23
+  index: -1
+magor/magor_12
+  rotate: false
+  xy: 485, 330
+  size: 213, 101
+  orig: 253, 136
+  offset: 35, 23
+  index: -1
+magor/magor_13
+  rotate: false
+  xy: 2, 3
+  size: 209, 101
+  orig: 253, 136
+  offset: 39, 23
+  index: -1
+magor/magor_14
+  rotate: false
+  xy: 700, 329
+  size: 182, 101
+  orig: 253, 136
+  offset: 66, 23
+  index: -1
+magor/magor_15
+  rotate: false
+  xy: 485, 227
+  size: 157, 101
+  orig: 253, 136
+  offset: 91, 23
+  index: -1
+magor/magor_16
+  rotate: false
+  xy: 640, 113
+  size: 149, 101
+  orig: 253, 136
+  offset: 99, 23
+  index: -1
+magor/magor_17
+  rotate: false
+  xy: 640, 11
+  size: 128, 100
+  orig: 253, 136
+  offset: 120, 23
+  index: -1
+magor/magor_18
+  rotate: false
+  xy: 791, 114
+  size: 111, 100
+  orig: 253, 136
+  offset: 137, 23
+  index: -1
+magor/magor_19
+  rotate: true
+  xy: 213, 2
+  size: 91, 99
+  orig: 253, 136
+  offset: 157, 24
+  index: -1
+major
+  rotate: false
+  xy: 2, 312
+  size: 481, 231
+  orig: 481, 231
+  offset: 0, 0
+  index: -1

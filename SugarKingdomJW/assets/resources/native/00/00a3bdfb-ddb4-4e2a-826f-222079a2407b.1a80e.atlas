@@ -1,0 +1,272 @@
+
+zhadan.png
+size: 713,713
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baozha/baozha_00
+  rotate: false
+  xy: 288, 304
+  size: 124, 123
+  orig: 250, 250
+  offset: 63, 64
+  index: -1
+baozha/baozha_01
+  rotate: false
+  xy: 287, 179
+  size: 124, 123
+  orig: 250, 250
+  offset: 63, 64
+  index: -1
+baozha/baozha_02
+  rotate: false
+  xy: 140, 3
+  size: 135, 135
+  orig: 250, 250
+  offset: 58, 57
+  index: -1
+baozha/baozha_03
+  rotate: false
+  xy: 2, 2
+  size: 136, 136
+  orig: 250, 250
+  offset: 57, 57
+  index: -1
+baozha/baozha_04
+  rotate: false
+  xy: 145, 145
+  size: 138, 138
+  orig: 250, 250
+  offset: 56, 56
+  index: -1
+baozha/baozha_05
+  rotate: false
+  xy: 572, 573
+  size: 139, 138
+  orig: 250, 250
+  offset: 56, 56
+  index: -1
+baozha/baozha_06
+  rotate: false
+  xy: 431, 572
+  size: 139, 139
+  orig: 250, 250
+  offset: 56, 55
+  index: -1
+baozha/baozha_07
+  rotate: false
+  xy: 2, 140
+  size: 140, 140
+  orig: 250, 250
+  offset: 55, 55
+  index: -1
+baozha/baozha_08
+  rotate: false
+  xy: 145, 285
+  size: 140, 140
+  orig: 250, 250
+  offset: 55, 55
+  index: -1
+baozha/baozha_09
+  rotate: false
+  xy: 288, 429
+  size: 140, 140
+  orig: 250, 250
+  offset: 55, 55
+  index: -1
+baozha/baozha_10
+  rotate: false
+  xy: 145, 427
+  size: 141, 140
+  orig: 250, 250
+  offset: 55, 55
+  index: -1
+baozha/baozha_11
+  rotate: false
+  xy: 2, 282
+  size: 141, 141
+  orig: 250, 250
+  offset: 55, 55
+  index: -1
+baozha/baozha_12
+  rotate: false
+  xy: 2, 569
+  size: 141, 142
+  orig: 250, 250
+  offset: 55, 54
+  index: -1
+baozha/baozha_13
+  rotate: false
+  xy: 2, 425
+  size: 141, 142
+  orig: 250, 250
+  offset: 55, 54
+  index: -1
+baozha/baozha_14
+  rotate: false
+  xy: 145, 569
+  size: 141, 142
+  orig: 250, 250
+  offset: 55, 54
+  index: -1
+baozha/baozha_16
+  rotate: false
+  xy: 288, 571
+  size: 141, 140
+  orig: 250, 250
+  offset: 55, 55
+  index: -1
+baozha/baozha_18
+  rotate: false
+  xy: 414, 308
+  size: 116, 119
+  orig: 250, 250
+  offset: 63, 63
+  index: -1
+huohua/huohua_01
+  rotate: false
+  xy: 500, 238
+  size: 80, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_02
+  rotate: false
+  xy: 414, 238
+  size: 84, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+huohua/huohua_03
+  rotate: false
+  xy: 413, 168
+  size: 84, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_04
+  rotate: false
+  xy: 413, 98
+  size: 84, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_05
+  rotate: false
+  xy: 499, 83
+  size: 82, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_06
+  rotate: false
+  xy: 583, 83
+  size: 78, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_07
+  rotate: true
+  xy: 498, 2
+  size: 79, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_08
+  rotate: true
+  xy: 570, 489
+  size: 81, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_09
+  rotate: true
+  xy: 640, 490
+  size: 81, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_10
+  rotate: false
+  xy: 570, 419
+  size: 80, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_11
+  rotate: false
+  xy: 532, 349
+  size: 81, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_12
+  rotate: false
+  xy: 568, 13
+  size: 82, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_13
+  rotate: true
+  xy: 430, 487
+  size: 82, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_14
+  rotate: false
+  xy: 615, 349
+  size: 80, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_15
+  rotate: true
+  xy: 639, 197
+  size: 80, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_16
+  rotate: false
+  xy: 413, 28
+  size: 83, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_17
+  rotate: true
+  xy: 499, 153
+  size: 83, 68
+  orig: 86, 68
+  offset: 2, 0
+  index: -1
+huohua/huohua_18
+  rotate: true
+  xy: 569, 153
+  size: 83, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+huohua/huohua_19
+  rotate: false
+  xy: 582, 279
+  size: 81, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+huohua/huohua_20
+  rotate: true
+  xy: 500, 488
+  size: 82, 68
+  orig: 86, 68
+  offset: 3, 0
+  index: -1
+zhadan
+  rotate: false
+  xy: 277, 8
+  size: 134, 135
+  orig: 150, 150
+  offset: 8, 7
+  index: -1

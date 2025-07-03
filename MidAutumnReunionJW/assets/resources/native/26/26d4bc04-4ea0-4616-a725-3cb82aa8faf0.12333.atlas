@@ -1,0 +1,300 @@
+
+TC_bgkaishi_title.png
+size: 953,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/title_CN/1_00
+  rotate: false
+  xy: 172, 103
+  size: 27, 45
+  orig: 273, 99
+  offset: 69, 28
+  index: -1
+images/title_CN/1_01
+  rotate: false
+  xy: 588, 132
+  size: 37, 46
+  orig: 273, 99
+  offset: 69, 28
+  index: -1
+images/title_CN/1_02
+  rotate: true
+  xy: 539, 128
+  size: 50, 47
+  orig: 273, 99
+  offset: 69, 27
+  index: -1
+images/title_CN/1_03
+  rotate: true
+  xy: 490, 117
+  size: 61, 47
+  orig: 273, 99
+  offset: 69, 27
+  index: -1
+images/title_CN/1_04
+  rotate: true
+  xy: 490, 9
+  size: 72, 47
+  orig: 273, 99
+  offset: 69, 27
+  index: -1
+images/title_CN/1_05
+  rotate: false
+  xy: 363, 82
+  size: 83, 47
+  orig: 273, 99
+  offset: 69, 27
+  index: -1
+images/title_CN/1_06
+  rotate: true
+  xy: 314, 84
+  size: 94, 47
+  orig: 273, 99
+  offset: 69, 27
+  index: -1
+images/title_CN/1_07
+  rotate: true
+  xy: 265, 73
+  size: 105, 47
+  orig: 273, 99
+  offset: 69, 27
+  index: -1
+images/title_CN/1_08
+  rotate: false
+  xy: 51, 52
+  size: 115, 47
+  orig: 273, 99
+  offset: 70, 27
+  index: -1
+images/title_CN/1_09
+  rotate: true
+  xy: 2, 25
+  size: 123, 47
+  orig: 273, 99
+  offset: 74, 27
+  index: -1
+images/title_CN/1_10
+  rotate: false
+  xy: 51, 101
+  size: 119, 47
+  orig: 273, 99
+  offset: 84, 27
+  index: -1
+images/title_CN/1_11
+  rotate: false
+  xy: 51, 3
+  size: 108, 47
+  orig: 273, 99
+  offset: 96, 27
+  index: -1
+images/title_CN/1_12
+  rotate: false
+  xy: 265, 24
+  size: 97, 47
+  orig: 273, 99
+  offset: 107, 27
+  index: -1
+images/title_CN/1_13
+  rotate: false
+  xy: 363, 131
+  size: 86, 47
+  orig: 273, 99
+  offset: 118, 27
+  index: -1
+images/title_CN/1_14
+  rotate: true
+  xy: 364, 5
+  size: 75, 47
+  orig: 273, 99
+  offset: 129, 27
+  index: -1
+images/title_CN/1_15
+  rotate: false
+  xy: 539, 4
+  size: 63, 46
+  orig: 273, 99
+  offset: 141, 27
+  index: -1
+images/title_CN/1_16
+  rotate: false
+  xy: 604, 4
+  size: 52, 46
+  orig: 273, 99
+  offset: 152, 27
+  index: -1
+images/title_CN/1_17
+  rotate: true
+  xy: 547, 85
+  size: 41, 46
+  orig: 273, 99
+  offset: 163, 27
+  index: -1
+images/title_CN/1_18
+  rotate: false
+  xy: 595, 85
+  size: 30, 45
+  orig: 273, 99
+  offset: 174, 28
+  index: -1
+images/title_CN/1_19
+  rotate: true
+  xy: 2, 5
+  size: 18, 45
+  orig: 273, 99
+  offset: 186, 28
+  index: -1
+images/title_EN/1_00
+  rotate: true
+  xy: 662, 24
+  size: 68, 29
+  orig: 691, 63
+  offset: 173, 18
+  index: -1
+images/title_EN/1_01
+  rotate: true
+  xy: 168, 7
+  size: 92, 29
+  orig: 691, 63
+  offset: 173, 18
+  index: -1
+images/title_EN/1_02
+  rotate: true
+  xy: 662, 94
+  size: 116, 29
+  orig: 691, 63
+  offset: 173, 18
+  index: -1
+images/title_EN/1_03
+  rotate: false
+  xy: 490, 180
+  size: 139, 30
+  orig: 691, 63
+  offset: 173, 17
+  index: -1
+images/title_EN/1_04
+  rotate: true
+  xy: 233, 13
+  size: 165, 30
+  orig: 691, 63
+  offset: 173, 17
+  index: -1
+images/title_EN/1_05
+  rotate: true
+  xy: 458, 21
+  size: 189, 30
+  orig: 691, 63
+  offset: 173, 17
+  index: -1
+images/title_EN/1_06
+  rotate: false
+  xy: 244, 180
+  size: 212, 30
+  orig: 691, 63
+  offset: 173, 17
+  index: -1
+images/title_EN/1_07
+  rotate: true
+  xy: 828, 38
+  size: 237, 30
+  orig: 691, 63
+  offset: 174, 17
+  index: -1
+images/title_EN/1_08
+  rotate: true
+  xy: 796, 36
+  size: 239, 30
+  orig: 691, 63
+  offset: 197, 17
+  index: -1
+images/title_EN/1_09
+  rotate: true
+  xy: 860, 36
+  size: 239, 29
+  orig: 691, 63
+  offset: 220, 18
+  index: -1
+images/title_EN/1_10
+  rotate: true
+  xy: 891, 36
+  size: 239, 29
+  orig: 691, 63
+  offset: 245, 18
+  index: -1
+images/title_EN/1_11
+  rotate: false
+  xy: 2, 181
+  size: 240, 29
+  orig: 691, 63
+  offset: 269, 18
+  index: -1
+images/title_EN/1_12
+  rotate: true
+  xy: 922, 50
+  size: 225, 29
+  orig: 691, 63
+  offset: 293, 18
+  index: -1
+images/title_EN/1_13
+  rotate: false
+  xy: 2, 150
+  size: 198, 29
+  orig: 691, 63
+  offset: 320, 18
+  index: -1
+images/title_EN/1_14
+  rotate: true
+  xy: 202, 3
+  size: 176, 29
+  orig: 691, 63
+  offset: 342, 18
+  index: -1
+images/title_EN/1_15
+  rotate: false
+  xy: 796, 5
+  size: 151, 29
+  orig: 691, 63
+  offset: 367, 18
+  index: -1
+images/title_EN/1_16
+  rotate: true
+  xy: 631, 83
+  size: 127, 29
+  orig: 691, 63
+  offset: 391, 18
+  index: -1
+images/title_EN/1_17
+  rotate: false
+  xy: 539, 52
+  size: 103, 29
+  orig: 691, 63
+  offset: 415, 18
+  index: -1
+images/title_EN/1_18
+  rotate: true
+  xy: 413, 2
+  size: 78, 29
+  orig: 691, 63
+  offset: 440, 18
+  index: -1
+images/title_EN/1_19
+  rotate: false
+  xy: 490, 86
+  size: 55, 29
+  orig: 691, 63
+  offset: 463, 18
+  index: -1
+images/titlecn
+  rotate: true
+  xy: 695, 2
+  size: 273, 99
+  orig: 273, 99
+  offset: 0, 0
+  index: -1
+images/titleen
+  rotate: false
+  xy: 2, 212
+  size: 691, 63
+  orig: 691, 63
+  offset: 0, 0
+  index: -1

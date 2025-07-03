@@ -1,0 +1,146 @@
+
+FG_featuer_dianji.png
+size: 1731,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dianji/1_00
+  rotate: false
+  xy: 904, 366
+  size: 450, 100
+  orig: 450, 150
+  offset: 0, 27
+  index: -1
+images/dianji/1_01
+  rotate: false
+  xy: 454, 26
+  size: 450, 101
+  orig: 450, 150
+  offset: 0, 26
+  index: -1
+images/dianji/1_02
+  rotate: false
+  xy: 454, 129
+  size: 450, 103
+  orig: 450, 150
+  offset: 0, 24
+  index: -1
+images/dianji/1_03
+  rotate: false
+  xy: 454, 234
+  size: 450, 105
+  orig: 450, 150
+  offset: 0, 22
+  index: -1
+images/dianji/1_04
+  rotate: false
+  xy: 2, 5
+  size: 450, 108
+  orig: 450, 150
+  offset: 0, 20
+  index: -1
+images/dianji/1_05
+  rotate: false
+  xy: 2, 115
+  size: 450, 111
+  orig: 450, 150
+  offset: 0, 18
+  index: -1
+images/dianji/1_06
+  rotate: false
+  xy: 904, 468
+  size: 450, 112
+  orig: 450, 150
+  offset: 0, 17
+  index: -1
+images/dianji/1_07
+  rotate: false
+  xy: 2, 228
+  size: 450, 115
+  orig: 450, 150
+  offset: 0, 15
+  index: -1
+images/dianji/1_08
+  rotate: false
+  xy: 2, 345
+  size: 450, 116
+  orig: 450, 150
+  offset: 0, 14
+  index: -1
+images/dianji/1_09
+  rotate: false
+  xy: 2, 463
+  size: 450, 117
+  orig: 450, 150
+  offset: 0, 13
+  index: -1
+images/dianji/1_10
+  rotate: false
+  xy: 454, 462
+  size: 448, 118
+  orig: 450, 150
+  offset: 1, 12
+  index: -1
+images/dianji/1_11
+  rotate: false
+  xy: 454, 341
+  size: 437, 119
+  orig: 450, 150
+  offset: 6, 11
+  index: -1
+images/dianji/1_12
+  rotate: false
+  xy: 906, 245
+  size: 418, 119
+  orig: 450, 150
+  offset: 16, 10
+  index: -1
+images/dianji/1_13
+  rotate: false
+  xy: 906, 124
+  size: 374, 119
+  orig: 450, 150
+  offset: 37, 9
+  index: -1
+images/dianji/1_14
+  rotate: false
+  xy: 1356, 460
+  size: 373, 120
+  orig: 450, 150
+  offset: 37, 8
+  index: -1
+images/dianji/1_15
+  rotate: false
+  xy: 906, 2
+  size: 369, 120
+  orig: 450, 150
+  offset: 38, 7
+  index: -1
+images/dianji/1_16
+  rotate: false
+  xy: 1356, 338
+  size: 369, 120
+  orig: 450, 150
+  offset: 38, 6
+  index: -1
+images/dianji/1_17
+  rotate: false
+  xy: 1326, 223
+  size: 365, 113
+  orig: 450, 150
+  offset: 38, 12
+  index: -1
+images/dianji/1_18
+  rotate: false
+  xy: 1282, 108
+  size: 364, 113
+  orig: 450, 150
+  offset: 39, 11
+  index: -1
+images/dianji/1_19
+  rotate: false
+  xy: 1277, 6
+  size: 358, 100
+  orig: 450, 150
+  offset: 40, 11
+  index: -1

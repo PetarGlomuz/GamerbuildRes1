@@ -1,0 +1,153 @@
+
+Grand.png
+size: 868,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grand
+  rotate: false
+  xy: 2, 326
+  size: 481, 227
+  orig: 481, 227
+  offset: 0, 0
+  index: -1
+grand/grand_00
+  rotate: false
+  xy: 800, 252
+  size: 62, 86
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_01
+  rotate: false
+  xy: 731, 132
+  size: 84, 104
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_02
+  rotate: true
+  xy: 619, 133
+  size: 103, 110
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_03
+  rotate: true
+  xy: 501, 12
+  size: 122, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_04
+  rotate: false
+  xy: 337, 111
+  size: 142, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_05
+  rotate: false
+  xy: 713, 442
+  size: 150, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_06
+  rotate: false
+  xy: 485, 238
+  size: 182, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+grand/grand_07
+  rotate: false
+  xy: 113, 10
+  size: 195, 110
+  orig: 253, 136
+  offset: 11, 14
+  index: -1
+grand/grand_08
+  rotate: true
+  xy: 2, 2
+  size: 220, 109
+  orig: 253, 136
+  offset: 12, 15
+  index: -1
+grand/grand_09
+  rotate: false
+  xy: 485, 453
+  size: 226, 100
+  orig: 253, 136
+  offset: 14, 24
+  index: -1
+grand/grand_10
+  rotate: false
+  xy: 2, 224
+  size: 230, 100
+  orig: 253, 136
+  offset: 17, 24
+  index: -1
+grand/grand_11
+  rotate: false
+  xy: 234, 224
+  size: 226, 100
+  orig: 253, 136
+  offset: 22, 24
+  index: -1
+grand/grand_12
+  rotate: false
+  xy: 113, 122
+  size: 222, 100
+  orig: 253, 136
+  offset: 26, 24
+  index: -1
+grand/grand_13
+  rotate: false
+  xy: 485, 351
+  size: 209, 100
+  orig: 253, 136
+  offset: 39, 24
+  index: -1
+grand/grand_14
+  rotate: false
+  xy: 310, 9
+  size: 189, 100
+  orig: 253, 136
+  offset: 59, 24
+  index: -1
+grand/grand_15
+  rotate: false
+  xy: 696, 340
+  size: 170, 100
+  orig: 253, 136
+  offset: 78, 24
+  index: -1
+grand/grand_16
+  rotate: false
+  xy: 481, 136
+  size: 136, 100
+  orig: 253, 136
+  offset: 112, 24
+  index: -1
+grand/grand_17
+  rotate: false
+  xy: 669, 238
+  size: 129, 100
+  orig: 253, 136
+  offset: 119, 24
+  index: -1
+grand/grand_18
+  rotate: false
+  xy: 614, 31
+  size: 104, 100
+  orig: 253, 136
+  offset: 144, 24
+  index: -1
+grand/grand_19
+  rotate: false
+  xy: 720, 31
+  size: 80, 99
+  orig: 253, 136
+  offset: 168, 25
+  index: -1

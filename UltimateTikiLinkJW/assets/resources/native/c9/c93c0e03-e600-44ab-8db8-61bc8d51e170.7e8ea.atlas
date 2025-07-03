@@ -1,0 +1,62 @@
+
+Ball2.png
+size: 146,170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h6/H6_001
+  rotate: false
+  xy: 74, 122
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_002
+  rotate: true
+  xy: 2, 50
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_003
+  rotate: false
+  xy: 2, 2
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_004
+  rotate: true
+  xy: 50, 50
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_005
+  rotate: false
+  xy: 74, 2
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_006
+  rotate: true
+  xy: 98, 50
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_007
+  rotate: false
+  xy: 2, 122
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1
+images/h6/H6_000
+  rotate: false
+  xy: 2, 122
+  size: 70, 46
+  orig: 70, 46
+  offset: 0, 0
+  index: -1

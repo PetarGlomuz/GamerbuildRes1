@@ -1,0 +1,216 @@
+
+BG_hengxiangdongxiao.png
+size: 910,908
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hui/hui_00
+  rotate: true
+  xy: 845, 161
+  size: 158, 16
+  orig: 356, 117
+  offset: 23, 92
+  index: -1
+images/hui/hui_01
+  rotate: true
+  xy: 823, 158
+  size: 161, 20
+  orig: 356, 117
+  offset: 21, 89
+  index: -1
+images/hui/hui_02
+  rotate: true
+  xy: 613, 64
+  size: 166, 21
+  orig: 356, 117
+  offset: 19, 88
+  index: -1
+images/hui/hui_03
+  rotate: true
+  xy: 629, 514
+  size: 279, 25
+  orig: 356, 117
+  offset: 18, 84
+  index: -1
+images/hui/hui_04
+  rotate: true
+  xy: 790, 36
+  size: 281, 31
+  orig: 356, 117
+  offset: 18, 79
+  index: -1
+images/hui/hui_05
+  rotate: true
+  xy: 750, 34
+  size: 283, 38
+  orig: 356, 117
+  offset: 17, 73
+  index: -1
+images/hui/hui_06
+  rotate: true
+  xy: 864, 619
+  size: 287, 44
+  orig: 356, 117
+  offset: 16, 66
+  index: -1
+images/hui/hui_07
+  rotate: true
+  xy: 697, 27
+  size: 288, 51
+  orig: 356, 117
+  offset: 16, 59
+  index: -1
+images/hui/hui_08
+  rotate: true
+  xy: 636, 25
+  size: 290, 59
+  orig: 356, 117
+  offset: 16, 52
+  index: -1
+images/hui/hui_09
+  rotate: true
+  xy: 743, 319
+  size: 291, 70
+  orig: 356, 117
+  offset: 16, 41
+  index: -1
+images/hui/hui_10
+  rotate: true
+  xy: 815, 321
+  size: 291, 76
+  orig: 356, 117
+  offset: 16, 35
+  index: -1
+images/hui/hui_11
+  rotate: true
+  xy: 656, 317
+  size: 293, 85
+  orig: 356, 117
+  offset: 14, 26
+  index: -1
+images/hui/hui_12
+  rotate: true
+  xy: 765, 614
+  size: 292, 97
+  orig: 356, 117
+  offset: 16, 14
+  index: -1
+images/hui/hui_13
+  rotate: true
+  xy: 656, 612
+  size: 294, 107
+  orig: 356, 117
+  offset: 15, 4
+  index: -1
+images/hui/hui_14
+  rotate: false
+  xy: 311, 6
+  size: 300, 110
+  orig: 356, 117
+  offset: 10, 1
+  index: -1
+images/hui/hui_15
+  rotate: false
+  xy: 2, 6
+  size: 303, 109
+  orig: 356, 117
+  offset: 8, 2
+  index: -1
+images/hui/hui_16
+  rotate: false
+  xy: 311, 118
+  size: 300, 112
+  orig: 356, 117
+  offset: 11, 0
+  index: -1
+images/hui/hui_17
+  rotate: false
+  xy: 2, 231
+  size: 307, 112
+  orig: 356, 117
+  offset: 5, 0
+  index: -1
+images/hui/hui_18
+  rotate: false
+  xy: 311, 232
+  size: 303, 111
+  orig: 356, 117
+  offset: 10, 1
+  index: -1
+images/hui/hui_19
+  rotate: false
+  xy: 2, 117
+  size: 307, 112
+  orig: 356, 117
+  offset: 8, 0
+  index: -1
+images/hui/hui_20
+  rotate: false
+  xy: 316, 456
+  size: 308, 112
+  orig: 356, 117
+  offset: 8, 0
+  index: -1
+images/hui/hui_21
+  rotate: false
+  xy: 2, 794
+  size: 312, 112
+  orig: 356, 117
+  offset: 7, 0
+  index: -1
+images/hui/hui_22
+  rotate: false
+  xy: 2, 681
+  size: 312, 111
+  orig: 356, 117
+  offset: 8, 0
+  index: -1
+images/hui/hui_23
+  rotate: false
+  xy: 316, 795
+  size: 312, 111
+  orig: 356, 117
+  offset: 7, 0
+  index: -1
+images/hui/hui_24
+  rotate: false
+  xy: 2, 568
+  size: 312, 111
+  orig: 356, 117
+  offset: 6, 0
+  index: -1
+images/hui/hui_25
+  rotate: false
+  xy: 316, 682
+  size: 311, 111
+  orig: 356, 117
+  offset: 7, 0
+  index: -1
+images/hui/hui_26
+  rotate: false
+  xy: 316, 570
+  size: 311, 110
+  orig: 356, 117
+  offset: 7, 0
+  index: -1
+images/hui/hui_27
+  rotate: false
+  xy: 2, 456
+  size: 312, 110
+  orig: 356, 117
+  offset: 7, 0
+  index: -1
+images/hui/hui_28
+  rotate: false
+  xy: 2, 345
+  size: 312, 109
+  orig: 356, 117
+  offset: 7, 0
+  index: -1
+images/hui/hui_29
+  rotate: false
+  xy: 316, 345
+  size: 309, 109
+  orig: 356, 117
+  offset: 10, 0
+  index: -1

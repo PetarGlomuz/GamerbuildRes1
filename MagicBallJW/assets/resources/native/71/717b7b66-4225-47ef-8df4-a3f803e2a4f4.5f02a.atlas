@@ -1,0 +1,118 @@
+
+TC_FG_anniu.png
+size: 408,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu
+  rotate: false
+  xy: 2, 340
+  size: 223, 66
+  orig: 223, 66
+  offset: 0, 0
+  index: -1
+images/g/g_00
+  rotate: true
+  xy: 149, 2
+  size: 72, 64
+  orig: 223, 66
+  offset: 0, 2
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 165, 142
+  size: 90, 64
+  orig: 223, 66
+  offset: 0, 2
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 173, 208
+  size: 108, 64
+  orig: 223, 66
+  offset: 0, 2
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 257, 78
+  size: 127, 64
+  orig: 223, 66
+  offset: 0, 2
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 2, 10
+  size: 145, 64
+  orig: 223, 66
+  offset: 0, 2
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 2, 142
+  size: 161, 64
+  orig: 223, 66
+  offset: 2, 2
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 227, 342
+  size: 171, 64
+  orig: 223, 66
+  offset: 10, 2
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 2, 274
+  size: 172, 64
+  orig: 223, 66
+  offset: 27, 2
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 2, 208
+  size: 169, 64
+  orig: 223, 66
+  offset: 45, 2
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 76
+  size: 159, 64
+  orig: 223, 66
+  offset: 63, 2
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 227, 276
+  size: 142, 64
+  orig: 223, 66
+  offset: 81, 2
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 283, 210
+  size: 123, 64
+  orig: 223, 66
+  offset: 100, 2
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 283, 144
+  size: 105, 64
+  orig: 223, 66
+  offset: 118, 2
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 215, 10
+  size: 87, 64
+  orig: 223, 66
+  offset: 136, 2
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 163, 76
+  size: 69, 64
+  orig: 223, 66
+  offset: 154, 2
+  index: -1

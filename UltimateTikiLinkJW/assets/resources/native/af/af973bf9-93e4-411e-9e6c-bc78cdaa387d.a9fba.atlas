@@ -1,0 +1,146 @@
+
+XBei.png
+size: 1696,728
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/XB/XB_001
+  rotate: false
+  xy: 2, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_002
+  rotate: false
+  xy: 244, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_003
+  rotate: false
+  xy: 2, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_004
+  rotate: false
+  xy: 244, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_005
+  rotate: false
+  xy: 486, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_006
+  rotate: false
+  xy: 244, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_007
+  rotate: false
+  xy: 486, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_008
+  rotate: false
+  xy: 728, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_009
+  rotate: false
+  xy: 486, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_010
+  rotate: false
+  xy: 728, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_011
+  rotate: false
+  xy: 970, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_012
+  rotate: false
+  xy: 728, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_013
+  rotate: false
+  xy: 970, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_014
+  rotate: false
+  xy: 1212, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_015
+  rotate: false
+  xy: 970, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_016
+  rotate: false
+  xy: 1212, 244
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_017
+  rotate: false
+  xy: 1454, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_018
+  rotate: false
+  xy: 1212, 2
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_019
+  rotate: false
+  xy: 2, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1
+images/XB/XB_000
+  rotate: false
+  xy: 2, 486
+  size: 240, 240
+  orig: 240, 240
+  offset: 0, 0
+  index: -1

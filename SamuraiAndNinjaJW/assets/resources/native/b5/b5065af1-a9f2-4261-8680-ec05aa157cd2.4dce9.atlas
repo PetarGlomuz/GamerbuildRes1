@@ -1,0 +1,153 @@
+
+JP_TK_anniuSG.png
+size: 184,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniusaoguang/anniusaoguang_00000
+  rotate: true
+  xy: 90, 9
+  size: 21, 35
+  orig: 184, 56
+  offset: 11, 16
+  index: -1
+anniusaoguang/anniusaoguang_00001
+  rotate: true
+  xy: 2, 2
+  size: 31, 46
+  orig: 184, 56
+  offset: 11, 5
+  index: -1
+anniusaoguang/anniusaoguang_00002
+  rotate: false
+  xy: 128, 33
+  size: 42, 46
+  orig: 184, 56
+  offset: 11, 5
+  index: -1
+anniusaoguang/anniusaoguang_00003
+  rotate: false
+  xy: 74, 32
+  size: 52, 47
+  orig: 184, 56
+  offset: 11, 4
+  index: -1
+anniusaoguang/anniusaoguang_00004
+  rotate: false
+  xy: 110, 130
+  size: 63, 47
+  orig: 184, 56
+  offset: 11, 4
+  index: -1
+anniusaoguang/anniusaoguang_00005
+  rotate: false
+  xy: 111, 228
+  size: 68, 47
+  orig: 184, 56
+  offset: 16, 4
+  index: -1
+anniusaoguang/anniusaoguang_00006
+  rotate: false
+  xy: 111, 277
+  size: 69, 47
+  orig: 184, 56
+  offset: 26, 4
+  index: -1
+anniusaoguang/anniusaoguang_00007
+  rotate: false
+  xy: 111, 473
+  size: 70, 47
+  orig: 184, 56
+  offset: 35, 4
+  index: -1
+anniusaoguang/anniusaoguang_00008
+  rotate: false
+  xy: 2, 84
+  size: 70, 47
+  orig: 184, 56
+  offset: 46, 4
+  index: -1
+anniusaoguang/anniusaoguang_00009
+  rotate: false
+  xy: 2, 133
+  size: 71, 47
+  orig: 184, 56
+  offset: 56, 4
+  index: -1
+anniusaoguang/anniusaoguang_00010
+  rotate: false
+  xy: 111, 424
+  size: 70, 47
+  orig: 184, 56
+  offset: 67, 4
+  index: -1
+anniusaoguang/anniusaoguang_00011
+  rotate: false
+  xy: 2, 35
+  size: 70, 47
+  orig: 184, 56
+  offset: 78, 4
+  index: -1
+anniusaoguang/anniusaoguang_00012
+  rotate: false
+  xy: 111, 375
+  size: 70, 47
+  orig: 184, 56
+  offset: 88, 4
+  index: -1
+anniusaoguang/anniusaoguang_00013
+  rotate: false
+  xy: 111, 326
+  size: 70, 47
+  orig: 184, 56
+  offset: 99, 4
+  index: -1
+anniusaoguang/anniusaoguang_00014
+  rotate: false
+  xy: 111, 179
+  size: 65, 47
+  orig: 184, 56
+  offset: 109, 4
+  index: -1
+anniusaoguang/anniusaoguang_00015
+  rotate: false
+  xy: 74, 81
+  size: 54, 47
+  orig: 184, 56
+  offset: 120, 4
+  index: -1
+anniusaoguang/anniusaoguang_00016
+  rotate: false
+  xy: 130, 81
+  size: 44, 47
+  orig: 184, 56
+  offset: 130, 4
+  index: -1
+anniusaoguang/anniusaoguang_00017
+  rotate: false
+  xy: 75, 133
+  size: 33, 47
+  orig: 184, 56
+  offset: 141, 4
+  index: -1
+anniusaoguang/anniusaoguang_00018
+  rotate: true
+  xy: 50, 7
+  size: 23, 38
+  orig: 184, 56
+  offset: 151, 5
+  index: -1
+anniusaoguang/anniusaoguang_00019
+  rotate: false
+  xy: 172, 59
+  size: 10, 20
+  orig: 184, 56
+  offset: 164, 5
+  index: -1
+btn_common
+  rotate: true
+  xy: 2, 182
+  size: 338, 107
+  orig: 338, 107
+  offset: 0, 0
+  index: -1

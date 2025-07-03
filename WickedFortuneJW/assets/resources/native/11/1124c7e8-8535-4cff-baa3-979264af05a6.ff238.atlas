@@ -1,0 +1,125 @@
+
+BG_jizhonglizi.png
+size: 961,299
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/quanquan1
+  rotate: false
+  xy: 388, 169
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wenjian/quanquan2
+  rotate: false
+  xy: 648, 179
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+wenjian/xingxing1
+  rotate: false
+  xy: 713, 62
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+wenjian/xingxing2
+  rotate: false
+  xy: 463, 39
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wenjian/xingxing7
+  rotate: false
+  xy: 518, 169
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+wenjian/xingzha/xingzha_00001
+  rotate: false
+  xy: 787, 10
+  size: 38, 50
+  orig: 298, 218
+  offset: 145, 77
+  index: -1
+wenjian/xingzha/xingzha_00002
+  rotate: true
+  xy: 713, 4
+  size: 56, 72
+  orig: 298, 218
+  offset: 136, 65
+  index: -1
+wenjian/xingzha/xingzha_00003
+  rotate: false
+  xy: 881, 204
+  size: 78, 93
+  orig: 298, 218
+  offset: 125, 54
+  index: -1
+wenjian/xingzha/xingzha_00004
+  rotate: true
+  xy: 830, 80
+  size: 99, 106
+  orig: 298, 218
+  offset: 114, 49
+  index: -1
+wenjian/xingzha/xingzha_00005
+  rotate: true
+  xy: 768, 181
+  size: 116, 111
+  orig: 298, 218
+  offset: 104, 50
+  index: -1
+wenjian/xingzha/xingzha_00006
+  rotate: true
+  xy: 593, 36
+  size: 131, 118
+  orig: 298, 218
+  offset: 95, 49
+  index: -1
+wenjian/xingzha/xingzha_00007
+  rotate: false
+  xy: 157, 8
+  size: 143, 115
+  orig: 298, 218
+  offset: 88, 56
+  index: -1
+wenjian/xingzha/xingzha_00008
+  rotate: false
+  xy: 2, 2
+  size: 153, 121
+  orig: 298, 218
+  offset: 82, 53
+  index: -1
+wenjian/xingzha/xingzha_00009
+  rotate: false
+  xy: 302, 4
+  size: 159, 125
+  orig: 298, 218
+  offset: 76, 52
+  index: -1
+wenjian/xingzha/xingzha_00010
+  rotate: true
+  xy: 260, 131
+  size: 166, 126
+  orig: 298, 218
+  offset: 72, 51
+  index: -1
+wenjian/xingzha/xingzha_00011
+  rotate: true
+  xy: 2, 125
+  size: 172, 127
+  orig: 298, 218
+  offset: 68, 51
+  index: -1
+wenjian/xingzha/xingzha_00012
+  rotate: true
+  xy: 131, 125
+  size: 172, 127
+  orig: 298, 218
+  offset: 66, 50
+  index: -1

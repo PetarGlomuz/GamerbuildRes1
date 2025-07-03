@@ -1,0 +1,69 @@
+
+BG_jiemianzhuzi.png
+size: 1843,1063
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/deng1
+  rotate: true
+  xy: 1820, 464
+  size: 597, 21
+  orig: 597, 21
+  offset: 0, 0
+  index: -1
+images/deng2
+  rotate: true
+  xy: 1797, 428
+  size: 633, 21
+  orig: 633, 21
+  offset: 0, 0
+  index: -1
+images/deng3
+  rotate: true
+  xy: 2, 18
+  size: 172, 1059
+  orig: 172, 1059
+  offset: 0, 0
+  index: -1
+images/deng4
+  rotate: false
+  xy: 1349, 32
+  size: 156, 1029
+  orig: 156, 1029
+  offset: 0, 0
+  index: -1
+images/deng5
+  rotate: false
+  xy: 1175, 2
+  size: 172, 1059
+  orig: 172, 1059
+  offset: 0, 0
+  index: -1
+images/deng6
+  rotate: false
+  xy: 1507, 32
+  size: 156, 1029
+  orig: 156, 1029
+  offset: 0, 0
+  index: -1
+images/grond
+  rotate: true
+  xy: 2, 192
+  size: 869, 1171
+  orig: 869, 1171
+  offset: 0, 0
+  index: -1
+images/hengdeng
+  rotate: false
+  xy: 1665, 291
+  size: 130, 770
+  orig: 191, 1560
+  offset: 61, 279
+  index: -1
+images/xinguang
+  rotate: false
+  xy: 1063, 146
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+FGNumber.png
+size: 190,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FGN/FGN_000
+  rotate: false
+  xy: 2, 962
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_001
+  rotate: false
+  xy: 96, 962
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_002
+  rotate: false
+  xy: 2, 872
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_003
+  rotate: false
+  xy: 96, 872
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_004
+  rotate: false
+  xy: 2, 782
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_005
+  rotate: false
+  xy: 96, 782
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_006
+  rotate: false
+  xy: 2, 692
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_007
+  rotate: false
+  xy: 96, 692
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_008
+  rotate: false
+  xy: 2, 602
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_009
+  rotate: false
+  xy: 96, 602
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_010
+  rotate: false
+  xy: 2, 512
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_011
+  rotate: false
+  xy: 96, 512
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_012
+  rotate: false
+  xy: 2, 422
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_013
+  rotate: false
+  xy: 96, 422
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_014
+  rotate: false
+  xy: 2, 332
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_015
+  rotate: false
+  xy: 96, 332
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_016
+  rotate: false
+  xy: 2, 242
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_017
+  rotate: false
+  xy: 96, 242
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_018
+  rotate: false
+  xy: 2, 152
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/FGN/FGN_019
+  rotate: false
+  xy: 96, 152
+  size: 92, 88
+  orig: 92, 88
+  offset: 0, 0
+  index: -1
+images/H1111115
+  rotate: false
+  xy: 2, 2
+  size: 160, 148
+  orig: 160, 148
+  offset: 0, 0
+  index: -1

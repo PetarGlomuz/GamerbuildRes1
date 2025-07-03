@@ -1,0 +1,160 @@
+
+Map_zhangyu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao
+  rotate: true
+  xy: 2, 2
+  size: 39, 83
+  orig: 83, 83
+  offset: 3, 0
+  index: -1
+dao_sg/dao_sg_01
+  rotate: false
+  xy: 427, 115
+  size: 9, 11
+  orig: 50, 50
+  offset: 10, 17
+  index: -1
+dao_sg/dao_sg_02
+  rotate: true
+  xy: 366, 83
+  size: 11, 17
+  orig: 50, 50
+  offset: 8, 15
+  index: -1
+dao_sg/dao_sg_03
+  rotate: false
+  xy: 401, 105
+  size: 12, 21
+  orig: 50, 50
+  offset: 7, 15
+  index: -1
+dao_sg/dao_sg_04
+  rotate: false
+  xy: 385, 100
+  size: 14, 26
+  orig: 50, 50
+  offset: 6, 15
+  index: -1
+dao_sg/dao_sg_05
+  rotate: false
+  xy: 334, 96
+  size: 15, 30
+  orig: 50, 50
+  offset: 5, 15
+  index: -1
+dao_sg/dao_sg_06
+  rotate: true
+  xy: 164, 63
+  size: 14, 31
+  orig: 50, 50
+  offset: 5, 15
+  index: -1
+dao_sg/dao_sg_07
+  rotate: false
+  xy: 351, 96
+  size: 15, 30
+  orig: 50, 50
+  offset: 4, 16
+  index: -1
+dao_sg/dao_sg_08
+  rotate: true
+  xy: 334, 79
+  size: 15, 30
+  orig: 50, 50
+  offset: 4, 17
+  index: -1
+dao_sg/dao_sg_09
+  rotate: false
+  xy: 368, 96
+  size: 15, 30
+  orig: 50, 50
+  offset: 4, 17
+  index: -1
+dao_sg/dao_sg_10
+  rotate: true
+  xy: 164, 48
+  size: 13, 28
+  orig: 50, 50
+  offset: 4, 19
+  index: -1
+dao_sg/dao_sg_11
+  rotate: true
+  xy: 197, 65
+  size: 12, 24
+  orig: 50, 50
+  offset: 4, 23
+  index: -1
+dao_sg/dao_sg_12
+  rotate: false
+  xy: 415, 106
+  size: 10, 20
+  orig: 50, 50
+  offset: 5, 27
+  index: -1
+dao_sg/dao_sg_13
+  rotate: false
+  xy: 385, 83
+  size: 8, 15
+  orig: 50, 50
+  offset: 6, 31
+  index: -1
+dao_sg/dao_sg_14
+  rotate: false
+  xy: 438, 115
+  size: 8, 11
+  orig: 50, 50
+  offset: 6, 35
+  index: -1
+daoguang/daoguang_00
+  rotate: false
+  xy: 87, 3
+  size: 43, 38
+  orig: 150, 150
+  offset: 88, 81
+  index: -1
+daoguang/daoguang_01
+  rotate: false
+  xy: 133, 79
+  size: 89, 47
+  orig: 150, 150
+  offset: 37, 95
+  index: -1
+daoguang/daoguang_02
+  rotate: true
+  xy: 77, 43
+  size: 83, 54
+  orig: 150, 150
+  offset: 15, 79
+  index: -1
+daoguang/daoguang_03
+  rotate: true
+  xy: 224, 75
+  size: 51, 62
+  orig: 150, 150
+  offset: 12, 54
+  index: -1
+daoguang/daoguang_04
+  rotate: false
+  xy: 288, 78
+  size: 44, 48
+  orig: 150, 150
+  offset: 19, 35
+  index: -1
+star1
+  rotate: false
+  xy: 133, 48
+  size: 29, 29
+  orig: 30, 31
+  offset: 1, 1
+  index: -1
+zhangyu
+  rotate: false
+  xy: 2, 43
+  size: 73, 83
+  orig: 83, 83
+  offset: 7, 0
+  index: -1

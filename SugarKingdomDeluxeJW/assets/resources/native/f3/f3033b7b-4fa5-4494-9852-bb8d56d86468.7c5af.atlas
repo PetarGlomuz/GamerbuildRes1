@@ -1,0 +1,139 @@
+
+ShuZiJieSuan.png
+size: 1108,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/li/fei_000
+  rotate: false
+  xy: 296, 178
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/li/fei_018
+  rotate: false
+  xy: 296, 178
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/li/fei_001
+  rotate: true
+  xy: 779, 198
+  size: 69, 100
+  orig: 110, 380
+  offset: 20, 9
+  index: -1
+images/li/fei_002
+  rotate: true
+  xy: 177, 3
+  size: 82, 141
+  orig: 110, 380
+  offset: 16, 1
+  index: -1
+images/li/fei_003
+  rotate: true
+  xy: 815, 16
+  size: 87, 163
+  orig: 110, 380
+  offset: 15, 6
+  index: -1
+images/li/fei_004
+  rotate: false
+  xy: 1015, 74
+  size: 91, 193
+  orig: 110, 380
+  offset: 13, 11
+  index: -1
+images/li/fei_005
+  rotate: true
+  xy: 792, 105
+  size: 91, 221
+  orig: 110, 380
+  offset: 13, 17
+  index: -1
+images/li/fei_006
+  rotate: true
+  xy: 547, 88
+  size: 91, 243
+  orig: 110, 380
+  offset: 12, 24
+  index: -1
+images/li/fei_007
+  rotate: true
+  xy: 285, 87
+  size: 89, 260
+  orig: 110, 380
+  offset: 13, 39
+  index: -1
+images/li/fei_008
+  rotate: true
+  xy: 2, 87
+  size: 89, 281
+  orig: 110, 380
+  offset: 14, 53
+  index: -1
+images/li/fei_009
+  rotate: true
+  xy: 2, 178
+  size: 89, 292
+  orig: 110, 380
+  offset: 14, 73
+  index: -1
+images/li/fei_010
+  rotate: true
+  xy: 296, 181
+  size: 86, 267
+  orig: 110, 380
+  offset: 15, 113
+  index: -1
+images/li/fei_011
+  rotate: true
+  xy: 575, 2
+  size: 84, 238
+  orig: 110, 380
+  offset: 16, 142
+  index: -1
+images/li/fei_012
+  rotate: true
+  xy: 565, 183
+  size: 84, 212
+  orig: 110, 380
+  offset: 17, 168
+  index: -1
+images/li/fei_013
+  rotate: true
+  xy: 2, 3
+  size: 82, 173
+  orig: 110, 380
+  offset: 17, 207
+  index: -1
+images/li/fei_014
+  rotate: true
+  xy: 320, 8
+  size: 77, 145
+  orig: 110, 380
+  offset: 19, 235
+  index: -1
+images/li/fei_015
+  rotate: true
+  xy: 467, 15
+  size: 70, 106
+  orig: 110, 380
+  offset: 22, 274
+  index: -1
+images/li/fei_016
+  rotate: true
+  xy: 881, 205
+  size: 62, 76
+  orig: 110, 380
+  offset: 26, 304
+  index: -1
+images/li/fei_017
+  rotate: true
+  xy: 959, 219
+  size: 48, 52
+  orig: 110, 380
+  offset: 33, 314
+  index: -1

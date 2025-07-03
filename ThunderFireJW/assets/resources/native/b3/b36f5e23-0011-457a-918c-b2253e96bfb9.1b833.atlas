@@ -1,0 +1,153 @@
+
+YingTao.png
+size: 237,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/YT_SG/YT_SG_000
+  rotate: true
+  xy: 77, 2
+  size: 16, 24
+  orig: 70, 60
+  offset: 10, 13
+  index: -1
+images/YT_SG/YT_SG_001
+  rotate: true
+  xy: 114, 2
+  size: 20, 28
+  orig: 70, 60
+  offset: 10, 10
+  index: -1
+images/YT_SG/YT_SG_002
+  rotate: true
+  xy: 77, 20
+  size: 25, 35
+  orig: 70, 60
+  offset: 8, 6
+  index: -1
+images/YT_SG/YT_SG_003
+  rotate: true
+  xy: 2, 6
+  size: 39, 45
+  orig: 70, 60
+  offset: 7, 6
+  index: -1
+images/YT_SG/YT_SG_004
+  rotate: false
+  xy: 187, 160
+  size: 46, 51
+  orig: 70, 60
+  offset: 3, 1
+  index: -1
+images/YT_SG/YT_SG_005
+  rotate: false
+  xy: 187, 213
+  size: 48, 54
+  orig: 70, 60
+  offset: 1, 0
+  index: -1
+images/YT_SG/YT_SG_006
+  rotate: false
+  xy: 64, 47
+  size: 49, 57
+  orig: 70, 60
+  offset: 2, 0
+  index: -1
+images/YT_SG/YT_SG_007
+  rotate: false
+  xy: 2, 102
+  size: 60, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+images/YT_SG/YT_SG_008
+  rotate: false
+  xy: 118, 145
+  size: 62, 60
+  orig: 70, 60
+  offset: 0, 0
+  index: -1
+images/YT_SG/YT_SG_009
+  rotate: true
+  xy: 115, 24
+  size: 58, 60
+  orig: 70, 60
+  offset: 4, 0
+  index: -1
+images/YT_SG/YT_SG_010
+  rotate: true
+  xy: 117, 84
+  size: 59, 60
+  orig: 70, 60
+  offset: 4, 0
+  index: -1
+images/YT_SG/YT_SG_011
+  rotate: false
+  xy: 118, 207
+  size: 67, 60
+  orig: 70, 60
+  offset: 3, 0
+  index: -1
+images/YT_SG/YT_SG_012
+  rotate: true
+  xy: 182, 99
+  size: 59, 52
+  orig: 70, 60
+  offset: 11, 4
+  index: -1
+images/YT_SG/YT_SG_013
+  rotate: true
+  xy: 64, 106
+  size: 56, 51
+  orig: 70, 60
+  offset: 13, 4
+  index: -1
+images/YT_SG/YT_SG_014
+  rotate: false
+  xy: 179, 39
+  size: 56, 58
+  orig: 70, 60
+  offset: 14, 0
+  index: -1
+images/YT_SG/YT_SG_015
+  rotate: true
+  xy: 2, 48
+  size: 52, 49
+  orig: 70, 60
+  offset: 17, 6
+  index: -1
+images/YT_SG/YT_SG_016
+  rotate: true
+  xy: 177, 5
+  size: 32, 41
+  orig: 70, 60
+  offset: 30, 13
+  index: -1
+images/YT_SG/YT_SG_017
+  rotate: false
+  xy: 49, 7
+  size: 26, 38
+  orig: 70, 60
+  offset: 36, 15
+  index: -1
+images/YT_SG/YT_SG_018
+  rotate: false
+  xy: 144, 6
+  size: 21, 16
+  orig: 70, 60
+  offset: 41, 18
+  index: -1
+images/YT_SG/YT_SG_019
+  rotate: false
+  xy: 182, 200
+  size: 2, 5
+  orig: 70, 60
+  offset: 59, 24
+  index: -1
+images/yingtao
+  rotate: false
+  xy: 2, 164
+  size: 114, 103
+  orig: 114, 104
+  offset: 0, 1
+  index: -1

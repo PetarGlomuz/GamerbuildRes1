@@ -1,0 +1,48 @@
+
+NG_L1.png
+size: 860,229
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gong
+  rotate: false
+  xy: 2, 2
+  size: 221, 225
+  orig: 222, 226
+  offset: 0, 0
+  index: -1
+gongfxian
+  rotate: false
+  xy: 521, 39
+  size: 153, 188
+  orig: 153, 188
+  offset: 0, 0
+  index: -1
+jian 1
+  rotate: true
+  xy: 356, 31
+  size: 196, 163
+  orig: 196, 164
+  offset: 0, 1
+  index: -1
+jian2
+  rotate: true
+  xy: 676, 73
+  size: 154, 182
+  orig: 154, 183
+  offset: 0, 1
+  index: -1
+jian3
+  rotate: true
+  xy: 225, 28
+  size: 199, 129
+  orig: 199, 129
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 676, 21
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

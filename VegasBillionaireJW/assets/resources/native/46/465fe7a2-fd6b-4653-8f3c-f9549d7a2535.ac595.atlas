@@ -1,0 +1,62 @@
+
+NG_bj.png
+size: 2019,941
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1253, 17
+  size: 638, 443
+  orig: 638, 443
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1253, 462
+  size: 612, 477
+  orig: 612, 477
+  offset: 0, 0
+  index: -1
+Pre-comp 42_00010_00000
+  rotate: false
+  xy: 1893, 438
+  size: 24, 26
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+bj
+  rotate: false
+  xy: 2, 2
+  size: 1249, 937
+  orig: 1249, 937
+  offset: 0, 0
+  index: -1
+guangxian
+  rotate: false
+  xy: 1867, 517
+  size: 150, 422
+  orig: 150, 422
+  offset: 0, 0
+  index: -1
+shanguangdeng_00000
+  rotate: false
+  xy: 1982, 489
+  size: 25, 26
+  orig: 26, 26
+  offset: 1, 0
+  index: -1
+youguang_00000
+  rotate: true
+  xy: 1867, 466
+  size: 49, 59
+  orig: 76, 74
+  offset: 13, 4
+  index: -1
+zuoguang_00000
+  rotate: true
+  xy: 1928, 469
+  size: 46, 52
+  orig: 62, 73
+  offset: 9, 6
+  index: -1

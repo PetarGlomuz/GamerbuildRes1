@@ -1,0 +1,160 @@
+
+MapProgress_JinDuTiao.png
+size: 1032,148
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/JDT/jindutiaosg_000
+  rotate: true
+  xy: 2, 2
+  size: 17, 24
+  orig: 280, 30
+  offset: 0, 4
+  index: -1
+images/JDT/jindutiaosg_001
+  rotate: false
+  xy: 672, 117
+  size: 42, 29
+  orig: 280, 30
+  offset: 0, 1
+  index: -1
+images/JDT/jindutiaosg_002
+  rotate: true
+  xy: 168, 80
+  size: 66, 30
+  orig: 280, 30
+  offset: 0, 0
+  index: -1
+images/JDT/jindutiaosg_003
+  rotate: true
+  xy: 136, 53
+  size: 93, 30
+  orig: 280, 30
+  offset: 0, 0
+  index: -1
+images/JDT/jindutiaosg_004
+  rotate: true
+  xy: 2, 21
+  size: 125, 30
+  orig: 280, 30
+  offset: 0, 0
+  index: -1
+images/JDT/jindutiaosg_005
+  rotate: false
+  xy: 644, 84
+  size: 148, 30
+  orig: 280, 30
+  offset: 3, 0
+  index: -1
+images/JDT/jindutiaosg_006
+  rotate: false
+  xy: 644, 52
+  size: 180, 30
+  orig: 280, 30
+  offset: 9, 0
+  index: -1
+images/JDT/jindutiaosg_007
+  rotate: false
+  xy: 442, 84
+  size: 200, 30
+  orig: 280, 30
+  offset: 16, 0
+  index: -1
+images/JDT/jindutiaosg_008
+  rotate: false
+  xy: 794, 116
+  size: 234, 30
+  orig: 280, 30
+  offset: 22, 0
+  index: -1
+images/JDT/jindutiaosg_009
+  rotate: false
+  xy: 168, 48
+  size: 247, 30
+  orig: 280, 30
+  offset: 29, 0
+  index: -1
+images/JDT/jindutiaosg_010
+  rotate: false
+  xy: 200, 84
+  size: 240, 30
+  orig: 280, 30
+  offset: 36, 0
+  index: -1
+images/JDT/jindutiaosg_011
+  rotate: false
+  xy: 200, 116
+  size: 237, 30
+  orig: 280, 30
+  offset: 42, 0
+  index: -1
+images/JDT/jindutiaosg_012
+  rotate: false
+  xy: 439, 116
+  size: 231, 30
+  orig: 280, 30
+  offset: 49, 0
+  index: -1
+images/JDT/jindutiaosg_013
+  rotate: false
+  xy: 417, 52
+  size: 225, 30
+  orig: 280, 30
+  offset: 55, 0
+  index: -1
+images/JDT/jindutiaosg_014
+  rotate: false
+  xy: 794, 85
+  size: 218, 29
+  orig: 280, 30
+  offset: 62, 1
+  index: -1
+images/JDT/jindutiaosg_015
+  rotate: false
+  xy: 34, 21
+  size: 211, 23
+  orig: 280, 30
+  offset: 68, 3
+  index: -1
+images/JDT/jindutiaosg_016
+  rotate: false
+  xy: 826, 60
+  size: 204, 23
+  orig: 280, 30
+  offset: 75, 3
+  index: -1
+images/JDT/jindutiaosg_017
+  rotate: false
+  xy: 826, 35
+  size: 197, 23
+  orig: 280, 30
+  offset: 82, 3
+  index: -1
+images/JDT/jindutiaosg_018
+  rotate: false
+  xy: 794, 10
+  size: 191, 23
+  orig: 280, 30
+  offset: 88, 3
+  index: -1
+images/JDT/jindutiaosg_019
+  rotate: true
+  xy: 28, 5
+  size: 14, 23
+  orig: 280, 30
+  offset: 265, 3
+  index: -1
+images/jindutiao2
+  rotate: false
+  xy: 247, 3
+  size: 545, 43
+  orig: 546, 44
+  offset: 0, 1
+  index: -1
+images/jindutiaosg2_000
+  rotate: false
+  xy: 34, 46
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

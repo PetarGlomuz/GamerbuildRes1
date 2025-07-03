@@ -1,0 +1,146 @@
+
+YingFenKuang.png
+size: 1850,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/YFK/yingfenkuang_000
+  rotate: true
+  xy: 94, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_001
+  rotate: true
+  xy: 186, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_002
+  rotate: true
+  xy: 278, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_003
+  rotate: true
+  xy: 922, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_004
+  rotate: true
+  xy: 1014, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_005
+  rotate: true
+  xy: 1566, 4
+  size: 98, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_006
+  rotate: true
+  xy: 370, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_007
+  rotate: true
+  xy: 462, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_008
+  rotate: true
+  xy: 1106, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_009
+  rotate: true
+  xy: 1198, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_010
+  rotate: true
+  xy: 1290, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_011
+  rotate: true
+  xy: 1382, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_012
+  rotate: true
+  xy: 1474, 3
+  size: 99, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_013
+  rotate: true
+  xy: 1658, 4
+  size: 98, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_014
+  rotate: false
+  xy: 1750, 12
+  size: 98, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_015
+  rotate: true
+  xy: 554, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_016
+  rotate: true
+  xy: 646, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_017
+  rotate: true
+  xy: 738, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_018
+  rotate: true
+  xy: 830, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1
+images/YFK/yingfenkuang_019
+  rotate: true
+  xy: 2, 2
+  size: 100, 90
+  orig: 100, 90
+  offset: 0, 0
+  index: -1

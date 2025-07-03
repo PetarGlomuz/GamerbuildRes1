@@ -1,0 +1,146 @@
+
+NG_tp.png
+size: 1486,1564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jinjie/1_00
+  rotate: false
+  xy: 766, 7
+  size: 385, 124
+  orig: 500, 200
+  offset: 31, 52
+  index: -1
+images/jinjie/1_02
+  rotate: false
+  xy: 2, 5
+  size: 386, 126
+  orig: 500, 200
+  offset: 31, 51
+  index: -1
+images/jinjie/1_04
+  rotate: false
+  xy: 727, 342
+  size: 381, 135
+  orig: 500, 200
+  offset: 31, 45
+  index: -1
+images/jinjie/1_06
+  rotate: false
+  xy: 390, 2
+  size: 374, 129
+  orig: 500, 200
+  offset: 37, 49
+  index: -1
+images/jinjie/1_08
+  rotate: false
+  xy: 727, 224
+  size: 375, 116
+  orig: 500, 200
+  offset: 36, 58
+  index: -1
+images/tp/1_00
+  rotate: true
+  xy: 2, 139
+  size: 354, 360
+  orig: 500, 720
+  offset: 77, 321
+  index: -1
+images/tp/1_01
+  rotate: false
+  xy: 382, 838
+  size: 365, 362
+  orig: 500, 720
+  offset: 71, 321
+  index: -1
+images/tp/1_02
+  rotate: false
+  xy: 373, 487
+  size: 366, 349
+  orig: 500, 720
+  offset: 66, 321
+  index: -1
+images/tp/1_03
+  rotate: false
+  xy: 364, 133
+  size: 361, 352
+  orig: 500, 720
+  offset: 62, 321
+  index: -1
+images/tp/1_04
+  rotate: false
+  xy: 749, 839
+  size: 363, 357
+  orig: 500, 720
+  offset: 55, 321
+  index: -1
+images/tp/1_05
+  rotate: false
+  xy: 749, 479
+  size: 360, 358
+  orig: 500, 720
+  offset: 60, 321
+  index: -1
+images/tp/1_06
+  rotate: false
+  xy: 390, 1202
+  size: 372, 360
+  orig: 500, 720
+  offset: 51, 321
+  index: -1
+images/tp/1_07
+  rotate: true
+  xy: 1114, 834
+  size: 354, 366
+  orig: 500, 720
+  offset: 72, 321
+  index: -1
+images/tp/1_08
+  rotate: true
+  xy: 2, 495
+  size: 358, 369
+  orig: 500, 720
+  offset: 73, 321
+  index: -1
+images/tp/1_09
+  rotate: false
+  xy: 764, 1198
+  size: 366, 364
+  orig: 500, 720
+  offset: 71, 321
+  index: -1
+images/tp/1_10
+  rotate: true
+  xy: 1132, 1190
+  size: 372, 352
+  orig: 500, 720
+  offset: 64, 321
+  index: -1
+images/tp/1_11
+  rotate: false
+  xy: 2, 855
+  size: 378, 353
+  orig: 500, 720
+  offset: 64, 321
+  index: -1
+images/tp/1_12
+  rotate: false
+  xy: 2, 1210
+  size: 386, 352
+  orig: 500, 720
+  offset: 58, 321
+  index: -1
+images/tp/1_13
+  rotate: false
+  xy: 1111, 483
+  size: 364, 349
+  orig: 500, 720
+  offset: 58, 321
+  index: -1
+images/tp/1_14
+  rotate: true
+  xy: 1111, 133
+  size: 348, 353
+  orig: 500, 720
+  offset: 80, 321
+  index: -1

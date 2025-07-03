@@ -1,0 +1,286 @@
+
+BG_zhuanpan_lizimoca.png
+size: 846,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111/1_00000
+  rotate: false
+  xy: 2, 106
+  size: 135, 209
+  orig: 142, 221
+  offset: 0, 12
+  index: -1
+111/1_00001
+  rotate: true
+  xy: 392, 11
+  size: 115, 189
+  orig: 142, 221
+  offset: 21, 14
+  index: -1
+111/1_00002
+  rotate: true
+  xy: 583, 44
+  size: 97, 168
+  orig: 142, 221
+  offset: 18, 18
+  index: -1
+111/1_00003
+  rotate: true
+  xy: 587, 144
+  size: 89, 150
+  orig: 142, 221
+  offset: 29, 22
+  index: -1
+111/1_00004
+  rotate: true
+  xy: 639, 333
+  size: 96, 171
+  orig: 142, 221
+  offset: 24, 13
+  index: -1
+111/1_00005
+  rotate: true
+  xy: 639, 431
+  size: 96, 177
+  orig: 142, 221
+  offset: 17, 17
+  index: -1
+111/1_00006
+  rotate: false
+  xy: 546, 347
+  size: 91, 180
+  orig: 142, 221
+  offset: 24, 22
+  index: -1
+111/1_00007
+  rotate: false
+  xy: 453, 330
+  size: 91, 197
+  orig: 142, 221
+  offset: 25, 12
+  index: -1
+111/1_00008
+  rotate: false
+  xy: 365, 328
+  size: 86, 199
+  orig: 142, 221
+  offset: 21, 15
+  index: -1
+111/1_00009
+  rotate: false
+  xy: 274, 123
+  size: 97, 199
+  orig: 142, 221
+  offset: 11, 19
+  index: -1
+111/1_00010
+  rotate: false
+  xy: 2, 317
+  size: 105, 210
+  orig: 142, 221
+  offset: 3, 11
+  index: -1
+111/1_00011
+  rotate: true
+  xy: 619, 235
+  size: 96, 171
+  orig: 142, 221
+  offset: 12, 15
+  index: -1
+111/1_00012
+  rotate: false
+  xy: 753, 64
+  size: 83, 169
+  orig: 142, 221
+  offset: 29, 21
+  index: -1
+111/1_00013
+  rotate: false
+  xy: 493, 143
+  size: 92, 185
+  orig: 142, 221
+  offset: 25, 10
+  index: -1
+111/1_00014
+  rotate: true
+  xy: 2, 2
+  size: 102, 190
+  orig: 142, 221
+  offset: 20, 15
+  index: -1
+111/1_00015
+  rotate: true
+  xy: 194, 2
+  size: 110, 196
+  orig: 142, 221
+  offset: 16, 17
+  index: -1
+111/1_00016
+  rotate: false
+  xy: 373, 128
+  size: 118, 198
+  orig: 142, 221
+  offset: 11, 21
+  index: -1
+111/1_00017
+  rotate: false
+  xy: 109, 319
+  size: 123, 208
+  orig: 142, 221
+  offset: 8, 13
+  index: -1
+111/1_00018
+  rotate: false
+  xy: 234, 324
+  size: 129, 203
+  orig: 142, 221
+  offset: 4, 18
+  index: -1
+111/1_00019
+  rotate: false
+  xy: 139, 114
+  size: 133, 203
+  orig: 142, 221
+  offset: 1, 18
+  index: -1
+mocalizi/1_00000
+  rotate: true
+  xy: 587, 316
+  size: 29, 30
+  orig: 84, 80
+  offset: 24, 23
+  index: -1
+mocalizi/1_00007
+  rotate: true
+  xy: 587, 316
+  size: 29, 30
+  orig: 84, 80
+  offset: 24, 23
+  index: -1
+mocalizi/1_00014
+  rotate: true
+  xy: 587, 316
+  size: 29, 30
+  orig: 84, 80
+  offset: 24, 23
+  index: -1
+mocalizi/1_00001
+  rotate: false
+  xy: 812, 365
+  size: 31, 31
+  orig: 84, 80
+  offset: 23, 21
+  index: -1
+mocalizi/1_00008
+  rotate: false
+  xy: 812, 365
+  size: 31, 31
+  orig: 84, 80
+  offset: 23, 21
+  index: -1
+mocalizi/1_00015
+  rotate: false
+  xy: 812, 365
+  size: 31, 31
+  orig: 84, 80
+  offset: 23, 21
+  index: -1
+mocalizi/1_00002
+  rotate: true
+  xy: 587, 285
+  size: 29, 30
+  orig: 84, 80
+  offset: 26, 22
+  index: -1
+mocalizi/1_00009
+  rotate: true
+  xy: 587, 285
+  size: 29, 30
+  orig: 84, 80
+  offset: 26, 22
+  index: -1
+mocalizi/1_00016
+  rotate: true
+  xy: 587, 285
+  size: 29, 30
+  orig: 84, 80
+  offset: 26, 22
+  index: -1
+mocalizi/1_00003
+  rotate: false
+  xy: 812, 302
+  size: 30, 30
+  orig: 84, 80
+  offset: 26, 22
+  index: -1
+mocalizi/1_00010
+  rotate: false
+  xy: 812, 302
+  size: 30, 30
+  orig: 84, 80
+  offset: 26, 22
+  index: -1
+mocalizi/1_00017
+  rotate: false
+  xy: 812, 302
+  size: 30, 30
+  orig: 84, 80
+  offset: 26, 22
+  index: -1
+mocalizi/1_00004
+  rotate: true
+  xy: 812, 334
+  size: 29, 31
+  orig: 84, 80
+  offset: 27, 22
+  index: -1
+mocalizi/1_00011
+  rotate: true
+  xy: 812, 334
+  size: 29, 31
+  orig: 84, 80
+  offset: 27, 22
+  index: -1
+mocalizi/1_00018
+  rotate: true
+  xy: 812, 334
+  size: 29, 31
+  orig: 84, 80
+  offset: 27, 22
+  index: -1
+mocalizi/1_00005
+  rotate: false
+  xy: 587, 254
+  size: 30, 29
+  orig: 84, 80
+  offset: 28, 23
+  index: -1
+mocalizi/1_00012
+  rotate: false
+  xy: 587, 254
+  size: 30, 29
+  orig: 84, 80
+  offset: 28, 23
+  index: -1
+mocalizi/1_00019
+  rotate: false
+  xy: 587, 254
+  size: 30, 29
+  orig: 84, 80
+  offset: 28, 23
+  index: -1
+mocalizi/1_00006
+  rotate: true
+  xy: 812, 398
+  size: 31, 32
+  orig: 84, 80
+  offset: 26, 21
+  index: -1
+mocalizi/1_00013
+  rotate: true
+  xy: 812, 398
+  size: 31, 32
+  orig: 84, 80
+  offset: 26, 21
+  index: -1

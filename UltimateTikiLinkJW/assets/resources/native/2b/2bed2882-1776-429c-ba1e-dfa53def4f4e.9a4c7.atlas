@@ -1,0 +1,153 @@
+
+Fire_Small.png
+size: 478,1096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/F/FL2_Small_000
+  rotate: true
+  xy: 2, 944
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_001
+  rotate: true
+  xy: 164, 944
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_002
+  rotate: false
+  xy: 326, 934
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_003
+  rotate: true
+  xy: 2, 792
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_004
+  rotate: true
+  xy: 164, 792
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_005
+  rotate: false
+  xy: 326, 772
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_006
+  rotate: true
+  xy: 2, 640
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_007
+  rotate: true
+  xy: 164, 640
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_008
+  rotate: false
+  xy: 326, 610
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_009
+  rotate: true
+  xy: 2, 488
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_010
+  rotate: true
+  xy: 164, 488
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_011
+  rotate: false
+  xy: 326, 448
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_012
+  rotate: true
+  xy: 2, 336
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_013
+  rotate: true
+  xy: 164, 336
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_014
+  rotate: false
+  xy: 326, 286
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_015
+  rotate: true
+  xy: 2, 184
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_016
+  rotate: true
+  xy: 164, 184
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_017
+  rotate: false
+  xy: 326, 124
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_018
+  rotate: false
+  xy: 2, 22
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/F/FL2_Small_019
+  rotate: true
+  xy: 154, 32
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+images/FL2_000
+  rotate: true
+  xy: 316, 2
+  size: 120, 150
+  orig: 120, 150
+  offset: 0, 0
+  index: -1

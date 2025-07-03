@@ -1,0 +1,153 @@
+
+loading_EN.png
+size: 1381,183
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EN
+  rotate: false
+  xy: 2, 2
+  size: 396, 179
+  orig: 396, 179
+  offset: 0, 0
+  index: -1
+en/1_00
+  rotate: true
+  xy: 1335, 138
+  size: 43, 44
+  orig: 392, 179
+  offset: 100, 87
+  index: -1
+en/1_01
+  rotate: false
+  xy: 999, 7
+  size: 56, 45
+  orig: 392, 179
+  offset: 100, 87
+  index: -1
+en/1_02
+  rotate: false
+  xy: 940, 2
+  size: 57, 45
+  orig: 392, 179
+  offset: 100, 87
+  index: -1
+en/1_03
+  rotate: false
+  xy: 1057, 3
+  size: 81, 56
+  orig: 392, 179
+  offset: 100, 76
+  index: -1
+en/1_04
+  rotate: true
+  xy: 1257, 80
+  size: 101, 76
+  orig: 392, 179
+  offset: 100, 56
+  index: -1
+en/1_05
+  rotate: true
+  xy: 1102, 65
+  size: 116, 76
+  orig: 392, 179
+  offset: 100, 56
+  index: -1
+en/1_06
+  rotate: true
+  xy: 868, 49
+  size: 132, 76
+  orig: 392, 179
+  offset: 100, 56
+  index: -1
+en/1_07
+  rotate: true
+  xy: 712, 39
+  size: 142, 76
+  orig: 392, 179
+  offset: 100, 56
+  index: -1
+en/1_08
+  rotate: true
+  xy: 556, 18
+  size: 163, 76
+  orig: 392, 179
+  offset: 100, 56
+  index: -1
+en/1_09
+  rotate: true
+  xy: 400, 4
+  size: 177, 76
+  orig: 392, 179
+  offset: 101, 56
+  index: -1
+en/1_10
+  rotate: true
+  xy: 478, 13
+  size: 168, 76
+  orig: 392, 179
+  offset: 116, 56
+  index: -1
+en/1_11
+  rotate: true
+  xy: 634, 30
+  size: 151, 76
+  orig: 392, 179
+  offset: 133, 56
+  index: -1
+en/1_12
+  rotate: true
+  xy: 790, 46
+  size: 135, 76
+  orig: 392, 179
+  offset: 149, 56
+  index: -1
+en/1_13
+  rotate: true
+  xy: 946, 54
+  size: 127, 76
+  orig: 392, 179
+  offset: 157, 56
+  index: -1
+en/1_14
+  rotate: true
+  xy: 1024, 61
+  size: 120, 76
+  orig: 392, 179
+  offset: 164, 56
+  index: -1
+en/1_15
+  rotate: true
+  xy: 1180, 78
+  size: 103, 75
+  orig: 392, 179
+  offset: 181, 57
+  index: -1
+en/1_16
+  rotate: false
+  xy: 1213, 2
+  size: 88, 74
+  orig: 392, 179
+  offset: 196, 58
+  index: -1
+en/1_17
+  rotate: true
+  xy: 1303, 2
+  size: 76, 72
+  orig: 392, 179
+  offset: 208, 60
+  index: -1
+en/1_18
+  rotate: true
+  xy: 1140, 2
+  size: 61, 71
+  orig: 392, 179
+  offset: 223, 61
+  index: -1
+en/1_19
+  rotate: true
+  xy: 868, 4
+  size: 43, 70
+  orig: 392, 179
+  offset: 241, 62
+  index: -1

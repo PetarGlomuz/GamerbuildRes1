@@ -1,0 +1,27 @@
+
+Map_addmulti.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 86, 29
+  size: 66, 60
+  orig: 75, 75
+  offset: 4, 7
+  index: -1
+star
+  rotate: false
+  xy: 2, 2
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+star_add
+  rotate: false
+  xy: 154, 40
+  size: 47, 49
+  orig: 75, 75
+  offset: 14, 13
+  index: -1

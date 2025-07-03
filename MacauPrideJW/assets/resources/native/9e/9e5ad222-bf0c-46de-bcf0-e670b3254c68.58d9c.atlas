@@ -1,0 +1,90 @@
+
+NG_H5.png
+size: 1097,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 825, 100
+  size: 118, 137
+  orig: 118, 137
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 663, 2
+  size: 92, 126
+  orig: 92, 126
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 964, 117
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 546, 96
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 411, 82
+  size: 136, 133
+  orig: 136, 133
+  offset: 0, 0
+  index: -1
+beimian_00
+  rotate: true
+  xy: 686, 98
+  size: 120, 137
+  orig: 136, 157
+  offset: 8, 10
+  index: -1
+di
+  rotate: false
+  xy: 2, 9
+  size: 249, 209
+  orig: 249, 209
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 253, 15
+  size: 203, 156
+  orig: 203, 156
+  offset: 0, 0
+  index: -1
+touying01
+  rotate: true
+  xy: 543, 10
+  size: 70, 118
+  orig: 74, 119
+  offset: 0, 0
+  index: -1
+touying02
+  rotate: true
+  xy: 791, 46
+  size: 50, 125
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+touying03
+  rotate: true
+  xy: 411, 8
+  size: 72, 130
+  orig: 75, 132
+  offset: 1, 0
+  index: -1
+touying04
+  rotate: true
+  xy: 918, 2
+  size: 96, 116
+  orig: 96, 119
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+BG_zhuanlun_X2X3.png
+size: 1045,328
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/2X
+  rotate: true
+  xy: 832, 6
+  size: 144, 90
+  orig: 144, 90
+  offset: 0, 0
+  index: -1
+images/3X
+  rotate: true
+  xy: 91, 6
+  size: 145, 91
+  orig: 145, 91
+  offset: 0, 0
+  index: -1
+images/bhlizi/1_00
+  rotate: true
+  xy: 2, 153
+  size: 173, 103
+  orig: 256, 128
+  offset: 47, 11
+  index: -1
+images/bhlizi/1_01
+  rotate: true
+  xy: 107, 154
+  size: 172, 102
+  orig: 256, 128
+  offset: 47, 12
+  index: -1
+images/bhlizi/1_02
+  rotate: true
+  xy: 211, 156
+  size: 170, 101
+  orig: 256, 128
+  offset: 48, 12
+  index: -1
+images/bhlizi/1_03
+  rotate: true
+  xy: 314, 158
+  size: 168, 101
+  orig: 256, 128
+  offset: 49, 12
+  index: -1
+images/bhlizi/1_04
+  rotate: true
+  xy: 417, 159
+  size: 167, 99
+  orig: 256, 128
+  offset: 49, 13
+  index: -1
+images/bhlizi/1_05
+  rotate: true
+  xy: 518, 161
+  size: 165, 99
+  orig: 256, 128
+  offset: 50, 13
+  index: -1
+images/bhlizi/1_06
+  rotate: true
+  xy: 619, 163
+  size: 163, 98
+  orig: 256, 128
+  offset: 51, 14
+  index: -1
+images/bhlizi/1_07
+  rotate: true
+  xy: 719, 164
+  size: 162, 96
+  orig: 256, 128
+  offset: 51, 15
+  index: -1
+images/bhlizi/1_08
+  rotate: true
+  xy: 735, 2
+  size: 160, 95
+  orig: 256, 128
+  offset: 52, 15
+  index: -1
+images/bhlizi/1_09
+  rotate: true
+  xy: 639, 2
+  size: 159, 94
+  orig: 256, 128
+  offset: 52, 16
+  index: -1
+images/bhlizi/1_10
+  rotate: true
+  xy: 546, 2
+  size: 157, 91
+  orig: 256, 128
+  offset: 53, 16
+  index: -1
+images/bhlizi/1_11
+  rotate: true
+  xy: 817, 170
+  size: 156, 91
+  orig: 256, 128
+  offset: 53, 16
+  index: -1
+images/bhlizi/1_12
+  rotate: true
+  xy: 363, 2
+  size: 154, 90
+  orig: 256, 128
+  offset: 54, 17
+  index: -1
+images/bhlizi/1_13
+  rotate: true
+  xy: 455, 4
+  size: 153, 89
+  orig: 256, 128
+  offset: 55, 17
+  index: -1
+images/bhlizi/1_14
+  rotate: true
+  xy: 273, 3
+  size: 151, 88
+  orig: 256, 128
+  offset: 56, 18
+  index: -1
+images/bhlizi/1_15
+  rotate: true
+  xy: 2, 3
+  size: 148, 87
+  orig: 256, 128
+  offset: 58, 18
+  index: -1
+images/bhlizi/1_16
+  rotate: true
+  xy: 184, 7
+  size: 145, 87
+  orig: 256, 128
+  offset: 61, 18
+  index: -1
+images/bhlizi/1_17
+  rotate: false
+  xy: 910, 240
+  size: 131, 86
+  orig: 256, 128
+  offset: 74, 19
+  index: -1
+images/bhlizi/1_18
+  rotate: false
+  xy: 910, 152
+  size: 131, 86
+  orig: 256, 128
+  offset: 74, 19
+  index: -1
+images/bhlizi/1_19
+  rotate: false
+  xy: 924, 66
+  size: 119, 84
+  orig: 256, 128
+  offset: 85, 20
+  index: -1

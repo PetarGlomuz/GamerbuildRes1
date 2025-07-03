@@ -1,0 +1,20 @@
+
+Map_guochang.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cb
+  rotate: false
+  xy: 2, 2
+  size: 375, 479
+  orig: 375, 479
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 379, 182
+  size: 298, 299
+  orig: 300, 300
+  offset: 1, 1
+  index: -1

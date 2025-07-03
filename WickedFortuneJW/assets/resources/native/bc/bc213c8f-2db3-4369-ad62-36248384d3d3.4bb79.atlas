@@ -1,0 +1,146 @@
+
+TC_xuanzei_anniu.png
+size: 284,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniusg/ansg_00
+  rotate: false
+  xy: 227, 108
+  size: 35, 33
+  orig: 189, 35
+  offset: 4, 1
+  index: -1
+anniusg/ansg_01
+  rotate: false
+  xy: 233, 73
+  size: 48, 33
+  orig: 189, 35
+  offset: 4, 1
+  index: -1
+anniusg/ansg_02
+  rotate: false
+  xy: 172, 38
+  size: 63, 33
+  orig: 189, 35
+  offset: 3, 1
+  index: -1
+anniusg/ansg_03
+  rotate: false
+  xy: 148, 108
+  size: 77, 33
+  orig: 189, 35
+  offset: 3, 1
+  index: -1
+anniusg/ansg_04
+  rotate: false
+  xy: 161, 178
+  size: 91, 33
+  orig: 189, 35
+  offset: 3, 1
+  index: -1
+anniusg/ansg_05
+  rotate: true
+  xy: 2, 2
+  size: 104, 33
+  orig: 189, 35
+  offset: 4, 1
+  index: -1
+anniusg/ansg_06
+  rotate: false
+  xy: 37, 73
+  size: 119, 33
+  orig: 189, 35
+  offset: 4, 1
+  index: -1
+anniusg/ansg_07
+  rotate: false
+  xy: 37, 38
+  size: 133, 33
+  orig: 189, 35
+  offset: 4, 1
+  index: -1
+anniusg/ansg_08
+  rotate: false
+  xy: 2, 143
+  size: 147, 33
+  orig: 189, 35
+  offset: 4, 1
+  index: -1
+anniusg/ansg_09
+  rotate: false
+  xy: 2, 213
+  size: 159, 33
+  orig: 189, 35
+  offset: 6, 1
+  index: -1
+anniusg/ansg_10
+  rotate: false
+  xy: 2, 248
+  size: 164, 33
+  orig: 189, 35
+  offset: 16, 1
+  index: -1
+anniusg/ansg_11
+  rotate: false
+  xy: 2, 178
+  size: 157, 33
+  orig: 189, 35
+  offset: 29, 1
+  index: -1
+anniusg/ansg_12
+  rotate: false
+  xy: 2, 108
+  size: 144, 33
+  orig: 189, 35
+  offset: 43, 1
+  index: -1
+anniusg/ansg_13
+  rotate: false
+  xy: 37, 3
+  size: 130, 33
+  orig: 189, 35
+  offset: 57, 1
+  index: -1
+anniusg/ansg_14
+  rotate: false
+  xy: 163, 213
+  size: 116, 33
+  orig: 189, 35
+  offset: 71, 1
+  index: -1
+anniusg/ansg_15
+  rotate: false
+  xy: 168, 248
+  size: 101, 33
+  orig: 189, 35
+  offset: 86, 1
+  index: -1
+anniusg/ansg_16
+  rotate: false
+  xy: 151, 143
+  size: 87, 33
+  orig: 189, 35
+  offset: 100, 1
+  index: -1
+anniusg/ansg_17
+  rotate: false
+  xy: 158, 73
+  size: 73, 33
+  orig: 189, 35
+  offset: 114, 1
+  index: -1
+anniusg/ansg_18
+  rotate: false
+  xy: 169, 3
+  size: 59, 33
+  orig: 189, 35
+  offset: 128, 1
+  index: -1
+anniusg/ansg_19
+  rotate: false
+  xy: 237, 39
+  size: 45, 32
+  orig: 189, 35
+  offset: 142, 2
+  index: -1

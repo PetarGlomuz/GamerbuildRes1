@@ -1,0 +1,118 @@
+
+TC_BG_win.png
+size: 351,351
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/youwon_00
+  rotate: true
+  xy: 256, 33
+  size: 62, 46
+  orig: 243, 50
+  offset: 0, 3
+  index: -1
+images/g/youwon_01
+  rotate: true
+  xy: 298, 116
+  size: 80, 48
+  orig: 243, 50
+  offset: 0, 2
+  index: -1
+images/g/youwon_02
+  rotate: false
+  xy: 247, 301
+  size: 102, 48
+  orig: 243, 50
+  offset: 0, 2
+  index: -1
+images/g/youwon_03
+  rotate: false
+  xy: 162, 248
+  size: 107, 49
+  orig: 243, 50
+  offset: 0, 1
+  index: -1
+images/g/youwon_04
+  rotate: false
+  xy: 161, 198
+  size: 142, 48
+  orig: 243, 50
+  offset: 0, 2
+  index: -1
+images/g/youwon_05
+  rotate: false
+  xy: 2, 199
+  size: 157, 48
+  orig: 243, 50
+  offset: 4, 2
+  index: -1
+images/g/youwon_06
+  rotate: false
+  xy: 2, 249
+  size: 158, 48
+  orig: 243, 50
+  offset: 24, 2
+  index: -1
+images/g/youwon_07
+  rotate: false
+  xy: 2, 149
+  size: 155, 48
+  orig: 243, 50
+  offset: 45, 2
+  index: -1
+images/g/youwon_08
+  rotate: false
+  xy: 2, 48
+  size: 152, 48
+  orig: 243, 50
+  offset: 64, 2
+  index: -1
+images/g/youwon_09
+  rotate: false
+  xy: 2, 98
+  size: 154, 49
+  orig: 243, 50
+  offset: 84, 1
+  index: -1
+images/g/youwon_10
+  rotate: false
+  xy: 159, 147
+  size: 137, 49
+  orig: 243, 50
+  offset: 104, 1
+  index: -1
+images/g/youwon_11
+  rotate: false
+  xy: 158, 97
+  size: 119, 48
+  orig: 243, 50
+  offset: 124, 2
+  index: -1
+images/g/youwon_12
+  rotate: false
+  xy: 156, 48
+  size: 98, 47
+  orig: 243, 50
+  offset: 145, 3
+  index: -1
+images/g/youwon_13
+  rotate: false
+  xy: 271, 252
+  size: 77, 47
+  orig: 243, 50
+  offset: 166, 3
+  index: -1
+images/g/youwon_14
+  rotate: false
+  xy: 2, 2
+  size: 58, 44
+  orig: 243, 50
+  offset: 185, 5
+  index: -1
+images/youwon
+  rotate: false
+  xy: 2, 299
+  size: 243, 50
+  orig: 243, 50
+  offset: 0, 0
+  index: -1

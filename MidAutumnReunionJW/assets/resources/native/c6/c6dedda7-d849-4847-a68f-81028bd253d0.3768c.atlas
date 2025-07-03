@@ -1,0 +1,370 @@
+
+NG_logo.png
+size: 1627,830
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cn
+  rotate: true
+  xy: 2, 361
+  size: 467, 153
+  orig: 467, 153
+  offset: 0, 0
+  index: -1
+en
+  rotate: true
+  xy: 287, 379
+  size: 449, 154
+  orig: 449, 154
+  offset: 0, 0
+  index: -1
+ja
+  rotate: true
+  xy: 157, 363
+  size: 465, 128
+  orig: 465, 128
+  offset: 0, 0
+  index: -1
+sg/cn/cn/cn_00000
+  rotate: false
+  xy: 1557, 409
+  size: 64, 143
+  orig: 467, 153
+  offset: 0, 0
+  index: -1
+sg/cn/cn/cn_00001
+  rotate: true
+  xy: 1404, 453
+  size: 99, 151
+  orig: 467, 153
+  offset: 0, 0
+  index: -1
+sg/cn/cn/cn_00002
+  rotate: true
+  xy: 1413, 554
+  size: 134, 153
+  orig: 467, 153
+  offset: 0, 0
+  index: -1
+sg/cn/cn/cn_00003
+  rotate: true
+  xy: 408, 3
+  size: 170, 153
+  orig: 467, 153
+  offset: 0, 0
+  index: -1
+sg/cn/cn/cn_00004
+  rotate: true
+  xy: 973, 33
+  size: 193, 153
+  orig: 467, 153
+  offset: 13, 0
+  index: -1
+sg/cn/cn/cn_00005
+  rotate: true
+  xy: 566, 425
+  size: 200, 153
+  orig: 467, 153
+  offset: 41, 0
+  index: -1
+sg/cn/cn/cn_00006
+  rotate: false
+  xy: 205, 2
+  size: 201, 153
+  orig: 467, 153
+  offset: 75, 0
+  index: -1
+sg/cn/cn/cn_00007
+  rotate: true
+  xy: 721, 427
+  size: 199, 149
+  orig: 467, 153
+  offset: 112, 0
+  index: -1
+sg/cn/cn/cn_00008
+  rotate: true
+  xy: 710, 21
+  size: 200, 136
+  orig: 467, 153
+  offset: 148, 0
+  index: -1
+sg/cn/cn/cn_00009
+  rotate: true
+  xy: 563, 19
+  size: 200, 145
+  orig: 467, 153
+  offset: 184, 0
+  index: -1
+sg/cn/cn/cn_00010
+  rotate: true
+  xy: 2, 156
+  size: 203, 145
+  orig: 467, 153
+  offset: 220, 0
+  index: -1
+sg/cn/cn/cn_00011
+  rotate: true
+  xy: 571, 223
+  size: 200, 145
+  orig: 467, 153
+  offset: 258, 0
+  index: -1
+sg/cn/cn/cn_00012
+  rotate: true
+  xy: 1138, 654
+  size: 174, 145
+  orig: 467, 153
+  offset: 293, 0
+  index: -1
+sg/cn/cn/cn_00013
+  rotate: true
+  xy: 1248, 313
+  size: 140, 145
+  orig: 467, 153
+  offset: 327, 0
+  index: -1
+sg/cn/cn/cn_00014
+  rotate: false
+  xy: 1297, 455
+  size: 105, 144
+  orig: 467, 153
+  offset: 362, 0
+  index: -1
+sg/cn/cn/cn_00015
+  rotate: false
+  xy: 1542, 265
+  size: 70, 142
+  orig: 467, 153
+  offset: 397, 0
+  index: -1
+sg/en/cn/en_00000
+  rotate: false
+  xy: 1568, 560
+  size: 54, 128
+  orig: 467, 153
+  offset: 18, 15
+  index: -1
+sg/en/cn/en_00001
+  rotate: false
+  xy: 1534, 131
+  size: 90, 132
+  orig: 467, 153
+  offset: 17, 11
+  index: -1
+sg/en/cn/en_00002
+  rotate: true
+  xy: 1253, 189
+  size: 122, 136
+  orig: 467, 153
+  offset: 17, 8
+  index: -1
+sg/en/cn/en_00003
+  rotate: false
+  xy: 1413, 690
+  size: 160, 138
+  orig: 467, 153
+  offset: 18, 8
+  index: -1
+sg/en/cn/en_00004
+  rotate: true
+  xy: 998, 441
+  size: 191, 145
+  orig: 467, 153
+  offset: 22, 7
+  index: -1
+sg/en/cn/en_00005
+  rotate: true
+  xy: 302, 175
+  size: 202, 145
+  orig: 467, 153
+  offset: 44, 7
+  index: -1
+sg/en/cn/en_00006
+  rotate: true
+  xy: 443, 627
+  size: 201, 146
+  orig: 467, 153
+  offset: 79, 6
+  index: -1
+sg/en/cn/en_00007
+  rotate: true
+  xy: 591, 628
+  size: 200, 149
+  orig: 467, 153
+  offset: 113, 3
+  index: -1
+sg/en/cn/en_00008
+  rotate: false
+  xy: 2, 2
+  size: 201, 152
+  orig: 467, 153
+  offset: 147, 0
+  index: -1
+sg/en/cn/en_00009
+  rotate: true
+  xy: 149, 157
+  size: 202, 151
+  orig: 467, 153
+  offset: 180, 0
+  index: -1
+sg/en/cn/en_00010
+  rotate: true
+  xy: 718, 224
+  size: 199, 151
+  orig: 467, 153
+  offset: 216, 0
+  index: -1
+sg/en/cn/en_00011
+  rotate: true
+  xy: 986, 634
+  size: 194, 150
+  orig: 467, 153
+  offset: 250, 0
+  index: -1
+sg/en/cn/en_00012
+  rotate: true
+  xy: 1145, 487
+  size: 165, 150
+  orig: 467, 153
+  offset: 284, 0
+  index: -1
+sg/en/cn/en_00013
+  rotate: true
+  xy: 1395, 321
+  size: 130, 145
+  orig: 467, 153
+  offset: 319, 0
+  index: -1
+sg/en/cn/en_00014
+  rotate: true
+  xy: 1395, 223
+  size: 96, 137
+  orig: 467, 153
+  offset: 353, 8
+  index: -1
+sg/en/cn/en_00015
+  rotate: true
+  xy: 1391, 159
+  size: 62, 135
+  orig: 467, 153
+  offset: 387, 10
+  index: -1
+sg/ja/cn/ja_00000
+  rotate: true
+  xy: 1297, 601
+  size: 61, 113
+  orig: 467, 153
+  offset: 4, 14
+  index: -1
+sg/ja/cn/ja_00001
+  rotate: false
+  xy: 1260, 6
+  size: 95, 123
+  orig: 467, 153
+  offset: 3, 13
+  index: -1
+sg/ja/cn/ja_00002
+  rotate: false
+  xy: 1128, 5
+  size: 130, 124
+  orig: 467, 153
+  offset: 4, 13
+  index: -1
+sg/ja/cn/ja_00003
+  rotate: true
+  xy: 1285, 664
+  size: 164, 126
+  orig: 467, 153
+  offset: 6, 13
+  index: -1
+sg/ja/cn/ja_00004
+  rotate: true
+  xy: 995, 236
+  size: 193, 126
+  orig: 467, 153
+  offset: 13, 14
+  index: -1
+sg/ja/cn/ja_00005
+  rotate: true
+  xy: 872, 431
+  size: 196, 124
+  orig: 467, 153
+  offset: 43, 16
+  index: -1
+sg/ja/cn/ja_00006
+  rotate: true
+  xy: 848, 24
+  size: 198, 123
+  orig: 467, 153
+  offset: 78, 17
+  index: -1
+sg/ja/cn/ja_00007
+  rotate: true
+  xy: 871, 228
+  size: 197, 122
+  orig: 467, 153
+  offset: 114, 17
+  index: -1
+sg/ja/cn/ja_00008
+  rotate: true
+  xy: 449, 221
+  size: 201, 120
+  orig: 467, 153
+  offset: 149, 17
+  index: -1
+sg/ja/cn/ja_00009
+  rotate: true
+  xy: 867, 629
+  size: 199, 117
+  orig: 467, 153
+  offset: 185, 19
+  index: -1
+sg/ja/cn/ja_00010
+  rotate: true
+  xy: 443, 424
+  size: 201, 121
+  orig: 467, 153
+  offset: 221, 15
+  index: -1
+sg/ja/cn/ja_00011
+  rotate: true
+  xy: 742, 629
+  size: 199, 123
+  orig: 467, 153
+  offset: 257, 13
+  index: -1
+sg/ja/cn/ja_00012
+  rotate: true
+  xy: 1123, 270
+  size: 169, 123
+  orig: 467, 153
+  offset: 291, 13
+  index: -1
+sg/ja/cn/ja_00013
+  rotate: true
+  xy: 1128, 132
+  size: 136, 123
+  orig: 467, 153
+  offset: 326, 13
+  index: -1
+sg/ja/cn/ja_00014
+  rotate: false
+  xy: 1357, 7
+  size: 100, 122
+  orig: 467, 153
+  offset: 363, 13
+  index: -1
+sg/ja/cn/ja_00015
+  rotate: false
+  xy: 1459, 42
+  size: 64, 115
+  orig: 467, 153
+  offset: 398, 14
+  index: -1
+xx_1x
+  rotate: false
+  xy: 1525, 29
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

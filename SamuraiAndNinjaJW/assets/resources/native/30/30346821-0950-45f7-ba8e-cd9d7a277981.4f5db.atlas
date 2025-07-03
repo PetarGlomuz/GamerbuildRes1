@@ -1,0 +1,293 @@
+
+TC_JP_Ninjajackpot.png
+size: 1526,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jackpot/jackpot_00000
+  rotate: false
+  xy: 1019, 2
+  size: 24, 26
+  orig: 340, 68
+  offset: 23, 35
+  index: -1
+jackpot/jackpot_00001
+  rotate: true
+  xy: 782, 26
+  size: 45, 62
+  orig: 340, 68
+  offset: 21, 0
+  index: -1
+jackpot/jackpot_00002
+  rotate: false
+  xy: 600, 2
+  size: 66, 64
+  orig: 340, 68
+  offset: 20, 0
+  index: -1
+jackpot/jackpot_00003
+  rotate: false
+  xy: 1402, 64
+  size: 87, 65
+  orig: 340, 68
+  offset: 20, 0
+  index: -1
+jackpot/jackpot_00004
+  rotate: false
+  xy: 1234, 61
+  size: 107, 65
+  orig: 340, 68
+  offset: 20, 0
+  index: -1
+jackpot/jackpot_00005
+  rotate: false
+  xy: 1111, 61
+  size: 121, 65
+  orig: 340, 68
+  offset: 21, 0
+  index: -1
+jackpot/jackpot_00006
+  rotate: false
+  xy: 461, 2
+  size: 137, 64
+  orig: 340, 68
+  offset: 25, 0
+  index: -1
+jackpot/jackpot_00007
+  rotate: false
+  xy: 919, 72
+  size: 132, 57
+  orig: 340, 68
+  offset: 51, 5
+  index: -1
+jackpot/jackpot_00008
+  rotate: false
+  xy: 1280, 188
+  size: 137, 56
+  orig: 340, 68
+  offset: 70, 6
+  index: -1
+jackpot/jackpot_00009
+  rotate: false
+  xy: 782, 131
+  size: 136, 56
+  orig: 340, 68
+  offset: 90, 6
+  index: -1
+jackpot/jackpot_00010
+  rotate: false
+  xy: 782, 73
+  size: 135, 56
+  orig: 340, 68
+  offset: 111, 6
+  index: -1
+jackpot/jackpot_00011
+  rotate: false
+  xy: 643, 130
+  size: 137, 57
+  orig: 340, 68
+  offset: 130, 5
+  index: -1
+jackpot/jackpot_00012
+  rotate: false
+  xy: 1140, 188
+  size: 138, 56
+  orig: 340, 68
+  offset: 149, 6
+  index: -1
+jackpot/jackpot_00013
+  rotate: false
+  xy: 920, 131
+  size: 136, 56
+  orig: 340, 68
+  offset: 170, 6
+  index: -1
+jackpot/jackpot_00014
+  rotate: true
+  xy: 1053, 2
+  size: 127, 56
+  orig: 340, 68
+  offset: 190, 6
+  index: -1
+jackpot/jackpot_00015
+  rotate: false
+  xy: 1419, 187
+  size: 99, 57
+  orig: 340, 68
+  offset: 219, 5
+  index: -1
+jackpot/jackpot_00016
+  rotate: false
+  xy: 1327, 2
+  size: 86, 57
+  orig: 340, 68
+  offset: 232, 5
+  index: -1
+jackpot/jackpot_00017
+  rotate: true
+  xy: 1343, 61
+  size: 68, 57
+  orig: 340, 68
+  offset: 250, 5
+  index: -1
+jackpot/jackpot_00018
+  rotate: true
+  xy: 909, 21
+  size: 49, 56
+  orig: 340, 68
+  offset: 269, 5
+  index: -1
+jackpot/jackpot_00019
+  rotate: false
+  xy: 1476, 139
+  size: 23, 46
+  orig: 340, 68
+  offset: 291, 6
+  index: -1
+ninjajackpot
+  rotate: false
+  xy: 2, 7
+  size: 457, 237
+  orig: 457, 237
+  offset: 0, 0
+  index: -1
+renzhesaoguang/renzhesaoguang_00000
+  rotate: false
+  xy: 1501, 140
+  size: 23, 45
+  orig: 681, 171
+  offset: 230, 76
+  index: -1
+renzhesaoguang/renzhesaoguang_00001
+  rotate: true
+  xy: 1471, 19
+  size: 43, 53
+  orig: 681, 171
+  offset: 229, 69
+  index: -1
+renzhesaoguang/renzhesaoguang_00002
+  rotate: true
+  xy: 1415, 2
+  size: 60, 54
+  orig: 681, 171
+  offset: 229, 68
+  index: -1
+renzhesaoguang/renzhesaoguang_00003
+  rotate: false
+  xy: 1401, 131
+  size: 73, 54
+  orig: 681, 171
+  offset: 229, 68
+  index: -1
+renzhesaoguang/renzhesaoguang_00004
+  rotate: true
+  xy: 725, 33
+  size: 95, 55
+  orig: 681, 171
+  offset: 228, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00005
+  rotate: true
+  xy: 668, 15
+  size: 113, 55
+  orig: 681, 171
+  offset: 228, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00006
+  rotate: false
+  xy: 1270, 131
+  size: 129, 55
+  orig: 681, 171
+  offset: 229, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00007
+  rotate: false
+  xy: 992, 189
+  size: 146, 55
+  orig: 681, 171
+  offset: 229, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00008
+  rotate: false
+  xy: 826, 189
+  size: 164, 55
+  orig: 681, 171
+  offset: 229, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00009
+  rotate: false
+  xy: 643, 189
+  size: 181, 55
+  orig: 681, 171
+  offset: 230, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00010
+  rotate: false
+  xy: 461, 187
+  size: 180, 57
+  orig: 681, 171
+  offset: 243, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00011
+  rotate: false
+  xy: 461, 128
+  size: 163, 57
+  orig: 681, 171
+  offset: 261, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00012
+  rotate: false
+  xy: 461, 68
+  size: 148, 58
+  orig: 681, 171
+  offset: 278, 66
+  index: -1
+renzhesaoguang/renzhesaoguang_00013
+  rotate: false
+  xy: 1136, 128
+  size: 132, 58
+  orig: 681, 171
+  offset: 295, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00014
+  rotate: false
+  xy: 1111, 2
+  size: 114, 57
+  orig: 681, 171
+  offset: 313, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00015
+  rotate: false
+  xy: 1227, 2
+  size: 98, 57
+  orig: 681, 171
+  offset: 330, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00016
+  rotate: false
+  xy: 1058, 131
+  size: 76, 56
+  orig: 681, 171
+  offset: 352, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00017
+  rotate: false
+  xy: 846, 16
+  size: 61, 55
+  orig: 681, 171
+  offset: 366, 67
+  index: -1
+renzhesaoguang/renzhesaoguang_00018
+  rotate: true
+  xy: 967, 26
+  size: 44, 50
+  orig: 681, 171
+  offset: 383, 68
+  index: -1
+renzhesaoguang/renzhesaoguang_00019
+  rotate: false
+  xy: 1019, 30
+  size: 27, 40
+  orig: 681, 171
+  offset: 400, 69
+  index: -1

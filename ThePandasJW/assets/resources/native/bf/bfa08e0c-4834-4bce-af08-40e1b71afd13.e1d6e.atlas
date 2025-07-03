@@ -1,0 +1,41 @@
+
+tc_jp_text_EN.png
+size: 1088,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collect_EN
+  rotate: true
+  xy: 1035, 52
+  size: 227, 52
+  orig: 227, 52
+  offset: 0, 0
+  index: -1
+grand_jackpot_EN
+  rotate: false
+  xy: 518, 17
+  size: 515, 262
+  orig: 515, 262
+  offset: 0, 0
+  index: -1
+major_jackpot_EN
+  rotate: false
+  xy: 1, 1
+  size: 515, 278
+  orig: 515, 278
+  offset: 0, 0
+  index: -1
+mini_jackpot_EN
+  rotate: false
+  xy: 1, 281
+  size: 567, 264
+  orig: 567, 264
+  offset: 0, 0
+  index: -1
+minor_jackpot_EN
+  rotate: false
+  xy: 570, 281
+  size: 515, 264
+  orig: 515, 264
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+B_nan.png
+size: 953,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 675, 503
+  orig: 675, 503
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 679, 117
+  size: 148, 29
+  orig: 148, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 679, 148
+  size: 272, 357
+  orig: 274, 358
+  offset: 1, 0
+  index: -1

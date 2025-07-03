@@ -1,0 +1,76 @@
+
+TingPai.png
+size: 570,708
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TingP/TingP_000
+  rotate: false
+  xy: 2, 144
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_001
+  rotate: false
+  xy: 144, 426
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_002
+  rotate: false
+  xy: 144, 144
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_003
+  rotate: true
+  xy: 2, 2
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_004
+  rotate: false
+  xy: 286, 426
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_005
+  rotate: false
+  xy: 286, 144
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_006
+  rotate: false
+  xy: 428, 426
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_007
+  rotate: false
+  xy: 428, 144
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_008
+  rotate: true
+  xy: 284, 2
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1
+images/TingP/TingP_009
+  rotate: false
+  xy: 2, 426
+  size: 140, 280
+  orig: 140, 280
+  offset: 0, 0
+  index: -1

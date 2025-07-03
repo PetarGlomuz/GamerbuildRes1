@@ -1,0 +1,272 @@
+
+BG_anniu.png
+size: 1532,589
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu
+  rotate: false
+  xy: 2, 75
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+images/daijig/daijig_00
+  rotate: false
+  xy: 913, 109
+  size: 104, 104
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_01
+  rotate: false
+  xy: 1316, 136
+  size: 104, 104
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_02
+  rotate: false
+  xy: 1422, 38
+  size: 104, 104
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_03
+  rotate: false
+  xy: 1110, 13
+  size: 104, 104
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_04
+  rotate: false
+  xy: 686, 2
+  size: 104, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+images/daijig/daijig_05
+  rotate: false
+  xy: 792, 2
+  size: 104, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+images/daijig/daijig_06
+  rotate: false
+  xy: 898, 2
+  size: 104, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+images/daijig/daijig_07
+  rotate: false
+  xy: 1004, 2
+  size: 104, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+images/daijig/daijig_08
+  rotate: false
+  xy: 1422, 144
+  size: 104, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+images/daijig/daijig_09
+  rotate: false
+  xy: 1216, 30
+  size: 104, 104
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_10
+  rotate: true
+  xy: 1027, 119
+  size: 104, 105
+  orig: 150, 150
+  offset: 24, 22
+  index: -1
+images/daijig/daijig_11
+  rotate: false
+  xy: 1422, 251
+  size: 104, 106
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_12
+  rotate: false
+  xy: 1316, 242
+  size: 104, 107
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_13
+  rotate: false
+  xy: 1406, 359
+  size: 104, 108
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_14
+  rotate: true
+  xy: 801, 109
+  size: 104, 110
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_15
+  rotate: false
+  xy: 1300, 351
+  size: 104, 110
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_16
+  rotate: false
+  xy: 1027, 225
+  size: 104, 111
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_17
+  rotate: false
+  xy: 1133, 225
+  size: 104, 111
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/daijig/daijig_18
+  rotate: false
+  xy: 921, 224
+  size: 104, 112
+  orig: 150, 150
+  offset: 24, 23
+  index: -1
+images/hui
+  rotate: false
+  xy: 2, 332
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+images/xiaoquanq_00
+  rotate: false
+  xy: 801, 215
+  size: 118, 118
+  orig: 128, 128
+  offset: 5, 5
+  index: -1
+images/zha/zha_00
+  rotate: false
+  xy: 1239, 203
+  size: 75, 133
+  orig: 299, 299
+  offset: 75, 76
+  index: -1
+images/zha/zha_01
+  rotate: false
+  xy: 713, 177
+  size: 86, 147
+  orig: 299, 299
+  offset: 64, 72
+  index: -1
+images/zha/zha_02
+  rotate: false
+  xy: 613, 154
+  size: 98, 163
+  orig: 299, 299
+  offset: 52, 65
+  index: -1
+images/zha/zha_03
+  rotate: true
+  xy: 499, 2
+  size: 109, 185
+  orig: 299, 299
+  offset: 41, 53
+  index: -1
+images/zha/zha_04
+  rotate: false
+  xy: 499, 113
+  size: 112, 201
+  orig: 299, 299
+  offset: 38, 44
+  index: -1
+images/zha/zha_05
+  rotate: false
+  xy: 381, 103
+  size: 116, 210
+  orig: 299, 299
+  offset: 34, 39
+  index: -1
+images/zha/zha_06
+  rotate: true
+  xy: 1309, 469
+  size: 118, 221
+  orig: 299, 299
+  offset: 32, 35
+  index: -1
+images/zha/zha_07
+  rotate: false
+  xy: 259, 80
+  size: 120, 233
+  orig: 299, 299
+  offset: 30, 31
+  index: -1
+images/zha/zha_08
+  rotate: true
+  xy: 1054, 338
+  size: 123, 244
+  orig: 299, 299
+  offset: 27, 29
+  index: -1
+images/zha/zha_09
+  rotate: true
+  xy: 1054, 463
+  size: 124, 253
+  orig: 299, 299
+  offset: 26, 27
+  index: -1
+images/zha/zha_10
+  rotate: false
+  xy: 657, 326
+  size: 126, 261
+  orig: 299, 299
+  offset: 24, 25
+  index: -1
+images/zha/zha_11
+  rotate: false
+  xy: 526, 319
+  size: 129, 268
+  orig: 299, 299
+  offset: 21, 23
+  index: -1
+images/zha/zha_12
+  rotate: false
+  xy: 393, 316
+  size: 131, 271
+  orig: 299, 299
+  offset: 19, 22
+  index: -1
+images/zha/zha_13
+  rotate: false
+  xy: 259, 315
+  size: 132, 272
+  orig: 299, 299
+  offset: 18, 23
+  index: -1
+images/zha/zha_14
+  rotate: false
+  xy: 785, 335
+  size: 132, 252
+  orig: 299, 299
+  offset: 18, 46
+  index: -1
+images/zha/zha_15
+  rotate: false
+  xy: 919, 338
+  size: 133, 249
+  orig: 299, 299
+  offset: 17, 50
+  index: -1

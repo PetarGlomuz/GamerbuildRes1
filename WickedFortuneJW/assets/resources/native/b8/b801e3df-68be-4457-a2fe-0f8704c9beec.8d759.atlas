@@ -1,0 +1,125 @@
+
+TC_JP_chengbei.png
+size: 1833,1543
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+222/222_01
+  rotate: false
+  xy: 1766, 1502
+  size: 36, 39
+  orig: 800, 440
+  offset: 383, 202
+  index: -1
+222/222_03
+  rotate: false
+  xy: 2, 2
+  size: 81, 86
+  orig: 800, 440
+  offset: 359, 178
+  index: -1
+222/222_05
+  rotate: false
+  xy: 1135, 853
+  size: 117, 129
+  orig: 800, 440
+  offset: 343, 155
+  index: -1
+222/222_07
+  rotate: false
+  xy: 1344, 1005
+  size: 487, 166
+  orig: 800, 440
+  offset: 153, 136
+  index: -1
+222/222_09
+  rotate: true
+  xy: 1624, 490
+  size: 513, 202
+  orig: 800, 440
+  offset: 138, 118
+  index: -1
+222/222_11
+  rotate: true
+  xy: 1384, 474
+  size: 529, 238
+  orig: 800, 440
+  offset: 130, 100
+  index: -1
+222/222_13
+  rotate: false
+  xy: 588, 709
+  size: 545, 273
+  orig: 800, 440
+  offset: 122, 82
+  index: -1
+222/222_15
+  rotate: true
+  xy: 1073, 146
+  size: 561, 309
+  orig: 800, 440
+  offset: 114, 64
+  index: -1
+222/222_16
+  rotate: true
+  xy: 742, 139
+  size: 568, 329
+  orig: 800, 440
+  offset: 110, 54
+  index: -1
+222/222_17
+  rotate: true
+  xy: 392, 107
+  size: 577, 348
+  orig: 800, 440
+  offset: 106, 45
+  index: -1
+222/222_18
+  rotate: false
+  xy: 1179, 1173
+  size: 585, 368
+  orig: 800, 440
+  offset: 103, 36
+  index: -1
+222/222_19
+  rotate: true
+  xy: 2, 90
+  size: 594, 388
+  orig: 800, 440
+  offset: 99, 26
+  index: -1
+222/222_20
+  rotate: false
+  xy: 594, 1134
+  size: 583, 407
+  orig: 800, 440
+  offset: 115, 17
+  index: -1
+222/222_21
+  rotate: false
+  xy: 2, 686
+  size: 584, 419
+  orig: 800, 440
+  offset: 113, 16
+  index: -1
+222/222_22
+  rotate: false
+  xy: 2, 1107
+  size: 590, 434
+  orig: 800, 440
+  offset: 110, 6
+  index: -1
+fgggg_00
+  rotate: false
+  xy: 1384, 92
+  size: 379, 380
+  orig: 800, 440
+  offset: 211, 30
+  index: -1
+gxxxx_00
+  rotate: false
+  xy: 594, 984
+  size: 748, 148
+  orig: 800, 440
+  offset: 26, 146
+  index: -1

@@ -1,0 +1,111 @@
+
+tubiao_jinbi.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_00000
+  rotate: false
+  xy: 2, 48
+  size: 78, 69
+  orig: 78, 74
+  offset: 0, 1
+  index: -1
+coin
+  rotate: false
+  xy: 802, 75
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 53, 4
+  size: 44, 42
+  orig: 44, 42
+  offset: 0, 0
+  index: -1
+guang_00000
+  rotate: false
+  xy: 737, 62
+  size: 63, 55
+  orig: 63, 55
+  offset: 0, 0
+  index: -1
+lizi/lizi_00000
+  rotate: false
+  xy: 82, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00001
+  rotate: false
+  xy: 155, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00002
+  rotate: false
+  xy: 228, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00003
+  rotate: false
+  xy: 301, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00004
+  rotate: false
+  xy: 374, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00005
+  rotate: false
+  xy: 447, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00006
+  rotate: false
+  xy: 520, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00007
+  rotate: false
+  xy: 593, 48
+  size: 71, 69
+  orig: 89, 86
+  offset: 8, 6
+  index: -1
+lizi/lizi_00008
+  rotate: false
+  xy: 666, 48
+  size: 69, 69
+  orig: 89, 86
+  offset: 9, 6
+  index: -1
+lizi/lizi_00009
+  rotate: false
+  xy: 2, 2
+  size: 49, 44
+  orig: 89, 86
+  offset: 25, 18
+  index: -1
+lizi/lizi_00010
+  rotate: false
+  xy: 737, 52
+  size: 3, 8
+  orig: 89, 86
+  offset: 42, 36
+  index: -1

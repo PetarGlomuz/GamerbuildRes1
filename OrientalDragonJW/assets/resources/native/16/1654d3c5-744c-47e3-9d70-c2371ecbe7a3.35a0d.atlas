@@ -1,0 +1,62 @@
+
+NG_SC_huo.png
+size: 1566,1450
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+huoyan/huo_00
+  rotate: false
+  xy: 2, 1088
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_02
+  rotate: false
+  xy: 2, 726
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_04
+  rotate: false
+  xy: 784, 1088
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_06
+  rotate: false
+  xy: 2, 364
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_08
+  rotate: false
+  xy: 784, 726
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_10
+  rotate: false
+  xy: 2, 2
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_12
+  rotate: false
+  xy: 784, 364
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1
+huoyan/huo_14
+  rotate: false
+  xy: 784, 2
+  size: 780, 360
+  orig: 780, 360
+  offset: 0, 0
+  index: -1

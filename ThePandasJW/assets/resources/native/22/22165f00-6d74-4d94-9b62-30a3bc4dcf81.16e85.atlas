@@ -1,0 +1,76 @@
+
+bg_respin_spins.png
+size: 819,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bo_000
+  rotate: false
+  xy: 607, 22
+  size: 94, 93
+  orig: 128, 128
+  offset: 17, 18
+  index: -1
+bowen_00
+  rotate: true
+  xy: 482, 1
+  size: 114, 123
+  orig: 133, 134
+  offset: 7, 6
+  index: -1
+glow_000
+  rotate: false
+  xy: 742, 167
+  size: 76, 78
+  orig: 256, 256
+  offset: 91, 90
+  index: -1
+gxxx
+  rotate: false
+  xy: 482, 117
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huiju2
+  rotate: false
+  xy: 1, 15
+  size: 231, 230
+  orig: 231, 230
+  offset: 0, 0
+  index: -1
+sdx3_00
+  rotate: false
+  xy: 234, 22
+  size: 235, 26
+  orig: 235, 26
+  offset: 0, 0
+  index: -1
+shexian_000
+  rotate: false
+  xy: 703, 7
+  size: 35, 108
+  orig: 128, 128
+  offset: 47, 11
+  index: -1
+xg_00
+  rotate: false
+  xy: 612, 117
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yezi
+  rotate: true
+  xy: 742, 123
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+zha_00
+  rotate: true
+  xy: 234, 50
+  size: 195, 246
+  orig: 195, 246
+  offset: 0, 0
+  index: -1

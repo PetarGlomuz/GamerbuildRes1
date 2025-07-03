@@ -1,0 +1,83 @@
+
+H4.png
+size: 332,136
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Star_000
+  rotate: false
+  xy: 307, 34
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+images/h4_1
+  rotate: true
+  xy: 315, 116
+  size: 18, 15
+  orig: 30, 28
+  offset: 4, 12
+  index: -1
+images/h4_1_1
+  rotate: false
+  xy: 275, 41
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+images/h4_2
+  rotate: true
+  xy: 315, 94
+  size: 20, 12
+  orig: 32, 24
+  offset: 4, 11
+  index: -1
+images/h4_2_1
+  rotate: true
+  xy: 275, 7
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+images/h4_3
+  rotate: true
+  xy: 307, 46
+  size: 19, 20
+  orig: 31, 31
+  offset: 4, 11
+  index: -1
+images/h4_3_1
+  rotate: false
+  xy: 275, 71
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+images/h4_4
+  rotate: false
+  xy: 308, 67
+  size: 18, 25
+  orig: 30, 38
+  offset: 4, 12
+  index: -1
+images/h4_4_1
+  rotate: true
+  xy: 275, 104
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+images/h4_5
+  rotate: true
+  xy: 154, 4
+  size: 130, 119
+  orig: 130, 119
+  offset: 0, 0
+  index: -1
+images/h4_6
+  rotate: false
+  xy: 2, 2
+  size: 150, 132
+  orig: 150, 132
+  offset: 0, 0
+  index: -1

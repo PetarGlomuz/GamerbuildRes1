@@ -1,0 +1,132 @@
+
+chips_tishi.png
+size: 960,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chips_add
+  rotate: false
+  xy: 2, 5
+  size: 215, 215
+  orig: 215, 215
+  offset: 0, 0
+  index: -1
+xian/xian_00
+  rotate: false
+  xy: 909, 162
+  size: 49, 58
+  orig: 101, 97
+  offset: 21, 18
+  index: -1
+xian/xian_01
+  rotate: false
+  xy: 884, 2
+  size: 59, 66
+  orig: 101, 97
+  offset: 18, 14
+  index: -1
+xian/xian_02
+  rotate: true
+  xy: 884, 70
+  size: 66, 73
+  orig: 101, 97
+  offset: 14, 10
+  index: -1
+xian/xian_03
+  rotate: false
+  xy: 833, 138
+  size: 74, 82
+  orig: 101, 97
+  offset: 10, 6
+  index: -1
+xian/xian_04
+  rotate: false
+  xy: 802, 41
+  size: 80, 87
+  orig: 101, 97
+  offset: 7, 5
+  index: -1
+xian/xian_05
+  rotate: true
+  xy: 322, 3
+  size: 86, 90
+  orig: 101, 97
+  offset: 5, 5
+  index: -1
+xian/xian_06
+  rotate: false
+  xy: 741, 130
+  size: 90, 90
+  orig: 101, 97
+  offset: 5, 5
+  index: -1
+xian/xian_07
+  rotate: true
+  xy: 709, 26
+  size: 93, 91
+  orig: 101, 97
+  offset: 3, 5
+  index: -1
+xian/xian_08
+  rotate: true
+  xy: 645, 121
+  size: 99, 94
+  orig: 101, 97
+  offset: 1, 2
+  index: -1
+xian/xian_09
+  rotate: true
+  xy: 611, 18
+  size: 99, 96
+  orig: 101, 97
+  offset: 1, 1
+  index: -1
+xian/xian_10
+  rotate: true
+  xy: 513, 16
+  size: 101, 96
+  orig: 101, 97
+  offset: 0, 1
+  index: -1
+xian/xian_11
+  rotate: true
+  xy: 350, 119
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+xian/xian_12
+  rotate: true
+  xy: 414, 16
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+xian/xian_13
+  rotate: true
+  xy: 449, 119
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+xian/xian_14
+  rotate: true
+  xy: 548, 119
+  size: 101, 95
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+xian/xian_15
+  rotate: false
+  xy: 219, 2
+  size: 101, 87
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+yuan
+  rotate: false
+  xy: 219, 91
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1

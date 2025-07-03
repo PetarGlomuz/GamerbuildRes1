@@ -1,0 +1,62 @@
+
+H2.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h2_1
+  rotate: false
+  xy: 2, 40
+  size: 88, 27
+  orig: 88, 27
+  offset: 0, 0
+  index: -1
+images/h2_2
+  rotate: false
+  xy: 305, 153
+  size: 34, 66
+  orig: 35, 66
+  offset: 1, 0
+  index: -1
+images/h2_3
+  rotate: false
+  xy: 174, 98
+  size: 129, 121
+  orig: 129, 121
+  offset: 0, 0
+  index: -1
+images/h2_4
+  rotate: false
+  xy: 2, 2
+  size: 29, 36
+  orig: 30, 36
+  offset: 1, 0
+  index: -1
+images/h2_5
+  rotate: false
+  xy: 174, 69
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+images/h2_6
+  rotate: false
+  xy: 92, 49
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+images/h2_7
+  rotate: false
+  xy: 2, 69
+  size: 170, 150
+  orig: 170, 150
+  offset: 0, 0
+  index: -1
+images/qp
+  rotate: false
+  xy: 305, 137
+  size: 17, 14
+  orig: 25, 25
+  offset: 5, 7
+  index: -1

@@ -1,0 +1,146 @@
+
+tingpai.png
+size: 2024,827
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/tingpai_00
+  rotate: true
+  xy: 2, 676
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_01
+  rotate: true
+  xy: 2, 375
+  size: 148, 521
+  orig: 149, 521
+  offset: 1, 0
+  index: -1
+1/tingpai_02
+  rotate: false
+  xy: 525, 2
+  size: 148, 521
+  orig: 149, 521
+  offset: 1, 0
+  index: -1
+1/tingpai_03
+  rotate: true
+  xy: 525, 676
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_04
+  rotate: true
+  xy: 1048, 676
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_05
+  rotate: false
+  xy: 825, 2
+  size: 145, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_06
+  rotate: true
+  xy: 2, 228
+  size: 145, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_07
+  rotate: true
+  xy: 1495, 7
+  size: 144, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_08
+  rotate: true
+  xy: 2, 81
+  size: 145, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_09
+  rotate: true
+  xy: 972, 6
+  size: 145, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_10
+  rotate: false
+  xy: 1571, 304
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_11
+  rotate: false
+  xy: 1722, 304
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_12
+  rotate: false
+  xy: 1873, 304
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_13
+  rotate: false
+  xy: 675, 2
+  size: 148, 521
+  orig: 149, 521
+  offset: 1, 0
+  index: -1
+1/tingpai_14
+  rotate: true
+  xy: 2, 525
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_15
+  rotate: true
+  xy: 525, 525
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_16
+  rotate: false
+  xy: 1048, 153
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_17
+  rotate: false
+  xy: 1199, 153
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_18
+  rotate: false
+  xy: 1350, 153
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1
+1/tingpai_19
+  rotate: true
+  xy: 1501, 153
+  size: 149, 521
+  orig: 149, 521
+  offset: 0, 0
+  index: -1

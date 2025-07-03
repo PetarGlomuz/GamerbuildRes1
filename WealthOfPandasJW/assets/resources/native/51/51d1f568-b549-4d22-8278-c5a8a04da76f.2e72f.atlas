@@ -1,0 +1,230 @@
+
+FG_damen.png
+size: 1986,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1835, 330
+  size: 149, 141
+  orig: 149, 145
+  offset: 0, 0
+  index: -1
+1/1_00000
+  rotate: true
+  xy: 414, 5
+  size: 64, 57
+  orig: 73, 58
+  offset: 5, 1
+  index: -1
+1/1_00001
+  rotate: true
+  xy: 824, 9
+  size: 60, 57
+  orig: 73, 58
+  offset: 6, 0
+  index: -1
+1/1_00002
+  rotate: true
+  xy: 883, 9
+  size: 60, 57
+  orig: 73, 58
+  offset: 6, 0
+  index: -1
+1/1_00003
+  rotate: true
+  xy: 240, 2
+  size: 61, 56
+  orig: 73, 58
+  offset: 5, 2
+  index: -1
+1/1_00004
+  rotate: true
+  xy: 1115, 11
+  size: 58, 56
+  orig: 73, 58
+  offset: 8, 1
+  index: -1
+1/1_00005
+  rotate: true
+  xy: 942, 9
+  size: 60, 57
+  orig: 73, 58
+  offset: 8, 1
+  index: -1
+1/1_00006
+  rotate: true
+  xy: 122, 2
+  size: 61, 57
+  orig: 73, 58
+  offset: 8, 1
+  index: -1
+1/1_00007
+  rotate: true
+  xy: 298, 2
+  size: 61, 56
+  orig: 73, 58
+  offset: 9, 2
+  index: -1
+1/1_00008
+  rotate: true
+  xy: 2, 2
+  size: 61, 58
+  orig: 73, 58
+  offset: 9, 0
+  index: -1
+1/1_00009
+  rotate: true
+  xy: 473, 6
+  size: 63, 58
+  orig: 73, 58
+  offset: 9, 0
+  index: -1
+1/1_00010
+  rotate: true
+  xy: 533, 6
+  size: 63, 58
+  orig: 73, 58
+  offset: 8, 0
+  index: -1
+1/1_00011
+  rotate: true
+  xy: 593, 6
+  size: 63, 54
+  orig: 73, 58
+  offset: 8, 4
+  index: -1
+1/1_00012
+  rotate: true
+  xy: 1058, 10
+  size: 59, 55
+  orig: 73, 58
+  offset: 9, 3
+  index: -1
+1/1_00013
+  rotate: true
+  xy: 181, 2
+  size: 61, 57
+  orig: 73, 58
+  offset: 8, 1
+  index: -1
+1/1_00014
+  rotate: true
+  xy: 764, 9
+  size: 60, 58
+  orig: 73, 58
+  offset: 7, 0
+  index: -1
+1/1_00015
+  rotate: true
+  xy: 62, 2
+  size: 61, 58
+  orig: 73, 58
+  offset: 6, 0
+  index: -1
+1/1_00016
+  rotate: true
+  xy: 1001, 9
+  size: 60, 55
+  orig: 73, 58
+  offset: 8, 3
+  index: -1
+1/1_00017
+  rotate: true
+  xy: 707, 8
+  size: 61, 55
+  orig: 73, 58
+  offset: 7, 3
+  index: -1
+1/1_00018
+  rotate: true
+  xy: 356, 2
+  size: 61, 56
+  orig: 73, 58
+  offset: 7, 2
+  index: -1
+1/1_00019
+  rotate: true
+  xy: 649, 8
+  size: 61, 56
+  orig: 73, 58
+  offset: 7, 2
+  index: -1
+2/2_00001
+  rotate: false
+  xy: 1737, 2
+  size: 111, 99
+  orig: 131, 114
+  offset: 12, 7
+  index: -1
+bai_00000
+  rotate: true
+  xy: 1583, 57
+  size: 161, 152
+  orig: 162, 156
+  offset: 1, 0
+  index: -1
+dguang
+  rotate: true
+  xy: 2, 65
+  size: 406, 396
+  orig: 408, 398
+  offset: 1, 1
+  index: -1
+dkuang
+  rotate: false
+  xy: 400, 71
+  size: 604, 400
+  orig: 606, 402
+  offset: 1, 1
+  index: -1
+dquan
+  rotate: false
+  xy: 1583, 221
+  size: 250, 250
+  orig: 252, 252
+  offset: 1, 1
+  index: -1
+dsuo
+  rotate: true
+  xy: 1737, 103
+  size: 115, 108
+  orig: 117, 110
+  offset: 1, 1
+  index: -1
+dyoumen
+  rotate: false
+  xy: 1297, 71
+  size: 284, 400
+  orig: 286, 402
+  offset: 1, 1
+  index: -1
+dzhua
+  rotate: false
+  xy: 1835, 220
+  size: 119, 108
+  orig: 121, 110
+  offset: 1, 1
+  index: -1
+dzuomen
+  rotate: false
+  xy: 1006, 71
+  size: 289, 400
+  orig: 291, 402
+  offset: 1, 1
+  index: -1
+heishu
+  rotate: true
+  xy: 1847, 107
+  size: 111, 99
+  orig: 122, 103
+  offset: 5, 2
+  index: -1
+shu_00000
+  rotate: false
+  xy: 1850, 6
+  size: 111, 99
+  orig: 122, 103
+  offset: 5, 2
+  index: -1

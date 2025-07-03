@@ -1,0 +1,160 @@
+
+BG_jiantousaoguang.png
+size: 523,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 268, 252
+  size: 129, 36
+  orig: 133, 136
+  offset: 2, 100
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 137, 220
+  size: 129, 47
+  orig: 133, 136
+  offset: 2, 89
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 268, 192
+  size: 129, 58
+  orig: 133, 136
+  offset: 2, 78
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 261, 121
+  size: 129, 69
+  orig: 133, 136
+  offset: 2, 67
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 133, 40
+  size: 129, 79
+  orig: 133, 136
+  offset: 2, 57
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 392, 90
+  size: 129, 90
+  orig: 133, 136
+  offset: 2, 46
+  index: -1
+images/g/g_06
+  rotate: true
+  xy: 399, 261
+  size: 129, 100
+  orig: 133, 136
+  offset: 2, 36
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 268, 290
+  size: 129, 111
+  orig: 133, 136
+  offset: 2, 25
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 137, 269
+  size: 129, 121
+  orig: 133, 136
+  offset: 2, 15
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 137, 392
+  size: 129, 129
+  orig: 133, 136
+  offset: 2, 7
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 2, 116
+  size: 129, 129
+  orig: 133, 136
+  offset: 2, 5
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 268, 403
+  size: 129, 118
+  orig: 133, 136
+  offset: 2, 5
+  index: -1
+images/g/g_12
+  rotate: true
+  xy: 399, 392
+  size: 129, 108
+  orig: 133, 136
+  offset: 2, 5
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 133, 121
+  size: 126, 97
+  orig: 133, 136
+  offset: 4, 5
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 264, 32
+  size: 123, 87
+  orig: 133, 136
+  offset: 5, 5
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 399, 182
+  size: 118, 77
+  orig: 133, 136
+  offset: 8, 5
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 2, 2
+  size: 112, 66
+  orig: 133, 136
+  offset: 11, 5
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 70, 10
+  size: 104, 57
+  orig: 133, 136
+  offset: 15, 5
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 389, 42
+  size: 96, 46
+  orig: 133, 136
+  offset: 19, 5
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 129, 2
+  size: 78, 36
+  orig: 133, 136
+  offset: 28, 5
+  index: -1
+images/jiantou01
+  rotate: false
+  xy: 2, 247
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+images/jiantou02
+  rotate: false
+  xy: 2, 385
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1

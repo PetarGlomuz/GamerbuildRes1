@@ -1,0 +1,153 @@
+
+BG_jianggetexiao.png
+size: 1257,1255
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: true
+  xy: 359, 13
+  size: 171, 371
+  orig: 316, 808
+  offset: 72, 232
+  index: -1
+images/g/g_01
+  rotate: true
+  xy: 371, 363
+  size: 172, 376
+  orig: 316, 808
+  offset: 71, 227
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 373, 714
+  size: 175, 373
+  orig: 316, 808
+  offset: 69, 228
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 749, 890
+  size: 180, 370
+  orig: 316, 808
+  offset: 70, 227
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 189, 880
+  size: 182, 373
+  orig: 316, 808
+  offset: 69, 226
+  index: -1
+images/g/g_05
+  rotate: true
+  xy: 373, 1073
+  size: 180, 374
+  orig: 316, 808
+  offset: 70, 227
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 2, 129
+  size: 181, 374
+  orig: 316, 808
+  offset: 69, 226
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 187, 506
+  size: 182, 372
+  orig: 316, 808
+  offset: 69, 226
+  index: -1
+images/g/g_08
+  rotate: true
+  xy: 749, 1072
+  size: 181, 370
+  orig: 316, 808
+  offset: 69, 228
+  index: -1
+images/g/g_09
+  rotate: true
+  xy: 373, 891
+  size: 180, 374
+  orig: 316, 808
+  offset: 69, 228
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 2, 880
+  size: 185, 373
+  orig: 316, 808
+  offset: 64, 230
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 2, 505
+  size: 183, 373
+  orig: 316, 808
+  offset: 65, 231
+  index: -1
+images/g/g_12
+  rotate: true
+  xy: 359, 186
+  size: 175, 371
+  orig: 316, 808
+  offset: 68, 231
+  index: -1
+images/g/g_13
+  rotate: true
+  xy: 732, 186
+  size: 173, 371
+  orig: 316, 808
+  offset: 68, 232
+  index: -1
+images/g/g_14
+  rotate: true
+  xy: 732, 11
+  size: 173, 369
+  orig: 316, 808
+  offset: 68, 232
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 185, 131
+  size: 172, 372
+  orig: 316, 808
+  offset: 69, 231
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 748, 714
+  size: 174, 375
+  orig: 316, 808
+  offset: 69, 231
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 749, 361
+  size: 174, 373
+  orig: 316, 808
+  offset: 69, 232
+  index: -1
+images/g/g_18
+  rotate: true
+  xy: 371, 537
+  size: 175, 376
+  orig: 316, 808
+  offset: 69, 232
+  index: -1
+images/g/g_19
+  rotate: true
+  xy: 749, 537
+  size: 175, 375
+  orig: 316, 808
+  offset: 68, 232
+  index: -1
+images/xiaokuai_10
+  rotate: false
+  xy: 1105, 16
+  size: 150, 343
+  orig: 316, 808
+  offset: 83, 239
+  index: -1

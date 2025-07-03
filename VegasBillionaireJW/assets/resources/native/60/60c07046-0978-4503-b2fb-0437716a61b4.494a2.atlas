@@ -1,0 +1,27 @@
+
+TC_fg_board.png
+size: 1550,472
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_guangyun
+  rotate: false
+  xy: 1502, 424
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+board
+  rotate: false
+  xy: 2, 2
+  size: 748, 468
+  orig: 748, 468
+  offset: 0, 0
+  index: -1
+board1
+  rotate: false
+  xy: 752, 2
+  size: 748, 468
+  orig: 748, 468
+  offset: 0, 0
+  index: -1

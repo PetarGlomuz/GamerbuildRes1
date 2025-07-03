@@ -1,0 +1,62 @@
+
+trans_respin_start_text_EN.png
+size: 2555,480
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_hongpen_en
+  rotate: false
+  xy: 2, 230
+  size: 627, 248
+  orig: 629, 248
+  offset: 1, 0
+  index: -1
+1_lvpen_en
+  rotate: false
+  xy: 980, 2
+  size: 629, 232
+  orig: 629, 232
+  offset: 0, 0
+  index: -1
+1_zipen_en
+  rotate: false
+  xy: 631, 236
+  size: 576, 242
+  orig: 578, 244
+  offset: 1, 1
+  index: -1
+2_h_l_en
+  rotate: false
+  xy: 1611, 37
+  size: 729, 218
+  orig: 729, 220
+  offset: 0, 1
+  index: -1
+2_h_z_en
+  rotate: false
+  xy: 1209, 257
+  size: 664, 221
+  orig: 666, 221
+  offset: 1, 0
+  index: -1
+2_l_z_en
+  rotate: false
+  xy: 1875, 260
+  size: 678, 218
+  orig: 678, 220
+  offset: 0, 1
+  index: -1
+3_en
+  rotate: false
+  xy: 2, 6
+  size: 976, 222
+  orig: 978, 222
+  offset: 1, 0
+  index: -1
+xx_00
+  rotate: false
+  xy: 2342, 79
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1

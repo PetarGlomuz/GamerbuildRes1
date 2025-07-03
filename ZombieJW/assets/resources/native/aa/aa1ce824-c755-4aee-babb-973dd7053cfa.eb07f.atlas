@@ -1,0 +1,146 @@
+
+NG_huoxing.png
+size: 1003,318
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hx_00
+  rotate: true
+  xy: 270, 9
+  size: 139, 83
+  orig: 176, 123
+  offset: 28, 15
+  index: -1
+hx_01
+  rotate: true
+  xy: 158, 149
+  size: 167, 99
+  orig: 176, 123
+  offset: 3, 6
+  index: -1
+hx_02
+  rotate: true
+  xy: 259, 150
+  size: 166, 110
+  orig: 176, 123
+  offset: 3, 0
+  index: -1
+hx_03
+  rotate: true
+  xy: 2, 3
+  size: 141, 92
+  orig: 176, 123
+  offset: 27, 23
+  index: -1
+hx_04
+  rotate: true
+  xy: 96, 5
+  size: 139, 88
+  orig: 176, 123
+  offset: 31, 34
+  index: -1
+hx_05
+  rotate: true
+  xy: 731, 158
+  size: 158, 93
+  orig: 176, 123
+  offset: 11, 30
+  index: -1
+hx_06
+  rotate: true
+  xy: 513, 2
+  size: 151, 97
+  orig: 176, 123
+  offset: 17, 26
+  index: -1
+hx_07
+  rotate: true
+  xy: 793, 2
+  size: 154, 106
+  orig: 176, 123
+  offset: 16, 17
+  index: -1
+hx_08
+  rotate: true
+  xy: 901, 167
+  size: 149, 100
+  orig: 176, 123
+  offset: 19, 7
+  index: -1
+hx_09
+  rotate: false
+  xy: 355, 38
+  size: 156, 110
+  orig: 176, 123
+  offset: 8, 0
+  index: -1
+hx_10
+  rotate: true
+  xy: 540, 156
+  size: 160, 97
+  orig: 176, 123
+  offset: 10, 18
+  index: -1
+hx_11
+  rotate: true
+  xy: 901, 11
+  size: 154, 83
+  orig: 176, 123
+  offset: 13, 30
+  index: -1
+hx_12
+  rotate: true
+  xy: 84, 146
+  size: 170, 72
+  orig: 176, 123
+  offset: 0, 25
+  index: -1
+hx_13
+  rotate: true
+  xy: 186, 4
+  size: 143, 82
+  orig: 176, 123
+  offset: 26, 19
+  index: -1
+hx_14
+  rotate: true
+  xy: 639, 157
+  size: 159, 90
+  orig: 176, 123
+  offset: 8, 15
+  index: -1
+hx_15
+  rotate: true
+  xy: 701, 5
+  size: 150, 90
+  orig: 176, 123
+  offset: 15, 18
+  index: -1
+hx_16
+  rotate: true
+  xy: 460, 155
+  size: 161, 78
+  orig: 176, 123
+  offset: 6, 31
+  index: -1
+hx_17
+  rotate: true
+  xy: 612, 2
+  size: 152, 87
+  orig: 176, 123
+  offset: 13, 23
+  index: -1
+hx_18
+  rotate: true
+  xy: 2, 146
+  size: 170, 80
+  orig: 176, 123
+  offset: 0, 26
+  index: -1
+hx_19
+  rotate: true
+  xy: 371, 153
+  size: 163, 87
+  orig: 176, 123
+  offset: 3, 18
+  index: -1

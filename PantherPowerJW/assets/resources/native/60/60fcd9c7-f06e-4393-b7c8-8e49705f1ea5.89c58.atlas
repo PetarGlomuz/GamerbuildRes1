@@ -1,0 +1,111 @@
+
+BG_tingpai.png
+size: 1410,1410
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/g/g_00
+  rotate: false
+  xy: 2, 1108
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_01
+  rotate: true
+  xy: 404, 1008
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_02
+  rotate: true
+  xy: 2, 706
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_03
+  rotate: false
+  xy: 304, 706
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_04
+  rotate: true
+  xy: 706, 1008
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_05
+  rotate: true
+  xy: 706, 606
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_06
+  rotate: true
+  xy: 2, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_07
+  rotate: true
+  xy: 304, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_08
+  rotate: false
+  xy: 606, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_09
+  rotate: false
+  xy: 2, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_10
+  rotate: false
+  xy: 404, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_11
+  rotate: false
+  xy: 806, 2
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_12
+  rotate: true
+  xy: 1008, 1008
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_13
+  rotate: true
+  xy: 1008, 606
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1
+wenjian/g/g_14
+  rotate: false
+  xy: 1008, 304
+  size: 400, 300
+  orig: 400, 300
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,167 @@
+
+TC_bg_annniu.png
+size: 378,378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ansg/sg2_00
+  rotate: false
+  xy: 290, 9
+  size: 26, 33
+  orig: 303, 104
+  offset: 83, 39
+  index: -1
+ansg/sg2_01
+  rotate: false
+  xy: 210, 4
+  size: 38, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_02
+  rotate: false
+  xy: 246, 160
+  size: 49, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_03
+  rotate: false
+  xy: 234, 121
+  size: 60, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_04
+  rotate: true
+  xy: 252, 199
+  size: 71, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_05
+  rotate: false
+  xy: 137, 48
+  size: 82, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_06
+  rotate: false
+  xy: 41, 9
+  size: 93, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_07
+  rotate: false
+  xy: 127, 126
+  size: 105, 37
+  orig: 303, 104
+  offset: 82, 35
+  index: -1
+ansg/sg2_08
+  rotate: false
+  xy: 2, 87
+  size: 115, 37
+  orig: 303, 104
+  offset: 83, 35
+  index: -1
+ansg/sg2_09
+  rotate: false
+  xy: 2, 126
+  size: 123, 37
+  orig: 303, 104
+  offset: 86, 35
+  index: -1
+ansg/sg2_10
+  rotate: false
+  xy: 2, 165
+  size: 124, 37
+  orig: 303, 104
+  offset: 93, 35
+  index: -1
+ansg/sg2_11
+  rotate: false
+  xy: 128, 165
+  size: 116, 37
+  orig: 303, 104
+  offset: 104, 35
+  index: -1
+ansg/sg2_12
+  rotate: false
+  xy: 119, 87
+  size: 105, 37
+  orig: 303, 104
+  offset: 115, 35
+  index: -1
+ansg/sg2_13
+  rotate: false
+  xy: 41, 48
+  size: 94, 37
+  orig: 303, 104
+  offset: 126, 35
+  index: -1
+ansg/sg2_14
+  rotate: true
+  xy: 2, 2
+  size: 83, 37
+  orig: 303, 104
+  offset: 137, 35
+  index: -1
+ansg/sg2_15
+  rotate: false
+  xy: 136, 9
+  size: 72, 37
+  orig: 303, 104
+  offset: 148, 35
+  index: -1
+ansg/sg2_16
+  rotate: false
+  xy: 226, 82
+  size: 60, 37
+  orig: 303, 104
+  offset: 160, 35
+  index: -1
+ansg/sg2_17
+  rotate: false
+  xy: 221, 43
+  size: 49, 37
+  orig: 303, 104
+  offset: 171, 35
+  index: -1
+ansg/sg2_18
+  rotate: false
+  xy: 250, 4
+  size: 38, 37
+  orig: 303, 104
+  offset: 182, 35
+  index: -1
+ansg/sg2_19
+  rotate: false
+  xy: 272, 44
+  size: 27, 36
+  orig: 303, 104
+  offset: 193, 35
+  index: -1
+collect
+  rotate: false
+  xy: 2, 204
+  size: 248, 66
+  orig: 303, 104
+  offset: 27, 20
+  index: -1
+di
+  rotate: false
+  xy: 2, 272
+  size: 303, 104
+  orig: 303, 104
+  offset: 0, 0
+  index: -1
+start
+  rotate: true
+  xy: 307, 170
+  size: 206, 69
+  orig: 303, 104
+  offset: 48, 18
+  index: -1

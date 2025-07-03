@@ -1,0 +1,153 @@
+
+BG_bianhuan.png
+size: 1732,337
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glow_00
+  rotate: false
+  xy: 1602, 207
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/hehuashuzi/1_03
+  rotate: false
+  xy: 1468, 23
+  size: 144, 153
+  orig: 256, 256
+  offset: 55, 55
+  index: -1
+images/hehuashuzi/1_04
+  rotate: false
+  xy: 1452, 178
+  size: 148, 157
+  orig: 256, 256
+  offset: 53, 53
+  index: -1
+images/hehuashuzi/1_05
+  rotate: false
+  xy: 1316, 10
+  size: 150, 160
+  orig: 256, 256
+  offset: 52, 52
+  index: -1
+images/hehuashuzi/1_06
+  rotate: false
+  xy: 846, 2
+  size: 153, 163
+  orig: 256, 256
+  offset: 50, 50
+  index: -1
+images/hehuashuzi/1_07
+  rotate: false
+  xy: 984, 169
+  size: 155, 166
+  orig: 256, 256
+  offset: 49, 49
+  index: -1
+images/hehuashuzi/1_08
+  rotate: true
+  xy: 504, 4
+  size: 157, 168
+  orig: 256, 256
+  offset: 48, 48
+  index: -1
+images/hehuashuzi/1_09
+  rotate: true
+  xy: 2, 3
+  size: 158, 169
+  orig: 256, 256
+  offset: 48, 48
+  index: -1
+images/hehuashuzi/1_10
+  rotate: true
+  xy: 674, 2
+  size: 160, 170
+  orig: 256, 256
+  offset: 47, 47
+  index: -1
+images/hehuashuzi/1_11
+  rotate: false
+  xy: 657, 164
+  size: 160, 171
+  orig: 256, 256
+  offset: 47, 47
+  index: -1
+images/hehuashuzi/1_12
+  rotate: false
+  xy: 331, 163
+  size: 161, 172
+  orig: 256, 256
+  offset: 46, 46
+  index: -1
+images/hehuashuzi/1_13
+  rotate: false
+  xy: 494, 163
+  size: 161, 172
+  orig: 256, 256
+  offset: 46, 46
+  index: -1
+images/hehuashuzi/1_14
+  rotate: false
+  xy: 167, 163
+  size: 162, 172
+  orig: 256, 256
+  offset: 46, 46
+  index: -1
+images/hehuashuzi/1_15
+  rotate: false
+  xy: 2, 163
+  size: 163, 172
+  orig: 256, 256
+  offset: 45, 46
+  index: -1
+images/hehuashuzi/1_16
+  rotate: false
+  xy: 819, 167
+  size: 163, 168
+  orig: 256, 256
+  offset: 45, 46
+  index: -1
+images/hehuashuzi/1_17
+  rotate: false
+  xy: 339, 3
+  size: 163, 158
+  orig: 256, 256
+  offset: 45, 45
+  index: -1
+images/hehuashuzi/1_18
+  rotate: false
+  xy: 173, 3
+  size: 164, 158
+  orig: 256, 256
+  offset: 45, 45
+  index: -1
+images/hehuashuzi/1_19
+  rotate: true
+  xy: 1001, 3
+  size: 164, 157
+  orig: 256, 256
+  offset: 45, 46
+  index: -1
+images/hehuashuzi/1_20
+  rotate: true
+  xy: 1141, 171
+  size: 164, 156
+  orig: 256, 256
+  offset: 45, 46
+  index: -1
+images/hehuashuzi/1_21
+  rotate: true
+  xy: 1160, 5
+  size: 164, 154
+  orig: 256, 256
+  offset: 45, 46
+  index: -1
+images/hehuashuzi/1_22
+  rotate: true
+  xy: 1299, 172
+  size: 163, 151
+  orig: 256, 256
+  offset: 45, 49
+  index: -1

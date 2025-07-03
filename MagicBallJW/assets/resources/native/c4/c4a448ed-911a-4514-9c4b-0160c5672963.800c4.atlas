@@ -1,0 +1,90 @@
+
+TC_FG_yingfenkuang.png
+size: 733,733
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 138, 68
+  size: 100, 115
+  orig: 720, 138
+  offset: 1, 4
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 406, 325
+  size: 137, 130
+  orig: 720, 138
+  offset: 1, 4
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 423, 457
+  size: 174, 134
+  orig: 720, 138
+  offset: 2, 4
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 212, 321
+  size: 192, 134
+  orig: 720, 138
+  offset: 22, 4
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 216, 457
+  size: 205, 134
+  orig: 720, 138
+  offset: 47, 4
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 457
+  size: 212, 134
+  orig: 720, 138
+  offset: 228, 4
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 2, 321
+  size: 208, 134
+  orig: 720, 138
+  offset: 455, 4
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 2, 185
+  size: 198, 134
+  orig: 720, 138
+  offset: 493, 4
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 2, 2
+  size: 181, 134
+  orig: 720, 138
+  offset: 530, 4
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 202, 188
+  size: 151, 131
+  orig: 720, 138
+  offset: 568, 7
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 599, 471
+  size: 113, 120
+  orig: 720, 138
+  offset: 606, 18
+  index: -1
+images/yingfenkuang
+  rotate: false
+  xy: 2, 593
+  size: 720, 138
+  orig: 720, 138
+  offset: 0, 0
+  index: -1

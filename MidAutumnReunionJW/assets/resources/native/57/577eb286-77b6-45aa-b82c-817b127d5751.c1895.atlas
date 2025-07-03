@@ -1,0 +1,300 @@
+
+TC_chengbei_title.png
+size: 1944,258
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/cn
+  rotate: false
+  xy: 743, 103
+  size: 329, 153
+  orig: 329, 153
+  offset: 0, 0
+  index: -1
+images/en
+  rotate: false
+  xy: 1354, 136
+  size: 588, 120
+  orig: 588, 120
+  offset: 0, 0
+  index: -1
+images/sgcn/1_00
+  rotate: true
+  xy: 2, 7
+  size: 45, 73
+  orig: 329, 153
+  offset: 82, 42
+  index: -1
+images/sgcn/1_01
+  rotate: true
+  xy: 1278, 120
+  size: 60, 74
+  orig: 329, 153
+  offset: 82, 41
+  index: -1
+images/sgcn/1_02
+  rotate: false
+  xy: 1278, 182
+  size: 74, 74
+  orig: 329, 153
+  offset: 82, 41
+  index: -1
+images/sgcn/1_03
+  rotate: true
+  xy: 559, 2
+  size: 89, 76
+  orig: 329, 153
+  offset: 82, 39
+  index: -1
+images/sgcn/1_04
+  rotate: true
+  xy: 1276, 3
+  size: 104, 76
+  orig: 329, 153
+  offset: 82, 39
+  index: -1
+images/sgcn/1_05
+  rotate: true
+  xy: 1637, 21
+  size: 113, 76
+  orig: 329, 153
+  offset: 82, 39
+  index: -1
+images/sgcn/1_06
+  rotate: true
+  xy: 1354, 2
+  size: 132, 76
+  orig: 329, 153
+  offset: 82, 39
+  index: -1
+images/sgcn/1_07
+  rotate: true
+  xy: 1200, 109
+  size: 147, 76
+  orig: 329, 153
+  offset: 82, 39
+  index: -1
+images/sgcn/1_08
+  rotate: true
+  xy: 664, 100
+  size: 156, 77
+  orig: 329, 153
+  offset: 83, 38
+  index: -1
+images/sgcn/1_09
+  rotate: false
+  xy: 394, 3
+  size: 163, 77
+  orig: 329, 153
+  offset: 83, 38
+  index: -1
+images/sgcn/1_10
+  rotate: true
+  xy: 443, 93
+  size: 163, 77
+  orig: 329, 153
+  offset: 83, 38
+  index: -1
+images/sgcn/1_11
+  rotate: true
+  xy: 585, 95
+  size: 161, 77
+  orig: 329, 153
+  offset: 85, 38
+  index: -1
+images/sgcn/1_12
+  rotate: false
+  xy: 981, 24
+  size: 152, 77
+  orig: 329, 153
+  offset: 95, 38
+  index: -1
+images/sgcn/1_13
+  rotate: false
+  xy: 1135, 25
+  size: 139, 77
+  orig: 329, 153
+  offset: 108, 38
+  index: -1
+images/sgcn/1_14
+  rotate: true
+  xy: 1558, 9
+  size: 125, 77
+  orig: 329, 153
+  offset: 122, 38
+  index: -1
+images/sgcn/1_15
+  rotate: true
+  xy: 1778, 26
+  size: 108, 77
+  orig: 329, 153
+  offset: 139, 38
+  index: -1
+images/sgcn/1_16
+  rotate: true
+  xy: 700, 2
+  size: 96, 76
+  orig: 329, 153
+  offset: 151, 38
+  index: -1
+images/sgcn/1_17
+  rotate: true
+  xy: 904, 20
+  size: 81, 75
+  orig: 329, 153
+  offset: 166, 39
+  index: -1
+images/sgcn/1_18
+  rotate: true
+  xy: 317, 7
+  size: 67, 75
+  orig: 329, 153
+  offset: 180, 39
+  index: -1
+images/sgcn/1_19
+  rotate: true
+  xy: 139, 4
+  size: 51, 74
+  orig: 329, 153
+  offset: 196, 40
+  index: -1
+images/sgen/1_00
+  rotate: true
+  xy: 215, 13
+  size: 44, 58
+  orig: 588, 120
+  offset: 148, 33
+  index: -1
+images/sgen/1_01
+  rotate: true
+  xy: 1857, 5
+  size: 66, 60
+  orig: 588, 120
+  offset: 147, 31
+  index: -1
+images/sgen/1_02
+  rotate: true
+  xy: 841, 13
+  size: 88, 61
+  orig: 588, 120
+  offset: 147, 30
+  index: -1
+images/sgen/1_03
+  rotate: true
+  xy: 1715, 25
+  size: 109, 61
+  orig: 588, 120
+  offset: 147, 30
+  index: -1
+images/sgen/1_04
+  rotate: true
+  xy: 1495, 4
+  size: 130, 61
+  orig: 588, 120
+  offset: 147, 30
+  index: -1
+images/sgen/1_05
+  rotate: true
+  xy: 1137, 105
+  size: 151, 61
+  orig: 588, 120
+  offset: 148, 30
+  index: -1
+images/sgen/1_06
+  rotate: true
+  xy: 522, 93
+  size: 163, 61
+  orig: 588, 120
+  offset: 148, 30
+  index: -1
+images/sgen/1_07
+  rotate: true
+  xy: 317, 76
+  size: 180, 61
+  orig: 588, 120
+  offset: 150, 30
+  index: -1
+images/sgen/1_08
+  rotate: true
+  xy: 2, 54
+  size: 202, 61
+  orig: 588, 120
+  offset: 161, 30
+  index: -1
+images/sgen/1_09
+  rotate: true
+  xy: 191, 59
+  size: 197, 61
+  orig: 588, 120
+  offset: 186, 30
+  index: -1
+images/sgen/1_10
+  rotate: true
+  xy: 65, 54
+  size: 202, 61
+  orig: 588, 120
+  offset: 203, 30
+  index: -1
+images/sgen/1_11
+  rotate: true
+  xy: 128, 57
+  size: 199, 61
+  orig: 588, 120
+  offset: 227, 30
+  index: -1
+images/sgen/1_12
+  rotate: true
+  xy: 254, 61
+  size: 195, 61
+  orig: 588, 120
+  offset: 245, 30
+  index: -1
+images/sgen/1_13
+  rotate: true
+  xy: 380, 82
+  size: 174, 61
+  orig: 588, 120
+  offset: 266, 30
+  index: -1
+images/sgen/1_14
+  rotate: true
+  xy: 1074, 104
+  size: 152, 61
+  orig: 588, 120
+  offset: 289, 30
+  index: -1
+images/sgen/1_15
+  rotate: true
+  xy: 1432, 3
+  size: 131, 61
+  orig: 588, 120
+  offset: 310, 30
+  index: -1
+images/sgen/1_16
+  rotate: true
+  xy: 778, 2
+  size: 99, 61
+  orig: 588, 120
+  offset: 342, 30
+  index: -1
+images/sgen/1_17
+  rotate: true
+  xy: 637, 3
+  size: 90, 61
+  orig: 588, 120
+  offset: 351, 30
+  index: -1
+images/sgen/1_18
+  rotate: false
+  xy: 1857, 73
+  size: 67, 61
+  orig: 588, 120
+  offset: 374, 30
+  index: -1
+images/sgen/1_19
+  rotate: true
+  xy: 77, 7
+  size: 45, 60
+  orig: 588, 120
+  offset: 395, 31
+  index: -1

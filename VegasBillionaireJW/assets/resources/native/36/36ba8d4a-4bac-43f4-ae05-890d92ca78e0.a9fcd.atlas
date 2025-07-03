@@ -1,0 +1,27 @@
+
+FG_bj.png
+size: 1605,1174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beijing
+  rotate: false
+  xy: 2, 2
+  size: 1560, 1170
+  orig: 1560, 1170
+  offset: 0, 0
+  index: -1
+deng2_00000
+  rotate: false
+  xy: 1564, 999
+  size: 39, 41
+  orig: 56, 51
+  offset: 9, 5
+  index: -1
+guang_00000
+  rotate: true
+  xy: 1564, 1042
+  size: 130, 21
+  orig: 163, 41
+  offset: 15, 11
+  index: -1

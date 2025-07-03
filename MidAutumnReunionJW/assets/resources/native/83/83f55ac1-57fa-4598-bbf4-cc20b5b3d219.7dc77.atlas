@@ -1,0 +1,153 @@
+
+BG_zhuanlun_zhongjiang.png
+size: 1515,1099
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/lunglow_00
+  rotate: true
+  xy: 2, 209
+  size: 888, 182
+  orig: 1000, 250
+  offset: 56, 36
+  index: -1
+images/zj/1_00
+  rotate: true
+  xy: 1200, 85
+  size: 336, 152
+  orig: 1000, 250
+  offset: 189, 48
+  index: -1
+images/zj/1_01
+  rotate: true
+  xy: 1354, 126
+  size: 331, 159
+  orig: 1000, 250
+  offset: 194, 47
+  index: -1
+images/zj/1_02
+  rotate: false
+  xy: 865, 251
+  size: 333, 166
+  orig: 1000, 250
+  offset: 192, 44
+  index: -1
+images/zj/1_03
+  rotate: false
+  xy: 689, 39
+  size: 334, 173
+  orig: 1000, 250
+  offset: 191, 42
+  index: -1
+images/zj/1_04
+  rotate: true
+  xy: 1071, 423
+  size: 336, 179
+  orig: 1000, 250
+  offset: 189, 39
+  index: -1
+images/zj/1_05
+  rotate: false
+  xy: 186, 214
+  size: 337, 185
+  orig: 1000, 250
+  offset: 188, 37
+  index: -1
+images/zj/1_06
+  rotate: false
+  xy: 525, 214
+  size: 338, 192
+  orig: 1000, 250
+  offset: 187, 33
+  index: -1
+images/zj/1_07
+  rotate: true
+  xy: 1058, 761
+  size: 336, 198
+  orig: 1000, 250
+  offset: 186, 29
+  index: -1
+images/zj/1_08
+  rotate: false
+  xy: 2, 3
+  size: 340, 204
+  orig: 1000, 250
+  offset: 184, 26
+  index: -1
+images/zj/1_09
+  rotate: false
+  xy: 344, 2
+  size: 343, 210
+  orig: 1000, 250
+  offset: 182, 22
+  index: -1
+images/zj/1_10
+  rotate: true
+  xy: 621, 755
+  size: 342, 213
+  orig: 1000, 250
+  offset: 180, 20
+  index: -1
+images/zj/1_11
+  rotate: true
+  xy: 186, 401
+  size: 346, 214
+  orig: 1000, 250
+  offset: 179, 19
+  index: -1
+images/zj/1_12
+  rotate: true
+  xy: 186, 749
+  size: 348, 214
+  orig: 1000, 250
+  offset: 177, 19
+  index: -1
+images/zj/1_13
+  rotate: true
+  xy: 402, 752
+  size: 345, 217
+  orig: 1000, 250
+  offset: 178, 20
+  index: -1
+images/zj/1_14
+  rotate: true
+  xy: 402, 408
+  size: 342, 219
+  orig: 1000, 250
+  offset: 180, 21
+  index: -1
+images/zj/1_15
+  rotate: true
+  xy: 850, 419
+  size: 337, 219
+  orig: 1000, 250
+  offset: 184, 23
+  index: -1
+images/zj/1_16
+  rotate: true
+  xy: 836, 758
+  size: 339, 220
+  orig: 1000, 250
+  offset: 184, 23
+  index: -1
+images/zj/1_17
+  rotate: true
+  xy: 623, 412
+  size: 341, 225
+  orig: 1000, 250
+  offset: 184, 21
+  index: -1
+images/zj/1_18
+  rotate: true
+  xy: 1258, 459
+  size: 318, 230
+  orig: 1000, 250
+  offset: 206, 18
+  index: -1
+images/zj/1_19
+  rotate: true
+  xy: 1258, 779
+  size: 318, 234
+  orig: 1000, 250
+  offset: 206, 16
+  index: -1

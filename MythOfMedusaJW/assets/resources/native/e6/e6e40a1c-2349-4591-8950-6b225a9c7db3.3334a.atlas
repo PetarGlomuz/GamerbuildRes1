@@ -1,0 +1,20 @@
+
+TC_yfk.png
+size: 1093,181
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fk_00000
+  rotate: false
+  xy: 721, 80
+  size: 370, 99
+  orig: 377, 108
+  offset: 4, 4
+  index: -1
+yfk
+  rotate: false
+  xy: 2, 2
+  size: 717, 177
+  orig: 717, 177
+  offset: 0, 0
+  index: -1

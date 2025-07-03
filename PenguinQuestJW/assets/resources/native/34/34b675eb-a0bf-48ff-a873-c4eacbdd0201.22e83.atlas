@@ -1,0 +1,62 @@
+
+H5.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h2_7
+  rotate: false
+  xy: 2, 104
+  size: 170, 150
+  orig: 170, 150
+  offset: 0, 0
+  index: -1
+images/h5_1
+  rotate: false
+  xy: 2, 32
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+images/h5_2
+  rotate: false
+  xy: 174, 195
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+images/h5_3
+  rotate: false
+  xy: 40, 17
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+images/h5_4
+  rotate: false
+  xy: 79, 69
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+images/h5_5
+  rotate: true
+  xy: 2, 2
+  size: 28, 36
+  orig: 28, 36
+  offset: 0, 0
+  index: -1
+images/h5_6
+  rotate: false
+  xy: 174, 212
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+images/qp
+  rotate: false
+  xy: 214, 240
+  size: 17, 14
+  orig: 25, 25
+  offset: 5, 7
+  index: -1

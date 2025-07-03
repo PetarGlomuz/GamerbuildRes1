@@ -1,0 +1,153 @@
+
+BG_shuzi.png
+size: 929,542
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00000
+  rotate: false
+  xy: 229, 2
+  size: 126, 119
+  orig: 135, 136
+  offset: 6, 6
+  index: -1
+1/1_00001
+  rotate: true
+  xy: 629, 8
+  size: 128, 123
+  orig: 135, 136
+  offset: 4, 3
+  index: -1
+1/1_00002
+  rotate: false
+  xy: 764, 17
+  size: 129, 124
+  orig: 135, 136
+  offset: 3, 2
+  index: -1
+1/1_00003
+  rotate: false
+  xy: 764, 143
+  size: 129, 128
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+1/1_00004
+  rotate: false
+  xy: 631, 140
+  size: 131, 131
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+1/1_00005
+  rotate: false
+  xy: 657, 406
+  size: 134, 134
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+1/1_00006
+  rotate: false
+  xy: 793, 406
+  size: 134, 134
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+1/1_00007
+  rotate: false
+  xy: 383, 406
+  size: 135, 134
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+1/1_00008
+  rotate: false
+  xy: 520, 406
+  size: 135, 134
+  orig: 135, 136
+  offset: 0, 0
+  index: -1
+1/1_00009
+  rotate: true
+  xy: 233, 259
+  size: 131, 134
+  orig: 135, 136
+  offset: 4, 0
+  index: -1
+1/1_00010
+  rotate: true
+  xy: 383, 274
+  size: 130, 134
+  orig: 135, 136
+  offset: 5, 0
+  index: -1
+1/1_00011
+  rotate: true
+  xy: 519, 274
+  size: 130, 134
+  orig: 135, 136
+  offset: 5, 0
+  index: -1
+1/1_00012
+  rotate: true
+  xy: 655, 273
+  size: 131, 134
+  orig: 135, 136
+  offset: 4, 0
+  index: -1
+1/1_00013
+  rotate: false
+  xy: 364, 123
+  size: 130, 134
+  orig: 135, 136
+  offset: 5, 0
+  index: -1
+1/1_00014
+  rotate: true
+  xy: 791, 273
+  size: 131, 134
+  orig: 135, 136
+  offset: 4, 0
+  index: -1
+1/1_00015
+  rotate: false
+  xy: 496, 2
+  size: 131, 134
+  orig: 135, 136
+  offset: 4, 0
+  index: -1
+1/1_00016
+  rotate: false
+  xy: 229, 123
+  size: 133, 134
+  orig: 135, 136
+  offset: 2, 0
+  index: -1
+1/1_00017
+  rotate: false
+  xy: 496, 138
+  size: 133, 134
+  orig: 135, 136
+  offset: 2, 0
+  index: -1
+baiguang_00000
+  rotate: false
+  xy: 233, 392
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+g2_00000
+  rotate: false
+  xy: 2, 310
+  size: 229, 230
+  orig: 230, 230
+  offset: 0, 0
+  index: -1
+g33_00000
+  rotate: false
+  xy: 2, 82
+  size: 225, 226
+  orig: 230, 230
+  offset: 2, 1
+  index: -1

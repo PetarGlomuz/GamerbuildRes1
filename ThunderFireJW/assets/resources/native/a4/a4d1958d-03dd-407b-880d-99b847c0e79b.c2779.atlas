@@ -1,0 +1,132 @@
+
+JieSuoKuang.png
+size: 1820,379
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/JSK/KSK_001
+  rotate: false
+  xy: 1246, 46
+  size: 572, 34
+  orig: 620, 90
+  offset: 24, 26
+  index: -1
+images/JSK/KSK_002
+  rotate: false
+  xy: 1246, 82
+  size: 570, 44
+  orig: 620, 90
+  offset: 25, 21
+  index: -1
+images/JSK/KSK_003
+  rotate: false
+  xy: 1246, 128
+  size: 570, 47
+  orig: 620, 90
+  offset: 25, 18
+  index: -1
+images/JSK/KSK_004
+  rotate: false
+  xy: 1246, 177
+  size: 572, 53
+  orig: 620, 90
+  offset: 24, 16
+  index: -1
+images/JSK/KSK_005
+  rotate: false
+  xy: 1246, 232
+  size: 572, 68
+  orig: 620, 90
+  offset: 24, 15
+  index: -1
+images/JSK/KSK_006
+  rotate: false
+  xy: 1246, 302
+  size: 570, 75
+  orig: 620, 90
+  offset: 25, 7
+  index: -1
+images/JSK/KSK_007
+  rotate: false
+  xy: 624, 16
+  size: 620, 68
+  orig: 620, 90
+  offset: 0, 11
+  index: -1
+images/JSK/KSK_008
+  rotate: false
+  xy: 2, 73
+  size: 620, 71
+  orig: 620, 90
+  offset: 0, 5
+  index: -1
+images/JSK/KSK_009
+  rotate: false
+  xy: 2, 146
+  size: 620, 72
+  orig: 620, 90
+  offset: 0, 11
+  index: -1
+images/JSK/KSK_010
+  rotate: false
+  xy: 624, 230
+  size: 620, 72
+  orig: 620, 90
+  offset: 0, 15
+  index: -1
+images/JSK/KSK_011
+  rotate: false
+  xy: 2, 220
+  size: 620, 73
+  orig: 620, 90
+  offset: 0, 13
+  index: -1
+images/JSK/KSK_012
+  rotate: false
+  xy: 624, 304
+  size: 620, 73
+  orig: 620, 90
+  offset: 0, 12
+  index: -1
+images/JSK/KSK_013
+  rotate: false
+  xy: 2, 2
+  size: 620, 69
+  orig: 620, 90
+  offset: 0, 13
+  index: -1
+images/JSK/KSK_014
+  rotate: false
+  xy: 624, 86
+  size: 620, 69
+  orig: 620, 90
+  offset: 0, 10
+  index: -1
+images/JSK/KSK_015
+  rotate: false
+  xy: 2, 295
+  size: 620, 82
+  orig: 620, 90
+  offset: 0, 0
+  index: -1
+images/JSK/KSK_016
+  rotate: false
+  xy: 624, 157
+  size: 620, 71
+  orig: 620, 90
+  offset: 0, 5
+  index: -1
+images/JSK/KSK_017
+  rotate: false
+  xy: 624, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/JSK/KSK_000
+  rotate: false
+  xy: 624, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

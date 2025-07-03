@@ -1,0 +1,160 @@
+
+TC_FG_board.png
+size: 1316,1316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/board
+  rotate: true
+  xy: 724, 596
+  size: 718, 565
+  orig: 720, 565
+  offset: 2, 0
+  index: -1
+images/g/g_00
+  rotate: false
+  xy: 772, 18
+  size: 267, 151
+  orig: 582, 370
+  offset: 167, 103
+  index: -1
+images/g/g_01
+  rotate: true
+  xy: 772, 171
+  size: 270, 150
+  orig: 582, 370
+  offset: 166, 103
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 156, 323
+  size: 271, 151
+  orig: 582, 370
+  offset: 165, 103
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 924, 171
+  size: 270, 150
+  orig: 582, 370
+  offset: 166, 103
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 1041, 19
+  size: 270, 150
+  orig: 582, 370
+  offset: 166, 103
+  index: -1
+images/g/g_05
+  rotate: true
+  xy: 2, 48
+  size: 272, 150
+  orig: 582, 370
+  offset: 164, 103
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 772, 443
+  size: 270, 151
+  orig: 582, 370
+  offset: 165, 103
+  index: -1
+images/g/g_07
+  rotate: true
+  xy: 546, 546
+  size: 269, 153
+  orig: 582, 370
+  offset: 164, 103
+  index: -1
+images/g/g_08
+  rotate: true
+  xy: 309, 324
+  size: 270, 153
+  orig: 582, 370
+  offset: 163, 103
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 662
+  size: 270, 153
+  orig: 582, 370
+  offset: 163, 103
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 274, 662
+  size: 270, 153
+  orig: 582, 370
+  offset: 163, 103
+  index: -1
+images/g/g_11
+  rotate: true
+  xy: 308, 51
+  size: 270, 154
+  orig: 582, 370
+  offset: 162, 103
+  index: -1
+images/g/g_12
+  rotate: true
+  xy: 464, 274
+  size: 270, 152
+  orig: 582, 370
+  offset: 162, 103
+  index: -1
+images/g/g_13
+  rotate: true
+  xy: 154, 49
+  size: 271, 152
+  orig: 582, 370
+  offset: 161, 103
+  index: -1
+images/g/g_14
+  rotate: true
+  xy: 2, 322
+  size: 272, 152
+  orig: 582, 370
+  offset: 160, 103
+  index: -1
+images/g/g_15
+  rotate: true
+  xy: 464, 2
+  size: 270, 152
+  orig: 582, 370
+  offset: 162, 103
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 1044, 443
+  size: 270, 151
+  orig: 582, 370
+  offset: 162, 103
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 1076, 171
+  size: 270, 150
+  orig: 582, 370
+  offset: 162, 103
+  index: -1
+images/g/g_18
+  rotate: true
+  xy: 618, 274
+  size: 270, 152
+  orig: 582, 370
+  offset: 163, 103
+  index: -1
+images/g/g_19
+  rotate: true
+  xy: 618, 2
+  size: 270, 152
+  orig: 582, 370
+  offset: 163, 103
+  index: -1
+images/si
+  rotate: false
+  xy: 2, 817
+  size: 720, 497
+  orig: 720, 497
+  offset: 0, 0
+  index: -1

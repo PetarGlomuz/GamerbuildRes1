@@ -1,0 +1,293 @@
+
+MapProgress_JinBiDaiJi.png
+size: 1074,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/JBSG/jinbisg_000
+  rotate: false
+  xy: 950, 34
+  size: 23, 34
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_001
+  rotate: false
+  xy: 918, 24
+  size: 30, 44
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_002
+  rotate: false
+  xy: 317, 7
+  size: 38, 51
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_003
+  rotate: false
+  xy: 2, 2
+  size: 45, 56
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_004
+  rotate: false
+  xy: 867, 10
+  size: 49, 58
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_005
+  rotate: true
+  xy: 49, 3
+  size: 55, 59
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_006
+  rotate: true
+  xy: 623, 8
+  size: 60, 59
+  orig: 80, 80
+  offset: 10, 11
+  index: -1
+images/JBSG/jinbisg_007
+  rotate: false
+  xy: 684, 9
+  size: 59, 59
+  orig: 80, 80
+  offset: 11, 11
+  index: -1
+images/JBSG/jinbisg_008
+  rotate: false
+  xy: 745, 9
+  size: 59, 59
+  orig: 80, 80
+  offset: 11, 11
+  index: -1
+images/JBSG/jinbisg_009
+  rotate: false
+  xy: 806, 9
+  size: 59, 59
+  orig: 80, 80
+  offset: 11, 11
+  index: -1
+images/JBSG/jinbisg_010
+  rotate: true
+  xy: 400, 70
+  size: 70, 68
+  orig: 80, 80
+  offset: 0, 12
+  index: -1
+images/JBSG/jinbisg_011
+  rotate: false
+  xy: 325, 60
+  size: 73, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/JBSG/jinbisg_012
+  rotate: false
+  xy: 2, 60
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/JBSG/jinbisg_013
+  rotate: false
+  xy: 166, 60
+  size: 79, 80
+  orig: 80, 80
+  offset: 1, 0
+  index: -1
+images/JBSG/jinbisg_014
+  rotate: false
+  xy: 84, 60
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/JBSG/jinbisg_015
+  rotate: false
+  xy: 247, 60
+  size: 76, 80
+  orig: 80, 80
+  offset: 4, 0
+  index: -1
+images/JBSG/jinbisg_016
+  rotate: true
+  xy: 110, 5
+  size: 53, 61
+  orig: 80, 80
+  offset: 27, 19
+  index: -1
+images/JBSG/jinbisg_017
+  rotate: true
+  xy: 1041, 115
+  size: 25, 31
+  orig: 80, 80
+  offset: 43, 37
+  index: -1
+images/JBSG/jinbisg_018
+  rotate: false
+  xy: 975, 55
+  size: 13, 15
+  orig: 80, 80
+  offset: 49, 49
+  index: -1
+images/JBSG/jinbisg_019
+  rotate: false
+  xy: 110, 2
+  size: 1, 1
+  orig: 80, 80
+  offset: 58, 60
+  index: -1
+images/JinBiS/JinBiS_000
+  rotate: true
+  xy: 470, 70
+  size: 70, 68
+  orig: 70, 70
+  offset: 0, 2
+  index: -1
+images/JinBiS/JinBiS_019
+  rotate: true
+  xy: 470, 70
+  size: 70, 68
+  orig: 70, 70
+  offset: 0, 2
+  index: -1
+images/JinBiS/JinBiS_001
+  rotate: true
+  xy: 409, 2
+  size: 66, 69
+  orig: 70, 70
+  offset: 4, 1
+  index: -1
+images/JinBiS/JinBiS_002
+  rotate: false
+  xy: 665, 70
+  size: 57, 70
+  orig: 70, 70
+  offset: 11, 0
+  index: -1
+images/JinBiS/JinBiS_003
+  rotate: false
+  xy: 724, 70
+  size: 46, 70
+  orig: 70, 70
+  offset: 17, 0
+  index: -1
+images/JinBiS/JinBiS_004
+  rotate: false
+  xy: 925, 70
+  size: 26, 70
+  orig: 70, 70
+  offset: 25, 0
+  index: -1
+images/JinBiS/JinBiS_005
+  rotate: true
+  xy: 918, 6
+  size: 16, 70
+  orig: 70, 70
+  offset: 25, 0
+  index: -1
+images/JinBiS/JinBiS_006
+  rotate: false
+  xy: 820, 70
+  size: 36, 70
+  orig: 70, 70
+  offset: 13, 0
+  index: -1
+images/JinBiS/JinBiS_007
+  rotate: true
+  xy: 173, 6
+  size: 52, 70
+  orig: 70, 70
+  offset: 4, 0
+  index: -1
+images/JinBiS/JinBiS_008
+  rotate: false
+  xy: 540, 70
+  size: 63, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/JinBiS/JinBiS_009
+  rotate: false
+  xy: 971, 72
+  size: 68, 68
+  orig: 70, 70
+  offset: 0, 2
+  index: -1
+images/JinBiS/JinBiS_010
+  rotate: false
+  xy: 990, 2
+  size: 68, 68
+  orig: 70, 70
+  offset: 2, 2
+  index: -1
+images/JinBiS/JinBiS_011
+  rotate: true
+  xy: 551, 5
+  size: 63, 70
+  orig: 70, 70
+  offset: 7, 0
+  index: -1
+images/JinBiS/JinBiS_012
+  rotate: true
+  xy: 245, 6
+  size: 52, 70
+  orig: 70, 70
+  offset: 14, 0
+  index: -1
+images/JinBiS/JinBiS_013
+  rotate: false
+  xy: 858, 70
+  size: 36, 70
+  orig: 70, 70
+  offset: 21, 0
+  index: -1
+images/JinBiS/JinBiS_014
+  rotate: false
+  xy: 953, 70
+  size: 16, 70
+  orig: 70, 70
+  offset: 29, 0
+  index: -1
+images/JinBiS/JinBiS_015
+  rotate: false
+  xy: 896, 70
+  size: 27, 70
+  orig: 70, 70
+  offset: 18, 0
+  index: -1
+images/JinBiS/JinBiS_016
+  rotate: false
+  xy: 772, 70
+  size: 46, 70
+  orig: 70, 70
+  offset: 7, 0
+  index: -1
+images/JinBiS/JinBiS_017
+  rotate: false
+  xy: 605, 70
+  size: 58, 70
+  orig: 70, 70
+  offset: 1, 0
+  index: -1
+images/JinBiS/JinBiS_018
+  rotate: true
+  xy: 480, 2
+  size: 66, 69
+  orig: 70, 70
+  offset: 0, 1
+  index: -1
+images/Star_000
+  rotate: false
+  xy: 357, 8
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

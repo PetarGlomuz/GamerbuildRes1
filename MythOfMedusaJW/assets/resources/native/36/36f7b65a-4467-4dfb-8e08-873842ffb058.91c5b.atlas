@@ -1,0 +1,27 @@
+
+TC_JP_di.png
+size: 865,569
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g2
+  rotate: false
+  xy: 683, 187
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 683, 368
+  size: 180, 199
+  orig: 180, 199
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 2, 2
+  size: 679, 565
+  orig: 681, 565
+  offset: 1, 0
+  index: -1

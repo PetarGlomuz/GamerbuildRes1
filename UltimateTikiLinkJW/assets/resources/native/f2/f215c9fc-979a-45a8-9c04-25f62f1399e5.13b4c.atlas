@@ -1,0 +1,13 @@
+
+BG_K2.png
+size: 354,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG_K4_000
+  rotate: false
+  xy: 2, 2
+  size: 350, 230
+  orig: 350, 230
+  offset: 0, 0
+  index: -1

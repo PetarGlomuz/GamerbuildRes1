@@ -1,0 +1,27 @@
+
+jiangchi_jpzi_EN.png
+size: 147,145
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/grand7_jin
+  rotate: false
+  xy: 2, 106
+  size: 143, 37
+  orig: 143, 37
+  offset: 0, 0
+  index: -1
+images/middle_minor
+  rotate: false
+  xy: 2, 34
+  size: 127, 34
+  orig: 127, 34
+  offset: 0, 0
+  index: -1
+images/right_major
+  rotate: false
+  xy: 2, 70
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1

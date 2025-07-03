@@ -1,0 +1,153 @@
+
+Fire_Big.png
+size: 1714,1188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/F/FL1_Big_000
+  rotate: false
+  xy: 2, 344
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_001
+  rotate: false
+  xy: 504, 846
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_002
+  rotate: false
+  xy: 2, 2
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_003
+  rotate: false
+  xy: 244, 344
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_004
+  rotate: false
+  xy: 746, 846
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_005
+  rotate: false
+  xy: 244, 2
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_006
+  rotate: false
+  xy: 988, 846
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_007
+  rotate: false
+  xy: 1230, 846
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_008
+  rotate: false
+  xy: 1472, 846
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_009
+  rotate: true
+  xy: 504, 604
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_010
+  rotate: true
+  xy: 846, 604
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_011
+  rotate: true
+  xy: 1188, 604
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_012
+  rotate: false
+  xy: 486, 262
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_013
+  rotate: false
+  xy: 728, 262
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_014
+  rotate: true
+  xy: 486, 20
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_015
+  rotate: false
+  xy: 970, 262
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_016
+  rotate: true
+  xy: 828, 20
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_017
+  rotate: false
+  xy: 1212, 262
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_018
+  rotate: true
+  xy: 1170, 20
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/F/FL1_Big_019
+  rotate: false
+  xy: 1454, 262
+  size: 240, 340
+  orig: 240, 340
+  offset: 0, 0
+  index: -1
+images/FL1_000
+  rotate: false
+  xy: 2, 686
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

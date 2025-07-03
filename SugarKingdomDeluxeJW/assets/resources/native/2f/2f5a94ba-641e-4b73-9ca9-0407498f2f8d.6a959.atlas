@@ -1,0 +1,160 @@
+
+ShuZiDaiJi.png
+size: 1016,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g1
+  rotate: false
+  xy: 2, 11
+  size: 250, 256
+  orig: 250, 257
+  offset: 0, 0
+  index: -1
+images/g1_000
+  rotate: false
+  xy: 808, 4
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+images/li/liiz_000
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/li/liiz_019
+  rotate: false
+  xy: 2, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/li/liiz_001
+  rotate: false
+  xy: 351, 177
+  size: 97, 90
+  orig: 100, 100
+  offset: 3, 6
+  index: -1
+images/li/liiz_002
+  rotate: false
+  xy: 351, 84
+  size: 93, 91
+  orig: 100, 100
+  offset: 1, 4
+  index: -1
+images/li/liiz_003
+  rotate: false
+  xy: 254, 76
+  size: 95, 93
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+images/li/liiz_004
+  rotate: false
+  xy: 254, 171
+  size: 95, 96
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/li/liiz_005
+  rotate: true
+  xy: 547, 179
+  size: 88, 94
+  orig: 100, 100
+  offset: 6, 3
+  index: -1
+images/li/liiz_006
+  rotate: true
+  xy: 450, 178
+  size: 89, 95
+  orig: 100, 100
+  offset: 6, 3
+  index: -1
+images/li/liiz_007
+  rotate: true
+  xy: 643, 182
+  size: 85, 97
+  orig: 100, 100
+  offset: 8, 2
+  index: -1
+images/li/liiz_008
+  rotate: false
+  xy: 540, 2
+  size: 86, 89
+  orig: 100, 100
+  offset: 7, 2
+  index: -1
+images/li/liiz_009
+  rotate: true
+  xy: 829, 91
+  size: 87, 90
+  orig: 100, 100
+  offset: 7, 1
+  index: -1
+images/li/liiz_010
+  rotate: true
+  xy: 736, 92
+  size: 88, 91
+  orig: 100, 100
+  offset: 6, 1
+  index: -1
+images/li/liiz_011
+  rotate: true
+  xy: 742, 182
+  size: 85, 92
+  orig: 100, 100
+  offset: 6, 0
+  index: -1
+images/li/liiz_012
+  rotate: true
+  xy: 836, 180
+  size: 87, 92
+  orig: 100, 100
+  offset: 5, 0
+  index: -1
+images/li/liiz_013
+  rotate: true
+  xy: 643, 93
+  size: 87, 91
+  orig: 100, 100
+  offset: 5, 1
+  index: -1
+images/li/liiz_014
+  rotate: true
+  xy: 446, 2
+  size: 89, 92
+  orig: 100, 100
+  offset: 4, 1
+  index: -1
+images/li/liiz_015
+  rotate: true
+  xy: 628, 2
+  size: 89, 86
+  orig: 100, 100
+  offset: 4, 7
+  index: -1
+images/li/liiz_016
+  rotate: false
+  xy: 716, 2
+  size: 90, 87
+  orig: 100, 100
+  offset: 3, 7
+  index: -1
+images/li/liiz_017
+  rotate: true
+  xy: 930, 181
+  size: 86, 84
+  orig: 100, 100
+  offset: 8, 6
+  index: -1
+images/li/liiz_018
+  rotate: true
+  xy: 930, 93
+  size: 86, 84
+  orig: 100, 100
+  offset: 8, 6
+  index: -1

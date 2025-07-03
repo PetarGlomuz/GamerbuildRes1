@@ -1,0 +1,153 @@
+
+Slot_spin_button.png
+size: 467,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+add
+  rotate: false
+  xy: 2, 385
+  size: 212, 80
+  orig: 320, 160
+  offset: 54, 42
+  index: -1
+sg/sg_01
+  rotate: false
+  xy: 402, 164
+  size: 37, 65
+  orig: 320, 160
+  offset: 58, 53
+  index: -1
+sg/sg_02
+  rotate: true
+  xy: 311, 159
+  size: 54, 73
+  orig: 320, 160
+  offset: 57, 46
+  index: -1
+sg/sg_03
+  rotate: false
+  xy: 322, 2
+  size: 72, 76
+  orig: 320, 160
+  offset: 56, 43
+  index: -1
+sg/sg_04
+  rotate: false
+  xy: 376, 308
+  size: 89, 77
+  orig: 320, 160
+  offset: 56, 43
+  index: -1
+sg/sg_05
+  rotate: false
+  xy: 163, 145
+  size: 107, 78
+  orig: 320, 160
+  offset: 56, 42
+  index: -1
+sg/sg_06
+  rotate: true
+  xy: 162, 19
+  size: 124, 78
+  orig: 320, 160
+  offset: 56, 42
+  index: -1
+sg/sg_07
+  rotate: true
+  xy: 2, 2
+  size: 141, 78
+  orig: 320, 160
+  offset: 57, 42
+  index: -1
+sg/sg_08
+  rotate: false
+  xy: 216, 307
+  size: 158, 78
+  orig: 320, 160
+  offset: 58, 42
+  index: -1
+sg/sg_09
+  rotate: false
+  xy: 2, 225
+  size: 175, 78
+  orig: 320, 160
+  offset: 59, 42
+  index: -1
+sg/sg_10
+  rotate: false
+  xy: 2, 305
+  size: 182, 78
+  orig: 320, 160
+  offset: 69, 42
+  index: -1
+sg/sg_11
+  rotate: false
+  xy: 216, 387
+  size: 176, 78
+  orig: 320, 160
+  offset: 85, 42
+  index: -1
+sg/sg_12
+  rotate: false
+  xy: 2, 145
+  size: 159, 78
+  orig: 320, 160
+  offset: 103, 42
+  index: -1
+sg/sg_13
+  rotate: false
+  xy: 179, 225
+  size: 142, 78
+  orig: 320, 160
+  offset: 121, 42
+  index: -1
+sg/sg_14
+  rotate: true
+  xy: 82, 18
+  size: 125, 78
+  orig: 320, 160
+  offset: 139, 42
+  index: -1
+sg/sg_15
+  rotate: true
+  xy: 242, 36
+  size: 107, 78
+  orig: 320, 160
+  offset: 157, 42
+  index: -1
+sg/sg_16
+  rotate: true
+  xy: 323, 215
+  size: 90, 77
+  orig: 320, 160
+  offset: 174, 42
+  index: -1
+sg/sg_17
+  rotate: false
+  xy: 322, 80
+  size: 72, 77
+  orig: 320, 160
+  offset: 192, 42
+  index: -1
+sg/sg_18
+  rotate: false
+  xy: 402, 231
+  size: 55, 75
+  orig: 320, 160
+  offset: 208, 43
+  index: -1
+sg/sg_19
+  rotate: false
+  xy: 272, 145
+  size: 37, 68
+  orig: 320, 160
+  offset: 225, 44
+  index: -1
+star
+  rotate: false
+  xy: 394, 402
+  size: 68, 63
+  orig: 80, 80
+  offset: 10, 9
+  index: -1

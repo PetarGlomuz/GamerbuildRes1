@@ -1,0 +1,146 @@
+
+FG_glow.png
+size: 1272,1270
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_glow/FG_glow_00
+  rotate: false
+  xy: 2, 422
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_01
+  rotate: false
+  xy: 256, 705
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_02
+  rotate: false
+  xy: 510, 988
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_03
+  rotate: false
+  xy: 2, 140
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_04
+  rotate: false
+  xy: 256, 423
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_05
+  rotate: false
+  xy: 1018, 425
+  size: 252, 279
+  orig: 252, 281
+  offset: 0, 2
+  index: -1
+FG_glow/FG_glow_06
+  rotate: false
+  xy: 1018, 144
+  size: 252, 279
+  orig: 252, 281
+  offset: 0, 2
+  index: -1
+FG_glow/FG_glow_07
+  rotate: false
+  xy: 510, 706
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_08
+  rotate: false
+  xy: 764, 988
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_09
+  rotate: false
+  xy: 256, 141
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_10
+  rotate: false
+  xy: 510, 424
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_11
+  rotate: false
+  xy: 764, 706
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_12
+  rotate: false
+  xy: 1018, 988
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_13
+  rotate: false
+  xy: 510, 142
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_14
+  rotate: false
+  xy: 2, 987
+  size: 252, 281
+  orig: 252, 281
+  offset: 0, 0
+  index: -1
+FG_glow/FG_glow_15
+  rotate: false
+  xy: 2, 704
+  size: 252, 281
+  orig: 252, 281
+  offset: 0, 0
+  index: -1
+FG_glow/FG_glow_16
+  rotate: false
+  xy: 764, 424
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_17
+  rotate: false
+  xy: 1018, 706
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1
+FG_glow/FG_glow_18
+  rotate: false
+  xy: 256, 987
+  size: 252, 281
+  orig: 252, 281
+  offset: 0, 0
+  index: -1
+FG_glow/FG_glow_19
+  rotate: false
+  xy: 764, 142
+  size: 252, 280
+  orig: 252, 281
+  offset: 0, 1
+  index: -1

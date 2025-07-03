@@ -1,0 +1,153 @@
+
+TC_totalwin.png
+size: 882,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+totalwin
+  rotate: false
+  xy: 2, 2
+  size: 571, 106
+  orig: 571, 107
+  offset: 0, 1
+  index: -1
+totalwin/totalwin_000
+  rotate: false
+  xy: 829, 6
+  size: 16, 23
+  orig: 146, 26
+  offset: 3, 2
+  index: -1
+totalwin/totalwin_001
+  rotate: false
+  xy: 852, 31
+  size: 28, 24
+  orig: 146, 26
+  offset: 3, 1
+  index: -1
+totalwin/totalwin_002
+  rotate: false
+  xy: 772, 5
+  size: 36, 24
+  orig: 146, 26
+  offset: 3, 1
+  index: -1
+totalwin/totalwin_003
+  rotate: false
+  xy: 802, 31
+  size: 48, 24
+  orig: 146, 26
+  offset: 3, 1
+  index: -1
+totalwin/totalwin_004
+  rotate: false
+  xy: 816, 84
+  size: 57, 24
+  orig: 146, 26
+  offset: 3, 1
+  index: -1
+totalwin/totalwin_005
+  rotate: false
+  xy: 737, 58
+  size: 68, 24
+  orig: 146, 26
+  offset: 3, 1
+  index: -1
+totalwin/totalwin_006
+  rotate: false
+  xy: 737, 84
+  size: 77, 24
+  orig: 146, 26
+  offset: 3, 1
+  index: -1
+totalwin/totalwin_007
+  rotate: false
+  xy: 656, 32
+  size: 75, 24
+  orig: 146, 26
+  offset: 11, 1
+  index: -1
+totalwin/totalwin_008
+  rotate: false
+  xy: 656, 84
+  size: 79, 24
+  orig: 146, 26
+  offset: 20, 1
+  index: -1
+totalwin/totalwin_009
+  rotate: false
+  xy: 575, 30
+  size: 79, 24
+  orig: 146, 26
+  offset: 30, 1
+  index: -1
+totalwin/totalwin_010
+  rotate: false
+  xy: 656, 58
+  size: 79, 24
+  orig: 146, 26
+  offset: 39, 1
+  index: -1
+totalwin/totalwin_011
+  rotate: false
+  xy: 575, 83
+  size: 79, 25
+  orig: 146, 26
+  offset: 48, 1
+  index: -1
+totalwin/totalwin_012
+  rotate: false
+  xy: 575, 56
+  size: 79, 25
+  orig: 146, 26
+  offset: 58, 1
+  index: -1
+totalwin/totalwin_013
+  rotate: false
+  xy: 575, 3
+  size: 76, 25
+  orig: 146, 26
+  offset: 68, 1
+  index: -1
+totalwin/totalwin_014
+  rotate: false
+  xy: 733, 31
+  size: 67, 25
+  orig: 146, 26
+  offset: 77, 1
+  index: -1
+totalwin/totalwin_015
+  rotate: false
+  xy: 807, 57
+  size: 53, 25
+  orig: 146, 26
+  offset: 91, 1
+  index: -1
+totalwin/totalwin_016
+  rotate: false
+  xy: 656, 5
+  size: 48, 25
+  orig: 146, 26
+  offset: 96, 1
+  index: -1
+totalwin/totalwin_017
+  rotate: false
+  xy: 732, 4
+  size: 38, 25
+  orig: 146, 26
+  offset: 106, 1
+  index: -1
+totalwin/totalwin_018
+  rotate: true
+  xy: 706, 2
+  size: 28, 24
+  orig: 146, 26
+  offset: 116, 1
+  index: -1
+totalwin/totalwin_019
+  rotate: false
+  xy: 810, 5
+  size: 17, 24
+  orig: 146, 26
+  offset: 127, 1
+  index: -1

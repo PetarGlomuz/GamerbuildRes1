@@ -1,0 +1,111 @@
+
+Feature_wushi.png
+size: 1992,1193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+w_00
+  rotate: false
+  xy: 185, 2
+  size: 816, 167
+  orig: 1560, 720
+  offset: 338, 355
+  index: -1
+w_01
+  rotate: true
+  xy: 2, 162
+  size: 835, 181
+  orig: 1560, 720
+  offset: 329, 355
+  index: -1
+w_02
+  rotate: true
+  xy: 732, 172
+  size: 825, 164
+  orig: 1560, 720
+  offset: 327, 355
+  index: -1
+w_03
+  rotate: true
+  xy: 185, 171
+  size: 826, 171
+  orig: 1560, 720
+  offset: 313, 355
+  index: -1
+w_04
+  rotate: true
+  xy: 1816, 374
+  size: 817, 174
+  orig: 1560, 720
+  offset: 328, 355
+  index: -1
+w_05
+  rotate: true
+  xy: 358, 179
+  size: 818, 179
+  orig: 1560, 720
+  offset: 322, 355
+  index: -1
+w_06
+  rotate: false
+  xy: 838, 1005
+  size: 816, 186
+  orig: 1560, 720
+  offset: 318, 355
+  index: -1
+w_07
+  rotate: true
+  xy: 539, 194
+  size: 803, 191
+  orig: 1560, 720
+  offset: 350, 355
+  index: -1
+w_08
+  rotate: true
+  xy: 898, 207
+  size: 796, 196
+  orig: 1560, 720
+  offset: 344, 355
+  index: -1
+w_09
+  rotate: false
+  xy: 1003, 2
+  size: 781, 203
+  orig: 1560, 720
+  offset: 345, 355
+  index: -1
+w_10
+  rotate: true
+  xy: 1456, 264
+  size: 739, 186
+  orig: 1560, 720
+  offset: 375, 355
+  index: -1
+w_11
+  rotate: true
+  xy: 1644, 249
+  size: 754, 170
+  orig: 1560, 720
+  offset: 355, 355
+  index: -1
+w_12
+  rotate: true
+  xy: 1280, 225
+  size: 778, 174
+  orig: 1560, 720
+  offset: 324, 355
+  index: -1
+w_13
+  rotate: true
+  xy: 1096, 231
+  size: 772, 182
+  orig: 1560, 720
+  offset: 339, 355
+  index: -1
+w_14
+  rotate: false
+  xy: 2, 999
+  size: 834, 192
+  orig: 1560, 720
+  offset: 334, 355
+  index: -1

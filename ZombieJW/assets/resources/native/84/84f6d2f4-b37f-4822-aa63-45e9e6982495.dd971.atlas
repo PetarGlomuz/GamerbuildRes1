@@ -1,0 +1,132 @@
+
+TC_FG_totalwin.png
+size: 674,674
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TOTALWIN
+  rotate: false
+  xy: 2, 573
+  size: 539, 99
+  orig: 539, 99
+  offset: 0, 0
+  index: -1
+g/g_00
+  rotate: true
+  xy: 474, 2
+  size: 134, 85
+  orig: 539, 99
+  offset: 7, 10
+  index: -1
+g/g_01
+  rotate: true
+  xy: 570, 409
+  size: 176, 85
+  orig: 539, 99
+  offset: 7, 10
+  index: -1
+g/g_02
+  rotate: false
+  xy: 286, 138
+  size: 212, 85
+  orig: 539, 99
+  offset: 7, 10
+  index: -1
+g/g_03
+  rotate: false
+  xy: 292, 225
+  size: 235, 85
+  orig: 539, 99
+  offset: 7, 10
+  index: -1
+g/g_04
+  rotate: false
+  xy: 294, 486
+  size: 274, 85
+  orig: 539, 99
+  offset: 8, 10
+  index: -1
+g/g_05
+  rotate: false
+  xy: 2, 399
+  size: 289, 85
+  orig: 539, 99
+  offset: 34, 10
+  index: -1
+g/g_06
+  rotate: false
+  xy: 293, 399
+  size: 275, 85
+  orig: 539, 99
+  offset: 69, 10
+  index: -1
+g/g_07
+  rotate: false
+  xy: 2, 486
+  size: 290, 85
+  orig: 539, 99
+  offset: 103, 10
+  index: -1
+g/g_08
+  rotate: false
+  xy: 2, 51
+  size: 276, 85
+  orig: 539, 99
+  offset: 145, 10
+  index: -1
+g/g_09
+  rotate: false
+  xy: 2, 225
+  size: 288, 85
+  orig: 539, 99
+  offset: 173, 10
+  index: -1
+g/g_10
+  rotate: false
+  xy: 2, 138
+  size: 282, 85
+  orig: 539, 99
+  offset: 207, 10
+  index: -1
+g/g_11
+  rotate: false
+  xy: 2, 312
+  size: 289, 85
+  orig: 539, 99
+  offset: 242, 10
+  index: -1
+g/g_12
+  rotate: false
+  xy: 293, 312
+  size: 249, 85
+  orig: 539, 99
+  offset: 283, 10
+  index: -1
+g/g_13
+  rotate: false
+  xy: 280, 51
+  size: 192, 85
+  orig: 539, 99
+  offset: 340, 10
+  index: -1
+g/g_14
+  rotate: false
+  xy: 500, 138
+  size: 166, 85
+  orig: 539, 99
+  offset: 366, 10
+  index: -1
+g/g_15
+  rotate: true
+  xy: 544, 245
+  size: 152, 85
+  orig: 539, 99
+  offset: 380, 10
+  index: -1
+g/g_16
+  rotate: false
+  xy: 543, 587
+  size: 117, 85
+  orig: 539, 99
+  offset: 415, 10
+  index: -1

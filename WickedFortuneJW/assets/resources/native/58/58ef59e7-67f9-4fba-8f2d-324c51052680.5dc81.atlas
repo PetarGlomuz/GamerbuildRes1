@@ -1,0 +1,146 @@
+
+TC_anniu.png
+size: 280,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ansg/ansg_00
+  rotate: false
+  xy: 182, 254
+  size: 82, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_01
+  rotate: true
+  xy: 181, 152
+  size: 100, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_02
+  rotate: false
+  xy: 158, 50
+  size: 118, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_03
+  rotate: false
+  xy: 141, 2
+  size: 136, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_04
+  rotate: false
+  xy: 2, 50
+  size: 154, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_05
+  rotate: false
+  xy: 2, 194
+  size: 167, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_06
+  rotate: false
+  xy: 2, 482
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_07
+  rotate: false
+  xy: 2, 434
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_08
+  rotate: false
+  xy: 2, 386
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_09
+  rotate: false
+  xy: 2, 338
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_10
+  rotate: true
+  xy: 182, 350
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_11
+  rotate: false
+  xy: 2, 290
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_12
+  rotate: true
+  xy: 230, 350
+  size: 178, 46
+  orig: 183, 50
+  offset: 2, 2
+  index: -1
+ansg/ansg_13
+  rotate: false
+  xy: 2, 242
+  size: 177, 46
+  orig: 183, 50
+  offset: 3, 2
+  index: -1
+ansg/ansg_14
+  rotate: false
+  xy: 2, 146
+  size: 167, 46
+  orig: 183, 50
+  offset: 13, 2
+  index: -1
+ansg/ansg_15
+  rotate: false
+  xy: 2, 98
+  size: 155, 46
+  orig: 183, 50
+  offset: 25, 2
+  index: -1
+ansg/ansg_16
+  rotate: false
+  xy: 2, 2
+  size: 137, 46
+  orig: 183, 50
+  offset: 43, 2
+  index: -1
+ansg/ansg_17
+  rotate: false
+  xy: 159, 98
+  size: 119, 46
+  orig: 183, 50
+  offset: 61, 2
+  index: -1
+ansg/ansg_18
+  rotate: true
+  xy: 229, 151
+  size: 101, 46
+  orig: 183, 50
+  offset: 79, 2
+  index: -1
+ansg/ansg_19
+  rotate: false
+  xy: 182, 302
+  size: 83, 46
+  orig: 183, 50
+  offset: 97, 2
+  index: -1

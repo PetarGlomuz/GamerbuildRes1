@@ -1,0 +1,132 @@
+
+239_qipan_kuang_low.png
+size: 906,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01_000
+  rotate: true
+  xy: 818, 479
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+faguang
+  rotate: true
+  xy: 818, 415
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+jili/jili_000
+  rotate: false
+  xy: 2, 146
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_001
+  rotate: true
+  xy: 2, 2
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_002
+  rotate: false
+  xy: 146, 351
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_003
+  rotate: false
+  xy: 146, 147
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_004
+  rotate: false
+  xy: 2, 350
+  size: 142, 203
+  orig: 174, 230
+  offset: 23, 11
+  index: -1
+jili/jili_005
+  rotate: true
+  xy: 206, 3
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_006
+  rotate: true
+  xy: 410, 4
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_007
+  rotate: true
+  xy: 614, 412
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_008
+  rotate: false
+  xy: 434, 351
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_009
+  rotate: false
+  xy: 577, 208
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_010
+  rotate: false
+  xy: 434, 147
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_011
+  rotate: false
+  xy: 614, 4
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_012
+  rotate: false
+  xy: 720, 208
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_013
+  rotate: false
+  xy: 757, 4
+  size: 141, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_014
+  rotate: false
+  xy: 290, 351
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1
+jili/jili_015
+  rotate: false
+  xy: 290, 147
+  size: 142, 202
+  orig: 174, 230
+  offset: 23, 12
+  index: -1

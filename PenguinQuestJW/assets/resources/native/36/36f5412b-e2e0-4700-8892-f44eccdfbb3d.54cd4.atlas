@@ -1,0 +1,321 @@
+
+BetUp.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bet
+  rotate: false
+  xy: 476, 196
+  size: 335, 41
+  orig: 350, 48
+  offset: 7, 4
+  index: -1
+images/jies/jue_000
+  rotate: false
+  xy: 471, 141
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jies/jue_001
+  rotate: false
+  xy: 2, 25
+  size: 468, 56
+  orig: 500, 76
+  offset: 17, 8
+  index: -1
+images/jies/jue_002
+  rotate: false
+  xy: 2, 144
+  size: 470, 57
+  orig: 500, 76
+  offset: 16, 8
+  index: -1
+images/jies/jue_003
+  rotate: false
+  xy: 2, 322
+  size: 472, 58
+  orig: 500, 76
+  offset: 15, 8
+  index: -1
+images/jies/jue_004
+  rotate: false
+  xy: 2, 382
+  size: 472, 60
+  orig: 500, 76
+  offset: 16, 7
+  index: -1
+images/jies/jue_005
+  rotate: false
+  xy: 2, 444
+  size: 473, 61
+  orig: 500, 76
+  offset: 16, 6
+  index: -1
+images/jies/jue_006
+  rotate: false
+  xy: 477, 446
+  size: 472, 59
+  orig: 500, 76
+  offset: 17, 8
+  index: -1
+images/jies/jue_007
+  rotate: false
+  xy: 2, 262
+  size: 473, 58
+  orig: 500, 76
+  offset: 16, 8
+  index: -1
+images/jies/jue_008
+  rotate: false
+  xy: 2, 203
+  size: 472, 57
+  orig: 500, 76
+  offset: 16, 10
+  index: -1
+images/jies/jue_009
+  rotate: false
+  xy: 2, 83
+  size: 467, 59
+  orig: 500, 76
+  offset: 17, 9
+  index: -1
+images/jies/jue_010
+  rotate: false
+  xy: 477, 385
+  size: 460, 59
+  orig: 500, 76
+  offset: 23, 8
+  index: -1
+images/jies/jue_011
+  rotate: false
+  xy: 476, 326
+  size: 454, 57
+  orig: 500, 76
+  offset: 24, 9
+  index: -1
+images/jies/jue_012
+  rotate: false
+  xy: 477, 279
+  size: 393, 45
+  orig: 500, 76
+  offset: 58, 14
+  index: -1
+images/jies/jue_013
+  rotate: false
+  xy: 477, 239
+  size: 379, 38
+  orig: 500, 76
+  offset: 60, 15
+  index: -1
+images/jies/jue_014
+  rotate: false
+  xy: 2, 11
+  size: 380, 12
+  orig: 500, 76
+  offset: 60, 40
+  index: -1
+images/sg/bet_000
+  rotate: true
+  xy: 1016, 469
+  size: 4, 6
+  orig: 200, 50
+  offset: 16, 17
+  index: -1
+images/sg/bet_001
+  rotate: false
+  xy: 793, 86
+  size: 18, 23
+  orig: 200, 50
+  offset: 13, 13
+  index: -1
+images/sg/bet_002
+  rotate: true
+  xy: 701, 2
+  size: 31, 27
+  orig: 200, 50
+  offset: 12, 12
+  index: -1
+images/sg/bet_003
+  rotate: true
+  xy: 730, 56
+  size: 42, 29
+  orig: 200, 50
+  offset: 11, 11
+  index: -1
+images/sg/bet_004
+  rotate: false
+  xy: 872, 295
+  size: 55, 29
+  orig: 200, 50
+  offset: 11, 11
+  index: -1
+images/sg/bet_005
+  rotate: false
+  xy: 951, 475
+  size: 66, 30
+  orig: 200, 50
+  offset: 11, 10
+  index: -1
+images/sg/bet_006
+  rotate: false
+  xy: 939, 411
+  size: 77, 31
+  orig: 200, 50
+  offset: 11, 10
+  index: -1
+images/sg/bet_007
+  rotate: false
+  xy: 932, 346
+  size: 89, 31
+  orig: 200, 50
+  offset: 11, 10
+  index: -1
+images/sg/bet_008
+  rotate: false
+  xy: 872, 262
+  size: 98, 31
+  orig: 200, 50
+  offset: 11, 10
+  index: -1
+images/sg/bet_009
+  rotate: false
+  xy: 588, 2
+  size: 111, 31
+  orig: 200, 50
+  offset: 11, 10
+  index: -1
+images/sg/bet_010
+  rotate: false
+  xy: 606, 67
+  size: 122, 31
+  orig: 200, 50
+  offset: 11, 10
+  index: -1
+images/sg/bet_011
+  rotate: false
+  xy: 472, 68
+  size: 132, 30
+  orig: 200, 50
+  offset: 12, 10
+  index: -1
+images/sg/bet_012
+  rotate: false
+  xy: 616, 100
+  size: 142, 30
+  orig: 200, 50
+  offset: 13, 10
+  index: -1
+images/sg/bet_013
+  rotate: false
+  xy: 630, 132
+  size: 151, 30
+  orig: 200, 50
+  offset: 15, 10
+  index: -1
+images/sg/bet_014
+  rotate: false
+  xy: 639, 164
+  size: 162, 30
+  orig: 200, 50
+  offset: 16, 10
+  index: -1
+images/sg/bet_015
+  rotate: false
+  xy: 474, 164
+  size: 163, 30
+  orig: 200, 50
+  offset: 22, 10
+  index: -1
+images/sg/bet_016
+  rotate: false
+  xy: 474, 132
+  size: 154, 30
+  orig: 200, 50
+  offset: 33, 10
+  index: -1
+images/sg/bet_017
+  rotate: false
+  xy: 471, 100
+  size: 143, 30
+  orig: 200, 50
+  offset: 44, 10
+  index: -1
+images/sg/bet_018
+  rotate: false
+  xy: 472, 36
+  size: 131, 30
+  orig: 200, 50
+  offset: 57, 10
+  index: -1
+images/sg/bet_019
+  rotate: false
+  xy: 605, 35
+  size: 120, 30
+  orig: 200, 50
+  offset: 68, 10
+  index: -1
+images/sg/bet_020
+  rotate: false
+  xy: 472, 4
+  size: 114, 30
+  orig: 200, 50
+  offset: 74, 10
+  index: -1
+images/sg/bet_021
+  rotate: true
+  xy: 761, 9
+  size: 100, 30
+  orig: 200, 50
+  offset: 88, 10
+  index: -1
+images/sg/bet_022
+  rotate: false
+  xy: 932, 314
+  size: 87, 30
+  orig: 200, 50
+  offset: 101, 10
+  index: -1
+images/sg/bet_023
+  rotate: false
+  xy: 939, 379
+  size: 75, 30
+  orig: 200, 50
+  offset: 113, 10
+  index: -1
+images/sg/bet_024
+  rotate: false
+  xy: 951, 444
+  size: 63, 29
+  orig: 200, 50
+  offset: 125, 11
+  index: -1
+images/sg/bet_025
+  rotate: true
+  xy: 783, 111
+  size: 51, 28
+  orig: 200, 50
+  offset: 137, 11
+  index: -1
+images/sg/bet_026
+  rotate: false
+  xy: 972, 285
+  size: 40, 27
+  orig: 200, 50
+  offset: 147, 12
+  index: -1
+images/sg/bet_027
+  rotate: false
+  xy: 972, 260
+  size: 27, 23
+  orig: 200, 50
+  offset: 159, 14
+  index: -1
+images/star_000
+  rotate: false
+  xy: 813, 37
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

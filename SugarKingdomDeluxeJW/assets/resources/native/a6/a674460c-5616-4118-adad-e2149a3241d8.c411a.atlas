@@ -1,0 +1,258 @@
+
+Map_misson_multik.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zha1/zha1_01
+  rotate: false
+  xy: 459, 743
+  size: 190, 52
+  orig: 400, 150
+  offset: 150, 46
+  index: -1
+zha1/zha1_02
+  rotate: false
+  xy: 459, 797
+  size: 195, 57
+  orig: 400, 150
+  offset: 147, 44
+  index: -1
+zha1/zha1_03
+  rotate: false
+  xy: 2, 2
+  size: 200, 62
+  orig: 400, 150
+  offset: 145, 42
+  index: -1
+zha1/zha1_04
+  rotate: false
+  xy: 251, 720
+  size: 204, 68
+  orig: 400, 150
+  offset: 143, 39
+  index: -1
+zha1/zha1_05
+  rotate: false
+  xy: 251, 790
+  size: 206, 71
+  orig: 400, 150
+  offset: 142, 38
+  index: -1
+zha1/zha1_06
+  rotate: false
+  xy: 251, 863
+  size: 209, 74
+  orig: 400, 150
+  offset: 141, 36
+  index: -1
+zha1/zha1_07
+  rotate: true
+  xy: 173, 724
+  size: 211, 76
+  orig: 400, 150
+  offset: 140, 35
+  index: -1
+zha1/zha1_08
+  rotate: true
+  xy: 2, 66
+  size: 213, 78
+  orig: 400, 150
+  offset: 139, 34
+  index: -1
+zha1/zha1_09
+  rotate: false
+  xy: 660, 942
+  size: 215, 80
+  orig: 400, 150
+  offset: 139, 33
+  index: -1
+zha1/zha1_10
+  rotate: true
+  xy: 2, 497
+  size: 216, 82
+  orig: 400, 150
+  offset: 139, 32
+  index: -1
+zha1/zha1_11
+  rotate: false
+  xy: 223, 939
+  size: 218, 83
+  orig: 400, 150
+  offset: 138, 31
+  index: -1
+zha1/zha1_12
+  rotate: false
+  xy: 2, 937
+  size: 219, 85
+  orig: 400, 150
+  offset: 138, 30
+  index: -1
+zha1/zha1_13
+  rotate: true
+  xy: 2, 715
+  size: 220, 84
+  orig: 400, 150
+  offset: 137, 31
+  index: -1
+zha1/zha1_14
+  rotate: true
+  xy: 88, 720
+  size: 215, 83
+  orig: 400, 150
+  offset: 140, 31
+  index: -1
+zha1/zha1_15
+  rotate: false
+  xy: 443, 939
+  size: 215, 83
+  orig: 400, 150
+  offset: 140, 31
+  index: -1
+zha1/zha1_16
+  rotate: true
+  xy: 2, 281
+  size: 214, 82
+  orig: 400, 150
+  offset: 142, 32
+  index: -1
+zha1/zha1_17
+  rotate: false
+  xy: 462, 856
+  size: 193, 81
+  orig: 400, 150
+  offset: 154, 33
+  index: -1
+zha1/zha1_18
+  rotate: false
+  xy: 457, 693
+  size: 181, 48
+  orig: 400, 150
+  offset: 155, 53
+  index: -1
+zha2/zha2_01
+  rotate: true
+  xy: 794, 839
+  size: 101, 81
+  orig: 400, 150
+  offset: 58, 35
+  index: -1
+zha2/zha2_02
+  rotate: true
+  xy: 788, 719
+  size: 109, 87
+  orig: 400, 150
+  offset: 55, 32
+  index: -1
+zha2/zha2_03
+  rotate: false
+  xy: 433, 599
+  size: 114, 92
+  orig: 400, 150
+  offset: 52, 29
+  index: -1
+zha2/zha2_04
+  rotate: false
+  xy: 313, 621
+  size: 118, 97
+  orig: 400, 150
+  offset: 50, 27
+  index: -1
+zha2/zha2_05
+  rotate: true
+  xy: 86, 338
+  size: 121, 99
+  orig: 400, 150
+  offset: 48, 26
+  index: -1
+zha2/zha2_06
+  rotate: true
+  xy: 86, 461
+  size: 123, 102
+  orig: 400, 150
+  offset: 47, 25
+  index: -1
+zha2/zha2_07
+  rotate: true
+  xy: 771, 590
+  size: 125, 104
+  orig: 400, 150
+  offset: 46, 24
+  index: -1
+zha2/zha2_08
+  rotate: true
+  xy: 86, 586
+  size: 127, 106
+  orig: 400, 150
+  offset: 45, 23
+  index: -1
+zha2/zha2_09
+  rotate: false
+  xy: 640, 607
+  size: 129, 108
+  orig: 400, 150
+  offset: 44, 22
+  index: -1
+zha2/zha2_10
+  rotate: false
+  xy: 877, 799
+  size: 130, 110
+  orig: 400, 150
+  offset: 43, 21
+  index: -1
+zha2/zha2_11
+  rotate: false
+  xy: 656, 717
+  size: 130, 111
+  orig: 400, 150
+  offset: 43, 21
+  index: -1
+zha2/zha2_12
+  rotate: false
+  xy: 877, 911
+  size: 132, 111
+  orig: 400, 150
+  offset: 42, 20
+  index: -1
+zha2/zha2_13
+  rotate: true
+  xy: 82, 147
+  size: 132, 110
+  orig: 400, 150
+  offset: 42, 20
+  index: -1
+zha2/zha2_14
+  rotate: false
+  xy: 877, 580
+  size: 129, 109
+  orig: 400, 150
+  offset: 45, 20
+  index: -1
+zha2/zha2_15
+  rotate: false
+  xy: 660, 830
+  size: 132, 110
+  orig: 400, 150
+  offset: 43, 20
+  index: -1
+zha2/zha2_16
+  rotate: false
+  xy: 877, 691
+  size: 130, 106
+  orig: 400, 150
+  offset: 44, 22
+  index: -1
+zha2/zha2_17
+  rotate: false
+  xy: 194, 615
+  size: 117, 103
+  orig: 400, 150
+  offset: 56, 23
+  index: -1
+zha2/zha2_18
+  rotate: true
+  xy: 82, 106
+  size: 39, 98
+  orig: 400, 150
+  offset: 87, 28
+  index: -1

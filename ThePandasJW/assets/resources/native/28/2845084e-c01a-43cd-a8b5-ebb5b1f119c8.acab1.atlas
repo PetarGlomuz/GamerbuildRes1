@@ -1,0 +1,97 @@
+
+ng_bg.png
+size: 2015,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NG
+  rotate: false
+  xy: 2, 106
+  size: 1560, 720
+  orig: 1560, 720
+  offset: 0, 0
+  index: -1
+lizi2
+  rotate: true
+  xy: 498, 11
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+ye3
+  rotate: false
+  xy: 452, 5
+  size: 44, 30
+  orig: 52, 38
+  offset: 3, 4
+  index: -1
+ye4
+  rotate: true
+  xy: 594, 48
+  size: 56, 52
+  orig: 66, 59
+  offset: 7, 3
+  index: -1
+zhu0
+  rotate: true
+  xy: 2, 3
+  size: 101, 205
+  orig: 101, 205
+  offset: 0, 0
+  index: -1
+zhu1
+  rotate: false
+  xy: 452, 37
+  size: 140, 67
+  orig: 140, 67
+  offset: 0, 0
+  index: -1
+zhu2
+  rotate: true
+  xy: 1792, 2
+  size: 120, 160
+  orig: 120, 161
+  offset: 0, 1
+  index: -1
+zhu3
+  rotate: false
+  xy: 209, 24
+  size: 241, 80
+  orig: 241, 80
+  offset: 0, 0
+  index: -1
+zhu4
+  rotate: true
+  xy: 1888, 267
+  size: 231, 125
+  orig: 231, 125
+  offset: 0, 0
+  index: -1
+zhu5
+  rotate: false
+  xy: 1792, 124
+  size: 170, 141
+  orig: 170, 141
+  offset: 0, 0
+  index: -1
+zhu6
+  rotate: true
+  xy: 1564, 83
+  size: 228, 226
+  orig: 228, 226
+  offset: 0, 0
+  index: -1
+zhu7
+  rotate: true
+  xy: 1564, 500
+  size: 326, 357
+  orig: 326, 357
+  offset: 0, 0
+  index: -1
+zhu8
+  rotate: false
+  xy: 1564, 313
+  size: 322, 185
+  orig: 323, 186
+  offset: 0, 1
+  index: -1

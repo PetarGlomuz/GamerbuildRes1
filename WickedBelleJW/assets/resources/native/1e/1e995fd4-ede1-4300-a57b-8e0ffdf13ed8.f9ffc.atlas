@@ -1,0 +1,139 @@
+
+penhuo_low.png
+size: 1760,496
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000135_00
+  rotate: false
+  xy: 1122, 10
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_00
+  rotate: false
+  xy: 1122, 76
+  size: 222, 199
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_01
+  rotate: false
+  xy: 898, 39
+  size: 222, 221
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_03
+  rotate: false
+  xy: 2, 2
+  size: 222, 230
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_04
+  rotate: false
+  xy: 450, 253
+  size: 222, 241
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_06
+  rotate: false
+  xy: 226, 237
+  size: 222, 257
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_07
+  rotate: false
+  xy: 2, 234
+  size: 222, 260
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_09
+  rotate: false
+  xy: 674, 256
+  size: 222, 238
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_10
+  rotate: false
+  xy: 226, 8
+  size: 222, 227
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_12
+  rotate: false
+  xy: 1122, 277
+  size: 222, 217
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_13
+  rotate: false
+  xy: 450, 26
+  size: 222, 225
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_15
+  rotate: false
+  xy: 674, 29
+  size: 222, 225
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_16
+  rotate: false
+  xy: 898, 262
+  size: 222, 232
+  orig: 387, 260
+  offset: 0, 0
+  index: -1
+penhuo/penhuo1_18
+  rotate: false
+  xy: 1346, 285
+  size: 207, 209
+  orig: 387, 260
+  offset: 15, 22
+  index: -1
+penhuo/penhuo1_19
+  rotate: false
+  xy: 1555, 286
+  size: 203, 208
+  orig: 387, 260
+  offset: 19, 22
+  index: -1
+penhuo/penhuo1_21
+  rotate: false
+  xy: 1346, 144
+  size: 202, 139
+  orig: 387, 260
+  offset: 20, 59
+  index: -1
+penhuo/penhuo1_22
+  rotate: false
+  xy: 1346, 6
+  size: 201, 136
+  orig: 387, 260
+  offset: 20, 60
+  index: -1
+penhuo/penhuo1_26
+  rotate: false
+  xy: 1555, 147
+  size: 200, 137
+  orig: 387, 260
+  offset: 20, 64
+  index: -1
+penhuo/penhuo1_28
+  rotate: false
+  xy: 1550, 8
+  size: 196, 137
+  orig: 387, 260
+  offset: 20, 66
+  index: -1

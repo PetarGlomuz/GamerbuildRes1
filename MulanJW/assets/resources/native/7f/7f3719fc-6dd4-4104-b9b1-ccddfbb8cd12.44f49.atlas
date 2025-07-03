@@ -1,0 +1,41 @@
+
+FG_tc_qizi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_dai
+  rotate: false
+  xy: 755, 581
+  size: 54, 384
+  orig: 54, 384
+  offset: 0, 0
+  index: -1
+L_dai_yy
+  rotate: false
+  xy: 683, 565
+  size: 70, 400
+  orig: 70, 400
+  offset: 0, 0
+  index: -1
+R_dai
+  rotate: false
+  xy: 78, 18
+  size: 58, 382
+  orig: 58, 382
+  offset: 0, 0
+  index: -1
+R_dai_yy
+  rotate: false
+  xy: 2, 2
+  size: 74, 398
+  orig: 74, 398
+  offset: 0, 0
+  index: -1
+qizhi
+  rotate: false
+  xy: 2, 402
+  size: 679, 563
+  orig: 679, 563
+  offset: 0, 0
+  index: -1

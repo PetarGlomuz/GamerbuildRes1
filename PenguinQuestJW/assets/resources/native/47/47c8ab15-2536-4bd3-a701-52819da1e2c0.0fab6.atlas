@@ -1,0 +1,118 @@
+
+JinTou.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jt/jt_000
+  rotate: false
+  xy: 1002, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jt/jt_015
+  rotate: false
+  xy: 1002, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jt/jt_001
+  rotate: false
+  xy: 257, 9
+  size: 114, 56
+  orig: 150, 90
+  offset: 1, 18
+  index: -1
+images/jt/jt_002
+  rotate: false
+  xy: 883, 3
+  size: 108, 57
+  orig: 150, 90
+  offset: 7, 17
+  index: -1
+images/jt/jt_003
+  rotate: false
+  xy: 136, 4
+  size: 119, 61
+  orig: 150, 90
+  offset: 5, 15
+  index: -1
+images/jt/jt_004
+  rotate: false
+  xy: 883, 62
+  size: 117, 64
+  orig: 150, 90
+  offset: 10, 13
+  index: -1
+images/jt/jt_005
+  rotate: false
+  xy: 394, 59
+  size: 124, 67
+  orig: 150, 90
+  offset: 5, 12
+  index: -1
+images/jt/jt_006
+  rotate: false
+  xy: 762, 58
+  size: 119, 68
+  orig: 150, 90
+  offset: 11, 12
+  index: -1
+images/jt/jt_007
+  rotate: false
+  xy: 643, 55
+  size: 117, 71
+  orig: 150, 90
+  offset: 9, 11
+  index: -1
+images/jt/jt_008
+  rotate: false
+  xy: 520, 55
+  size: 121, 71
+  orig: 150, 90
+  offset: 7, 10
+  index: -1
+images/jt/jt_009
+  rotate: false
+  xy: 136, 67
+  size: 129, 59
+  orig: 150, 90
+  offset: 2, 17
+  index: -1
+images/jt/jt_010
+  rotate: false
+  xy: 267, 67
+  size: 125, 59
+  orig: 150, 90
+  offset: 8, 16
+  index: -1
+images/jt/jt_011
+  rotate: false
+  xy: 2, 64
+  size: 132, 62
+  orig: 150, 90
+  offset: 3, 16
+  index: -1
+images/jt/jt_012
+  rotate: false
+  xy: 2, 2
+  size: 122, 60
+  orig: 150, 90
+  offset: 3, 19
+  index: -1
+images/jt/jt_013
+  rotate: false
+  xy: 373, 7
+  size: 57, 50
+  orig: 150, 90
+  offset: 70, 21
+  index: -1
+images/jt/jt_014
+  rotate: false
+  xy: 432, 21
+  size: 58, 36
+  orig: 150, 90
+  offset: 71, 28
+  index: -1

@@ -1,0 +1,391 @@
+
+239_logo.png
+size: 901,899
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/yan/yansi_000
+  rotate: true
+  xy: 845, 803
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_030
+  rotate: true
+  xy: 845, 803
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_001
+  rotate: true
+  xy: 845, 707
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_002
+  rotate: false
+  xy: 797, 651
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_003
+  rotate: false
+  xy: 797, 595
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_004
+  rotate: false
+  xy: 797, 539
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_005
+  rotate: false
+  xy: 796, 483
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_006
+  rotate: false
+  xy: 796, 427
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_007
+  rotate: false
+  xy: 792, 371
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_008
+  rotate: true
+  xy: 2, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_009
+  rotate: true
+  xy: 58, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_010
+  rotate: true
+  xy: 114, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_011
+  rotate: true
+  xy: 170, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_012
+  rotate: true
+  xy: 226, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_013
+  rotate: true
+  xy: 282, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_014
+  rotate: true
+  xy: 338, 14
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_015
+  rotate: true
+  xy: 394, 17
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_016
+  rotate: true
+  xy: 431, 235
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_017
+  rotate: true
+  xy: 431, 139
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_018
+  rotate: true
+  xy: 450, 43
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_019
+  rotate: true
+  xy: 487, 235
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_020
+  rotate: true
+  xy: 487, 139
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_021
+  rotate: true
+  xy: 506, 43
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_022
+  rotate: true
+  xy: 543, 235
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_023
+  rotate: true
+  xy: 543, 139
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_024
+  rotate: true
+  xy: 562, 43
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_025
+  rotate: false
+  xy: 618, 275
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_026
+  rotate: false
+  xy: 618, 219
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_027
+  rotate: false
+  xy: 618, 163
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_028
+  rotate: false
+  xy: 618, 107
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+effect/yan/yansi_029
+  rotate: false
+  xy: 618, 51
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+images/b_wz
+  rotate: true
+  xy: 714, 57
+  size: 91, 66
+  orig: 91, 66
+  offset: 0, 0
+  index: -1
+images/belle/belle_0
+  rotate: false
+  xy: 487, 757
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_1
+  rotate: false
+  xy: 439, 686
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_10
+  rotate: false
+  xy: 2, 394
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_11
+  rotate: false
+  xy: 2, 323
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_12
+  rotate: false
+  xy: 2, 252
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_13
+  rotate: false
+  xy: 2, 181
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_14
+  rotate: false
+  xy: 2, 110
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_15
+  rotate: false
+  xy: 431, 331
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_16
+  rotate: true
+  xy: 789, 13
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_2
+  rotate: false
+  xy: 439, 615
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_3
+  rotate: false
+  xy: 439, 544
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_4
+  rotate: false
+  xy: 2, 536
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_5
+  rotate: false
+  xy: 438, 473
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_6
+  rotate: false
+  xy: 2, 465
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_7
+  rotate: false
+  xy: 434, 402
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_8
+  rotate: true
+  xy: 360, 113
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/belle/belle_9
+  rotate: false
+  xy: 487, 828
+  size: 356, 69
+  orig: 356, 69
+  offset: 0, 0
+  index: -1
+images/di_wz
+  rotate: false
+  xy: 2, 607
+  size: 435, 161
+  orig: 435, 161
+  offset: 0, 0
+  index: -1
+images/e2_wz
+  rotate: true
+  xy: 714, 236
+  size: 93, 67
+  orig: 93, 67
+  offset: 0, 0
+  index: -1
+images/e_wz
+  rotate: true
+  xy: 714, 150
+  size: 84, 67
+  orig: 84, 67
+  offset: 0, 0
+  index: -1
+images/l2_wz
+  rotate: false
+  xy: 360, 539
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+images/l_wz
+  rotate: false
+  xy: 360, 471
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+images/wicked_wz
+  rotate: false
+  xy: 2, 770
+  size: 483, 127
+  orig: 483, 127
+  offset: 0, 0
+  index: -1

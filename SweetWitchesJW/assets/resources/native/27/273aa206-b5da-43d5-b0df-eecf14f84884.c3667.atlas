@@ -1,0 +1,181 @@
+
+ng_jp_unlcok.png
+size: 1515,672
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/G1_00
+  rotate: false
+  xy: 139, 77
+  size: 317, 91
+  orig: 333, 104
+  offset: 8, 6
+  index: -1
+images/G2_00_00
+  rotate: false
+  xy: 177, 2
+  size: 299, 73
+  orig: 333, 104
+  offset: 17, 15
+  index: -1
+images/G3_00
+  rotate: true
+  xy: 139, 170
+  size: 500, 236
+  orig: 515, 236
+  offset: 8, 0
+  index: -1
+images/jslizi/1_00
+  rotate: true
+  xy: 658, 174
+  size: 243, 134
+  orig: 265, 143
+  offset: 8, 4
+  index: -1
+images/jslizi/1_01
+  rotate: false
+  xy: 930, 274
+  size: 248, 143
+  orig: 265, 143
+  offset: 3, 0
+  index: -1
+images/jslizi/1_02
+  rotate: true
+  xy: 513, 173
+  size: 244, 143
+  orig: 265, 143
+  offset: 7, 0
+  index: -1
+images/jslizi/1_03
+  rotate: true
+  xy: 377, 419
+  size: 251, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_04
+  rotate: false
+  xy: 478, 26
+  size: 251, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_05
+  rotate: true
+  xy: 522, 419
+  size: 251, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_06
+  rotate: true
+  xy: 667, 419
+  size: 251, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_07
+  rotate: false
+  xy: 731, 29
+  size: 251, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_08
+  rotate: true
+  xy: 812, 419
+  size: 251, 143
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_09
+  rotate: true
+  xy: 957, 419
+  size: 251, 141
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_10
+  rotate: true
+  xy: 1100, 419
+  size: 251, 137
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_11
+  rotate: true
+  xy: 984, 21
+  size: 251, 137
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_12
+  rotate: true
+  xy: 1123, 21
+  size: 251, 137
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_13
+  rotate: false
+  xy: 1180, 280
+  size: 251, 137
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_14
+  rotate: true
+  xy: 1239, 420
+  size: 250, 136
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_15
+  rotate: true
+  xy: 1377, 420
+  size: 250, 136
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_16
+  rotate: false
+  xy: 1262, 143
+  size: 250, 135
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_17
+  rotate: false
+  xy: 1262, 6
+  size: 250, 135
+  orig: 265, 143
+  offset: 0, 0
+  index: -1
+images/jslizi/1_18
+  rotate: true
+  xy: 377, 171
+  size: 246, 134
+  orig: 265, 143
+  offset: 2, 0
+  index: -1
+images/jslizi/1_19
+  rotate: true
+  xy: 794, 174
+  size: 243, 134
+  orig: 265, 143
+  offset: 4, 0
+  index: -1
+images/nl_00
+  rotate: true
+  xy: 2, 70
+  size: 600, 135
+  orig: 600, 200
+  offset: 0, 36
+  index: -1
+images/wenli_00
+  rotate: false
+  xy: 2, 19
+  size: 173, 49
+  orig: 600, 200
+  offset: 176, 77
+  index: -1

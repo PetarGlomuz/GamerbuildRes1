@@ -1,0 +1,27 @@
+
+NG_dajiangyugao.png
+size: 834,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+q1
+  rotate: false
+  xy: 360, 2
+  size: 264, 263
+  orig: 264, 267
+  offset: 0, 0
+  index: -1
+q5
+  rotate: false
+  xy: 2, 83
+  size: 356, 182
+  orig: 356, 185
+  offset: 0, 3
+  index: -1
+q6
+  rotate: false
+  xy: 626, 53
+  size: 206, 212
+  orig: 211, 212
+  offset: 3, 0
+  index: -1

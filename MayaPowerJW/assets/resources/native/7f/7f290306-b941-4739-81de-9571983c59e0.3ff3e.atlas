@@ -1,0 +1,90 @@
+
+bar_lizi.png
+size: 159,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_lizi/bar_lizi_00
+  rotate: true
+  xy: 93, 2
+  size: 35, 56
+  orig: 60, 94
+  offset: 11, 36
+  index: -1
+bar_lizi/bar_lizi_01
+  rotate: true
+  xy: 93, 39
+  size: 38, 58
+  orig: 60, 94
+  offset: 10, 35
+  index: -1
+bar_lizi/bar_lizi_02
+  rotate: false
+  xy: 49, 12
+  size: 42, 62
+  orig: 60, 94
+  offset: 8, 32
+  index: -1
+bar_lizi/bar_lizi_03
+  rotate: false
+  xy: 2, 9
+  size: 45, 65
+  orig: 60, 94
+  offset: 7, 29
+  index: -1
+bar_lizi/bar_lizi_04
+  rotate: true
+  xy: 2, 76
+  size: 48, 68
+  orig: 60, 94
+  offset: 6, 26
+  index: -1
+bar_lizi/bar_lizi_05
+  rotate: true
+  xy: 79, 79
+  size: 51, 69
+  orig: 60, 94
+  offset: 5, 25
+  index: -1
+bar_lizi/bar_lizi_06
+  rotate: true
+  xy: 83, 190
+  size: 53, 73
+  orig: 60, 94
+  offset: 4, 19
+  index: -1
+bar_lizi/bar_lizi_07
+  rotate: true
+  xy: 2, 126
+  size: 55, 75
+  orig: 60, 94
+  offset: 2, 14
+  index: -1
+bar_lizi/bar_lizi_08
+  rotate: true
+  xy: 83, 245
+  size: 57, 73
+  orig: 60, 94
+  offset: 0, 12
+  index: -1
+bar_lizi/bar_lizi_09
+  rotate: true
+  xy: 2, 183
+  size: 58, 78
+  orig: 60, 94
+  offset: 2, 6
+  index: -1
+bar_lizi/bar_lizi_10
+  rotate: true
+  xy: 2, 243
+  size: 59, 79
+  orig: 60, 94
+  offset: 1, 2
+  index: -1
+bar_lizi/bar_lizi_11
+  rotate: true
+  xy: 82, 132
+  size: 56, 75
+  orig: 60, 94
+  offset: 2, 0
+  index: -1

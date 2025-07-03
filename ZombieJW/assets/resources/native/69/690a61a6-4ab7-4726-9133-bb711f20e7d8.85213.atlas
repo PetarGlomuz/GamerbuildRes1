@@ -1,0 +1,454 @@
+
+NG_H4.png
+size: 1987,744
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chui
+  rotate: false
+  xy: 2, 322
+  size: 147, 193
+  orig: 147, 193
+  offset: 0, 0
+  index: -1
+fu
+  rotate: false
+  xy: 243, 604
+  size: 199, 138
+  orig: 199, 138
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 2, 517
+  size: 239, 225
+  orig: 239, 225
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00005
+  rotate: true
+  xy: 2, 32
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00006
+  rotate: false
+  xy: 302, 458
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00007
+  rotate: false
+  xy: 1866, 447
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00008
+  rotate: false
+  xy: 1663, 296
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00009
+  rotate: false
+  xy: 1771, 296
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00010
+  rotate: false
+  xy: 1879, 301
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00011
+  rotate: true
+  xy: 1663, 188
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00012
+  rotate: false
+  xy: 1809, 150
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00013
+  rotate: false
+  xy: 335, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00014
+  rotate: false
+  xy: 443, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00015
+  rotate: true
+  xy: 335, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00016
+  rotate: false
+  xy: 551, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00017
+  rotate: true
+  xy: 481, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00018
+  rotate: false
+  xy: 659, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00019
+  rotate: false
+  xy: 767, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00020
+  rotate: true
+  xy: 627, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00021
+  rotate: false
+  xy: 875, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00022
+  rotate: true
+  xy: 773, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00023
+  rotate: false
+  xy: 983, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00024
+  rotate: true
+  xy: 919, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00025
+  rotate: false
+  xy: 1091, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00026
+  rotate: false
+  xy: 1199, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00027
+  rotate: true
+  xy: 1065, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00028
+  rotate: false
+  xy: 1307, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00029
+  rotate: true
+  xy: 1211, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00030
+  rotate: false
+  xy: 1415, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00031
+  rotate: true
+  xy: 1357, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00032
+  rotate: false
+  xy: 1523, 114
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00033
+  rotate: true
+  xy: 1503, 6
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00034
+  rotate: false
+  xy: 1649, 42
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg/NG_H4-fuzi/NG_H4-fuzi_00035
+  rotate: true
+  xy: 1757, 42
+  size: 106, 144
+  orig: 106, 144
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00001
+  rotate: false
+  xy: 2, 140
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00002
+  rotate: true
+  xy: 444, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00003
+  rotate: true
+  xy: 626, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00004
+  rotate: true
+  xy: 808, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00005
+  rotate: true
+  xy: 990, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00006
+  rotate: true
+  xy: 1172, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00007
+  rotate: true
+  xy: 1354, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00008
+  rotate: true
+  xy: 1536, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00009
+  rotate: true
+  xy: 1718, 593
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00010
+  rotate: false
+  xy: 151, 335
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00011
+  rotate: false
+  xy: 153, 153
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00012
+  rotate: true
+  xy: 410, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00013
+  rotate: true
+  xy: 592, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00014
+  rotate: true
+  xy: 774, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00015
+  rotate: true
+  xy: 956, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00016
+  rotate: true
+  xy: 1138, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00017
+  rotate: true
+  xy: 1320, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00018
+  rotate: true
+  xy: 1502, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00019
+  rotate: true
+  xy: 1684, 442
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00020
+  rotate: true
+  xy: 153, 2
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00021
+  rotate: false
+  xy: 304, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00022
+  rotate: false
+  xy: 455, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00023
+  rotate: false
+  xy: 606, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00024
+  rotate: false
+  xy: 757, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00025
+  rotate: false
+  xy: 908, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00026
+  rotate: false
+  xy: 1059, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00027
+  rotate: false
+  xy: 1210, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00028
+  rotate: false
+  xy: 1361, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+sg1/NG_H4-bangzi/NG_H4-bangzi_00029
+  rotate: false
+  xy: 1512, 260
+  size: 149, 180
+  orig: 149, 180
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 243, 552
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

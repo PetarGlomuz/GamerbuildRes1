@@ -1,0 +1,251 @@
+
+H3.png
+size: 554,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h3_1
+  rotate: false
+  xy: 2, 28
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+images/h3_1sg/h3_1sg_00
+  rotate: true
+  xy: 235, 24
+  size: 2, 1
+  orig: 34, 34
+  offset: 3, 3
+  index: -1
+images/h3_1sg/h3_1sg_01
+  rotate: false
+  xy: 376, 5
+  size: 5, 4
+  orig: 34, 34
+  offset: 2, 2
+  index: -1
+images/h3_1sg/h3_1sg_02
+  rotate: true
+  xy: 542, 86
+  size: 9, 8
+  orig: 34, 34
+  offset: 1, 2
+  index: -1
+images/h3_1sg/h3_1sg_03
+  rotate: true
+  xy: 504, 4
+  size: 11, 12
+  orig: 34, 34
+  offset: 1, 2
+  index: -1
+images/h3_1sg/h3_1sg_04
+  rotate: true
+  xy: 535, 53
+  size: 14, 17
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_05
+  rotate: false
+  xy: 516, 45
+  size: 17, 22
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_06
+  rotate: true
+  xy: 169, 7
+  size: 19, 31
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_07
+  rotate: true
+  xy: 103, 4
+  size: 22, 31
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_08
+  rotate: true
+  xy: 2, 2
+  size: 24, 31
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_09
+  rotate: false
+  xy: 376, 11
+  size: 27, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_10
+  rotate: true
+  xy: 405, 8
+  size: 30, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_11
+  rotate: true
+  xy: 439, 8
+  size: 30, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_12
+  rotate: false
+  xy: 272, 2
+  size: 31, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_13
+  rotate: false
+  xy: 238, 2
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1
+images/h3_1sg/h3_1sg_14
+  rotate: false
+  xy: 305, 2
+  size: 31, 32
+  orig: 34, 34
+  offset: 2, 1
+  index: -1
+images/h3_1sg/h3_1sg_15
+  rotate: false
+  xy: 473, 6
+  size: 29, 32
+  orig: 34, 34
+  offset: 4, 1
+  index: -1
+images/h3_1sg/h3_1sg_16
+  rotate: true
+  xy: 508, 69
+  size: 26, 32
+  orig: 34, 34
+  offset: 7, 1
+  index: -1
+images/h3_1sg/h3_1sg_17
+  rotate: true
+  xy: 35, 2
+  size: 24, 31
+  orig: 34, 34
+  offset: 9, 2
+  index: -1
+images/h3_1sg/h3_1sg_18
+  rotate: true
+  xy: 136, 5
+  size: 21, 31
+  orig: 34, 34
+  offset: 12, 2
+  index: -1
+images/h3_1sg/h3_1sg_19
+  rotate: true
+  xy: 202, 7
+  size: 19, 31
+  orig: 34, 34
+  offset: 14, 2
+  index: -1
+images/h3_1sg/h3_1sg_20
+  rotate: false
+  xy: 498, 40
+  size: 16, 27
+  orig: 34, 34
+  offset: 17, 6
+  index: -1
+images/h3_1sg/h3_1sg_21
+  rotate: false
+  xy: 504, 17
+  size: 13, 21
+  orig: 34, 34
+  offset: 20, 11
+  index: -1
+images/h3_1sg/h3_1sg_22
+  rotate: true
+  xy: 535, 40
+  size: 11, 16
+  orig: 34, 34
+  offset: 22, 16
+  index: -1
+images/h3_1sg/h3_1sg_23
+  rotate: false
+  xy: 498, 69
+  size: 8, 11
+  orig: 34, 34
+  offset: 25, 21
+  index: -1
+images/h3_1sg/h3_1sg_24
+  rotate: false
+  xy: 327, 36
+  size: 5, 7
+  orig: 34, 34
+  offset: 28, 25
+  index: -1
+images/h3_1sg/h3_1sg_25
+  rotate: false
+  xy: 376, 2
+  size: 1, 1
+  orig: 34, 34
+  offset: 31, 30
+  index: -1
+images/h3_2
+  rotate: false
+  xy: 508, 97
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+images/h3_3
+  rotate: true
+  xy: 68, 3
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+images/h3_4
+  rotate: false
+  xy: 238, 36
+  size: 87, 104
+  orig: 87, 104
+  offset: 0, 0
+  index: -1
+images/h3_5
+  rotate: false
+  xy: 405, 82
+  size: 101, 58
+  orig: 101, 58
+  offset: 0, 0
+  index: -1
+images/h3_6
+  rotate: true
+  xy: 405, 40
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+images/h3_7
+  rotate: false
+  xy: 327, 45
+  size: 76, 95
+  orig: 76, 95
+  offset: 0, 0
+  index: -1
+images/h3_8
+  rotate: false
+  xy: 120, 28
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+images/star_000
+  rotate: false
+  xy: 338, 2
+  size: 36, 36
+  orig: 40, 40
+  offset: 2, 2
+  index: -1

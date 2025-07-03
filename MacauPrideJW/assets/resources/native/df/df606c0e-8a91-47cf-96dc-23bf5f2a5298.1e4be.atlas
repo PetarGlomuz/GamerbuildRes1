@@ -1,0 +1,153 @@
+
+FG_featuer_daiji.png
+size: 1075,311
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/daiji/1_00
+  rotate: false
+  xy: 1035, 9
+  size: 27, 72
+  orig: 710, 155
+  offset: 179, 44
+  index: -1
+images/daiji/1_01
+  rotate: false
+  xy: 979, 7
+  size: 54, 74
+  orig: 710, 155
+  offset: 179, 42
+  index: -1
+images/daiji/1_02
+  rotate: false
+  xy: 837, 7
+  size: 80, 74
+  orig: 710, 155
+  offset: 179, 42
+  index: -1
+images/daiji/1_03
+  rotate: false
+  xy: 615, 2
+  size: 107, 74
+  orig: 710, 155
+  offset: 179, 42
+  index: -1
+images/daiji/1_04
+  rotate: false
+  xy: 926, 159
+  size: 133, 74
+  orig: 710, 155
+  offset: 179, 42
+  index: -1
+images/daiji/1_05
+  rotate: false
+  xy: 880, 83
+  size: 160, 74
+  orig: 710, 155
+  offset: 179, 42
+  index: -1
+images/daiji/1_06
+  rotate: false
+  xy: 427, 2
+  size: 186, 74
+  orig: 710, 155
+  offset: 179, 42
+  index: -1
+images/daiji/1_07
+  rotate: false
+  xy: 714, 159
+  size: 210, 74
+  orig: 710, 155
+  offset: 182, 42
+  index: -1
+images/daiji/1_08
+  rotate: false
+  xy: 2, 78
+  size: 211, 74
+  orig: 710, 155
+  offset: 208, 42
+  index: -1
+images/daiji/1_09
+  rotate: false
+  xy: 714, 235
+  size: 211, 74
+  orig: 710, 155
+  offset: 234, 42
+  index: -1
+images/daiji/1_10
+  rotate: false
+  xy: 2, 2
+  size: 211, 74
+  orig: 710, 155
+  offset: 261, 42
+  index: -1
+images/daiji/1_11
+  rotate: false
+  xy: 215, 78
+  size: 211, 74
+  orig: 710, 155
+  offset: 287, 42
+  index: -1
+images/daiji/1_12
+  rotate: false
+  xy: 215, 2
+  size: 210, 74
+  orig: 710, 155
+  offset: 314, 42
+  index: -1
+images/daiji/1_13
+  rotate: false
+  xy: 428, 78
+  size: 190, 74
+  orig: 710, 155
+  offset: 341, 42
+  index: -1
+images/daiji/1_14
+  rotate: false
+  xy: 714, 83
+  size: 164, 74
+  orig: 710, 155
+  offset: 367, 42
+  index: -1
+images/daiji/1_15
+  rotate: false
+  xy: 927, 235
+  size: 137, 74
+  orig: 710, 155
+  offset: 394, 42
+  index: -1
+images/daiji/1_16
+  rotate: false
+  xy: 724, 7
+  size: 111, 74
+  orig: 710, 155
+  offset: 420, 42
+  index: -1
+images/daiji/1_17
+  rotate: false
+  xy: 620, 78
+  size: 84, 74
+  orig: 710, 155
+  offset: 447, 42
+  index: -1
+images/daiji/1_18
+  rotate: false
+  xy: 919, 7
+  size: 58, 74
+  orig: 710, 155
+  offset: 473, 42
+  index: -1
+images/daiji/1_19
+  rotate: false
+  xy: 1042, 83
+  size: 31, 74
+  orig: 710, 155
+  offset: 500, 42
+  index: -1
+images/kuang
+  rotate: false
+  xy: 2, 154
+  size: 710, 155
+  orig: 710, 155
+  offset: 0, 0
+  index: -1

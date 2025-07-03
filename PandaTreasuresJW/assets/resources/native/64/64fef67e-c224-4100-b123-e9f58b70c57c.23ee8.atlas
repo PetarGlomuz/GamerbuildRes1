@@ -1,0 +1,160 @@
+
+JieSuoKuang.png
+size: 1954,828
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/SKS/SKS_000
+  rotate: false
+  xy: 2, 584
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_001
+  rotate: true
+  xy: 2, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_002
+  rotate: true
+  xy: 124, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_003
+  rotate: true
+  xy: 246, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_004
+  rotate: true
+  xy: 368, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_005
+  rotate: true
+  xy: 490, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_006
+  rotate: false
+  xy: 584, 706
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_007
+  rotate: false
+  xy: 584, 584
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_008
+  rotate: true
+  xy: 612, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_009
+  rotate: true
+  xy: 734, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_010
+  rotate: true
+  xy: 856, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_011
+  rotate: true
+  xy: 978, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_012
+  rotate: true
+  xy: 1100, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_013
+  rotate: false
+  xy: 1166, 706
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_014
+  rotate: false
+  xy: 1166, 584
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_015
+  rotate: true
+  xy: 1222, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_016
+  rotate: true
+  xy: 1344, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_017
+  rotate: true
+  xy: 1466, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_018
+  rotate: true
+  xy: 1588, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_019
+  rotate: true
+  xy: 1710, 2
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_020
+  rotate: true
+  xy: 1832, 246
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1
+images/SKS/SKS_021
+  rotate: false
+  xy: 2, 706
+  size: 580, 120
+  orig: 580, 120
+  offset: 0, 0
+  index: -1

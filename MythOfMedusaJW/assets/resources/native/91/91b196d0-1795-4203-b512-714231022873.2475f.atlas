@@ -1,0 +1,153 @@
+
+TC_FG_diban.png
+size: 1905,772
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+diban
+  rotate: false
+  xy: 2, 260
+  size: 693, 510
+  orig: 693, 510
+  offset: 0, 0
+  index: -1
+sg/sg_00000
+  rotate: false
+  xy: 1722, 18
+  size: 84, 238
+  orig: 371, 271
+  offset: 14, 9
+  index: -1
+sg/sg_00001
+  rotate: false
+  xy: 1607, 2
+  size: 113, 254
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00002
+  rotate: false
+  xy: 1346, 2
+  size: 142, 254
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00003
+  rotate: false
+  xy: 1028, 2
+  size: 170, 254
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00004
+  rotate: false
+  xy: 827, 2
+  size: 199, 254
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00005
+  rotate: false
+  xy: 598, 2
+  size: 227, 254
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00006
+  rotate: true
+  xy: 2, 2
+  size: 256, 255
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00007
+  rotate: false
+  xy: 697, 258
+  size: 284, 255
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00008
+  rotate: false
+  xy: 1040, 515
+  size: 313, 255
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00009
+  rotate: false
+  xy: 697, 515
+  size: 341, 255
+  orig: 371, 271
+  offset: 13, 9
+  index: -1
+sg/sg_00010
+  rotate: false
+  xy: 259, 3
+  size: 337, 255
+  orig: 371, 271
+  offset: 17, 9
+  index: -1
+sg/sg_00011
+  rotate: false
+  xy: 1355, 515
+  size: 310, 255
+  orig: 371, 271
+  offset: 45, 9
+  index: -1
+sg/sg_00012
+  rotate: false
+  xy: 983, 258
+  size: 283, 255
+  orig: 371, 271
+  offset: 74, 9
+  index: -1
+sg/sg_00013
+  rotate: false
+  xy: 1268, 258
+  size: 258, 255
+  orig: 371, 271
+  offset: 102, 9
+  index: -1
+sg/sg_00014
+  rotate: false
+  xy: 1667, 515
+  size: 229, 255
+  orig: 371, 271
+  offset: 131, 9
+  index: -1
+sg/sg_00015
+  rotate: false
+  xy: 1528, 258
+  size: 201, 255
+  orig: 371, 271
+  offset: 159, 9
+  index: -1
+sg/sg_00016
+  rotate: false
+  xy: 1731, 258
+  size: 172, 255
+  orig: 371, 271
+  offset: 188, 9
+  index: -1
+sg/sg_00017
+  rotate: false
+  xy: 1200, 2
+  size: 144, 254
+  orig: 371, 271
+  offset: 216, 9
+  index: -1
+sg/sg_00018
+  rotate: false
+  xy: 1490, 2
+  size: 115, 254
+  orig: 371, 271
+  offset: 245, 9
+  index: -1
+sg/sg_00019
+  rotate: false
+  xy: 1808, 40
+  size: 87, 216
+  orig: 371, 271
+  offset: 273, 47
+  index: -1

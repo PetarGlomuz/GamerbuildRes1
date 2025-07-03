@@ -1,0 +1,132 @@
+
+JP_anniu.png
+size: 577,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu
+  rotate: false
+  xy: 2, 178
+  size: 348, 103
+  orig: 348, 103
+  offset: 0, 0
+  index: -1
+sg7/sg7_03
+  rotate: true
+  xy: 401, 139
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_04
+  rotate: false
+  xy: 401, 95
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_05
+  rotate: false
+  xy: 401, 51
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_06
+  rotate: false
+  xy: 401, 7
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_07
+  rotate: true
+  xy: 445, 139
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_08
+  rotate: true
+  xy: 489, 139
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_09
+  rotate: true
+  xy: 533, 139
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_10
+  rotate: false
+  xy: 2, 134
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_11
+  rotate: false
+  xy: 146, 134
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_12
+  rotate: true
+  xy: 290, 34
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_13
+  rotate: false
+  xy: 2, 90
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_14
+  rotate: false
+  xy: 146, 90
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_15
+  rotate: false
+  xy: 2, 46
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_16
+  rotate: false
+  xy: 146, 46
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_17
+  rotate: false
+  xy: 2, 2
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+sg7/sg7_18
+  rotate: false
+  xy: 146, 2
+  size: 142, 42
+  orig: 142, 42
+  offset: 0, 0
+  index: -1
+zi
+  rotate: true
+  xy: 352, 17
+  size: 264, 47
+  orig: 264, 47
+  offset: 0, 0
+  index: -1

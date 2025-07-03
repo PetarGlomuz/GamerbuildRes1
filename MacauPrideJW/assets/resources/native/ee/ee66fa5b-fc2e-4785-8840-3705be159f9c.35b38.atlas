@@ -1,0 +1,146 @@
+
+TC_FG_title.png
+size: 868,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+title
+  rotate: false
+  xy: 190, 36
+  size: 652, 105
+  orig: 652, 105
+  offset: 0, 0
+  index: -1
+title_sg/title_sg_01
+  rotate: true
+  xy: 274, 2
+  size: 32, 21
+  orig: 260, 34
+  offset: 4, 2
+  index: -1
+title_sg/title_sg_02
+  rotate: false
+  xy: 790, 10
+  size: 49, 24
+  orig: 260, 34
+  offset: 3, 2
+  index: -1
+title_sg/title_sg_03
+  rotate: false
+  xy: 657, 6
+  size: 65, 28
+  orig: 260, 34
+  offset: 3, 1
+  index: -1
+title_sg/title_sg_04
+  rotate: false
+  xy: 575, 6
+  size: 80, 28
+  orig: 260, 34
+  offset: 4, 2
+  index: -1
+title_sg/title_sg_05
+  rotate: false
+  xy: 395, 4
+  size: 97, 30
+  orig: 260, 34
+  offset: 4, 2
+  index: -1
+title_sg/title_sg_06
+  rotate: true
+  xy: 114, 31
+  size: 110, 30
+  orig: 260, 34
+  offset: 8, 2
+  index: -1
+title_sg/title_sg_07
+  rotate: true
+  xy: 2, 30
+  size: 111, 27
+  orig: 260, 34
+  offset: 24, 6
+  index: -1
+title_sg/title_sg_08
+  rotate: true
+  xy: 31, 30
+  size: 111, 24
+  orig: 260, 34
+  offset: 41, 9
+  index: -1
+title_sg/title_sg_09
+  rotate: true
+  xy: 57, 30
+  size: 111, 21
+  orig: 260, 34
+  offset: 58, 12
+  index: -1
+title_sg/title_sg_10
+  rotate: true
+  xy: 169, 31
+  size: 110, 19
+  orig: 260, 34
+  offset: 76, 14
+  index: -1
+title_sg/title_sg_11
+  rotate: true
+  xy: 146, 31
+  size: 110, 21
+  orig: 260, 34
+  offset: 93, 12
+  index: -1
+title_sg/title_sg_12
+  rotate: false
+  xy: 52, 4
+  size: 109, 24
+  orig: 260, 34
+  offset: 110, 9
+  index: -1
+title_sg/title_sg_13
+  rotate: false
+  xy: 163, 2
+  size: 109, 27
+  orig: 260, 34
+  offset: 127, 6
+  index: -1
+title_sg/title_sg_14
+  rotate: true
+  xy: 80, 31
+  size: 110, 32
+  orig: 260, 34
+  offset: 144, 1
+  index: -1
+title_sg/title_sg_15
+  rotate: false
+  xy: 297, 3
+  size: 96, 31
+  orig: 260, 34
+  offset: 160, 1
+  index: -1
+title_sg/title_sg_16
+  rotate: false
+  xy: 494, 5
+  size: 79, 29
+  orig: 260, 34
+  offset: 177, 1
+  index: -1
+title_sg/title_sg_17
+  rotate: false
+  xy: 724, 7
+  size: 64, 27
+  orig: 260, 34
+  offset: 193, 1
+  index: -1
+title_sg/title_sg_18
+  rotate: false
+  xy: 2, 3
+  size: 48, 25
+  orig: 260, 34
+  offset: 209, 1
+  index: -1
+title_sg/title_sg_19
+  rotate: true
+  xy: 844, 111
+  size: 30, 22
+  orig: 260, 34
+  offset: 226, 1
+  index: -1

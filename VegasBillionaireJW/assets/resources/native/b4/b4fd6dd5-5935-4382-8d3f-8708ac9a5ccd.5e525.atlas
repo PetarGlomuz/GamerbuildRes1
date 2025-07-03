@@ -1,0 +1,55 @@
+
+TC_bg_board.png
+size: 647,1040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 2, 100
+  size: 643, 111
+  orig: 643, 111
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 461, 372
+  size: 666, 136
+  orig: 666, 136
+  offset: 0, 0
+  index: -1
+ZS1
+  rotate: true
+  xy: 2, 2
+  size: 96, 139
+  orig: 96, 139
+  offset: 0, 0
+  index: -1
+ZS2
+  rotate: false
+  xy: 234, 7
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+ZS3
+  rotate: false
+  xy: 143, 6
+  size: 89, 92
+  orig: 89, 92
+  offset: 0, 0
+  index: -1
+ZS4
+  rotate: false
+  xy: 461, 257
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1
+bard
+  rotate: true
+  xy: 2, 213
+  size: 825, 457
+  orig: 825, 457
+  offset: 0, 0
+  index: -1

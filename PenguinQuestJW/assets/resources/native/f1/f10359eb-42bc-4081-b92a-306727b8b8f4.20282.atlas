@@ -1,0 +1,41 @@
+
+FGGuoChang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/MTG_000
+  rotate: false
+  xy: 1260, 1502
+  size: 507, 508
+  orig: 550, 550
+  offset: 21, 22
+  index: -1
+images/sg_000
+  rotate: false
+  xy: 2, 404
+  size: 750, 750
+  orig: 800, 800
+  offset: 25, 25
+  index: -1
+images/star_000
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+images/zh_000
+  rotate: false
+  xy: 858, 1310
+  size: 400, 700
+  orig: 460, 800
+  offset: 30, 50
+  index: -1
+images/zs
+  rotate: false
+  xy: 2, 1156
+  size: 854, 854
+  orig: 866, 854
+  offset: 6, 0
+  index: -1

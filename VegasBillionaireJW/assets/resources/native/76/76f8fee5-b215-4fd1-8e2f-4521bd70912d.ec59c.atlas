@@ -1,0 +1,132 @@
+
+NG_L4.png
+size: 518,149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L4
+  rotate: false
+  xy: 2, 34
+  size: 90, 113
+  orig: 90, 113
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/L4_00000
+  rotate: false
+  xy: 82, 8
+  size: 18, 24
+  orig: 180, 161
+  offset: 49, 37
+  index: -1
+saoguang/Symbol111112/L4_00001
+  rotate: true
+  xy: 2, 2
+  size: 30, 35
+  orig: 180, 161
+  offset: 49, 33
+  index: -1
+saoguang/Symbol111112/L4_00002
+  rotate: true
+  xy: 472, 38
+  size: 40, 44
+  orig: 180, 161
+  offset: 49, 31
+  index: -1
+saoguang/Symbol111112/L4_00003
+  rotate: true
+  xy: 424, 29
+  size: 49, 46
+  orig: 180, 161
+  offset: 49, 31
+  index: -1
+saoguang/Symbol111112/L4_00004
+  rotate: true
+  xy: 339, 5
+  size: 57, 47
+  orig: 180, 161
+  offset: 49, 30
+  index: -1
+saoguang/Symbol111112/L4_00005
+  rotate: false
+  xy: 274, 3
+  size: 63, 52
+  orig: 180, 161
+  offset: 50, 30
+  index: -1
+saoguang/Symbol111112/L4_00006
+  rotate: false
+  xy: 421, 80
+  size: 64, 67
+  orig: 180, 161
+  offset: 55, 30
+  index: -1
+saoguang/Symbol111112/L4_00007
+  rotate: false
+  xy: 308, 64
+  size: 65, 83
+  orig: 180, 161
+  offset: 60, 31
+  index: -1
+saoguang/Symbol111112/L4_00008
+  rotate: false
+  xy: 197, 49
+  size: 63, 98
+  orig: 180, 161
+  offset: 66, 31
+  index: -1
+saoguang/Symbol111112/L4_00009
+  rotate: false
+  xy: 94, 46
+  size: 54, 101
+  orig: 180, 161
+  offset: 77, 33
+  index: -1
+saoguang/Symbol111112/L4_00010
+  rotate: false
+  xy: 150, 48
+  size: 45, 99
+  orig: 180, 161
+  offset: 86, 36
+  index: -1
+saoguang/Symbol111112/L4_00011
+  rotate: true
+  xy: 176, 2
+  size: 44, 96
+  orig: 180, 161
+  offset: 87, 39
+  index: -1
+saoguang/Symbol111112/L4_00012
+  rotate: false
+  xy: 262, 57
+  size: 44, 90
+  orig: 180, 161
+  offset: 87, 45
+  index: -1
+saoguang/Symbol111112/L4_00013
+  rotate: false
+  xy: 375, 64
+  size: 44, 83
+  orig: 180, 161
+  offset: 87, 52
+  index: -1
+saoguang/Symbol111112/L4_00014
+  rotate: true
+  xy: 102, 2
+  size: 42, 72
+  orig: 180, 161
+  offset: 89, 63
+  index: -1
+saoguang/Symbol111112/L4_00015
+  rotate: false
+  xy: 388, 5
+  size: 34, 57
+  orig: 180, 161
+  offset: 97, 78
+  index: -1
+saoguang/Symbol111112/L4_00016
+  rotate: true
+  xy: 39, 7
+  size: 25, 41
+  orig: 180, 161
+  offset: 106, 94
+  index: -1

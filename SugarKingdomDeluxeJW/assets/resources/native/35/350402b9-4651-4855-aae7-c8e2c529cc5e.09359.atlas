@@ -1,0 +1,13 @@
+
+BG_GuoChang.png
+size: 333,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h
+  rotate: false
+  xy: 2, 2
+  size: 329, 299
+  orig: 329, 299
+  offset: 0, 0
+  index: -1

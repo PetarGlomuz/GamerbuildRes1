@@ -1,0 +1,153 @@
+
+TC_totalwin.png
+size: 475,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/sg_00000
+  rotate: true
+  xy: 445, 205
+  size: 70, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00001
+  rotate: false
+  xy: 308, 32
+  size: 92, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00002
+  rotate: false
+  xy: 289, 2
+  size: 116, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00003
+  rotate: false
+  xy: 176, 32
+  size: 130, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00004
+  rotate: false
+  xy: 195, 62
+  size: 155, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00005
+  rotate: false
+  xy: 218, 92
+  size: 172, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00006
+  rotate: false
+  xy: 222, 122
+  size: 198, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00007
+  rotate: false
+  xy: 222, 152
+  size: 217, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00008
+  rotate: false
+  xy: 2, 182
+  size: 218, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00009
+  rotate: false
+  xy: 2, 152
+  size: 218, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00010
+  rotate: false
+  xy: 222, 182
+  size: 218, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00011
+  rotate: false
+  xy: 2, 122
+  size: 218, 28
+  orig: 225, 35
+  offset: 2, 3
+  index: -1
+sg/sg_00012
+  rotate: false
+  xy: 2, 92
+  size: 214, 28
+  orig: 225, 35
+  offset: 6, 3
+  index: -1
+sg/sg_00013
+  rotate: false
+  xy: 2, 62
+  size: 191, 28
+  orig: 225, 35
+  offset: 29, 3
+  index: -1
+sg/sg_00014
+  rotate: false
+  xy: 2, 32
+  size: 172, 28
+  orig: 225, 35
+  offset: 48, 3
+  index: -1
+sg/sg_00015
+  rotate: false
+  xy: 2, 2
+  size: 152, 28
+  orig: 225, 35
+  offset: 68, 3
+  index: -1
+sg/sg_00016
+  rotate: false
+  xy: 156, 3
+  size: 131, 27
+  orig: 225, 35
+  offset: 89, 3
+  index: -1
+sg/sg_00017
+  rotate: false
+  xy: 352, 63
+  size: 111, 27
+  orig: 225, 35
+  offset: 109, 3
+  index: -1
+sg/sg_00018
+  rotate: false
+  xy: 392, 94
+  size: 80, 26
+  orig: 225, 35
+  offset: 140, 4
+  index: -1
+sg/sg_00019
+  rotate: false
+  xy: 402, 35
+  size: 66, 26
+  orig: 225, 35
+  offset: 154, 4
+  index: -1
+totalwin
+  rotate: false
+  xy: 2, 212
+  size: 441, 63
+  orig: 441, 63
+  offset: 0, 0
+  index: -1

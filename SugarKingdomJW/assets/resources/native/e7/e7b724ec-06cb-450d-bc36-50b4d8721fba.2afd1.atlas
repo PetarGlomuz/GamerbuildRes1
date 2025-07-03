@@ -1,0 +1,146 @@
+
+liwuhe.png
+size: 410,408
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+liwuhe
+  rotate: false
+  xy: 2, 309
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_01
+  rotate: false
+  xy: 362, 107
+  size: 37, 43
+  orig: 120, 100
+  offset: 10, 17
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_02
+  rotate: false
+  xy: 356, 152
+  size: 49, 71
+  orig: 120, 100
+  offset: 7, 9
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_03
+  rotate: false
+  xy: 335, 325
+  size: 73, 81
+  orig: 120, 100
+  offset: 5, 7
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_04
+  rotate: true
+  xy: 207, 122
+  size: 91, 88
+  orig: 120, 100
+  offset: 4, 5
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_05
+  rotate: true
+  xy: 115, 212
+  size: 95, 89
+  orig: 120, 100
+  offset: 3, 4
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_06
+  rotate: true
+  xy: 108, 14
+  size: 96, 92
+  orig: 120, 100
+  offset: 3, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_07
+  rotate: true
+  xy: 113, 112
+  size: 96, 92
+  orig: 120, 100
+  offset: 3, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_08
+  rotate: true
+  xy: 202, 14
+  size: 96, 92
+  orig: 120, 100
+  offset: 3, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_09
+  rotate: false
+  xy: 231, 312
+  size: 102, 94
+  orig: 120, 100
+  offset: 3, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_10
+  rotate: false
+  xy: 2, 112
+  size: 109, 96
+  orig: 120, 100
+  offset: 3, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_11
+  rotate: false
+  xy: 118, 310
+  size: 111, 96
+  orig: 120, 100
+  offset: 4, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_12
+  rotate: false
+  xy: 2, 210
+  size: 111, 97
+  orig: 120, 100
+  offset: 6, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_13
+  rotate: false
+  xy: 2, 13
+  size: 104, 97
+  orig: 120, 100
+  offset: 13, 2
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_14
+  rotate: false
+  xy: 206, 215
+  size: 87, 93
+  orig: 120, 100
+  offset: 30, 6
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_15
+  rotate: false
+  xy: 295, 225
+  size: 75, 85
+  orig: 120, 100
+  offset: 42, 14
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_16
+  rotate: false
+  xy: 297, 149
+  size: 57, 74
+  orig: 120, 100
+  offset: 60, 25
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_17
+  rotate: true
+  xy: 297, 97
+  size: 50, 63
+  orig: 120, 100
+  offset: 67, 36
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_18
+  rotate: false
+  xy: 296, 35
+  size: 35, 60
+  orig: 120, 100
+  offset: 82, 38
+  index: -1
+liwuhe_saoguang/liwuhe_saoguang_19
+  rotate: false
+  xy: 333, 50
+  size: 17, 45
+  orig: 120, 100
+  offset: 99, 47
+  index: -1

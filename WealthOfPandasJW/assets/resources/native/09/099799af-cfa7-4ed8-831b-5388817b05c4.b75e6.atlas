@@ -1,0 +1,76 @@
+
+JDT_JieSuo.png
+size: 1539,221
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/js_001
+  rotate: false
+  xy: 386, 2
+  size: 380, 105
+  orig: 390, 110
+  offset: 10, 5
+  index: -1
+images/js_002
+  rotate: false
+  xy: 391, 109
+  size: 383, 110
+  orig: 390, 110
+  offset: 7, 0
+  index: -1
+images/js_003
+  rotate: false
+  xy: 2, 110
+  size: 387, 109
+  orig: 390, 110
+  offset: 3, 1
+  index: -1
+images/js_004
+  rotate: false
+  xy: 776, 115
+  size: 387, 104
+  orig: 390, 110
+  offset: 3, 6
+  index: -1
+images/js_005
+  rotate: false
+  xy: 776, 12
+  size: 386, 101
+  orig: 390, 110
+  offset: 4, 9
+  index: -1
+images/js_006
+  rotate: false
+  xy: 2, 2
+  size: 382, 106
+  orig: 390, 110
+  offset: 3, 4
+  index: -1
+images/js_007
+  rotate: false
+  xy: 1165, 132
+  size: 372, 87
+  orig: 390, 110
+  offset: 4, 12
+  index: -1
+images/js_008
+  rotate: false
+  xy: 1165, 54
+  size: 347, 76
+  orig: 390, 110
+  offset: 21, 18
+  index: -1
+images/js_009
+  rotate: false
+  xy: 768, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/js_000
+  rotate: false
+  xy: 768, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

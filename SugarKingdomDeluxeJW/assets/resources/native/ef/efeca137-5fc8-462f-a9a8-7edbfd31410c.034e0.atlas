@@ -1,0 +1,41 @@
+
+FG_GuoChang.png
+size: 936,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h
+  rotate: false
+  xy: 2, 2
+  size: 203, 205
+  orig: 203, 205
+  offset: 0, 0
+  index: -1
+images/l
+  rotate: true
+  xy: 760, 25
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1
+images/r
+  rotate: false
+  xy: 394, 20
+  size: 183, 187
+  orig: 183, 187
+  offset: 0, 0
+  index: -1
+images/v
+  rotate: true
+  xy: 579, 20
+  size: 187, 179
+  orig: 187, 179
+  offset: 0, 0
+  index: -1
+images/z
+  rotate: true
+  xy: 207, 19
+  size: 188, 185
+  orig: 188, 185
+  offset: 0, 0
+  index: -1

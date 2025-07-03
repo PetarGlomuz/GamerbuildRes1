@@ -1,0 +1,146 @@
+
+BG_chengbei_di.png
+size: 879,822
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_000
+  rotate: false
+  xy: 2, 330
+  size: 219, 162
+  orig: 228, 162
+  offset: 5, 0
+  index: -1
+1/1_001
+  rotate: false
+  xy: 2, 494
+  size: 221, 162
+  orig: 228, 162
+  offset: 2, 0
+  index: -1
+1/1_002
+  rotate: false
+  xy: 2, 658
+  size: 222, 162
+  orig: 228, 162
+  offset: 2, 0
+  index: -1
+1/1_003
+  rotate: false
+  xy: 226, 658
+  size: 221, 162
+  orig: 228, 162
+  offset: 3, 0
+  index: -1
+1/1_004
+  rotate: false
+  xy: 225, 494
+  size: 218, 162
+  orig: 228, 162
+  offset: 4, 0
+  index: -1
+1/1_005
+  rotate: false
+  xy: 2, 2
+  size: 216, 162
+  orig: 228, 162
+  offset: 5, 0
+  index: -1
+1/1_006
+  rotate: false
+  xy: 445, 494
+  size: 214, 162
+  orig: 228, 162
+  offset: 6, 0
+  index: -1
+1/1_007
+  rotate: false
+  xy: 222, 166
+  size: 213, 162
+  orig: 228, 162
+  offset: 8, 0
+  index: -1
+1/1_008
+  rotate: false
+  xy: 437, 2
+  size: 211, 162
+  orig: 228, 162
+  offset: 11, 0
+  index: -1
+1/1_009
+  rotate: false
+  xy: 652, 166
+  size: 209, 162
+  orig: 228, 162
+  offset: 14, 0
+  index: -1
+1/1_010
+  rotate: false
+  xy: 650, 2
+  size: 211, 162
+  orig: 228, 162
+  offset: 14, 0
+  index: -1
+1/1_011
+  rotate: false
+  xy: 655, 330
+  size: 207, 162
+  orig: 228, 162
+  offset: 16, 0
+  index: -1
+1/1_012
+  rotate: false
+  xy: 661, 494
+  size: 205, 162
+  orig: 228, 162
+  offset: 19, 0
+  index: -1
+1/1_013
+  rotate: false
+  xy: 669, 658
+  size: 208, 162
+  orig: 228, 162
+  offset: 14, 0
+  index: -1
+1/1_014
+  rotate: false
+  xy: 437, 166
+  size: 213, 162
+  orig: 228, 162
+  offset: 12, 0
+  index: -1
+1/1_015
+  rotate: false
+  xy: 449, 658
+  size: 218, 162
+  orig: 228, 162
+  offset: 8, 0
+  index: -1
+1/1_016
+  rotate: false
+  xy: 2, 166
+  size: 218, 162
+  orig: 228, 162
+  offset: 8, 0
+  index: -1
+1/1_017
+  rotate: false
+  xy: 220, 2
+  size: 215, 162
+  orig: 228, 162
+  offset: 8, 0
+  index: -1
+1/1_018
+  rotate: false
+  xy: 223, 330
+  size: 214, 162
+  orig: 228, 162
+  offset: 9, 0
+  index: -1
+1/1_019
+  rotate: false
+  xy: 439, 330
+  size: 214, 162
+  orig: 228, 162
+  offset: 10, 0
+  index: -1

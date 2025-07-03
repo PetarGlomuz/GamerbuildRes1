@@ -1,0 +1,27 @@
+
+tc_respin_end_bg.png
+size: 795,987
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+board
+  rotate: true
+  xy: 1, 112
+  size: 874, 557
+  orig: 874, 557
+  offset: 0, 0
+  index: -1
+coin_frame
+  rotate: true
+  xy: 560, 1
+  size: 985, 234
+  orig: 985, 234
+  offset: 0, 0
+  index: -1
+lizi_00
+  rotate: false
+  xy: 1, 80
+  size: 30, 30
+  orig: 32, 32
+  offset: 0, 2
+  index: -1

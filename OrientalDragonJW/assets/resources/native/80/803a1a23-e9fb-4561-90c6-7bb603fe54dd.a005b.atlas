@@ -1,0 +1,62 @@
+
+TC_select_board.png
+size: 1349,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DL_glow
+  rotate: false
+  xy: 1262, 469
+  size: 79, 80
+  orig: 81, 81
+  offset: 1, 1
+  index: -1
+DL_shang
+  rotate: false
+  xy: 1262, 251
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+DL_shang_xia
+  rotate: false
+  xy: 1262, 370
+  size: 34, 97
+  orig: 34, 97
+  offset: 0, 0
+  index: -1
+DL_shen
+  rotate: false
+  xy: 1262, 304
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+DL_xian
+  rotate: false
+  xy: 1298, 404
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+DL_zhe1
+  rotate: false
+  xy: 1298, 389
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+DL_zhe2
+  rotate: true
+  xy: 1341, 426
+  size: 41, 6
+  orig: 41, 6
+  offset: 0, 0
+  index: -1
+kuagn_yinying
+  rotate: false
+  xy: 2, 2
+  size: 1258, 547
+  orig: 1258, 547
+  offset: 0, 0
+  index: -1

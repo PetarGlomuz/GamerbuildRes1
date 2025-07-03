@@ -1,0 +1,216 @@
+
+Jackpot_ThunderFire.png
+size: 1838,246
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TF/FT_000
+  rotate: false
+  xy: 2, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_001
+  rotate: true
+  xy: 104, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_002
+  rotate: false
+  xy: 144, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_003
+  rotate: true
+  xy: 206, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_004
+  rotate: false
+  xy: 286, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_005
+  rotate: true
+  xy: 308, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_006
+  rotate: true
+  xy: 410, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_007
+  rotate: false
+  xy: 428, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_008
+  rotate: true
+  xy: 512, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_009
+  rotate: false
+  xy: 570, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_010
+  rotate: true
+  xy: 614, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_011
+  rotate: false
+  xy: 712, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_012
+  rotate: true
+  xy: 716, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_013
+  rotate: true
+  xy: 818, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_014
+  rotate: false
+  xy: 854, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_015
+  rotate: true
+  xy: 920, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_016
+  rotate: false
+  xy: 996, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_017
+  rotate: true
+  xy: 1022, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_018
+  rotate: true
+  xy: 1124, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_019
+  rotate: false
+  xy: 1138, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_020
+  rotate: true
+  xy: 1226, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_021
+  rotate: false
+  xy: 1280, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_022
+  rotate: true
+  xy: 1328, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_023
+  rotate: false
+  xy: 1422, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_024
+  rotate: true
+  xy: 1430, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_025
+  rotate: true
+  xy: 1532, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_026
+  rotate: false
+  xy: 1564, 2
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_027
+  rotate: true
+  xy: 1634, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_028
+  rotate: true
+  xy: 1736, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1
+images/TF/FT_029
+  rotate: true
+  xy: 2, 104
+  size: 140, 100
+  orig: 140, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+Map_box.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+box
+  rotate: true
+  xy: 2, 367
+  size: 332, 282
+  orig: 332, 332
+  offset: 0, 25
+  index: -1
+box_add
+  rotate: false
+  xy: 321, 681
+  size: 182, 156
+  orig: 200, 200
+  offset: 9, 22
+  index: -1
+box_open
+  rotate: false
+  xy: 2, 701
+  size: 317, 305
+  orig: 332, 332
+  offset: 8, 14
+  index: -1
+box_open_add
+  rotate: false
+  xy: 321, 839
+  size: 174, 167
+  orig: 200, 200
+  offset: 13, 17
+  index: -1
+glow
+  rotate: false
+  xy: 425, 619
+  size: 65, 60
+  orig: 75, 75
+  offset: 5, 7
+  index: -1
+lizi/lizi_01
+  rotate: false
+  xy: 2, 123
+  size: 137, 120
+  orig: 200, 200
+  offset: 31, 41
+  index: -1
+lizi/lizi_02
+  rotate: false
+  xy: 280, 184
+  size: 137, 118
+  orig: 200, 200
+  offset: 32, 41
+  index: -1
+lizi/lizi_03
+  rotate: false
+  xy: 141, 124
+  size: 136, 117
+  orig: 200, 200
+  offset: 32, 41
+  index: -1
+lizi/lizi_04
+  rotate: false
+  xy: 141, 6
+  size: 136, 116
+  orig: 200, 200
+  offset: 32, 42
+  index: -1
+lizi/lizi_05
+  rotate: true
+  xy: 279, 46
+  size: 136, 117
+  orig: 200, 200
+  offset: 32, 42
+  index: -1
+lizi/lizi_06
+  rotate: false
+  xy: 2, 2
+  size: 137, 119
+  orig: 200, 200
+  offset: 32, 41
+  index: -1
+lizi/lizi_07
+  rotate: false
+  xy: 2, 245
+  size: 139, 120
+  orig: 200, 200
+  offset: 31, 41
+  index: -1
+lizi/lizi_08
+  rotate: false
+  xy: 286, 304
+  size: 140, 122
+  orig: 200, 200
+  offset: 31, 40
+  index: -1
+lizi/lizi_09
+  rotate: false
+  xy: 286, 428
+  size: 138, 124
+  orig: 200, 200
+  offset: 34, 39
+  index: -1
+lizi/lizi_10
+  rotate: false
+  xy: 286, 554
+  size: 137, 125
+  orig: 200, 200
+  offset: 35, 39
+  index: -1
+lizi/lizi_11
+  rotate: false
+  xy: 143, 243
+  size: 135, 122
+  orig: 200, 200
+  offset: 36, 40
+  index: -1
+lizi/lizi_12
+  rotate: true
+  xy: 398, 59
+  size: 123, 100
+  orig: 200, 200
+  offset: 38, 58
+  index: -1

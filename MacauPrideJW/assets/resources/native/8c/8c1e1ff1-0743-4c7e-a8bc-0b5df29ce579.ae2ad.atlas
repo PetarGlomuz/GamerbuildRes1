@@ -1,0 +1,34 @@
+
+FG_bg.png
+size: 1614,1174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 2
+  size: 1170, 1560
+  orig: 1170, 1560
+  offset: 0, 0
+  index: -1
+glow3
+  rotate: false
+  xy: 1564, 426
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+guang_00/guang_00_00000
+  rotate: false
+  xy: 1564, 387
+  size: 37, 37
+  orig: 45, 45
+  offset: 4, 4
+  index: -1
+laingdeng
+  rotate: true
+  xy: 1564, 468
+  size: 704, 48
+  orig: 704, 48
+  offset: 0, 0
+  index: -1

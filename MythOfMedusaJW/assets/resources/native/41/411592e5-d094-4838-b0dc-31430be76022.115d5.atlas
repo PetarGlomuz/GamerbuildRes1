@@ -1,0 +1,111 @@
+
+NG_yinfenkuang.png
+size: 586,584
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yfk/yfk_00
+  rotate: false
+  xy: 129, 73
+  size: 148, 126
+  orig: 256, 256
+  offset: 52, 66
+  index: -1
+yfk/yfk_01
+  rotate: true
+  xy: 459, 282
+  size: 148, 125
+  orig: 256, 256
+  offset: 52, 66
+  index: -1
+yfk/yfk_02
+  rotate: true
+  xy: 459, 132
+  size: 148, 125
+  orig: 256, 256
+  offset: 52, 66
+  index: -1
+yfk/yfk_03
+  rotate: false
+  xy: 2, 201
+  size: 149, 126
+  orig: 256, 256
+  offset: 53, 66
+  index: -1
+yfk/yfk_04
+  rotate: false
+  xy: 2, 456
+  size: 151, 126
+  orig: 256, 256
+  offset: 51, 66
+  index: -1
+yfk/yfk_05
+  rotate: false
+  xy: 2, 329
+  size: 151, 125
+  orig: 256, 256
+  offset: 51, 66
+  index: -1
+yfk/yfk_06
+  rotate: false
+  xy: 306, 458
+  size: 151, 124
+  orig: 256, 256
+  offset: 51, 67
+  index: -1
+yfk/yfk_07
+  rotate: true
+  xy: 2, 49
+  size: 150, 125
+  orig: 256, 256
+  offset: 51, 66
+  index: -1
+yfk/yfk_08
+  rotate: false
+  xy: 307, 332
+  size: 150, 124
+  orig: 256, 256
+  offset: 51, 67
+  index: -1
+yfk/yfk_09
+  rotate: true
+  xy: 459, 432
+  size: 150, 124
+  orig: 256, 256
+  offset: 51, 67
+  index: -1
+yfk/yfk_10
+  rotate: false
+  xy: 307, 206
+  size: 150, 124
+  orig: 256, 256
+  offset: 51, 67
+  index: -1
+yfk/yfk_11
+  rotate: false
+  xy: 304, 80
+  size: 150, 124
+  orig: 256, 256
+  offset: 51, 67
+  index: -1
+yfk/yfk_12
+  rotate: false
+  xy: 155, 329
+  size: 150, 125
+  orig: 256, 256
+  offset: 51, 66
+  index: -1
+yfk/yfk_13
+  rotate: false
+  xy: 153, 201
+  size: 149, 126
+  orig: 256, 256
+  offset: 52, 66
+  index: -1
+yfk/yfk_14
+  rotate: false
+  xy: 155, 456
+  size: 149, 126
+  orig: 256, 256
+  offset: 52, 66
+  index: -1

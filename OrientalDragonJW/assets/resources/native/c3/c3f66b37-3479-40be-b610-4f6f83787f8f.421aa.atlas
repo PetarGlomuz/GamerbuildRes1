@@ -1,0 +1,286 @@
+
+TC_zhongFG_title.png
+size: 989,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_01
+  rotate: false
+  xy: 744, 93
+  size: 21, 28
+  orig: 142, 40
+  offset: 3, 9
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_02
+  rotate: false
+  xy: 831, 6
+  size: 29, 30
+  orig: 142, 40
+  offset: 3, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_03
+  rotate: false
+  xy: 577, 30
+  size: 41, 30
+  orig: 142, 40
+  offset: 3, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_04
+  rotate: true
+  xy: 856, 47
+  size: 53, 30
+  orig: 142, 40
+  offset: 3, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_05
+  rotate: false
+  xy: 769, 6
+  size: 60, 30
+  orig: 142, 40
+  offset: 3, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_06
+  rotate: false
+  xy: 910, 193
+  size: 73, 30
+  orig: 142, 40
+  offset: 3, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_07
+  rotate: false
+  xy: 769, 38
+  size: 83, 30
+  orig: 142, 40
+  offset: 4, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_08
+  rotate: false
+  xy: 893, 98
+  size: 85, 30
+  orig: 142, 40
+  offset: 9, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_09
+  rotate: false
+  xy: 486, 30
+  size: 89, 30
+  orig: 142, 40
+  offset: 18, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_10
+  rotate: false
+  xy: 769, 70
+  size: 85, 30
+  orig: 142, 40
+  offset: 30, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_11
+  rotate: false
+  xy: 620, 33
+  size: 86, 30
+  orig: 142, 40
+  offset: 39, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_12
+  rotate: true
+  xy: 737, 4
+  size: 87, 30
+  orig: 142, 40
+  offset: 49, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_13
+  rotate: false
+  xy: 909, 162
+  size: 72, 29
+  orig: 142, 40
+  offset: 66, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_14
+  rotate: false
+  xy: 909, 130
+  size: 68, 30
+  orig: 142, 40
+  offset: 70, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_15
+  rotate: false
+  xy: 620, 2
+  size: 59, 29
+  orig: 142, 40
+  offset: 80, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_16
+  rotate: false
+  xy: 888, 67
+  size: 48, 29
+  orig: 142, 40
+  offset: 91, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_17
+  rotate: false
+  xy: 938, 67
+  size: 38, 29
+  orig: 142, 40
+  offset: 101, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_18
+  rotate: false
+  xy: 862, 10
+  size: 25, 27
+  orig: 142, 40
+  offset: 114, 8
+  index: -1
+sg_zhongFG_title_CN/sg_zhongFG_title_CN_19
+  rotate: true
+  xy: 2, 4
+  size: 16, 24
+  orig: 142, 40
+  offset: 122, 9
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_01
+  rotate: false
+  xy: 889, 13
+  size: 27, 25
+  orig: 311, 41
+  offset: 4, 12
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_02
+  rotate: false
+  xy: 939, 39
+  size: 48, 26
+  orig: 311, 41
+  offset: 4, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_03
+  rotate: false
+  xy: 471, 2
+  size: 70, 26
+  orig: 311, 41
+  offset: 3, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_04
+  rotate: true
+  xy: 708, 2
+  size: 89, 27
+  orig: 311, 41
+  offset: 4, 10
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_05
+  rotate: false
+  xy: 781, 102
+  size: 110, 27
+  orig: 311, 41
+  offset: 4, 10
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_06
+  rotate: false
+  xy: 358, 91
+  size: 126, 30
+  orig: 311, 41
+  offset: 9, 9
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_07
+  rotate: false
+  xy: 781, 161
+  size: 126, 30
+  orig: 311, 41
+  offset: 29, 9
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_08
+  rotate: false
+  xy: 781, 193
+  size: 127, 30
+  orig: 311, 41
+  offset: 50, 9
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_09
+  rotate: false
+  xy: 486, 92
+  size: 127, 29
+  orig: 311, 41
+  offset: 71, 10
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_10
+  rotate: false
+  xy: 615, 93
+  size: 127, 28
+  orig: 311, 41
+  offset: 91, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_11
+  rotate: false
+  xy: 358, 61
+  size: 126, 28
+  orig: 311, 41
+  offset: 112, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_12
+  rotate: false
+  xy: 486, 62
+  size: 123, 28
+  orig: 311, 41
+  offset: 136, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_13
+  rotate: false
+  xy: 781, 131
+  size: 126, 28
+  orig: 311, 41
+  offset: 154, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_14
+  rotate: false
+  xy: 358, 32
+  size: 124, 27
+  orig: 311, 41
+  offset: 174, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_15
+  rotate: false
+  xy: 358, 4
+  size: 111, 26
+  orig: 311, 41
+  offset: 196, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_16
+  rotate: false
+  xy: 615, 65
+  size: 91, 26
+  orig: 311, 41
+  offset: 216, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_17
+  rotate: false
+  xy: 543, 2
+  size: 69, 26
+  orig: 311, 41
+  offset: 239, 11
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_18
+  rotate: false
+  xy: 888, 40
+  size: 49, 25
+  orig: 311, 41
+  offset: 258, 12
+  index: -1
+sg_zhongFG_title_EN/sg_zhongFG_title_EN_19
+  rotate: true
+  xy: 681, 3
+  size: 28, 25
+  orig: 311, 41
+  offset: 279, 12
+  index: -1
+zhongFG_title_CN
+  rotate: false
+  xy: 2, 22
+  size: 354, 99
+  orig: 354, 99
+  offset: 0, 0
+  index: -1
+zhongFG_title_EN
+  rotate: false
+  xy: 2, 123
+  size: 777, 100
+  orig: 777, 101
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+tb_low.png
+size: 72,78
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx/theme239_map_icon1
+  rotate: false
+  xy: 2, 2
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+L4.png
+size: 125,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/j_zi
+  rotate: false
+  xy: 2, 2
+  size: 55, 77
+  orig: 55, 77
+  offset: 0, 0
+  index: -1
+wenjian/xiaobeibei2_00
+  rotate: false
+  xy: 59, 17
+  size: 64, 62
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

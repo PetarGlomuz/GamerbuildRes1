@@ -1,0 +1,111 @@
+
+yingfenkuang.png
+size: 948,946
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/yingfenkuang_g_00
+  rotate: false
+  xy: 413, 131
+  size: 246, 203
+  orig: 247, 232
+  offset: 1, 19
+  index: -1
+wenjian/yingfenkuang_g_01
+  rotate: false
+  xy: 499, 540
+  size: 247, 197
+  orig: 247, 232
+  offset: 0, 19
+  index: -1
+wenjian/yingfenkuang_g_02
+  rotate: true
+  xy: 748, 450
+  size: 245, 198
+  orig: 247, 232
+  offset: 2, 19
+  index: -1
+wenjian/yingfenkuang_g_03
+  rotate: true
+  xy: 748, 697
+  size: 247, 198
+  orig: 247, 232
+  offset: 0, 19
+  index: -1
+wenjian/yingfenkuang_g_04
+  rotate: false
+  xy: 250, 539
+  size: 247, 196
+  orig: 247, 232
+  offset: 0, 19
+  index: -1
+wenjian/yingfenkuang_g_05
+  rotate: false
+  xy: 499, 336
+  size: 247, 202
+  orig: 247, 232
+  offset: 0, 17
+  index: -1
+wenjian/yingfenkuang_g_06
+  rotate: false
+  xy: 499, 739
+  size: 247, 205
+  orig: 247, 232
+  offset: 0, 17
+  index: -1
+wenjian/yingfenkuang_g_07
+  rotate: true
+  xy: 2, 61
+  size: 247, 205
+  orig: 247, 232
+  offset: 0, 18
+  index: -1
+wenjian/yingfenkuang_g_08
+  rotate: false
+  xy: 249, 336
+  size: 245, 201
+  orig: 247, 232
+  offset: 2, 21
+  index: -1
+wenjian/yingfenkuang_g_09
+  rotate: true
+  xy: 209, 61
+  size: 247, 202
+  orig: 247, 232
+  offset: 0, 20
+  index: -1
+wenjian/yingfenkuang_g_10
+  rotate: true
+  xy: 661, 87
+  size: 247, 202
+  orig: 247, 232
+  offset: 0, 19
+  index: -1
+wenjian/yingfenkuang_g_11
+  rotate: false
+  xy: 250, 737
+  size: 247, 207
+  orig: 247, 232
+  offset: 0, 18
+  index: -1
+wenjian/yingfenkuang_g_12
+  rotate: false
+  xy: 2, 310
+  size: 244, 210
+  orig: 247, 232
+  offset: 3, 16
+  index: -1
+wenjian/yingfenkuang_g_13
+  rotate: false
+  xy: 2, 733
+  size: 246, 211
+  orig: 247, 232
+  offset: 1, 15
+  index: -1
+wenjian/yingfenkuang_g_14
+  rotate: false
+  xy: 2, 522
+  size: 245, 209
+  orig: 247, 232
+  offset: 2, 16
+  index: -1

@@ -1,0 +1,710 @@
+
+FG_guochang2.png
+size: 2048,2038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2017, 1712
+  size: 12, 31
+  orig: 12, 31
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 42, 6
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+15
+  rotate: true
+  xy: 1970, 1614
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1970, 999
+  size: 55, 101
+  orig: 55, 101
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 2017, 1954
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 2017, 1833
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2017, 1874
+  size: 17, 43
+  orig: 17, 43
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 2017, 1996
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2017, 1745
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 2017, 1797
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+23
+  rotate: true
+  xy: 2017, 1919
+  size: 33, 24
+  orig: 33, 24
+  offset: 0, 0
+  index: -1
+24
+  rotate: true
+  xy: 2017, 1673
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 2017, 1777
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 2, 2
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 2017, 1657
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 2017, 1760
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 2015, 1642
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+31
+  rotate: true
+  xy: 2031, 1693
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+33
+  rotate: true
+  xy: 1970, 1102
+  size: 146, 64
+  orig: 146, 64
+  offset: 0, 0
+  index: -1
+39
+  rotate: false
+  xy: 1970, 909
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1970, 1250
+  size: 153, 75
+  orig: 153, 75
+  offset: 0, 0
+  index: -1
+44
+  rotate: true
+  xy: 1796, 65
+  size: 842, 234
+  orig: 842, 234
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1970, 1405
+  size: 63, 207
+  orig: 63, 207
+  offset: 0, 0
+  index: -1
+BG1
+  rotate: true
+  xy: 2, 58
+  size: 864, 944
+  orig: 864, 944
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: true
+  xy: 948, 58
+  size: 864, 846
+  orig: 864, 846
+  offset: 0, 0
+  index: -1
+niao1
+  rotate: true
+  xy: 2036, 1881
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+niao2
+  rotate: true
+  xy: 2036, 1899
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+niao3
+  rotate: true
+  xy: 2031, 1715
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+shu
+  rotate: false
+  xy: 2, 924
+  size: 1966, 1112
+  orig: 1966, 1112
+  offset: 0, 0
+  index: -1
+yun9
+  rotate: true
+  xy: 1970, 1672
+  size: 364, 45
+  orig: 364, 45
+  offset: 0, 0
+  index: -1
+
+FG_guochang22.png
+size: 2043,2047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17
+  rotate: true
+  xy: 1881, 59
+  size: 123, 160
+  orig: 123, 160
+  offset: 0, 0
+  index: -1
+1_00
+  rotate: true
+  xy: 1289, 219
+  size: 321, 316
+  orig: 321, 316
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 1765, 19
+  size: 114, 163
+  orig: 114, 163
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 2, 1585
+  size: 165, 131
+  orig: 165, 131
+  offset: 0, 0
+  index: -1
+36
+  rotate: true
+  xy: 1519, 1373
+  size: 201, 237
+  orig: 201, 237
+  offset: 0, 0
+  index: -1
+37
+  rotate: true
+  xy: 1758, 1380
+  size: 194, 212
+  orig: 194, 212
+  offset: 0, 0
+  index: -1
+41
+  rotate: false
+  xy: 689, 5
+  size: 107, 205
+  orig: 107, 205
+  offset: 0, 0
+  index: -1
+43
+  rotate: true
+  xy: 504, 3
+  size: 207, 183
+  orig: 207, 183
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 798, 6
+  size: 370, 204
+  orig: 370, 204
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1607, 184
+  size: 356, 407
+  orig: 356, 407
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: true
+  xy: 348, 567
+  size: 721, 951
+  orig: 721, 951
+  offset: 0, 0
+  index: -1
+BG4
+  rotate: false
+  xy: 1301, 542
+  size: 721, 828
+  orig: 721, 828
+  offset: 0, 0
+  index: -1
+fs/fs_00
+  rotate: true
+  xy: 348, 1290
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+guangci
+  rotate: false
+  xy: 1583, 2
+  size: 180, 180
+  orig: 180, 180
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 2, 27
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+lizi/lizi_00
+  rotate: false
+  xy: 169, 1586
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+yun1
+  rotate: false
+  xy: 504, 212
+  size: 783, 353
+  orig: 783, 353
+  offset: 0, 0
+  index: -1
+yun10
+  rotate: false
+  xy: 1581, 1926
+  size: 460, 119
+  orig: 460, 119
+  offset: 0, 0
+  index: -1
+yun2
+  rotate: false
+  xy: 656, 1372
+  size: 861, 344
+  orig: 861, 344
+  offset: 0, 0
+  index: -1
+yun4
+  rotate: true
+  xy: 2, 529
+  size: 1045, 344
+  orig: 1045, 344
+  offset: 0, 0
+  index: -1
+yun5
+  rotate: false
+  xy: 2, 1718
+  size: 1577, 327
+  orig: 1577, 327
+  offset: 0, 0
+  index: -1
+yun6
+  rotate: false
+  xy: 1170, 14
+  size: 411, 196
+  orig: 411, 196
+  offset: 0, 0
+  index: -1
+yun7
+  rotate: false
+  xy: 1581, 1576
+  size: 448, 348
+  orig: 448, 348
+  offset: 0, 0
+  index: -1
+
+FG_guochang23.png
+size: 2047,2021
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 637, 1155
+  size: 260, 110
+  orig: 260, 110
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 472, 309
+  size: 391, 240
+  orig: 391, 240
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 1919, 1688
+  size: 331, 126
+  orig: 331, 126
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 637, 1417
+  size: 330, 175
+  orig: 330, 175
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 1919, 1563
+  size: 108, 123
+  orig: 108, 123
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 482, 702
+  size: 652, 430
+  orig: 652, 430
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 749, 1302
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+40
+  rotate: true
+  xy: 2, 629
+  size: 345, 336
+  orig: 345, 336
+  offset: 0, 0
+  index: -1
+45
+  rotate: true
+  xy: 2, 10
+  size: 617, 269
+  orig: 617, 269
+  offset: 0, 0
+  index: -1
+46
+  rotate: false
+  xy: 855, 1170
+  size: 346, 169
+  orig: 346, 169
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 701, 90
+  size: 123, 158
+  orig: 123, 158
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 1203, 1185
+  size: 154, 182
+  orig: 154, 182
+  offset: 0, 0
+  index: -1
+fs/fs_01
+  rotate: false
+  xy: 1136, 864
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_02
+  rotate: false
+  xy: 1136, 558
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_03
+  rotate: false
+  xy: 405, 3
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_04
+  rotate: false
+  xy: 1110, 252
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_05
+  rotate: false
+  xy: 1564, 903
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_06
+  rotate: false
+  xy: 1696, 597
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_07
+  rotate: false
+  xy: 1696, 291
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+lizi/lizi_01
+  rotate: true
+  xy: 340, 489
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_02
+  rotate: false
+  xy: 1387, 1209
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_03
+  rotate: true
+  xy: 1523, 1534
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_04
+  rotate: false
+  xy: 1523, 1402
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_05
+  rotate: true
+  xy: 1655, 1534
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_06
+  rotate: true
+  xy: 1787, 1534
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_07
+  rotate: true
+  xy: 1432, 722
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_08
+  rotate: true
+  xy: 1432, 235
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_09
+  rotate: true
+  xy: 273, 2
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_10
+  rotate: true
+  xy: 714, 215
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_11
+  rotate: true
+  xy: 846, 215
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_12
+  rotate: true
+  xy: 978, 215
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_13
+  rotate: false
+  xy: 1405, 103
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+lizi/lizi_14
+  rotate: true
+  xy: 1564, 416
+  size: 485, 130
+  orig: 485, 130
+  offset: 0, 0
+  index: -1
+texiao
+  rotate: true
+  xy: 858, 1341
+  size: 678, 663
+  orig: 678, 663
+  offset: 0, 0
+  index: -1
+yun11
+  rotate: true
+  xy: 2, 976
+  size: 771, 478
+  orig: 771, 478
+  offset: 0, 0
+  index: -1
+yun12
+  rotate: false
+  xy: 2, 1749
+  size: 854, 270
+  orig: 854, 270
+  offset: 0, 0
+  index: -1
+yun3
+  rotate: true
+  xy: 482, 1134
+  size: 613, 153
+  orig: 613, 153
+  offset: 0, 0
+  index: -1
+yun8
+  rotate: false
+  xy: 1110, 28
+  size: 293, 222
+  orig: 293, 222
+  offset: 0, 0
+  index: -1
+
+FG_guochang24.png
+size: 1216,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs/fs_08
+  rotate: true
+  xy: 2, 298
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_09
+  rotate: true
+  xy: 308, 298
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_10
+  rotate: true
+  xy: 614, 298
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_11
+  rotate: false
+  xy: 920, 288
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_12
+  rotate: true
+  xy: 2, 2
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_13
+  rotate: true
+  xy: 308, 2
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1
+fs/fs_14
+  rotate: true
+  xy: 614, 2
+  size: 294, 304
+  orig: 294, 304
+  offset: 0, 0
+  index: -1

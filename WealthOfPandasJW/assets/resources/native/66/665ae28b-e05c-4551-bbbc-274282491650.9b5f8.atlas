@@ -1,0 +1,195 @@
+
+FG_xiaomen.png
+size: 300,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 136, 2
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+1/1_00000
+  rotate: true
+  xy: 105, 18
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00001
+  rotate: false
+  xy: 105, 162
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00002
+  rotate: false
+  xy: 144, 162
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00003
+  rotate: false
+  xy: 183, 162
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00004
+  rotate: false
+  xy: 261, 246
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00005
+  rotate: false
+  xy: 222, 246
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00006
+  rotate: true
+  xy: 189, 238
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00007
+  rotate: true
+  xy: 189, 199
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00008
+  rotate: false
+  xy: 261, 215
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00009
+  rotate: false
+  xy: 222, 215
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00010
+  rotate: false
+  xy: 261, 184
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00011
+  rotate: false
+  xy: 222, 184
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00012
+  rotate: false
+  xy: 261, 153
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00013
+  rotate: false
+  xy: 261, 122
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00014
+  rotate: false
+  xy: 261, 91
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+1/1_00015
+  rotate: false
+  xy: 211, 63
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1
+2/2_00001
+  rotate: true
+  xy: 202, 94
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+bai_00000
+  rotate: true
+  xy: 122, 79
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+guang
+  rotate: false
+  xy: 105, 193
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+lock
+  rotate: true
+  xy: 65, 15
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+menkuang
+  rotate: true
+  xy: 2, 158
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+pan
+  rotate: false
+  xy: 211, 2
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+shu_00000
+  rotate: false
+  xy: 2, 3
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+youmen
+  rotate: false
+  xy: 2, 57
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+zhua
+  rotate: false
+  xy: 250, 63
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+zuomen
+  rotate: false
+  xy: 62, 57
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1

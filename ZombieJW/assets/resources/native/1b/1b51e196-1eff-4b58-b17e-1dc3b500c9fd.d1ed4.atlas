@@ -1,0 +1,111 @@
+
+BG_jpzhongjiang.png
+size: 983,981
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 489, 10
+  size: 492, 117
+  orig: 524, 131
+  offset: 16, 2
+  index: -1
+images/g/g_01
+  rotate: true
+  xy: 2, 234
+  size: 491, 121
+  orig: 524, 131
+  offset: 17, 0
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 125, 236
+  size: 489, 121
+  orig: 524, 131
+  offset: 18, 0
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 492, 856
+  size: 489, 123
+  orig: 524, 131
+  offset: 18, 0
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 492, 732
+  size: 488, 122
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 2, 854
+  size: 488, 125
+  orig: 524, 131
+  offset: 18, 0
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 2, 727
+  size: 488, 125
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_07
+  rotate: true
+  xy: 370, 237
+  size: 488, 119
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 492, 611
+  size: 488, 119
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_09
+  rotate: true
+  xy: 248, 237
+  size: 488, 120
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 491, 490
+  size: 488, 119
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 491, 369
+  size: 488, 119
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 491, 248
+  size: 488, 119
+  orig: 524, 131
+  offset: 18, 1
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 2, 114
+  size: 485, 118
+  orig: 524, 131
+  offset: 20, 2
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 491, 129
+  size: 489, 117
+  orig: 524, 131
+  offset: 16, 2
+  index: -1

@@ -1,0 +1,265 @@
+
+BG_guochang.png
+size: 2028,1880
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dipsn
+  rotate: false
+  xy: 2, 1114
+  size: 764, 764
+  orig: 764, 764
+  offset: 0, 0
+  index: -1
+huomiao/huo_00
+  rotate: false
+  xy: 934, 13
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_01
+  rotate: false
+  xy: 1125, 13
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_02
+  rotate: false
+  xy: 1316, 13
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_03
+  rotate: false
+  xy: 1507, 13
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_04
+  rotate: false
+  xy: 768, 1122
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_05
+  rotate: false
+  xy: 959, 1122
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_06
+  rotate: false
+  xy: 1150, 1122
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_07
+  rotate: false
+  xy: 1341, 1122
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_08
+  rotate: true
+  xy: 1532, 1130
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_09
+  rotate: true
+  xy: 1604, 1388
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_10
+  rotate: true
+  xy: 1698, 13
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_11
+  rotate: true
+  xy: 1774, 1388
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_12
+  rotate: false
+  xy: 1837, 917
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_13
+  rotate: false
+  xy: 1837, 747
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_14
+  rotate: false
+  xy: 1837, 577
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_15
+  rotate: false
+  xy: 1837, 407
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_16
+  rotate: false
+  xy: 1837, 237
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_17
+  rotate: false
+  xy: 1556, 917
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_18
+  rotate: false
+  xy: 1556, 747
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+huomiao/huo_19
+  rotate: true
+  xy: 1556, 556
+  size: 189, 168
+  orig: 189, 168
+  offset: 0, 0
+  index: -1
+jiangchi
+  rotate: false
+  xy: 2, 444
+  size: 668, 668
+  orig: 668, 668
+  offset: 0, 0
+  index: -1
+jt
+  rotate: false
+  xy: 2, 2
+  size: 261, 104
+  orig: 261, 104
+  offset: 0, 0
+  index: -1
+qg_00
+  rotate: true
+  xy: 2, 108
+  size: 334, 328
+  orig: 334, 328
+  offset: 0, 0
+  index: -1
+quan
+  rotate: true
+  xy: 768, 1292
+  size: 586, 576
+  orig: 586, 576
+  offset: 0, 0
+  index: -1
+quan_00
+  rotate: true
+  xy: 672, 489
+  size: 623, 581
+  orig: 623, 581
+  offset: 0, 0
+  index: -1
+sg2/sg2_01
+  rotate: true
+  xy: 332, 138
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_03
+  rotate: true
+  xy: 633, 138
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_05
+  rotate: true
+  xy: 934, 183
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_07
+  rotate: true
+  xy: 1235, 183
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_09
+  rotate: false
+  xy: 1698, 1579
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_11
+  rotate: false
+  xy: 1346, 1579
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_13
+  rotate: true
+  xy: 1255, 816
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_15
+  rotate: true
+  xy: 1255, 510
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_17
+  rotate: true
+  xy: 1536, 204
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+sg2/sg2_19
+  rotate: false
+  xy: 1702, 1087
+  size: 304, 299
+  orig: 304, 299
+  offset: 0, 0
+  index: -1
+spin
+  rotate: false
+  xy: 1346, 1321
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

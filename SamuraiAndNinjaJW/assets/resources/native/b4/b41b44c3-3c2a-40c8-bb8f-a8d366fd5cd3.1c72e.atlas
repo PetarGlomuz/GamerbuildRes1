@@ -1,0 +1,146 @@
+
+Feature_renzhe.png
+size: 1875,1075
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b/b_00
+  rotate: false
+  xy: 1403, 575
+  size: 470, 245
+  orig: 1560, 720
+  offset: 534, 339
+  index: -1
+b/b_01
+  rotate: true
+  xy: 2, 2
+  size: 470, 251
+  orig: 1560, 720
+  offset: 534, 339
+  index: -1
+b/b_02
+  rotate: true
+  xy: 1515, 107
+  size: 466, 251
+  orig: 1560, 720
+  offset: 537, 339
+  index: -1
+b/b_03
+  rotate: true
+  xy: 1262, 105
+  size: 468, 251
+  orig: 1560, 720
+  offset: 535, 339
+  index: -1
+b/b_04
+  rotate: false
+  xy: 1403, 822
+  size: 470, 251
+  orig: 1560, 720
+  offset: 533, 339
+  index: -1
+b/b_05
+  rotate: true
+  xy: 1009, 7
+  size: 472, 251
+  orig: 1560, 720
+  offset: 531, 339
+  index: -1
+b/b_06
+  rotate: true
+  xy: 508, 2
+  size: 475, 251
+  orig: 1560, 720
+  offset: 529, 339
+  index: -1
+b/b_07
+  rotate: true
+  xy: 255, 2
+  size: 474, 251
+  orig: 1560, 720
+  offset: 531, 339
+  index: -1
+b/b_08
+  rotate: true
+  xy: 1150, 602
+  size: 471, 251
+  orig: 1560, 720
+  offset: 532, 339
+  index: -1
+b/b_09
+  rotate: true
+  xy: 761, 2
+  size: 476, 246
+  orig: 1560, 720
+  offset: 531, 339
+  index: -1
+q/q_00
+  rotate: true
+  xy: 238, 478
+  size: 595, 103
+  orig: 1560, 720
+  offset: 499, 358
+  index: -1
+q/q_01
+  rotate: true
+  xy: 1033, 481
+  size: 592, 115
+  orig: 1560, 720
+  offset: 501, 358
+  index: -1
+q/q_02
+  rotate: true
+  xy: 694, 480
+  size: 593, 109
+  orig: 1560, 720
+  offset: 501, 358
+  index: -1
+q/q_03
+  rotate: true
+  xy: 467, 479
+  size: 594, 113
+  orig: 1560, 720
+  offset: 501, 358
+  index: -1
+q/q_04
+  rotate: true
+  xy: 914, 481
+  size: 592, 117
+  orig: 1560, 720
+  offset: 502, 358
+  index: -1
+q/q_05
+  rotate: true
+  xy: 343, 479
+  size: 594, 122
+  orig: 1560, 720
+  offset: 500, 358
+  index: -1
+q/q_06
+  rotate: true
+  xy: 805, 480
+  size: 593, 107
+  orig: 1560, 720
+  offset: 501, 358
+  index: -1
+q/q_07
+  rotate: true
+  xy: 582, 479
+  size: 594, 110
+  orig: 1560, 720
+  offset: 500, 358
+  index: -1
+q/q_08
+  rotate: true
+  xy: 2, 474
+  size: 599, 114
+  orig: 1560, 720
+  offset: 497, 358
+  index: -1
+q/q_09
+  rotate: true
+  xy: 118, 476
+  size: 597, 118
+  orig: 1560, 720
+  offset: 499, 358
+  index: -1

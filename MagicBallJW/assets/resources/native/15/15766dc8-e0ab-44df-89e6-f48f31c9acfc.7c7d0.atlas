@@ -1,0 +1,27 @@
+
+NG_jiafen_bao.png
+size: 673,260
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang_00000
+  rotate: false
+  xy: 507, 94
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+guang2_000
+  rotate: false
+  xy: 260, 14
+  size: 245, 244
+  orig: 260, 260
+  offset: 8, 8
+  index: -1

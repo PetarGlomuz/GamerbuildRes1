@@ -1,0 +1,335 @@
+
+BG_jinbifei.png
+size: 913,235
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/1_000
+  rotate: false
+  xy: 155, 2
+  size: 30, 26
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_001
+  rotate: false
+  xy: 122, 2
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+2/1_002
+  rotate: false
+  xy: 219, 2
+  size: 31, 25
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+2/1_003
+  rotate: false
+  xy: 187, 2
+  size: 30, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+2/1_004
+  rotate: false
+  xy: 755, 36
+  size: 29, 26
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_005
+  rotate: false
+  xy: 786, 36
+  size: 29, 26
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_006
+  rotate: false
+  xy: 759, 8
+  size: 29, 26
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_007
+  rotate: true
+  xy: 885, 25
+  size: 30, 26
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_008
+  rotate: false
+  xy: 790, 8
+  size: 27, 26
+  orig: 31, 26
+  offset: 3, 0
+  index: -1
+2/1_009
+  rotate: false
+  xy: 818, 39
+  size: 29, 26
+  orig: 31, 26
+  offset: 2, 0
+  index: -1
+2/1_010
+  rotate: false
+  xy: 252, 2
+  size: 30, 25
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_011
+  rotate: false
+  xy: 284, 2
+  size: 27, 25
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_012
+  rotate: false
+  xy: 313, 2
+  size: 27, 25
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_013
+  rotate: true
+  xy: 886, 85
+  size: 26, 25
+  orig: 31, 26
+  offset: 1, 0
+  index: -1
+2/1_014
+  rotate: true
+  xy: 814, 105
+  size: 26, 24
+  orig: 31, 26
+  offset: 1, 1
+  index: -1
+glow1
+  rotate: false
+  xy: 819, 11
+  size: 26, 26
+  orig: 32, 32
+  offset: 3, 3
+  index: -1
+glow4
+  rotate: false
+  xy: 722, 75
+  size: 56, 56
+  orig: 64, 64
+  offset: 4, 4
+  index: -1
+jbiz/jbz_000
+  rotate: false
+  xy: 2, 117
+  size: 116, 116
+  orig: 122, 123
+  offset: 3, 4
+  index: -1
+jbiz/jbz_001
+  rotate: true
+  xy: 360, 124
+  size: 109, 118
+  orig: 122, 123
+  offset: 11, 3
+  index: -1
+jbiz/jbz_002
+  rotate: true
+  xy: 2, 27
+  size: 88, 118
+  orig: 122, 123
+  offset: 25, 3
+  index: -1
+jbiz/jbz_003
+  rotate: false
+  xy: 432, 2
+  size: 49, 120
+  orig: 122, 123
+  offset: 43, 2
+  index: -1
+jbiz/jbz_004
+  rotate: true
+  xy: 483, 16
+  size: 25, 120
+  orig: 122, 123
+  offset: 46, 2
+  index: -1
+jbiz/jbz_005
+  rotate: false
+  xy: 840, 113
+  size: 70, 120
+  orig: 122, 123
+  offset: 19, 2
+  index: -1
+jbiz/jbz_006
+  rotate: true
+  xy: 600, 132
+  size: 101, 118
+  orig: 122, 123
+  offset: 4, 3
+  index: -1
+jbiz/jbz_007
+  rotate: true
+  xy: 120, 119
+  size: 114, 118
+  orig: 122, 123
+  offset: 2, 3
+  index: -1
+jbiz/jbz_008
+  rotate: true
+  xy: 240, 119
+  size: 114, 118
+  orig: 122, 123
+  offset: 6, 3
+  index: -1
+jbiz/jbz_009
+  rotate: true
+  xy: 720, 133
+  size: 100, 118
+  orig: 122, 123
+  offset: 17, 3
+  index: -1
+jbiz/jbz_010
+  rotate: false
+  xy: 360, 2
+  size: 70, 120
+  orig: 122, 123
+  offset: 33, 2
+  index: -1
+jbiz/jbz_011
+  rotate: true
+  xy: 600, 105
+  size: 25, 120
+  orig: 122, 123
+  offset: 51, 2
+  index: -1
+jbiz/jbz_012
+  rotate: true
+  xy: 597, 54
+  size: 49, 119
+  orig: 122, 123
+  offset: 30, 3
+  index: -1
+jbiz/jbz_013
+  rotate: true
+  xy: 122, 30
+  size: 87, 118
+  orig: 122, 123
+  offset: 9, 3
+  index: -1
+jbiz/jbz_014
+  rotate: true
+  xy: 480, 125
+  size: 108, 118
+  orig: 122, 123
+  offset: 2, 3
+  index: -1
+jiantou
+  rotate: false
+  xy: 242, 29
+  size: 112, 88
+  orig: 112, 88
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_01
+  rotate: false
+  xy: 342, 12
+  size: 16, 15
+  orig: 50, 43
+  offset: 16, 14
+  index: -1
+liekai_lizi/liekai_lizi_02
+  rotate: false
+  xy: 2, 5
+  size: 20, 20
+  orig: 50, 43
+  offset: 13, 11
+  index: -1
+liekai_lizi/liekai_lizi_03
+  rotate: false
+  xy: 886, 57
+  size: 25, 26
+  orig: 50, 43
+  offset: 11, 8
+  index: -1
+liekai_lizi/liekai_lizi_04
+  rotate: true
+  xy: 852, 46
+  size: 27, 31
+  orig: 50, 43
+  offset: 9, 5
+  index: -1
+liekai_lizi/liekai_lizi_05
+  rotate: true
+  xy: 780, 64
+  size: 28, 36
+  orig: 50, 43
+  offset: 10, 1
+  index: -1
+liekai_lizi/liekai_lizi_06
+  rotate: true
+  xy: 683, 20
+  size: 32, 36
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_07
+  rotate: true
+  xy: 721, 2
+  size: 32, 36
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_08
+  rotate: false
+  xy: 818, 67
+  size: 32, 36
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_09
+  rotate: false
+  xy: 852, 75
+  size: 32, 36
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_10
+  rotate: false
+  xy: 780, 94
+  size: 32, 37
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_11
+  rotate: true
+  xy: 605, 20
+  size: 32, 37
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_12
+  rotate: true
+  xy: 644, 20
+  size: 32, 37
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+liekai_lizi/liekai_lizi_13
+  rotate: false
+  xy: 721, 36
+  size: 32, 37
+  orig: 50, 43
+  offset: 8, 1
+  index: -1
+x
+  rotate: false
+  xy: 483, 43
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1

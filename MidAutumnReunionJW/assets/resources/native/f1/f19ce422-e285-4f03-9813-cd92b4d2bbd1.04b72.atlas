@@ -1,0 +1,272 @@
+
+NG_scatter.png
+size: 501,1055
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/1
+  rotate: true
+  xy: 258, 801
+  size: 254, 240
+  orig: 256, 240
+  offset: 2, 0
+  index: -1
+images/1glow_00
+  rotate: false
+  xy: 0, 815
+  size: 256, 240
+  orig: 256, 240
+  offset: 0, 0
+  index: -1
+images/shouji/1_00
+  rotate: false
+  xy: 386, 14
+  size: 65, 68
+  orig: 264, 208
+  offset: 102, 70
+  index: -1
+images/shouji/1_01
+  rotate: false
+  xy: 386, 84
+  size: 75, 75
+  orig: 264, 208
+  offset: 97, 67
+  index: -1
+images/shouji/1_02
+  rotate: true
+  xy: 303, 25
+  size: 83, 81
+  orig: 264, 208
+  offset: 93, 65
+  index: -1
+images/shouji/1_03
+  rotate: true
+  xy: 149, 3
+  size: 90, 87
+  orig: 264, 208
+  offset: 89, 62
+  index: -1
+images/shouji/1_04
+  rotate: false
+  xy: 149, 95
+  size: 97, 93
+  orig: 264, 208
+  offset: 86, 60
+  index: -1
+images/shouji/1_05
+  rotate: true
+  xy: 400, 696
+  size: 103, 98
+  orig: 264, 208
+  offset: 83, 58
+  index: -1
+images/shouji/1_06
+  rotate: true
+  xy: 0, 0
+  size: 108, 103
+  orig: 264, 208
+  offset: 80, 56
+  index: -1
+images/shouji/1_07
+  rotate: false
+  xy: 248, 110
+  size: 114, 108
+  orig: 264, 208
+  offset: 77, 54
+  index: -1
+images/shouji/1_08
+  rotate: true
+  xy: 144, 695
+  size: 118, 112
+  orig: 264, 208
+  offset: 75, 52
+  index: -1
+images/shouji/1_09
+  rotate: true
+  xy: 136, 514
+  size: 124, 117
+  orig: 264, 208
+  offset: 72, 50
+  index: -1
+images/shouji/1_10
+  rotate: false
+  xy: 255, 416
+  size: 127, 121
+  orig: 264, 208
+  offset: 70, 48
+  index: -1
+images/shouji/1_11
+  rotate: false
+  xy: 0, 430
+  size: 130, 123
+  orig: 264, 208
+  offset: 69, 47
+  index: -1
+images/shouji/1_12
+  rotate: false
+  xy: 0, 555
+  size: 134, 127
+  orig: 264, 208
+  offset: 67, 45
+  index: -1
+images/shouji/1_13
+  rotate: false
+  xy: 256, 539
+  size: 137, 129
+  orig: 264, 208
+  offset: 65, 44
+  index: -1
+images/shouji/1_14
+  rotate: false
+  xy: 258, 670
+  size: 140, 129
+  orig: 264, 208
+  offset: 64, 43
+  index: -1
+images/shouji/1_15
+  rotate: false
+  xy: 0, 684
+  size: 142, 129
+  orig: 264, 208
+  offset: 63, 43
+  index: -1
+images/yueb/1_00
+  rotate: false
+  xy: 238, 3
+  size: 32, 90
+  orig: 256, 240
+  offset: 66, 82
+  index: -1
+images/yueb/1_01
+  rotate: true
+  xy: 0, 111
+  size: 43, 103
+  orig: 256, 240
+  offset: 65, 74
+  index: -1
+images/yueb/1_02
+  rotate: true
+  xy: 144, 640
+  size: 53, 110
+  orig: 256, 240
+  offset: 65, 71
+  index: -1
+images/yueb/1_03
+  rotate: true
+  xy: 372, 215
+  size: 62, 116
+  orig: 256, 240
+  offset: 65, 65
+  index: -1
+images/yueb/1_04
+  rotate: true
+  xy: 132, 440
+  size: 72, 121
+  orig: 256, 240
+  offset: 65, 60
+  index: -1
+images/yueb/1_05
+  rotate: true
+  xy: 124, 190
+  size: 81, 122
+  orig: 256, 240
+  offset: 65, 59
+  index: -1
+images/yueb/1_06
+  rotate: true
+  xy: 0, 235
+  size: 89, 122
+  orig: 256, 240
+  offset: 65, 59
+  index: -1
+images/yueb/1_07
+  rotate: false
+  xy: 400, 572
+  size: 97, 122
+  orig: 256, 240
+  offset: 66, 59
+  index: -1
+images/yueb/1_08
+  rotate: true
+  xy: 379, 279
+  size: 104, 122
+  orig: 256, 240
+  offset: 67, 59
+  index: -1
+images/yueb/1_09
+  rotate: false
+  xy: 395, 448
+  size: 106, 122
+  orig: 256, 240
+  offset: 72, 59
+  index: -1
+images/yueb/1_10
+  rotate: true
+  xy: 255, 307
+  size: 107, 122
+  orig: 256, 240
+  offset: 79, 59
+  index: -1
+images/yueb/1_11
+  rotate: true
+  xy: 0, 326
+  size: 102, 122
+  orig: 256, 240
+  offset: 87, 59
+  index: -1
+images/yueb/1_12
+  rotate: true
+  xy: 124, 273
+  size: 93, 122
+  orig: 256, 240
+  offset: 96, 59
+  index: -1
+images/yueb/1_13
+  rotate: true
+  xy: 248, 220
+  size: 85, 122
+  orig: 256, 240
+  offset: 104, 59
+  index: -1
+images/yueb/1_14
+  rotate: true
+  xy: 0, 156
+  size: 77, 122
+  orig: 256, 240
+  offset: 113, 59
+  index: -1
+images/yueb/1_15
+  rotate: true
+  xy: 132, 368
+  size: 70, 121
+  orig: 256, 240
+  offset: 122, 59
+  index: -1
+images/yueb/1_16
+  rotate: true
+  xy: 384, 385
+  size: 61, 117
+  orig: 256, 240
+  offset: 131, 59
+  index: -1
+images/yueb/1_17
+  rotate: true
+  xy: 364, 161
+  size: 52, 113
+  orig: 256, 240
+  offset: 140, 59
+  index: -1
+images/yueb/1_18
+  rotate: false
+  xy: 105, 4
+  size: 42, 104
+  orig: 256, 240
+  offset: 150, 64
+  index: -1
+images/yueb/1_19
+  rotate: false
+  xy: 272, 20
+  size: 29, 88
+  orig: 256, 240
+  offset: 161, 71
+  index: -1

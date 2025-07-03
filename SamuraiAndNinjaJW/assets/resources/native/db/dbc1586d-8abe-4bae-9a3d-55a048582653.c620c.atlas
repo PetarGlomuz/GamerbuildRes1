@@ -1,0 +1,223 @@
+
+NG_H3.png
+size: 570,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dao1
+  rotate: false
+  xy: 205, 36
+  size: 85, 72
+  orig: 85, 72
+  offset: 0, 0
+  index: -1
+daoqiao1
+  rotate: false
+  xy: 292, 35
+  size: 79, 73
+  orig: 79, 73
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 545, 58
+  size: 23, 14
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00001
+  rotate: false
+  xy: 121, 3
+  size: 26, 15
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00002
+  rotate: false
+  xy: 63, 4
+  size: 28, 16
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00003
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00004
+  rotate: true
+  xy: 487, 10
+  size: 32, 19
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00005
+  rotate: true
+  xy: 545, 74
+  size: 34, 21
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00006
+  rotate: false
+  xy: 345, 2
+  size: 36, 22
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 416, 18
+  size: 37, 24
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00008
+  rotate: false
+  xy: 467, 44
+  size: 39, 26
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00009
+  rotate: false
+  xy: 425, 44
+  size: 40, 28
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00010
+  rotate: false
+  xy: 373, 26
+  size: 41, 30
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00011
+  rotate: false
+  xy: 205, 2
+  size: 41, 32
+  orig: 43, 37
+  offset: 1, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 425, 74
+  size: 40, 34
+  orig: 43, 37
+  offset: 3, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00013
+  rotate: false
+  xy: 467, 72
+  size: 38, 36
+  orig: 43, 37
+  offset: 5, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00014
+  rotate: false
+  xy: 507, 72
+  size: 36, 36
+  orig: 43, 37
+  offset: 7, 1
+  index: -1
+saoguang/Symbol111112/Symbol111112_00015
+  rotate: false
+  xy: 508, 36
+  size: 35, 34
+  orig: 43, 37
+  offset: 8, 3
+  index: -1
+saoguang/Symbol111112/Symbol111112_00016
+  rotate: false
+  xy: 248, 2
+  size: 33, 32
+  orig: 43, 37
+  offset: 10, 5
+  index: -1
+saoguang/Symbol111112/Symbol111112_00017
+  rotate: false
+  xy: 283, 2
+  size: 30, 31
+  orig: 43, 37
+  offset: 13, 6
+  index: -1
+saoguang/Symbol111112/Symbol111112_00018
+  rotate: false
+  xy: 315, 2
+  size: 28, 31
+  orig: 43, 37
+  offset: 15, 6
+  index: -1
+saoguang/Symbol111112/Symbol111112_00019
+  rotate: true
+  xy: 455, 16
+  size: 26, 30
+  orig: 43, 37
+  offset: 17, 7
+  index: -1
+saoguang/Symbol111112/Symbol111112_00020
+  rotate: true
+  xy: 508, 10
+  size: 24, 29
+  orig: 43, 37
+  offset: 19, 8
+  index: -1
+saoguang/Symbol111112/Symbol111112_00021
+  rotate: true
+  xy: 383, 2
+  size: 22, 29
+  orig: 43, 37
+  offset: 21, 8
+  index: -1
+saoguang/Symbol111112/Symbol111112_00022
+  rotate: false
+  xy: 545, 28
+  size: 20, 28
+  orig: 43, 37
+  offset: 23, 9
+  index: -1
+saoguang/Symbol111112/Symbol111112_00023
+  rotate: true
+  xy: 34, 2
+  size: 18, 27
+  orig: 43, 37
+  offset: 25, 10
+  index: -1
+saoguang/Symbol111112/Symbol111112_00024
+  rotate: true
+  xy: 93, 2
+  size: 16, 26
+  orig: 43, 37
+  offset: 27, 11
+  index: -1
+saoguang/Symbol111112/Symbol111112_00025
+  rotate: true
+  xy: 414, 2
+  size: 14, 25
+  orig: 43, 37
+  offset: 29, 12
+  index: -1
+xx_1x
+  rotate: false
+  xy: 373, 58
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+youdaoguang
+  rotate: false
+  xy: 107, 20
+  size: 96, 88
+  orig: 99, 88
+  offset: 0, 0
+  index: -1
+zuodaoguang
+  rotate: false
+  xy: 2, 22
+  size: 103, 86
+  orig: 108, 86
+  offset: 0, 0
+  index: -1

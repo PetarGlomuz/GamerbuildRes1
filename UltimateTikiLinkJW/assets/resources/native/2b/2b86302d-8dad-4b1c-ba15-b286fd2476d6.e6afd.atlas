@@ -1,0 +1,27 @@
+
+BG_K.png
+size: 724,618
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG_K1_000
+  rotate: false
+  xy: 2, 154
+  size: 720, 180
+  orig: 720, 180
+  offset: 0, 0
+  index: -1
+images/BG_K2_000
+  rotate: false
+  xy: 2, 336
+  size: 720, 280
+  orig: 720, 280
+  offset: 0, 0
+  index: -1
+images/BG_K3_000
+  rotate: false
+  xy: 2, 2
+  size: 720, 150
+  orig: 720, 150
+  offset: 0, 0
+  index: -1

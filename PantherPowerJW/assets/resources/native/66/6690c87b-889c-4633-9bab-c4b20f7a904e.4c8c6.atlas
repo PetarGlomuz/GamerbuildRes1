@@ -1,0 +1,48 @@
+
+h2.png
+size: 741,194
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H2
+  rotate: false
+  xy: 392, 39
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+er1
+  rotate: true
+  xy: 587, 2
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+er2
+  rotate: true
+  xy: 657, 8
+  size: 44, 43
+  orig: 46, 43
+  offset: 1, 0
+  index: -1
+hongguang
+  rotate: false
+  xy: 2, 12
+  size: 221, 180
+  orig: 224, 180
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 587, 54
+  size: 152, 138
+  orig: 152, 138
+  offset: 0, 0
+  index: -1
+xiniu
+  rotate: true
+  xy: 225, 3
+  size: 189, 165
+  orig: 189, 165
+  offset: 0, 0
+  index: -1

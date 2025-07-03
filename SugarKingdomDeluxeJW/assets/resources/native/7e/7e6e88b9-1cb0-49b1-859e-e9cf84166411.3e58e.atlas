@@ -1,0 +1,132 @@
+
+yanhua.png
+size: 743,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yh/yh_001
+  rotate: true
+  xy: 712, 20
+  size: 26, 29
+  orig: 110, 110
+  offset: 42, 50
+  index: -1
+images/yh/yh_002
+  rotate: false
+  xy: 664, 2
+  size: 46, 44
+  orig: 110, 110
+  offset: 32, 42
+  index: -1
+images/yh/yh_003
+  rotate: false
+  xy: 668, 153
+  size: 63, 58
+  orig: 110, 110
+  offset: 24, 34
+  index: -1
+images/yh/yh_004
+  rotate: true
+  xy: 664, 48
+  size: 78, 70
+  orig: 110, 110
+  offset: 16, 25
+  index: -1
+images/yh/yh_005
+  rotate: true
+  xy: 584, 24
+  size: 88, 78
+  orig: 110, 110
+  offset: 11, 18
+  index: -1
+images/yh/yh_006
+  rotate: true
+  xy: 499, 114
+  size: 97, 86
+  orig: 110, 110
+  offset: 7, 12
+  index: -1
+images/yh/yh_007
+  rotate: true
+  xy: 305, 9
+  size: 100, 96
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_008
+  rotate: true
+  xy: 2, 9
+  size: 100, 99
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_009
+  rotate: false
+  xy: 2, 111
+  size: 100, 100
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_010
+  rotate: true
+  xy: 103, 9
+  size: 100, 99
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_011
+  rotate: true
+  xy: 104, 111
+  size: 100, 99
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_012
+  rotate: true
+  xy: 204, 9
+  size: 100, 99
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_013
+  rotate: true
+  xy: 205, 111
+  size: 100, 98
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_014
+  rotate: true
+  xy: 305, 111
+  size: 100, 98
+  orig: 110, 110
+  offset: 5, 5
+  index: -1
+images/yh/yh_015
+  rotate: false
+  xy: 403, 11
+  size: 94, 98
+  orig: 110, 110
+  offset: 11, 5
+  index: -1
+images/yh/yh_016
+  rotate: false
+  xy: 405, 115
+  size: 92, 96
+  orig: 110, 110
+  offset: 11, 6
+  index: -1
+images/yh/yh_017
+  rotate: true
+  xy: 499, 20
+  size: 92, 83
+  orig: 110, 110
+  offset: 11, 11
+  index: -1
+images/yh/yh_018
+  rotate: false
+  xy: 587, 128
+  size: 79, 83
+  orig: 110, 110
+  offset: 11, 11
+  index: -1

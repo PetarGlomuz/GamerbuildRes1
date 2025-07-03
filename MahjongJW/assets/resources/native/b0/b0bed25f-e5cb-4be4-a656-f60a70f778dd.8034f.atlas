@@ -1,0 +1,265 @@
+
+tc_bg_start_text_EN.png
+size: 1875,666
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_EN
+  rotate: false
+  xy: 1761, 5
+  size: 86, 121
+  orig: 86, 121
+  offset: 0, 0
+  index: -1
+2_EN
+  rotate: true
+  xy: 1639, 32
+  size: 94, 120
+  orig: 94, 121
+  offset: 0, 1
+  index: -1
+3_EN
+  rotate: false
+  xy: 1542, 11
+  size: 95, 120
+  orig: 95, 122
+  offset: 0, 1
+  index: -1
+glow3
+  rotate: false
+  xy: 123, 41
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1
+msg_EN
+  rotate: false
+  xy: 763, 564
+  size: 618, 100
+  orig: 620, 100
+  offset: 1, 0
+  index: -1
+msgs_EN
+  rotate: false
+  xy: 2, 220
+  size: 672, 100
+  orig: 674, 100
+  offset: 1, 0
+  index: -1
+scratch_bonus_EN
+  rotate: false
+  xy: 2, 322
+  size: 759, 342
+  orig: 761, 342
+  offset: 1, 0
+  index: -1
+zhu_bt_sg/zhu_bt_sg_00
+  rotate: false
+  xy: 1789, 137
+  size: 84, 125
+  orig: 381, 171
+  offset: 21, 22
+  index: -1
+zhu_bt_sg/zhu_bt_sg_01
+  rotate: false
+  xy: 1390, 142
+  size: 101, 125
+  orig: 381, 171
+  offset: 21, 23
+  index: -1
+zhu_bt_sg/zhu_bt_sg_02
+  rotate: true
+  xy: 884, 3
+  size: 115, 125
+  orig: 381, 171
+  offset: 21, 23
+  index: -1
+zhu_bt_sg/zhu_bt_sg_03
+  rotate: false
+  xy: 1655, 128
+  size: 132, 134
+  orig: 381, 171
+  offset: 21, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_04
+  rotate: false
+  xy: 1298, 6
+  size: 143, 126
+  orig: 381, 171
+  offset: 21, 22
+  index: -1
+zhu_bt_sg/zhu_bt_sg_05
+  rotate: false
+  xy: 521, 83
+  size: 164, 135
+  orig: 381, 171
+  offset: 21, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_06
+  rotate: true
+  xy: 888, 120
+  size: 178, 125
+  orig: 381, 171
+  offset: 21, 23
+  index: -1
+zhu_bt_sg/zhu_bt_sg_07
+  rotate: false
+  xy: 687, 29
+  size: 195, 134
+  orig: 381, 171
+  offset: 21, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_08
+  rotate: false
+  xy: 1493, 264
+  size: 208, 127
+  orig: 381, 171
+  offset: 21, 21
+  index: -1
+zhu_bt_sg/zhu_bt_sg_09
+  rotate: false
+  xy: 1522, 393
+  size: 226, 135
+  orig: 381, 171
+  offset: 21, 13
+  index: -1
+zhu_bt_sg/zhu_bt_sg_10
+  rotate: false
+  xy: 1630, 530
+  size: 240, 134
+  orig: 381, 171
+  offset: 22, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_11
+  rotate: false
+  xy: 267, 82
+  size: 252, 136
+  orig: 381, 171
+  offset: 23, 13
+  index: -1
+zhu_bt_sg/zhu_bt_sg_12
+  rotate: false
+  xy: 763, 428
+  size: 261, 134
+  orig: 381, 171
+  offset: 32, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_13
+  rotate: false
+  xy: 2, 83
+  size: 263, 135
+  orig: 381, 171
+  offset: 46, 13
+  index: -1
+zhu_bt_sg/zhu_bt_sg_14
+  rotate: false
+  xy: 1026, 428
+  size: 253, 134
+  orig: 381, 171
+  offset: 69, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_15
+  rotate: false
+  xy: 763, 300
+  size: 250, 126
+  orig: 381, 171
+  offset: 79, 22
+  index: -1
+zhu_bt_sg/zhu_bt_sg_16
+  rotate: false
+  xy: 1015, 298
+  size: 249, 128
+  orig: 381, 171
+  offset: 93, 19
+  index: -1
+zhu_bt_sg/zhu_bt_sg_17
+  rotate: false
+  xy: 1383, 530
+  size: 245, 134
+  orig: 381, 171
+  offset: 114, 13
+  index: -1
+zhu_bt_sg/zhu_bt_sg_18
+  rotate: false
+  xy: 1281, 397
+  size: 239, 131
+  orig: 381, 171
+  offset: 124, 16
+  index: -1
+zhu_bt_sg/zhu_bt_sg_19
+  rotate: false
+  xy: 1266, 269
+  size: 225, 126
+  orig: 381, 171
+  offset: 139, 21
+  index: -1
+zhu_bt_sg/zhu_bt_sg_20
+  rotate: false
+  xy: 687, 165
+  size: 199, 133
+  orig: 381, 171
+  offset: 165, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_21
+  rotate: false
+  xy: 1015, 165
+  size: 192, 131
+  orig: 381, 171
+  offset: 173, 16
+  index: -1
+zhu_bt_sg/zhu_bt_sg_22
+  rotate: false
+  xy: 1209, 134
+  size: 179, 133
+  orig: 381, 171
+  offset: 186, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_23
+  rotate: false
+  xy: 1493, 133
+  size: 160, 129
+  orig: 381, 171
+  offset: 205, 19
+  index: -1
+zhu_bt_sg/zhu_bt_sg_24
+  rotate: false
+  xy: 1015, 30
+  size: 147, 133
+  orig: 381, 171
+  offset: 218, 14
+  index: -1
+zhu_bt_sg/zhu_bt_sg_25
+  rotate: false
+  xy: 1164, 2
+  size: 132, 129
+  orig: 381, 171
+  offset: 233, 19
+  index: -1
+zhu_bt_sg/zhu_bt_sg_26
+  rotate: false
+  xy: 1750, 399
+  size: 117, 129
+  orig: 381, 171
+  offset: 248, 18
+  index: -1
+zhu_bt_sg/zhu_bt_sg_27
+  rotate: false
+  xy: 1443, 2
+  size: 97, 124
+  orig: 381, 171
+  offset: 268, 23
+  index: -1
+zhu_bt_sg/zhu_bt_sg_28
+  rotate: false
+  xy: 1703, 264
+  size: 85, 127
+  orig: 381, 171
+  offset: 280, 20
+  index: -1
+zhu_bt_sg/zhu_bt_sg_29
+  rotate: true
+  xy: 2, 11
+  size: 70, 119
+  orig: 381, 171
+  offset: 295, 28
+  index: -1

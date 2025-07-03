@@ -1,0 +1,146 @@
+
+wild_guang.png
+size: 509,594
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/g_00
+  rotate: true
+  xy: 2, 482
+  size: 110, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_01
+  rotate: true
+  xy: 256, 369
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_02
+  rotate: true
+  xy: 2, 257
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_03
+  rotate: true
+  xy: 129, 257
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_04
+  rotate: true
+  xy: 256, 256
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_05
+  rotate: true
+  xy: 2, 144
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_06
+  rotate: true
+  xy: 129, 144
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_07
+  rotate: true
+  xy: 256, 143
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_08
+  rotate: false
+  xy: 383, 129
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_09
+  rotate: true
+  xy: 2, 31
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_10
+  rotate: true
+  xy: 129, 31
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_11
+  rotate: true
+  xy: 383, 369
+  size: 111, 124
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_12
+  rotate: true
+  xy: 383, 256
+  size: 111, 124
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_13
+  rotate: true
+  xy: 129, 482
+  size: 110, 124
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_14
+  rotate: true
+  xy: 255, 482
+  size: 110, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_15
+  rotate: true
+  xy: 256, 30
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_16
+  rotate: true
+  xy: 382, 482
+  size: 110, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_17
+  rotate: true
+  xy: 2, 370
+  size: 110, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_18
+  rotate: true
+  xy: 129, 370
+  size: 110, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1
+g/g_19
+  rotate: false
+  xy: 383, 2
+  size: 111, 125
+  orig: 123, 139
+  offset: 8, 8
+  index: -1

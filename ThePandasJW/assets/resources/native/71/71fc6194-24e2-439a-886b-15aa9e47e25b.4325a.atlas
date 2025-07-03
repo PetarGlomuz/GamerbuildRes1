@@ -1,0 +1,146 @@
+
+ng_jp_idle.png
+size: 775,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dj/1_00
+  rotate: false
+  xy: 761, 192
+  size: 12, 93
+  orig: 450, 125
+  offset: 24, 17
+  index: -1
+images/dj/1_01
+  rotate: false
+  xy: 649, 2
+  size: 40, 93
+  orig: 450, 125
+  offset: 24, 17
+  index: -1
+images/dj/1_02
+  rotate: false
+  xy: 705, 97
+  size: 68, 93
+  orig: 450, 125
+  offset: 24, 17
+  index: -1
+images/dj/1_03
+  rotate: false
+  xy: 607, 97
+  size: 96, 93
+  orig: 450, 125
+  offset: 24, 17
+  index: -1
+images/dj/1_04
+  rotate: false
+  xy: 635, 192
+  size: 124, 93
+  orig: 450, 125
+  offset: 24, 17
+  index: -1
+images/dj/1_05
+  rotate: false
+  xy: 319, 2
+  size: 152, 93
+  orig: 450, 125
+  offset: 24, 17
+  index: -1
+images/dj/1_06
+  rotate: false
+  xy: 2, 192
+  size: 157, 93
+  orig: 450, 125
+  offset: 47, 17
+  index: -1
+images/dj/1_07
+  rotate: false
+  xy: 2, 97
+  size: 157, 93
+  orig: 450, 125
+  offset: 75, 17
+  index: -1
+images/dj/1_08
+  rotate: false
+  xy: 161, 97
+  size: 156, 93
+  orig: 450, 125
+  offset: 103, 17
+  index: -1
+images/dj/1_09
+  rotate: false
+  xy: 320, 192
+  size: 156, 93
+  orig: 450, 125
+  offset: 131, 17
+  index: -1
+images/dj/1_10
+  rotate: false
+  xy: 161, 2
+  size: 156, 93
+  orig: 450, 125
+  offset: 159, 17
+  index: -1
+images/dj/1_11
+  rotate: false
+  xy: 319, 97
+  size: 156, 93
+  orig: 450, 125
+  offset: 187, 17
+  index: -1
+images/dj/1_12
+  rotate: false
+  xy: 161, 192
+  size: 157, 93
+  orig: 450, 125
+  offset: 214, 17
+  index: -1
+images/dj/1_13
+  rotate: false
+  xy: 2, 2
+  size: 157, 93
+  orig: 450, 125
+  offset: 242, 17
+  index: -1
+images/dj/1_14
+  rotate: false
+  xy: 478, 192
+  size: 155, 93
+  orig: 450, 125
+  offset: 270, 17
+  index: -1
+images/dj/1_15
+  rotate: false
+  xy: 477, 97
+  size: 128, 93
+  orig: 450, 125
+  offset: 298, 17
+  index: -1
+images/dj/1_16
+  rotate: false
+  xy: 473, 2
+  size: 100, 93
+  orig: 450, 125
+  offset: 326, 17
+  index: -1
+images/dj/1_17
+  rotate: false
+  xy: 575, 2
+  size: 72, 93
+  orig: 450, 125
+  offset: 354, 17
+  index: -1
+images/dj/1_18
+  rotate: false
+  xy: 691, 46
+  size: 44, 49
+  orig: 450, 125
+  offset: 382, 61
+  index: -1
+images/dj/1_19
+  rotate: false
+  xy: 737, 46
+  size: 16, 49
+  orig: 450, 125
+  offset: 410, 61
+  index: -1

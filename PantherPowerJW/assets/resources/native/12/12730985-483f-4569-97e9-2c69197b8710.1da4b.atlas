@@ -1,0 +1,181 @@
+
+NG_Scatter.png
+size: 684,684
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiguang_00000
+  rotate: false
+  xy: 182, 58
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+bao_b1
+  rotate: true
+  xy: 514, 229
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+bao_b2
+  rotate: false
+  xy: 183, 302
+  size: 176, 71
+  orig: 176, 71
+  offset: 0, 0
+  index: -1
+bao_b3
+  rotate: true
+  xy: 572, 365
+  size: 162, 72
+  orig: 162, 72
+  offset: 0, 0
+  index: -1
+bao_h2
+  rotate: false
+  xy: 2, 348
+  size: 179, 180
+  orig: 179, 180
+  offset: 0, 0
+  index: -1
+beijing1
+  rotate: true
+  xy: 2, 153
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+beijing23_00
+  rotate: false
+  xy: 2, 530
+  size: 459, 152
+  orig: 459, 152
+  offset: 0, 0
+  index: -1
+dadian/dadian_05
+  rotate: false
+  xy: 596, 216
+  size: 60, 147
+  orig: 60, 147
+  offset: 0, 0
+  index: -1
+dadian/dadian_06
+  rotate: true
+  xy: 348, 160
+  size: 60, 147
+  orig: 60, 147
+  offset: 0, 0
+  index: -1
+dadian/dadian_07
+  rotate: true
+  xy: 309, 98
+  size: 60, 147
+  orig: 60, 147
+  offset: 0, 0
+  index: -1
+dadian/dadian_08
+  rotate: true
+  xy: 309, 36
+  size: 60, 147
+  orig: 60, 147
+  offset: 0, 0
+  index: -1
+dadian/dadian_09
+  rotate: false
+  xy: 458, 11
+  size: 60, 147
+  orig: 60, 147
+  offset: 0, 0
+  index: -1
+guang2_00
+  rotate: true
+  xy: 2, 35
+  size: 116, 178
+  orig: 116, 178
+  offset: 0, 0
+  index: -1
+huangbian
+  rotate: false
+  xy: 183, 375
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+lanbian
+  rotate: false
+  xy: 463, 529
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+shan2/2_000
+  rotate: false
+  xy: 2, 2
+  size: 117, 31
+  orig: 117, 31
+  offset: 0, 0
+  index: -1
+shan2/2_001
+  rotate: false
+  xy: 121, 2
+  size: 117, 31
+  orig: 117, 31
+  offset: 0, 0
+  index: -1
+shan2/2_002
+  rotate: true
+  xy: 315, 183
+  size: 117, 31
+  orig: 117, 31
+  offset: 0, 0
+  index: -1
+shan2/2_003
+  rotate: true
+  xy: 646, 410
+  size: 117, 31
+  orig: 117, 31
+  offset: 0, 0
+  index: -1
+shan2/2_004
+  rotate: true
+  xy: 520, 110
+  size: 117, 31
+  orig: 117, 31
+  offset: 0, 0
+  index: -1
+xiaobai_00
+  rotate: false
+  xy: 157, 330
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+ye_cao
+  rotate: false
+  xy: 157, 185
+  size: 156, 115
+  orig: 156, 115
+  offset: 0, 0
+  index: -1
+yuanbei
+  rotate: false
+  xy: 361, 222
+  size: 151, 151
+  orig: 151, 151
+  offset: 0, 0
+  index: -1
+yuang_00
+  rotate: false
+  xy: 553, 114
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+yuanyuan
+  rotate: false
+  xy: 378, 375
+  size: 192, 152
+  orig: 192, 152
+  offset: 0, 0
+  index: -1

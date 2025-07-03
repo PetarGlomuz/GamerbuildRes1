@@ -1,0 +1,13 @@
+
+tc_bg_mask.png
+size: 340,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_clicked
+  rotate: false
+  xy: 1, 1
+  size: 338, 85
+  orig: 338, 85
+  offset: 0, 0
+  index: -1

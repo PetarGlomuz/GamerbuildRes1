@@ -1,0 +1,160 @@
+
+Map_minimission.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grey
+  rotate: true
+  xy: 102, 2
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+grey_add
+  rotate: true
+  xy: 353, 32
+  size: 50, 54
+  orig: 100, 100
+  offset: 25, 23
+  index: -1
+liang
+  rotate: true
+  xy: 599, 104
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+liang_add
+  rotate: true
+  xy: 298, 90
+  size: 73, 78
+  orig: 100, 100
+  offset: 13, 11
+  index: -1
+lz/lz_01
+  rotate: false
+  xy: 295, 32
+  size: 56, 56
+  orig: 160, 160
+  offset: 51, 53
+  index: -1
+lz/lz_02
+  rotate: false
+  xy: 457, 98
+  size: 68, 63
+  orig: 160, 160
+  offset: 46, 49
+  index: -1
+lz/lz_03
+  rotate: false
+  xy: 378, 84
+  size: 77, 77
+  orig: 160, 160
+  offset: 43, 44
+  index: -1
+lz/lz_04
+  rotate: false
+  xy: 858, 169
+  size: 83, 85
+  orig: 160, 160
+  offset: 41, 41
+  index: -1
+lz/lz_05
+  rotate: false
+  xy: 682, 164
+  size: 88, 90
+  orig: 160, 160
+  offset: 39, 39
+  index: -1
+lz/lz_06
+  rotate: true
+  xy: 496, 163
+  size: 91, 93
+  orig: 160, 160
+  offset: 38, 38
+  index: -1
+lz/lz_07
+  rotate: false
+  xy: 201, 56
+  size: 92, 97
+  orig: 160, 160
+  offset: 38, 36
+  index: -1
+lz/lz_08
+  rotate: false
+  xy: 201, 155
+  size: 95, 99
+  orig: 160, 160
+  offset: 37, 35
+  index: -1
+lz/lz_09
+  rotate: false
+  xy: 102, 154
+  size: 97, 100
+  orig: 160, 160
+  offset: 36, 34
+  index: -1
+lz/lz_10
+  rotate: false
+  xy: 102, 53
+  size: 97, 99
+  orig: 160, 160
+  offset: 36, 34
+  index: -1
+lz/lz_11
+  rotate: false
+  xy: 2, 48
+  size: 98, 101
+  orig: 160, 160
+  offset: 36, 33
+  index: -1
+lz/lz_12
+  rotate: false
+  xy: 2, 151
+  size: 98, 103
+  orig: 160, 160
+  offset: 36, 32
+  index: -1
+lz/lz_13
+  rotate: false
+  xy: 298, 165
+  size: 98, 89
+  orig: 160, 160
+  offset: 36, 32
+  index: -1
+lz/lz_14
+  rotate: false
+  xy: 398, 163
+  size: 96, 91
+  orig: 160, 160
+  offset: 37, 31
+  index: -1
+lz/lz_15
+  rotate: false
+  xy: 591, 163
+  size: 89, 91
+  orig: 160, 160
+  offset: 41, 31
+  index: -1
+lz/lz_16
+  rotate: false
+  xy: 772, 164
+  size: 84, 90
+  orig: 160, 160
+  offset: 42, 32
+  index: -1
+lz/lz_17
+  rotate: false
+  xy: 943, 171
+  size: 79, 83
+  orig: 160, 160
+  offset: 47, 39
+  index: -1
+lz/lz_18
+  rotate: false
+  xy: 527, 108
+  size: 70, 53
+  orig: 160, 160
+  offset: 52, 65
+  index: -1

@@ -1,0 +1,111 @@
+
+FG_tingpai.png
+size: 1510,1510
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/g_00
+  rotate: false
+  xy: 588, 507
+  size: 292, 499
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_01
+  rotate: false
+  xy: 2, 2
+  size: 291, 500
+  orig: 351, 544
+  offset: 34, 20
+  index: -1
+g/g_02
+  rotate: false
+  xy: 2, 504
+  size: 291, 501
+  orig: 351, 544
+  offset: 34, 20
+  index: -1
+g/g_03
+  rotate: false
+  xy: 2, 1007
+  size: 292, 501
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_04
+  rotate: false
+  xy: 296, 1008
+  size: 292, 500
+  orig: 351, 544
+  offset: 33, 21
+  index: -1
+g/g_05
+  rotate: false
+  xy: 590, 1008
+  size: 292, 500
+  orig: 351, 544
+  offset: 33, 21
+  index: -1
+g/g_06
+  rotate: false
+  xy: 588, 6
+  size: 292, 499
+  orig: 351, 544
+  offset: 33, 22
+  index: -1
+g/g_07
+  rotate: false
+  xy: 1176, 7
+  size: 292, 498
+  orig: 351, 544
+  offset: 33, 23
+  index: -1
+g/g_08
+  rotate: false
+  xy: 295, 505
+  size: 291, 500
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_09
+  rotate: false
+  xy: 295, 3
+  size: 291, 500
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_10
+  rotate: false
+  xy: 882, 506
+  size: 291, 500
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_11
+  rotate: false
+  xy: 884, 1008
+  size: 292, 500
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_12
+  rotate: false
+  xy: 1178, 1008
+  size: 292, 500
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_13
+  rotate: false
+  xy: 1175, 507
+  size: 292, 499
+  orig: 351, 544
+  offset: 33, 20
+  index: -1
+g/g_14
+  rotate: false
+  xy: 882, 6
+  size: 292, 498
+  orig: 351, 544
+  offset: 33, 20
+  index: -1

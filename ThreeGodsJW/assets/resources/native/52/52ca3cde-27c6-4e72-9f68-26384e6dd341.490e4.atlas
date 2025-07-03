@@ -1,0 +1,41 @@
+
+hjd_shine.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hjd
+  rotate: false
+  xy: 2, 146
+  size: 741, 142
+  orig: 741, 142
+  offset: 0, 0
+  index: -1
+hjd2
+  rotate: false
+  xy: 2, 290
+  size: 688, 220
+  orig: 688, 220
+  offset: 0, 0
+  index: -1
+hjd2_add
+  rotate: false
+  xy: 2, 20
+  size: 360, 124
+  orig: 400, 150
+  offset: 20, 14
+  index: -1
+hjd_add
+  rotate: false
+  xy: 364, 62
+  size: 373, 82
+  orig: 400, 100
+  offset: 9, 9
+  index: -1
+star1
+  rotate: true
+  xy: 364, 2
+  size: 58, 59
+  orig: 60, 61
+  offset: 1, 1
+  index: -1

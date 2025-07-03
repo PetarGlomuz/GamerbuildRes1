@@ -1,0 +1,153 @@
+
+totalwin.png
+size: 941,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg5/sg5_00
+  rotate: false
+  xy: 870, 3
+  size: 49, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_01
+  rotate: false
+  xy: 738, 2
+  size: 71, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_02
+  rotate: false
+  xy: 652, 36
+  size: 90, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_03
+  rotate: false
+  xy: 543, 36
+  size: 107, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_04
+  rotate: false
+  xy: 520, 2
+  size: 109, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_05
+  rotate: false
+  xy: 398, 36
+  size: 143, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_06
+  rotate: false
+  xy: 769, 104
+  size: 161, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_07
+  rotate: false
+  xy: 592, 104
+  size: 175, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_08
+  rotate: false
+  xy: 196, 29
+  size: 190, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_09
+  rotate: false
+  xy: 2, 29
+  size: 192, 32
+  orig: 204, 46
+  offset: 6, 6
+  index: -1
+sg5/sg5_10
+  rotate: false
+  xy: 398, 104
+  size: 192, 32
+  orig: 204, 46
+  offset: 7, 6
+  index: -1
+sg5/sg5_11
+  rotate: false
+  xy: 398, 70
+  size: 184, 32
+  orig: 204, 46
+  offset: 15, 6
+  index: -1
+sg5/sg5_12
+  rotate: false
+  xy: 584, 70
+  size: 165, 32
+  orig: 204, 46
+  offset: 34, 6
+  index: -1
+sg5/sg5_13
+  rotate: false
+  xy: 751, 70
+  size: 146, 32
+  orig: 204, 46
+  offset: 53, 6
+  index: -1
+sg5/sg5_14
+  rotate: false
+  xy: 388, 2
+  size: 130, 32
+  orig: 204, 46
+  offset: 69, 6
+  index: -1
+sg5/sg5_15
+  rotate: false
+  xy: 631, 2
+  size: 105, 32
+  orig: 204, 46
+  offset: 94, 6
+  index: -1
+sg5/sg5_16
+  rotate: false
+  xy: 744, 37
+  size: 94, 31
+  orig: 204, 46
+  offset: 105, 7
+  index: -1
+sg5/sg5_17
+  rotate: false
+  xy: 840, 37
+  size: 76, 31
+  orig: 204, 46
+  offset: 123, 7
+  index: -1
+sg5/sg5_18
+  rotate: false
+  xy: 811, 4
+  size: 57, 31
+  orig: 204, 46
+  offset: 142, 7
+  index: -1
+sg5/sg5_19
+  rotate: false
+  xy: 899, 71
+  size: 40, 31
+  orig: 204, 46
+  offset: 159, 7
+  index: -1
+totalwin
+  rotate: false
+  xy: 2, 63
+  size: 394, 73
+  orig: 396, 75
+  offset: 1, 1
+  index: -1

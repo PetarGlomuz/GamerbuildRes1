@@ -1,0 +1,118 @@
+
+BG_zhuanlun_jiantou.png
+size: 264,1042
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jiantou
+  rotate: false
+  xy: 2, 939
+  size: 130, 101
+  orig: 130, 101
+  offset: 0, 0
+  index: -1
+images/zj1/1_00
+  rotate: false
+  xy: 2, 228
+  size: 144, 110
+  orig: 200, 200
+  offset: 25, 48
+  index: -1
+images/zj1/1_01
+  rotate: false
+  xy: 2, 116
+  size: 144, 110
+  orig: 200, 200
+  offset: 25, 49
+  index: -1
+images/zj1/1_02
+  rotate: false
+  xy: 118, 789
+  size: 144, 109
+  orig: 200, 200
+  offset: 25, 50
+  index: -1
+images/zj1/1_03
+  rotate: false
+  xy: 2, 678
+  size: 143, 109
+  orig: 200, 200
+  offset: 26, 50
+  index: -1
+images/zj1/1_04
+  rotate: false
+  xy: 2, 567
+  size: 143, 109
+  orig: 200, 200
+  offset: 26, 50
+  index: -1
+images/zj1/1_05
+  rotate: false
+  xy: 2, 454
+  size: 143, 111
+  orig: 200, 200
+  offset: 26, 47
+  index: -1
+images/zj1/1_06
+  rotate: true
+  xy: 147, 359
+  size: 142, 113
+  orig: 200, 200
+  offset: 27, 45
+  index: -1
+images/zj1/1_07
+  rotate: true
+  xy: 147, 646
+  size: 141, 113
+  orig: 200, 200
+  offset: 28, 45
+  index: -1
+images/zj1/1_08
+  rotate: true
+  xy: 134, 900
+  size: 140, 113
+  orig: 200, 200
+  offset: 29, 45
+  index: -1
+images/zj1/1_09
+  rotate: true
+  xy: 2, 797
+  size: 140, 114
+  orig: 200, 200
+  offset: 28, 44
+  index: -1
+images/zj1/1_10
+  rotate: true
+  xy: 147, 503
+  size: 141, 114
+  orig: 200, 200
+  offset: 27, 44
+  index: -1
+images/zj1/1_11
+  rotate: true
+  xy: 148, 70
+  size: 143, 113
+  orig: 200, 200
+  offset: 25, 45
+  index: -1
+images/zj1/1_12
+  rotate: false
+  xy: 2, 340
+  size: 143, 112
+  orig: 200, 200
+  offset: 25, 45
+  index: -1
+images/zj1/1_13
+  rotate: false
+  xy: 2, 2
+  size: 143, 112
+  orig: 200, 200
+  offset: 25, 45
+  index: -1
+images/zj1/1_14
+  rotate: true
+  xy: 148, 215
+  size: 142, 112
+  orig: 200, 200
+  offset: 25, 45
+  index: -1

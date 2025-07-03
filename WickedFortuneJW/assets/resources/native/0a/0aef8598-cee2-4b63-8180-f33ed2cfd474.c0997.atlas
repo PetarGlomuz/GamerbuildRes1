@@ -1,0 +1,153 @@
+
+BG_JP_KuangXuan.png
+size: 792,524
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 372, 419
+  size: 367, 50
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 372, 367
+  size: 367, 50
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 2, 314
+  size: 366, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 2, 471
+  size: 368, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_04
+  rotate: true
+  xy: 741, 154
+  size: 368, 49
+  orig: 380, 69
+  offset: 4, 13
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 2, 105
+  size: 364, 48
+  orig: 380, 69
+  offset: 4, 14
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 370, 159
+  size: 363, 48
+  orig: 380, 69
+  offset: 5, 14
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 368, 55
+  size: 358, 51
+  orig: 380, 69
+  offset: 7, 12
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 2, 155
+  size: 365, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 261
+  size: 366, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 372, 471
+  size: 367, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 370, 315
+  size: 367, 50
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 2, 208
+  size: 366, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 2, 418
+  size: 368, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 2, 367
+  size: 368, 49
+  orig: 380, 69
+  offset: 4, 13
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 2, 55
+  size: 364, 48
+  orig: 380, 69
+  offset: 4, 14
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 2, 5
+  size: 364, 48
+  orig: 380, 69
+  offset: 4, 14
+  index: -1
+images/g/g_17
+  rotate: false
+  xy: 369, 108
+  size: 360, 49
+  orig: 380, 69
+  offset: 5, 14
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 368, 2
+  size: 357, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 370, 209
+  size: 365, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1
+images/g/g_20
+  rotate: false
+  xy: 370, 262
+  size: 366, 51
+  orig: 380, 69
+  offset: 4, 12
+  index: -1

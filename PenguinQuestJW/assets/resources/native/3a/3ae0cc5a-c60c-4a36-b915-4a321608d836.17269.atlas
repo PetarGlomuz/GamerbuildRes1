@@ -1,0 +1,146 @@
+
+YingFenKuang.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yfk/yfk_000
+  rotate: false
+  xy: 1368, 704
+  size: 228, 209
+  orig: 240, 220
+  offset: 4, 6
+  index: -1
+images/yfk/yfk_001
+  rotate: false
+  xy: 1598, 705
+  size: 228, 208
+  orig: 240, 220
+  offset: 4, 6
+  index: -1
+images/yfk/yfk_002
+  rotate: false
+  xy: 910, 700
+  size: 226, 213
+  orig: 240, 220
+  offset: 6, 5
+  index: -1
+images/yfk/yfk_003
+  rotate: false
+  xy: 227, 693
+  size: 222, 220
+  orig: 240, 220
+  offset: 9, 0
+  index: -1
+images/yfk/yfk_004
+  rotate: false
+  xy: 218, 471
+  size: 222, 220
+  orig: 240, 220
+  offset: 8, 0
+  index: -1
+images/yfk/yfk_005
+  rotate: false
+  xy: 2, 693
+  size: 223, 220
+  orig: 240, 220
+  offset: 8, 0
+  index: -1
+images/yfk/yfk_006
+  rotate: true
+  xy: 1828, 689
+  size: 224, 215
+  orig: 240, 220
+  offset: 7, 3
+  index: -1
+images/yfk/yfk_007
+  rotate: false
+  xy: 451, 698
+  size: 226, 215
+  orig: 240, 220
+  offset: 6, 5
+  index: -1
+images/yfk/yfk_008
+  rotate: false
+  xy: 217, 57
+  size: 227, 210
+  orig: 240, 220
+  offset: 5, 10
+  index: -1
+images/yfk/yfk_009
+  rotate: false
+  xy: 1138, 703
+  size: 228, 210
+  orig: 240, 220
+  offset: 4, 10
+  index: -1
+images/yfk/yfk_010
+  rotate: true
+  xy: 2, 232
+  size: 228, 213
+  orig: 240, 220
+  offset: 4, 7
+  index: -1
+images/yfk/yfk_011
+  rotate: false
+  xy: 679, 701
+  size: 229, 212
+  orig: 240, 220
+  offset: 3, 8
+  index: -1
+images/yfk/yfk_012
+  rotate: true
+  xy: 2, 462
+  size: 229, 214
+  orig: 240, 220
+  offset: 4, 6
+  index: -1
+images/yfk/yfk_013
+  rotate: true
+  xy: 2, 2
+  size: 228, 212
+  orig: 240, 220
+  offset: 5, 5
+  index: -1
+images/yfk/yfk_014
+  rotate: false
+  xy: 451, 490
+  size: 227, 206
+  orig: 240, 220
+  offset: 7, 11
+  index: -1
+images/yfk/yfk_015
+  rotate: false
+  xy: 680, 492
+  size: 225, 207
+  orig: 240, 220
+  offset: 9, 7
+  index: -1
+images/yfk/yfk_016
+  rotate: false
+  xy: 907, 491
+  size: 224, 207
+  orig: 240, 220
+  offset: 9, 10
+  index: -1
+images/yfk/yfk_017
+  rotate: false
+  xy: 444, 282
+  size: 224, 206
+  orig: 240, 220
+  offset: 8, 11
+  index: -1
+images/yfk/yfk_018
+  rotate: true
+  xy: 446, 56
+  size: 224, 203
+  orig: 240, 220
+  offset: 8, 11
+  index: -1
+images/yfk/yfk_019
+  rotate: false
+  xy: 218, 269
+  size: 224, 200
+  orig: 240, 220
+  offset: 8, 12
+  index: -1

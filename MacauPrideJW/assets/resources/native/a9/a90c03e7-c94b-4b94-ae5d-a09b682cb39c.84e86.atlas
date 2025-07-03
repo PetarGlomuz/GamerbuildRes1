@@ -1,0 +1,27 @@
+
+BG_beijing.png
+size: 1654,1174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG_ground
+  rotate: true
+  xy: 2, 2
+  size: 1170, 1560
+  orig: 1170, 1560
+  offset: 0, 0
+  index: -1
+images/xianguang_00
+  rotate: true
+  xy: 1564, 944
+  size: 228, 88
+  orig: 242, 88
+  offset: 13, 0
+  index: -1
+images/xx_3
+  rotate: false
+  xy: 1564, 882
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+JDT_DaiJi.png
+size: 767,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dj/jtdj_000
+  rotate: false
+  xy: 515, 65
+  size: 248, 13
+  orig: 258, 16
+  offset: 8, 2
+  index: -1
+images/dj/jtdj_001
+  rotate: false
+  xy: 2, 34
+  size: 254, 14
+  orig: 258, 16
+  offset: 1, 1
+  index: -1
+images/dj/jtdj_002
+  rotate: false
+  xy: 2, 82
+  size: 256, 14
+  orig: 258, 16
+  offset: 1, 1
+  index: -1
+images/dj/jtdj_003
+  rotate: false
+  xy: 2, 66
+  size: 256, 14
+  orig: 258, 16
+  offset: 1, 1
+  index: -1
+images/dj/jtdj_004
+  rotate: false
+  xy: 260, 82
+  size: 252, 14
+  orig: 258, 16
+  offset: 5, 1
+  index: -1
+images/dj/jtdj_005
+  rotate: false
+  xy: 2, 2
+  size: 253, 14
+  orig: 258, 16
+  offset: 4, 1
+  index: -1
+images/dj/jtdj_006
+  rotate: false
+  xy: 260, 66
+  size: 253, 14
+  orig: 258, 16
+  offset: 4, 1
+  index: -1
+images/dj/jtdj_007
+  rotate: false
+  xy: 2, 18
+  size: 254, 14
+  orig: 258, 16
+  offset: 3, 1
+  index: -1
+images/dj/jtdj_008
+  rotate: false
+  xy: 258, 18
+  size: 252, 14
+  orig: 258, 16
+  offset: 5, 1
+  index: -1
+images/dj/jtdj_009
+  rotate: false
+  xy: 257, 2
+  size: 252, 14
+  orig: 258, 16
+  offset: 5, 1
+  index: -1
+images/dj/jtdj_010
+  rotate: false
+  xy: 514, 112
+  size: 251, 14
+  orig: 258, 16
+  offset: 6, 1
+  index: -1
+images/dj/jtdj_011
+  rotate: false
+  xy: 513, 33
+  size: 252, 14
+  orig: 258, 16
+  offset: 5, 1
+  index: -1
+images/dj/jtdj_012
+  rotate: false
+  xy: 259, 50
+  size: 253, 14
+  orig: 258, 16
+  offset: 4, 1
+  index: -1
+images/dj/jtdj_013
+  rotate: false
+  xy: 512, 17
+  size: 252, 14
+  orig: 258, 16
+  offset: 4, 1
+  index: -1
+images/dj/jtdj_014
+  rotate: false
+  xy: 258, 34
+  size: 253, 14
+  orig: 258, 16
+  offset: 3, 1
+  index: -1
+images/dj/jtdj_015
+  rotate: false
+  xy: 2, 50
+  size: 255, 14
+  orig: 258, 16
+  offset: 2, 1
+  index: -1
+images/dj/jtdj_016
+  rotate: false
+  xy: 515, 80
+  size: 250, 14
+  orig: 258, 16
+  offset: 7, 1
+  index: -1
+images/dj/jtdj_017
+  rotate: false
+  xy: 514, 96
+  size: 251, 14
+  orig: 258, 16
+  offset: 6, 1
+  index: -1
+images/dj/jtdj_018
+  rotate: false
+  xy: 514, 49
+  size: 248, 14
+  orig: 258, 16
+  offset: 9, 1
+  index: -1
+images/dj/jtdj_019
+  rotate: false
+  xy: 511, 2
+  size: 248, 13
+  orig: 258, 16
+  offset: 8, 2
+  index: -1
+images/jt
+  rotate: false
+  xy: 2, 98
+  size: 510, 28
+  orig: 510, 28
+  offset: 0, 0
+  index: -1

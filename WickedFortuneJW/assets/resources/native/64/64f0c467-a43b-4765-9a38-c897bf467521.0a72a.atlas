@@ -1,0 +1,258 @@
+
+BG_JP_huanrao.png
+size: 1707,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: true
+  xy: 1435, 26
+  size: 143, 73
+  orig: 194, 144
+  offset: 20, 31
+  index: -1
+images/g/g_01
+  rotate: true
+  xy: 1275, 24
+  size: 144, 75
+  orig: 194, 144
+  offset: 20, 31
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 1251, 170
+  size: 144, 76
+  orig: 194, 144
+  offset: 20, 31
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 1417, 171
+  size: 143, 78
+  orig: 194, 144
+  offset: 20, 31
+  index: -1
+images/g/g_04
+  rotate: true
+  xy: 1352, 26
+  size: 143, 81
+  orig: 194, 144
+  offset: 20, 31
+  index: -1
+images/g/g_05
+  rotate: true
+  xy: 1329, 171
+  size: 143, 86
+  orig: 194, 144
+  offset: 20, 32
+  index: -1
+images/g/g_06
+  rotate: true
+  xy: 1497, 172
+  size: 142, 90
+  orig: 194, 144
+  offset: 21, 32
+  index: -1
+images/g/g_07
+  rotate: true
+  xy: 1510, 29
+  size: 141, 95
+  orig: 194, 144
+  offset: 22, 32
+  index: -1
+images/g/g_08
+  rotate: true
+  xy: 1589, 175
+  size: 139, 97
+  orig: 194, 144
+  offset: 24, 32
+  index: -1
+images/g/g_09
+  rotate: true
+  xy: 1607, 39
+  size: 134, 98
+  orig: 194, 144
+  offset: 29, 32
+  index: -1
+images/g/g_10
+  rotate: true
+  xy: 1175, 22
+  size: 144, 98
+  orig: 194, 144
+  offset: 20, 33
+  index: -1
+images/g/g_11
+  rotate: true
+  xy: 953, 165
+  size: 149, 99
+  orig: 194, 144
+  offset: 15, 33
+  index: -1
+images/g/g_12
+  rotate: true
+  xy: 751, 163
+  size: 151, 100
+  orig: 194, 144
+  offset: 13, 33
+  index: -1
+images/g/g_13
+  rotate: true
+  xy: 149, 162
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 34
+  index: -1
+images/g/g_14
+  rotate: true
+  xy: 182, 8
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 34
+  index: -1
+images/g/g_15
+  rotate: true
+  xy: 251, 162
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 34
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 284, 8
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 34
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 80, 3
+  size: 153, 100
+  orig: 194, 144
+  offset: 12, 35
+  index: -1
+images/g/g_18
+  rotate: true
+  xy: 353, 162
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 35
+  index: -1
+images/g/g_19
+  rotate: true
+  xy: 386, 8
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 35
+  index: -1
+images/g/g_20
+  rotate: true
+  xy: 455, 162
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 35
+  index: -1
+images/g/g_21
+  rotate: true
+  xy: 488, 8
+  size: 152, 100
+  orig: 194, 144
+  offset: 12, 35
+  index: -1
+images/g/g_22
+  rotate: true
+  xy: 557, 162
+  size: 152, 99
+  orig: 194, 144
+  offset: 12, 36
+  index: -1
+images/g/g_23
+  rotate: true
+  xy: 590, 8
+  size: 152, 98
+  orig: 194, 144
+  offset: 12, 36
+  index: -1
+images/g/g_24
+  rotate: true
+  xy: 777, 10
+  size: 151, 98
+  orig: 194, 144
+  offset: 12, 36
+  index: -1
+images/g/g_25
+  rotate: true
+  xy: 853, 164
+  size: 150, 98
+  orig: 194, 144
+  offset: 12, 36
+  index: -1
+images/g/g_26
+  rotate: true
+  xy: 1075, 19
+  size: 146, 98
+  orig: 194, 144
+  offset: 12, 36
+  index: -1
+images/g/g_27
+  rotate: true
+  xy: 1153, 168
+  size: 146, 96
+  orig: 194, 144
+  offset: 13, 37
+  index: -1
+images/g/g_28
+  rotate: true
+  xy: 1054, 167
+  size: 147, 97
+  orig: 194, 144
+  offset: 13, 35
+  index: -1
+images/g/g_29
+  rotate: true
+  xy: 975, 15
+  size: 148, 98
+  orig: 194, 144
+  offset: 13, 33
+  index: -1
+images/g/g_30
+  rotate: true
+  xy: 877, 12
+  size: 150, 96
+  orig: 194, 144
+  offset: 12, 32
+  index: -1
+images/g/g_31
+  rotate: true
+  xy: 658, 162
+  size: 152, 91
+  orig: 194, 144
+  offset: 11, 32
+  index: -1
+images/g/g_32
+  rotate: true
+  xy: 690, 8
+  size: 152, 85
+  orig: 194, 144
+  offset: 11, 32
+  index: -1
+images/g/g_33
+  rotate: true
+  xy: 2, 2
+  size: 154, 76
+  orig: 194, 144
+  offset: 10, 32
+  index: -1
+images/g/g_34
+  rotate: true
+  xy: 2, 158
+  size: 156, 72
+  orig: 194, 144
+  offset: 9, 32
+  index: -1
+images/g/g_35
+  rotate: true
+  xy: 76, 158
+  size: 156, 71
+  orig: 194, 144
+  offset: 9, 31
+  index: -1

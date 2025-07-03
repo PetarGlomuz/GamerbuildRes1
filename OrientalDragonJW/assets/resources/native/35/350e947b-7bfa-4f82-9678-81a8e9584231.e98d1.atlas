@@ -1,0 +1,34 @@
+
+TC_JP_BGguang.png
+size: 989,984
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GRAND_beijing
+  rotate: false
+  xy: 496, 493
+  size: 491, 489
+  orig: 492, 489
+  offset: 1, 0
+  index: -1
+MAJOR_diguang
+  rotate: false
+  xy: 2, 493
+  size: 492, 489
+  orig: 492, 489
+  offset: 0, 0
+  index: -1
+MINI_diguang
+  rotate: false
+  xy: 2, 2
+  size: 492, 489
+  orig: 492, 489
+  offset: 0, 0
+  index: -1
+MINOR_diguang
+  rotate: false
+  xy: 496, 2
+  size: 491, 489
+  orig: 492, 489
+  offset: 1, 0
+  index: -1

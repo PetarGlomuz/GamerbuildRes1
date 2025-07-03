@@ -1,0 +1,83 @@
+
+MapProgress_JinBiShouJi.png
+size: 598,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/JBSJ/JBSJ_000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/JBSJ/JBSJ_010
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/JBSJ/JBSJ_001
+  rotate: false
+  xy: 503, 24
+  size: 46, 61
+  orig: 80, 80
+  offset: 20, 9
+  index: -1
+images/JBSJ/JBSJ_002
+  rotate: false
+  xy: 449, 18
+  size: 52, 67
+  orig: 80, 80
+  offset: 16, 6
+  index: -1
+images/JBSJ/JBSJ_003
+  rotate: false
+  xy: 386, 14
+  size: 61, 71
+  orig: 80, 80
+  offset: 10, 3
+  index: -1
+images/JBSJ/JBSJ_004
+  rotate: false
+  xy: 316, 6
+  size: 68, 79
+  orig: 80, 80
+  offset: 7, 0
+  index: -1
+images/JBSJ/JBSJ_005
+  rotate: false
+  xy: 164, 5
+  size: 77, 80
+  orig: 80, 80
+  offset: 3, 0
+  index: -1
+images/JBSJ/JBSJ_006
+  rotate: false
+  xy: 2, 5
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+images/JBSJ/JBSJ_007
+  rotate: false
+  xy: 84, 5
+  size: 78, 80
+  orig: 80, 80
+  offset: 2, 0
+  index: -1
+images/JBSJ/JBSJ_008
+  rotate: false
+  xy: 243, 5
+  size: 71, 80
+  orig: 80, 80
+  offset: 5, 0
+  index: -1
+images/JBSJ/JBSJ_009
+  rotate: false
+  xy: 551, 23
+  size: 45, 62
+  orig: 80, 80
+  offset: 19, 8
+  index: -1

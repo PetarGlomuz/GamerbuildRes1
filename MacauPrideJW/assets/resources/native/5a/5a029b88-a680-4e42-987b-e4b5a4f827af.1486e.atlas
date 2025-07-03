@@ -1,0 +1,216 @@
+
+TC_JP_board.png
+size: 1875,1038
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 280
+  size: 942, 756
+  orig: 943, 760
+  offset: 1, 4
+  index: -1
+chouma0
+  rotate: false
+  xy: 1648, 424
+  size: 225, 137
+  orig: 225, 137
+  offset: 0, 0
+  index: -1
+chouma1
+  rotate: false
+  xy: 1645, 293
+  size: 219, 129
+  orig: 219, 129
+  offset: 0, 0
+  index: -1
+diguang
+  rotate: false
+  xy: 946, 432
+  size: 424, 604
+  orig: 424, 607
+  offset: 0, 0
+  index: -1
+guan
+  rotate: false
+  xy: 2, 53
+  size: 356, 225
+  orig: 356, 225
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 1688, 18
+  size: 66, 66
+  orig: 67, 68
+  offset: 1, 1
+  index: -1
+star
+  rotate: false
+  xy: 1562, 21
+  size: 124, 108
+  orig: 124, 108
+  offset: 0, 0
+  index: -1
+tiao/tiao_01
+  rotate: true
+  xy: 1831, 782
+  size: 254, 28
+  orig: 276, 166
+  offset: 11, 1
+  index: -1
+tiao/tiao_02
+  rotate: false
+  xy: 2, 10
+  size: 270, 41
+  orig: 276, 166
+  offset: 3, 1
+  index: -1
+tiao/tiao_03
+  rotate: false
+  xy: 1369, 257
+  size: 274, 52
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_04
+  rotate: true
+  xy: 1131, 8
+  size: 274, 68
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_05
+  rotate: false
+  xy: 360, 51
+  size: 274, 81
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_06
+  rotate: false
+  xy: 1286, 49
+  size: 274, 92
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_07
+  rotate: false
+  xy: 636, 37
+  size: 274, 107
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_08
+  rotate: false
+  xy: 1369, 311
+  size: 274, 116
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_09
+  rotate: false
+  xy: 636, 146
+  size: 274, 132
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_10
+  rotate: false
+  xy: 946, 284
+  size: 274, 146
+  orig: 276, 166
+  offset: 1, 1
+  index: -1
+tiao/tiao_11
+  rotate: false
+  xy: 360, 134
+  size: 274, 144
+  orig: 276, 166
+  offset: 1, 12
+  index: -1
+tiao/tiao_12
+  rotate: false
+  xy: 1372, 429
+  size: 274, 132
+  orig: 276, 166
+  offset: 1, 25
+  index: -1
+tiao/tiao_13
+  rotate: true
+  xy: 1013, 12
+  size: 270, 116
+  orig: 276, 166
+  offset: 3, 41
+  index: -1
+tiao/tiao_14
+  rotate: false
+  xy: 1286, 143
+  size: 270, 112
+  orig: 276, 166
+  offset: 3, 51
+  index: -1
+tiao/tiao_15
+  rotate: true
+  xy: 912, 2
+  size: 264, 99
+  orig: 276, 166
+  offset: 6, 65
+  index: -1
+tiao/tiao_16
+  rotate: true
+  xy: 1201, 22
+  size: 244, 83
+  orig: 276, 166
+  offset: 16, 81
+  index: -1
+tiao/tiao_17
+  rotate: false
+  xy: 1645, 218
+  size: 225, 73
+  orig: 276, 166
+  offset: 26, 91
+  index: -1
+tiao/tiao_18
+  rotate: true
+  xy: 1558, 151
+  size: 104, 58
+  orig: 276, 166
+  offset: 86, 106
+  index: -1
+tiao/tiao_19
+  rotate: false
+  xy: 1688, 86
+  size: 100, 43
+  orig: 276, 166
+  offset: 88, 121
+  index: -1
+xing0
+  rotate: false
+  xy: 1618, 131
+  size: 175, 85
+  orig: 176, 85
+  offset: 0, 0
+  index: -1
+xing1
+  rotate: true
+  xy: 1222, 268
+  size: 162, 145
+  orig: 162, 145
+  offset: 0, 0
+  index: -1
+xing2
+  rotate: false
+  xy: 1795, 98
+  size: 78, 118
+  orig: 78, 118
+  offset: 0, 0
+  index: -1
+xuanzhuan
+  rotate: false
+  xy: 1372, 563
+  size: 457, 473
+  orig: 457, 475
+  offset: 0, 1
+  index: -1

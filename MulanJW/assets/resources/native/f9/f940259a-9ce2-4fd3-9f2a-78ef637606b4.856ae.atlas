@@ -1,0 +1,20 @@
+
+NG_BG_kuang.png
+size: 665,415
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 634, 192
+  orig: 645, 201
+  offset: 6, 9
+  index: -1
+kuang_add
+  rotate: false
+  xy: 2, 196
+  size: 661, 217
+  orig: 661, 217
+  offset: 0, 0
+  index: -1

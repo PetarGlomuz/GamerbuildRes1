@@ -1,0 +1,153 @@
+
+TC_FG_biankuang.png
+size: 1280,1280
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/biankuang
+  rotate: false
+  xy: 2, 723
+  size: 717, 555
+  orig: 717, 555
+  offset: 0, 0
+  index: -1
+images/g/g_00
+  rotate: false
+  xy: 642, 601
+  size: 74, 120
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 1130, 297
+  size: 102, 174
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 998, 253
+  size: 130, 218
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 308, 5
+  size: 159, 276
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 1077, 1000
+  size: 190, 278
+  orig: 359, 278
+  offset: 0, 0
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 1059, 720
+  size: 219, 278
+  orig: 359, 278
+  offset: 0, 0
+  index: -1
+images/g/g_06
+  rotate: true
+  xy: 866, 2
+  size: 248, 278
+  orig: 359, 278
+  offset: 0, 0
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 718, 441
+  size: 278, 278
+  orig: 359, 278
+  offset: 0, 0
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 334, 443
+  size: 306, 278
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 721, 721
+  size: 336, 278
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 721, 1001
+  size: 354, 277
+  orig: 359, 278
+  offset: 1, 0
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 2, 444
+  size: 330, 277
+  orig: 359, 278
+  offset: 25, 0
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 2, 165
+  size: 304, 277
+  orig: 359, 278
+  offset: 54, 0
+  index: -1
+images/g/g_13
+  rotate: true
+  xy: 308, 166
+  size: 275, 277
+  orig: 359, 278
+  offset: 83, 0
+  index: -1
+images/g/g_14
+  rotate: true
+  xy: 998, 473
+  size: 245, 277
+  orig: 359, 278
+  offset: 113, 0
+  index: -1
+images/g/g_15
+  rotate: true
+  xy: 587, 10
+  size: 216, 277
+  orig: 359, 278
+  offset: 142, 0
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 718, 252
+  size: 187, 278
+  orig: 359, 278
+  offset: 171, 0
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 2, 6
+  size: 157, 266
+  orig: 359, 278
+  offset: 201, 12
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 587, 228
+  size: 129, 213
+  orig: 359, 278
+  offset: 229, 65
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 1146, 130
+  size: 101, 165
+  orig: 359, 278
+  offset: 257, 113
+  index: -1

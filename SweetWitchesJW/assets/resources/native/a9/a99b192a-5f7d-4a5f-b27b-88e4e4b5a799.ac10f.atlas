@@ -1,0 +1,13 @@
+
+tc_respin_end_mask.png
+size: 279,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_clicked
+  rotate: false
+  xy: 1, 1
+  size: 277, 66
+  orig: 277, 66
+  offset: 0, 0
+  index: -1

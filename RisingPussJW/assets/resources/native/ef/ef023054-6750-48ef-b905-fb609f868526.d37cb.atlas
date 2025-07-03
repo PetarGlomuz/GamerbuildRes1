@@ -1,0 +1,188 @@
+
+BG_SpinCiShu.png
+size: 972,972
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_01
+  rotate: false
+  xy: 838, 715
+  size: 59, 54
+  orig: 298, 302
+  offset: 115, 125
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 838, 771
+  size: 84, 83
+  orig: 298, 302
+  offset: 101, 109
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 838, 856
+  size: 115, 114
+  orig: 298, 302
+  offset: 86, 94
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 198, 201
+  size: 145, 145
+  orig: 298, 302
+  offset: 71, 78
+  index: -1
+images/g/g_05
+  rotate: true
+  xy: 706, 191
+  size: 177, 176
+  orig: 298, 302
+  offset: 55, 63
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 2, 764
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 211, 764
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 420, 764
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 629, 764
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_10
+  rotate: true
+  xy: 2, 555
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 210, 556
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 419, 556
+  size: 207, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 210, 348
+  size: 205, 206
+  orig: 298, 302
+  offset: 41, 48
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 628, 556
+  size: 206, 206
+  orig: 298, 302
+  offset: 40, 48
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 551, 7
+  size: 182, 167
+  orig: 298, 302
+  offset: 38, 69
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 593, 370
+  size: 184, 170
+  orig: 298, 302
+  offset: 37, 68
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 532, 176
+  size: 187, 172
+  orig: 298, 302
+  offset: 35, 67
+  index: -1
+images/g/g_18
+  rotate: true
+  xy: 417, 365
+  size: 189, 174
+  orig: 298, 302
+  offset: 34, 66
+  index: -1
+images/g/g_19
+  rotate: true
+  xy: 355, 156
+  size: 190, 175
+  orig: 298, 302
+  offset: 33, 65
+  index: -1
+images/g/g_20
+  rotate: true
+  xy: 2, 5
+  size: 191, 175
+  orig: 298, 302
+  offset: 32, 65
+  index: -1
+images/g/g_21
+  rotate: true
+  xy: 179, 4
+  size: 192, 174
+  orig: 298, 302
+  offset: 31, 64
+  index: -1
+images/g/g_22
+  rotate: false
+  xy: 2, 198
+  size: 194, 176
+  orig: 298, 302
+  offset: 30, 63
+  index: -1
+images/g/g_23
+  rotate: false
+  xy: 2, 376
+  size: 194, 177
+  orig: 298, 302
+  offset: 30, 62
+  index: -1
+images/g/g_24
+  rotate: false
+  xy: 765, 402
+  size: 194, 152
+  orig: 298, 302
+  offset: 30, 62
+  index: -1
+images/g/g_25
+  rotate: false
+  xy: 735, 37
+  size: 194, 152
+  orig: 298, 302
+  offset: 30, 62
+  index: -1
+images/g/g_26
+  rotate: false
+  xy: 355, 2
+  size: 194, 152
+  orig: 298, 302
+  offset: 30, 62
+  index: -1

@@ -1,0 +1,412 @@
+
+H2.png
+size: 898,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beij
+  rotate: false
+  xy: 2, 154
+  size: 121, 111
+  orig: 121, 111
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: true
+  xy: 877, 214
+  size: 51, 17
+  orig: 51, 17
+  offset: 0, 0
+  index: -1
+bozi
+  rotate: false
+  xy: 2, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+fas
+  rotate: true
+  xy: 877, 179
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+fasi
+  rotate: true
+  xy: 571, 5
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+fasi2
+  rotate: true
+  xy: 850, 72
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 848, 94
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+hou1
+  rotate: true
+  xy: 116, 14
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+hou2
+  rotate: false
+  xy: 725, 31
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+jianjia
+  rotate: false
+  xy: 774, 67
+  size: 74, 22
+  orig: 74, 22
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 648, 30
+  size: 75, 59
+  orig: 75, 59
+  offset: 0, 0
+  index: -1
+lingdai
+  rotate: false
+  xy: 158, 154
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+qi
+  rotate: false
+  xy: 2, 20
+  size: 112, 44
+  orig: 112, 44
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 848, 141
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_00
+  rotate: false
+  xy: 2, 66
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_01
+  rotate: false
+  xy: 125, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_16
+  rotate: false
+  xy: 125, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_02
+  rotate: false
+  xy: 219, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_17
+  rotate: false
+  xy: 219, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_03
+  rotate: false
+  xy: 313, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_18
+  rotate: false
+  xy: 313, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_04
+  rotate: false
+  xy: 407, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_20
+  rotate: false
+  xy: 407, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_05
+  rotate: false
+  xy: 501, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_06
+  rotate: false
+  xy: 595, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_21
+  rotate: false
+  xy: 595, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_07
+  rotate: false
+  xy: 689, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_08
+  rotate: false
+  xy: 783, 179
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_09
+  rotate: false
+  xy: 96, 66
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_25
+  rotate: false
+  xy: 96, 66
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_10
+  rotate: false
+  xy: 190, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_11
+  rotate: false
+  xy: 284, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_26
+  rotate: false
+  xy: 284, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_12
+  rotate: false
+  xy: 378, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_27
+  rotate: false
+  xy: 378, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_13
+  rotate: false
+  xy: 472, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_28
+  rotate: false
+  xy: 472, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_14
+  rotate: false
+  xy: 566, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_15
+  rotate: false
+  xy: 660, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_19
+  rotate: false
+  xy: 754, 91
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_22
+  rotate: false
+  xy: 195, 3
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_23
+  rotate: false
+  xy: 289, 3
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_24
+  rotate: false
+  xy: 383, 3
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+shuibeijing/beij_29
+  rotate: false
+  xy: 477, 3
+  size: 92, 86
+  orig: 92, 86
+  offset: 0, 0
+  index: -1
+toufa
+  rotate: false
+  xy: 571, 17
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+touguan
+  rotate: false
+  xy: 774, 32
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+youerduo
+  rotate: true
+  xy: 815, 23
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 125, 154
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+youjian
+  rotate: false
+  xy: 815, 45
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+youjiao
+  rotate: false
+  xy: 682, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+youshou
+  rotate: false
+  xy: 31, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+youwan
+  rotate: false
+  xy: 701, 4
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+youzhang
+  rotate: false
+  xy: 78, 4
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: false
+  xy: 877, 190
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+zuojian
+  rotate: false
+  xy: 852, 50
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+zuojiao
+  rotate: true
+  xy: 727, 9
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: false
+  xy: 648, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+zuowan
+  rotate: false
+  xy: 52, 4
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+bg_jp_win.png
+size: 1725,803
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/glo1_00
+  rotate: false
+  xy: 1435, 528
+  size: 266, 137
+  orig: 400, 250
+  offset: 67, 59
+  index: -1
+images/gloe_00
+  rotate: false
+  xy: 1435, 667
+  size: 286, 134
+  orig: 400, 400
+  offset: 57, 135
+  index: -1
+images/ks1_00
+  rotate: true
+  xy: 1620, 185
+  size: 234, 103
+  orig: 258, 109
+  offset: 12, 5
+  index: -1
+images/ks_00
+  rotate: false
+  xy: 1435, 421
+  size: 258, 105
+  orig: 258, 109
+  offset: 0, 4
+  index: -1
+images/rg/1_00
+  rotate: true
+  xy: 613, 412
+  size: 389, 204
+  orig: 400, 400
+  offset: 10, 106
+  index: -1
+images/rg/1_01
+  rotate: true
+  xy: 606, 18
+  size: 390, 205
+  orig: 400, 400
+  offset: 10, 107
+  index: -1
+images/rg/1_02
+  rotate: true
+  xy: 813, 22
+  size: 388, 198
+  orig: 400, 400
+  offset: 9, 105
+  index: -1
+images/rg/1_03
+  rotate: true
+  xy: 410, 410
+  size: 391, 201
+  orig: 400, 400
+  offset: 7, 103
+  index: -1
+images/rg/1_04
+  rotate: true
+  xy: 206, 406
+  size: 395, 202
+  orig: 400, 400
+  offset: 3, 101
+  index: -1
+images/rg/1_05
+  rotate: true
+  xy: 2, 2
+  size: 398, 204
+  orig: 400, 400
+  offset: 0, 99
+  index: -1
+images/rg/1_06
+  rotate: true
+  xy: 2, 402
+  size: 399, 202
+  orig: 400, 400
+  offset: 0, 101
+  index: -1
+images/rg/1_07
+  rotate: true
+  xy: 208, 9
+  size: 395, 198
+  orig: 400, 400
+  offset: 5, 104
+  index: -1
+images/rg/1_08
+  rotate: true
+  xy: 408, 10
+  size: 394, 196
+  orig: 400, 400
+  offset: 6, 106
+  index: -1
+images/rg/1_09
+  rotate: true
+  xy: 1013, 26
+  size: 386, 196
+  orig: 400, 400
+  offset: 10, 105
+  index: -1
+images/rg/1_10
+  rotate: true
+  xy: 819, 414
+  size: 387, 197
+  orig: 400, 400
+  offset: 7, 103
+  index: -1
+images/rg/1_11
+  rotate: true
+  xy: 1417, 40
+  size: 379, 201
+  orig: 400, 400
+  offset: 13, 101
+  index: -1
+images/rg/1_12
+  rotate: true
+  xy: 1228, 421
+  size: 380, 205
+  orig: 400, 400
+  offset: 13, 99
+  index: -1
+images/rg/1_13
+  rotate: true
+  xy: 1211, 33
+  size: 383, 204
+  orig: 400, 400
+  offset: 12, 102
+  index: -1
+images/rg/1_14
+  rotate: true
+  xy: 1018, 418
+  size: 383, 208
+  orig: 400, 400
+  offset: 12, 100
+  index: -1

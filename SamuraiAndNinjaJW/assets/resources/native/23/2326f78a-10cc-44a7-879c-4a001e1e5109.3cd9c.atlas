@@ -1,0 +1,139 @@
+
+Battle_main_bar.png
+size: 872,462
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_blue
+  rotate: false
+  xy: 2, 323
+  size: 571, 43
+  orig: 585, 82
+  offset: 7, 34
+  index: -1
+bar_blue_yy
+  rotate: false
+  xy: 2, 415
+  size: 572, 45
+  orig: 585, 82
+  offset: 7, 33
+  index: -1
+bar_red
+  rotate: false
+  xy: 2, 278
+  size: 571, 43
+  orig: 585, 82
+  offset: 7, 34
+  index: -1
+bar_red_yy
+  rotate: false
+  xy: 2, 368
+  size: 572, 45
+  orig: 585, 82
+  offset: 7, 33
+  index: -1
+blue/blue_00
+  rotate: false
+  xy: 2, 204
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_01
+  rotate: false
+  xy: 2, 167
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_02
+  rotate: false
+  xy: 2, 130
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_03
+  rotate: false
+  xy: 2, 93
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_04
+  rotate: false
+  xy: 2, 56
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_05
+  rotate: false
+  xy: 2, 19
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_06
+  rotate: true
+  xy: 576, 2
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_07
+  rotate: true
+  xy: 761, 3
+  size: 457, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_08
+  rotate: true
+  xy: 798, 3
+  size: 457, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_09
+  rotate: true
+  xy: 835, 3
+  size: 457, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_10
+  rotate: true
+  xy: 613, 2
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_11
+  rotate: true
+  xy: 650, 2
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_12
+  rotate: true
+  xy: 687, 2
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_13
+  rotate: true
+  xy: 724, 2
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1
+blue/blue_14
+  rotate: false
+  xy: 2, 241
+  size: 458, 35
+  orig: 480, 80
+  offset: 11, 34
+  index: -1

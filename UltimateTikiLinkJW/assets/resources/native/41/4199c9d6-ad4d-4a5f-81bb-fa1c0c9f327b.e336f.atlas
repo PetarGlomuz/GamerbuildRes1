@@ -1,0 +1,104 @@
+
+Winner1.png
+size: 1666,426
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h1/H1_001
+  rotate: false
+  xy: 2, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_002
+  rotate: false
+  xy: 244, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_003
+  rotate: false
+  xy: 244, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_004
+  rotate: false
+  xy: 486, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_005
+  rotate: false
+  xy: 486, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_006
+  rotate: false
+  xy: 728, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_007
+  rotate: false
+  xy: 728, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_008
+  rotate: false
+  xy: 970, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_009
+  rotate: false
+  xy: 970, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_010
+  rotate: false
+  xy: 1212, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_011
+  rotate: false
+  xy: 1212, 2
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_012
+  rotate: true
+  xy: 1454, 184
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_013
+  rotate: false
+  xy: 2, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1
+images/h1/H1_000
+  rotate: false
+  xy: 2, 214
+  size: 240, 210
+  orig: 240, 210
+  offset: 0, 0
+  index: -1

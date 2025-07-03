@@ -1,0 +1,160 @@
+
+bonus_effect_low.png
+size: 900,572
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/chih1
+  rotate: false
+  xy: 753, 36
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+effect/penhuo_00
+  rotate: true
+  xy: 319, 7
+  size: 194, 100
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_01
+  rotate: true
+  xy: 421, 21
+  size: 194, 111
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_02
+  rotate: false
+  xy: 394, 217
+  size: 194, 114
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_03
+  rotate: false
+  xy: 590, 455
+  size: 194, 115
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_04
+  rotate: false
+  xy: 2, 187
+  size: 194, 120
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_05
+  rotate: false
+  xy: 198, 445
+  size: 194, 125
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_06
+  rotate: false
+  xy: 2, 309
+  size: 194, 129
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_07
+  rotate: false
+  xy: 2, 440
+  size: 194, 130
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_08
+  rotate: false
+  xy: 394, 451
+  size: 194, 119
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_09
+  rotate: false
+  xy: 198, 323
+  size: 194, 120
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_10
+  rotate: false
+  xy: 198, 203
+  size: 194, 118
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_11
+  rotate: true
+  xy: 204, 7
+  size: 194, 113
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_12
+  rotate: true
+  xy: 534, 21
+  size: 194, 109
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_13
+  rotate: true
+  xy: 786, 376
+  size: 194, 112
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_14
+  rotate: false
+  xy: 590, 338
+  size: 194, 115
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_15
+  rotate: true
+  xy: 786, 180
+  size: 194, 112
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_16
+  rotate: false
+  xy: 394, 333
+  size: 194, 116
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_17
+  rotate: false
+  xy: 590, 221
+  size: 194, 115
+  orig: 194, 130
+  offset: 0, 0
+  index: -1
+effect/penhuo_18
+  rotate: true
+  xy: 645, 35
+  size: 184, 106
+  orig: 194, 130
+  offset: 8, 9
+  index: -1
+effect/penhuo_19
+  rotate: true
+  xy: 2, 2
+  size: 183, 106
+  orig: 194, 130
+  offset: 9, 9
+  index: -1
+effect/penhuo_20
+  rotate: true
+  xy: 110, 3
+  size: 182, 92
+  orig: 194, 130
+  offset: 10, 9
+  index: -1

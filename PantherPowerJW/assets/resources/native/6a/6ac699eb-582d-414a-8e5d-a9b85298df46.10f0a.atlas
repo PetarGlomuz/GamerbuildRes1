@@ -1,0 +1,62 @@
+
+NG_H3.png
+size: 519,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+H3
+  rotate: true
+  xy: 2, 10
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+beiguang
+  rotate: true
+  xy: 157, 31
+  size: 172, 155
+  orig: 176, 157
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: false
+  xy: 438, 104
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+shang zui
+  rotate: true
+  xy: 157, 3
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 314, 21
+  size: 122, 182
+  orig: 122, 182
+  offset: 0, 0
+  index: -1
+xia zui
+  rotate: true
+  xy: 203, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+yanbai
+  rotate: false
+  xy: 236, 18
+  size: 10, 11
+  orig: 11, 11
+  offset: 1, 0
+  index: -1
+yanzhu
+  rotate: false
+  xy: 2, 5
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

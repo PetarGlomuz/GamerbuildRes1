@@ -1,0 +1,146 @@
+
+dian_idle.png
+size: 499,395
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dian_idle/dian_idle_00
+  rotate: false
+  xy: 399, 104
+  size: 94, 94
+  orig: 99, 97
+  offset: 4, 0
+  index: -1
+dian_idle/dian_idle_01
+  rotate: false
+  xy: 405, 302
+  size: 90, 91
+  orig: 99, 97
+  offset: 6, 0
+  index: -1
+dian_idle/dian_idle_02
+  rotate: false
+  xy: 392, 6
+  size: 94, 94
+  orig: 99, 97
+  offset: 4, 0
+  index: -1
+dian_idle/dian_idle_03
+  rotate: true
+  xy: 303, 102
+  size: 95, 94
+  orig: 99, 97
+  offset: 3, 0
+  index: -1
+dian_idle/dian_idle_04
+  rotate: true
+  xy: 296, 2
+  size: 97, 94
+  orig: 99, 97
+  offset: 2, 0
+  index: -1
+dian_idle/dian_idle_05
+  rotate: true
+  xy: 102, 2
+  size: 97, 95
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_06
+  rotate: false
+  xy: 103, 101
+  size: 98, 96
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_07
+  rotate: false
+  xy: 2, 297
+  size: 99, 96
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+dian_idle/dian_idle_08
+  rotate: false
+  xy: 2, 199
+  size: 99, 96
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+dian_idle/dian_idle_09
+  rotate: false
+  xy: 305, 297
+  size: 98, 96
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_10
+  rotate: false
+  xy: 204, 199
+  size: 98, 96
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_11
+  rotate: false
+  xy: 103, 297
+  size: 99, 96
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+dian_idle/dian_idle_12
+  rotate: false
+  xy: 2, 101
+  size: 99, 96
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+dian_idle/dian_idle_13
+  rotate: false
+  xy: 203, 101
+  size: 98, 96
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_14
+  rotate: false
+  xy: 103, 199
+  size: 99, 96
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+dian_idle/dian_idle_15
+  rotate: false
+  xy: 204, 297
+  size: 99, 96
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+dian_idle/dian_idle_16
+  rotate: false
+  xy: 2, 2
+  size: 98, 97
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_17
+  rotate: false
+  xy: 304, 200
+  size: 98, 95
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_18
+  rotate: true
+  xy: 199, 2
+  size: 97, 95
+  orig: 99, 97
+  offset: 1, 0
+  index: -1
+dian_idle/dian_idle_19
+  rotate: true
+  xy: 404, 200
+  size: 95, 93
+  orig: 99, 97
+  offset: 3, 0
+  index: -1

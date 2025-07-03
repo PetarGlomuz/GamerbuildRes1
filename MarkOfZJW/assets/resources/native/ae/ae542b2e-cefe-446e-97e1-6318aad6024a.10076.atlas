@@ -1,0 +1,153 @@
+
+youwon.png
+size: 741,103
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg3/sg3_00
+  rotate: false
+  xy: 634, 9
+  size: 36, 28
+  orig: 156, 35
+  offset: 7, 4
+  index: -1
+sg3/sg3_01
+  rotate: false
+  xy: 589, 7
+  size: 43, 30
+  orig: 156, 35
+  offset: 7, 3
+  index: -1
+sg3/sg3_02
+  rotate: false
+  xy: 476, 7
+  size: 57, 30
+  orig: 156, 35
+  offset: 7, 3
+  index: -1
+sg3/sg3_03
+  rotate: false
+  xy: 344, 7
+  size: 65, 30
+  orig: 156, 35
+  offset: 6, 3
+  index: -1
+sg3/sg3_04
+  rotate: false
+  xy: 276, 7
+  size: 66, 30
+  orig: 156, 35
+  offset: 6, 3
+  index: -1
+sg3/sg3_05
+  rotate: false
+  xy: 490, 39
+  size: 85, 30
+  orig: 156, 35
+  offset: 7, 3
+  index: -1
+sg3/sg3_06
+  rotate: false
+  xy: 643, 71
+  size: 96, 30
+  orig: 156, 35
+  offset: 7, 3
+  index: -1
+sg3/sg3_07
+  rotate: false
+  xy: 531, 71
+  size: 110, 30
+  orig: 156, 35
+  offset: 8, 3
+  index: -1
+sg3/sg3_08
+  rotate: false
+  xy: 126, 14
+  size: 117, 30
+  orig: 156, 35
+  offset: 9, 3
+  index: -1
+sg3/sg3_09
+  rotate: false
+  xy: 291, 71
+  size: 121, 30
+  orig: 156, 35
+  offset: 16, 3
+  index: -1
+sg3/sg3_10
+  rotate: false
+  xy: 2, 14
+  size: 122, 30
+  orig: 156, 35
+  offset: 27, 3
+  index: -1
+sg3/sg3_11
+  rotate: false
+  xy: 414, 71
+  size: 115, 30
+  orig: 156, 35
+  offset: 37, 3
+  index: -1
+sg3/sg3_12
+  rotate: false
+  xy: 291, 39
+  size: 103, 30
+  orig: 156, 35
+  offset: 50, 3
+  index: -1
+sg3/sg3_13
+  rotate: false
+  xy: 396, 39
+  size: 92, 30
+  orig: 156, 35
+  offset: 61, 3
+  index: -1
+sg3/sg3_14
+  rotate: false
+  xy: 577, 39
+  size: 78, 30
+  orig: 156, 35
+  offset: 76, 3
+  index: -1
+sg3/sg3_15
+  rotate: false
+  xy: 657, 39
+  size: 74, 30
+  orig: 156, 35
+  offset: 80, 3
+  index: -1
+sg3/sg3_16
+  rotate: false
+  xy: 411, 7
+  size: 63, 30
+  orig: 156, 35
+  offset: 91, 3
+  index: -1
+sg3/sg3_17
+  rotate: false
+  xy: 535, 8
+  size: 52, 29
+  orig: 156, 35
+  offset: 102, 4
+  index: -1
+sg3/sg3_18
+  rotate: true
+  xy: 245, 2
+  size: 42, 29
+  orig: 156, 35
+  offset: 112, 4
+  index: -1
+sg3/sg3_19
+  rotate: false
+  xy: 672, 10
+  size: 27, 27
+  orig: 156, 35
+  offset: 127, 5
+  index: -1
+you won
+  rotate: false
+  xy: 2, 46
+  size: 287, 55
+  orig: 289, 57
+  offset: 1, 1
+  index: -1

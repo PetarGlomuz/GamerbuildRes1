@@ -1,0 +1,153 @@
+
+TC_FG_biaoti.png
+size: 546,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sgb/sgb_00
+  rotate: false
+  xy: 318, 2
+  size: 62, 38
+  orig: 205, 38
+  offset: 3, 0
+  index: -1
+sgb/sgb_01
+  rotate: false
+  xy: 382, 4
+  size: 84, 38
+  orig: 205, 38
+  offset: 3, 0
+  index: -1
+sgb/sgb_02
+  rotate: false
+  xy: 372, 44
+  size: 92, 38
+  orig: 205, 38
+  offset: 2, 0
+  index: -1
+sgb/sgb_03
+  rotate: false
+  xy: 407, 164
+  size: 118, 38
+  orig: 205, 38
+  offset: 2, 0
+  index: -1
+sgb/sgb_04
+  rotate: false
+  xy: 407, 244
+  size: 135, 38
+  orig: 205, 38
+  offset: 2, 0
+  index: -1
+sgb/sgb_05
+  rotate: false
+  xy: 187, 42
+  size: 155, 38
+  orig: 205, 38
+  offset: 2, 0
+  index: -1
+sgb/sgb_06
+  rotate: false
+  xy: 198, 82
+  size: 172, 38
+  orig: 205, 38
+  offset: 2, 0
+  index: -1
+sgb/sgb_07
+  rotate: false
+  xy: 201, 122
+  size: 189, 38
+  orig: 205, 38
+  offset: 2, 0
+  index: -1
+sgb/sgb_08
+  rotate: false
+  xy: 201, 162
+  size: 195, 38
+  orig: 205, 38
+  offset: 3, 0
+  index: -1
+sgb/sgb_09
+  rotate: false
+  xy: 2, 162
+  size: 197, 38
+  orig: 205, 38
+  offset: 3, 0
+  index: -1
+sgb/sgb_10
+  rotate: false
+  xy: 2, 122
+  size: 197, 38
+  orig: 205, 38
+  offset: 4, 0
+  index: -1
+sgb/sgb_11
+  rotate: false
+  xy: 2, 82
+  size: 194, 38
+  orig: 205, 38
+  offset: 7, 0
+  index: -1
+sgb/sgb_12
+  rotate: false
+  xy: 2, 42
+  size: 183, 38
+  orig: 205, 38
+  offset: 19, 0
+  index: -1
+sgb/sgb_13
+  rotate: false
+  xy: 2, 2
+  size: 164, 38
+  orig: 205, 38
+  offset: 38, 0
+  index: -1
+sgb/sgb_14
+  rotate: false
+  xy: 168, 2
+  size: 148, 38
+  orig: 205, 38
+  offset: 54, 0
+  index: -1
+sgb/sgb_15
+  rotate: false
+  xy: 407, 204
+  size: 131, 38
+  orig: 205, 38
+  offset: 71, 0
+  index: -1
+sgb/sgb_16
+  rotate: false
+  xy: 398, 124
+  size: 114, 38
+  orig: 205, 38
+  offset: 88, 0
+  index: -1
+sgb/sgb_17
+  rotate: false
+  xy: 392, 84
+  size: 96, 38
+  orig: 205, 38
+  offset: 106, 0
+  index: -1
+sgb/sgb_18
+  rotate: false
+  xy: 466, 44
+  size: 78, 38
+  orig: 205, 38
+  offset: 123, 0
+  index: -1
+sgb/sgb_19
+  rotate: false
+  xy: 468, 5
+  size: 58, 37
+  orig: 205, 38
+  offset: 143, 1
+  index: -1
+youw
+  rotate: false
+  xy: 2, 202
+  size: 403, 80
+  orig: 403, 81
+  offset: 0, 1
+  index: -1

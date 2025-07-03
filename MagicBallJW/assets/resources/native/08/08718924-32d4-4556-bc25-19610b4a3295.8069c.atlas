@@ -1,0 +1,118 @@
+
+TC_BG_tolwin.png
+size: 557,555
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: true
+  xy: 2, 9
+  size: 69, 88
+  orig: 487, 102
+  offset: 4, 7
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 429, 113
+  size: 108, 91
+  orig: 487, 102
+  offset: 4, 6
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 461, 206
+  size: 147, 93
+  orig: 487, 102
+  offset: 4, 6
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 194, 355
+  size: 180, 94
+  orig: 487, 102
+  offset: 9, 6
+  index: -1
+images/g/g_04
+  rotate: true
+  xy: 2, 80
+  size: 182, 94
+  orig: 487, 102
+  offset: 45, 7
+  index: -1
+images/g/g_05
+  rotate: true
+  xy: 98, 268
+  size: 181, 94
+  orig: 487, 102
+  offset: 83, 8
+  index: -1
+images/g/g_06
+  rotate: true
+  xy: 194, 2
+  size: 174, 94
+  orig: 487, 102
+  offset: 123, 8
+  index: -1
+images/g/g_07
+  rotate: true
+  xy: 2, 264
+  size: 185, 94
+  orig: 487, 102
+  offset: 156, 8
+  index: -1
+images/g/g_08
+  rotate: true
+  xy: 98, 85
+  size: 181, 94
+  orig: 487, 102
+  offset: 198, 8
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 376, 355
+  size: 179, 94
+  orig: 487, 102
+  offset: 237, 8
+  index: -1
+images/g/g_10
+  rotate: true
+  xy: 194, 178
+  size: 175, 94
+  orig: 487, 102
+  offset: 269, 7
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 290, 259
+  size: 169, 94
+  orig: 487, 102
+  offset: 310, 7
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 290, 164
+  size: 137, 93
+  orig: 487, 102
+  offset: 345, 7
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 290, 70
+  size: 101, 92
+  orig: 487, 102
+  offset: 383, 7
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 491, 466
+  size: 61, 87
+  orig: 487, 102
+  offset: 423, 10
+  index: -1
+images/ttl_zi
+  rotate: false
+  xy: 2, 451
+  size: 487, 102
+  orig: 487, 102
+  offset: 0, 0
+  index: -1

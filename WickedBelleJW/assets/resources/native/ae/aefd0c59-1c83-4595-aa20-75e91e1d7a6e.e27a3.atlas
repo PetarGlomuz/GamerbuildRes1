@@ -1,0 +1,97 @@
+
+239_wild_lianzi.png
+size: 739,737
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ddd
+  rotate: false
+  xy: 545, 142
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+iii
+  rotate: false
+  xy: 715, 256
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+lll
+  rotate: false
+  xy: 545, 102
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+wild/d
+  rotate: true
+  xy: 545, 233
+  size: 250, 32
+  orig: 250, 32
+  offset: 0, 0
+  index: -1
+wild/dd
+  rotate: false
+  xy: 611, 601
+  size: 122, 134
+  orig: 122, 134
+  offset: 0, 0
+  index: -1
+wild/didi
+  rotate: false
+  xy: 2, 13
+  size: 250, 722
+  orig: 250, 722
+  offset: 0, 0
+  index: -1
+wild/ii
+  rotate: false
+  xy: 611, 465
+  size: 93, 134
+  orig: 93, 134
+  offset: 0, 0
+  index: -1
+wild/ll
+  rotate: true
+  xy: 579, 235
+  size: 60, 134
+  orig: 60, 134
+  offset: 0, 0
+  index: -1
+wild/ww
+  rotate: true
+  xy: 579, 297
+  size: 166, 136
+  orig: 166, 136
+  offset: 0, 0
+  index: -1
+wild/yinying
+  rotate: true
+  xy: 545, 485
+  size: 250, 64
+  orig: 250, 64
+  offset: 0, 0
+  index: -1
+wild/you
+  rotate: false
+  xy: 415, 13
+  size: 128, 722
+  orig: 128, 722
+  offset: 0, 0
+  index: -1
+wild/zuo
+  rotate: false
+  xy: 254, 13
+  size: 159, 722
+  orig: 159, 722
+  offset: 0, 0
+  index: -1
+www
+  rotate: true
+  xy: 545, 183
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1

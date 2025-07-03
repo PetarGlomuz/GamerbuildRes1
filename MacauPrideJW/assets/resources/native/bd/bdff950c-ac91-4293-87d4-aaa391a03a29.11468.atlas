@@ -1,0 +1,41 @@
+
+TC_BG_board.png
+size: 812,571
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 709, 567
+  orig: 709, 567
+  offset: 0, 0
+  index: -1
+chouma0
+  rotate: true
+  xy: 713, 279
+  size: 139, 97
+  orig: 140, 98
+  offset: 0, 1
+  index: -1
+chouma1
+  rotate: true
+  xy: 713, 420
+  size: 149, 92
+  orig: 149, 92
+  offset: 0, 0
+  index: -1
+deng
+  rotate: false
+  xy: 713, 194
+  size: 39, 41
+  orig: 56, 51
+  offset: 9, 5
+  index: -1
+star
+  rotate: false
+  xy: 713, 237
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1

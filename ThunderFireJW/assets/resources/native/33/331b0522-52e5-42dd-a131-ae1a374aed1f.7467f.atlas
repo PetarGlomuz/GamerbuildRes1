@@ -1,0 +1,153 @@
+
+FG_Kuang.png
+size: 314,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/FG_K/FG_K_000
+  rotate: false
+  xy: 2, 80
+  size: 102, 75
+  orig: 110, 90
+  offset: 5, 8
+  index: -1
+images/FG_K/FG_K_001
+  rotate: false
+  xy: 106, 79
+  size: 102, 75
+  orig: 110, 90
+  offset: 5, 8
+  index: -1
+images/FG_K/FG_K_002
+  rotate: false
+  xy: 210, 384
+  size: 100, 74
+  orig: 110, 90
+  offset: 6, 9
+  index: -1
+images/FG_K/FG_K_003
+  rotate: false
+  xy: 2, 310
+  size: 100, 74
+  orig: 110, 90
+  offset: 6, 9
+  index: -1
+images/FG_K/FG_K_004
+  rotate: false
+  xy: 104, 309
+  size: 99, 74
+  orig: 110, 90
+  offset: 7, 9
+  index: -1
+images/FG_K/FG_K_005
+  rotate: false
+  xy: 205, 308
+  size: 99, 74
+  orig: 110, 90
+  offset: 7, 9
+  index: -1
+images/FG_K/FG_K_006
+  rotate: false
+  xy: 202, 232
+  size: 101, 74
+  orig: 110, 90
+  offset: 5, 9
+  index: -1
+images/FG_K/FG_K_007
+  rotate: false
+  xy: 2, 157
+  size: 102, 74
+  orig: 110, 90
+  offset: 3, 9
+  index: -1
+images/FG_K/FG_K_008
+  rotate: false
+  xy: 106, 156
+  size: 102, 74
+  orig: 110, 90
+  offset: 3, 9
+  index: -1
+images/FG_K/FG_K_009
+  rotate: false
+  xy: 106, 460
+  size: 102, 73
+  orig: 110, 90
+  offset: 3, 10
+  index: -1
+images/FG_K/FG_K_010
+  rotate: false
+  xy: 210, 460
+  size: 102, 73
+  orig: 110, 90
+  offset: 3, 9
+  index: -1
+images/FG_K/FG_K_011
+  rotate: false
+  xy: 210, 79
+  size: 102, 75
+  orig: 110, 90
+  offset: 3, 7
+  index: -1
+images/FG_K/FG_K_012
+  rotate: false
+  xy: 2, 3
+  size: 101, 75
+  orig: 110, 90
+  offset: 4, 7
+  index: -1
+images/FG_K/FG_K_013
+  rotate: false
+  xy: 105, 2
+  size: 101, 75
+  orig: 110, 90
+  offset: 4, 7
+  index: -1
+images/FG_K/FG_K_014
+  rotate: false
+  xy: 208, 2
+  size: 100, 75
+  orig: 110, 90
+  offset: 4, 7
+  index: -1
+images/FG_K/FG_K_015
+  rotate: false
+  xy: 2, 234
+  size: 99, 74
+  orig: 110, 90
+  offset: 4, 7
+  index: -1
+images/FG_K/FG_K_016
+  rotate: false
+  xy: 103, 233
+  size: 97, 74
+  orig: 110, 90
+  offset: 5, 7
+  index: -1
+images/FG_K/FG_K_017
+  rotate: false
+  xy: 210, 156
+  size: 102, 74
+  orig: 110, 90
+  offset: 5, 7
+  index: -1
+images/FG_K/FG_K_018
+  rotate: false
+  xy: 2, 386
+  size: 102, 73
+  orig: 110, 90
+  offset: 5, 8
+  index: -1
+images/FG_K/FG_K_019
+  rotate: false
+  xy: 106, 385
+  size: 102, 73
+  orig: 110, 90
+  offset: 5, 8
+  index: -1
+images/FG_K/FG_K_020
+  rotate: false
+  xy: 2, 461
+  size: 102, 72
+  orig: 110, 90
+  offset: 5, 8
+  index: -1

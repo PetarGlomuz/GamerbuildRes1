@@ -1,0 +1,146 @@
+
+FG_guochang.png
+size: 537,566
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+g/guang_00
+  rotate: false
+  xy: 106, 2
+  size: 97, 92
+  orig: 115, 118
+  offset: 9, 14
+  index: -1
+g/guang_01
+  rotate: false
+  xy: 205, 2
+  size: 97, 92
+  orig: 115, 118
+  offset: 9, 14
+  index: -1
+g/guang_02
+  rotate: true
+  xy: 440, 265
+  size: 97, 92
+  orig: 115, 118
+  offset: 9, 14
+  index: -1
+g/guang_03
+  rotate: true
+  xy: 304, 107
+  size: 97, 92
+  orig: 115, 118
+  offset: 9, 14
+  index: -1
+g/guang_04
+  rotate: true
+  xy: 304, 9
+  size: 96, 92
+  orig: 115, 118
+  offset: 9, 14
+  index: -1
+g/guang_05
+  rotate: true
+  xy: 440, 364
+  size: 97, 95
+  orig: 115, 118
+  offset: 9, 11
+  index: -1
+g/guang_06
+  rotate: false
+  xy: 429, 165
+  size: 99, 98
+  orig: 115, 118
+  offset: 9, 8
+  index: -1
+g/guang_07
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 115, 118
+  offset: 8, 6
+  index: -1
+g/guang_08
+  rotate: false
+  xy: 194, 96
+  size: 108, 108
+  orig: 115, 118
+  offset: 5, 3
+  index: -1
+g/guang_09
+  rotate: false
+  xy: 314, 212
+  size: 113, 112
+  orig: 115, 118
+  offset: 2, 1
+  index: -1
+g/guang_10
+  rotate: false
+  xy: 197, 206
+  size: 115, 116
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+g/guang_11
+  rotate: false
+  xy: 197, 324
+  size: 115, 118
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+g/guang_12
+  rotate: false
+  xy: 323, 446
+  size: 115, 118
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+g/guang_13
+  rotate: false
+  xy: 323, 326
+  size: 115, 118
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+g/guang_14
+  rotate: false
+  xy: 2, 106
+  size: 115, 118
+  orig: 115, 118
+  offset: 0, 0
+  index: -1
+glow1
+  rotate: true
+  xy: 119, 125
+  size: 99, 73
+  orig: 102, 102
+  offset: 1, 16
+  index: -1
+glow2
+  rotate: false
+  xy: 197, 444
+  size: 124, 120
+  orig: 130, 120
+  offset: 3, 0
+  index: -1
+glow4
+  rotate: true
+  xy: 440, 463
+  size: 101, 95
+  orig: 120, 120
+  offset: 10, 12
+  index: -1
+hua
+  rotate: false
+  xy: 2, 396
+  size: 193, 168
+  orig: 193, 168
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 2, 226
+  size: 193, 168
+  orig: 193, 168
+  offset: 0, 0
+  index: -1

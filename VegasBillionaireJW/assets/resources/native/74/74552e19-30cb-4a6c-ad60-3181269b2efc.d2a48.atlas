@@ -1,0 +1,258 @@
+
+H2.png
+size: 1531,1538
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/chelun/chelun_000
+  rotate: false
+  xy: 1454, 961
+  size: 69, 95
+  orig: 75, 100
+  offset: 4, 3
+  index: -1
+images/chelun/chelun_001
+  rotate: false
+  xy: 364, 23
+  size: 69, 95
+  orig: 75, 100
+  offset: 4, 3
+  index: -1
+images/chelun/chelun_002
+  rotate: true
+  xy: 435, 15
+  size: 69, 95
+  orig: 75, 100
+  offset: 4, 3
+  index: -1
+images/chelun/chelun_003
+  rotate: true
+  xy: 532, 15
+  size: 69, 95
+  orig: 75, 100
+  offset: 4, 3
+  index: -1
+images/chelun/chelun_004
+  rotate: false
+  xy: 1383, 960
+  size: 69, 96
+  orig: 75, 100
+  offset: 4, 2
+  index: -1
+images/h2_chedeng
+  rotate: false
+  xy: 659, 1151
+  size: 724, 385
+  orig: 728, 600
+  offset: 4, 145
+  index: -1
+images/h2_chenshen
+  rotate: true
+  xy: 2, 249
+  size: 686, 440
+  orig: 728, 600
+  offset: 35, 81
+  index: -1
+images/h2_csg/h2_csg_000
+  rotate: true
+  xy: 758, 593
+  size: 359, 191
+  orig: 360, 230
+  offset: 1, 10
+  index: -1
+images/h2_csg/h2_csg_002
+  rotate: false
+  xy: 2, 52
+  size: 360, 195
+  orig: 360, 230
+  offset: 0, 8
+  index: -1
+images/h2_csg/h2_csg_004
+  rotate: false
+  xy: 659, 954
+  size: 360, 195
+  orig: 360, 230
+  offset: 0, 12
+  index: -1
+images/h2_csg/h2_csg_006
+  rotate: false
+  xy: 1021, 958
+  size: 360, 191
+  orig: 360, 230
+  offset: 0, 14
+  index: -1
+images/h2_csg/h2_csg_008
+  rotate: true
+  xy: 758, 232
+  size: 359, 190
+  orig: 360, 230
+  offset: 0, 5
+  index: -1
+images/h2_csg/h2_csg_010
+  rotate: true
+  xy: 951, 592
+  size: 360, 188
+  orig: 360, 230
+  offset: 0, 9
+  index: -1
+images/h2_csg/h2_csg_012
+  rotate: true
+  xy: 950, 230
+  size: 360, 179
+  orig: 360, 230
+  offset: 0, 16
+  index: -1
+images/h2_csg/h2_csg_014
+  rotate: false
+  xy: 444, 86
+  size: 302, 162
+  orig: 360, 230
+  offset: 58, 2
+  index: -1
+images/h2_cssg/h2_cssg_000
+  rotate: true
+  xy: 629, 23
+  size: 61, 74
+  orig: 340, 210
+  offset: 5, 124
+  index: -1
+images/h2_cssg/h2_cssg_002
+  rotate: true
+  xy: 914, 5
+  size: 83, 108
+  orig: 340, 210
+  offset: 4, 95
+  index: -1
+images/h2_cssg/h2_cssg_004
+  rotate: true
+  xy: 1325, 8
+  size: 115, 126
+  orig: 340, 210
+  offset: 2, 79
+  index: -1
+images/h2_cssg/h2_cssg_006
+  rotate: false
+  xy: 1385, 1385
+  size: 144, 151
+  orig: 340, 210
+  offset: 2, 55
+  index: -1
+images/h2_cssg/h2_cssg_008
+  rotate: false
+  xy: 1345, 538
+  size: 184, 202
+  orig: 340, 210
+  offset: 2, 4
+  index: -1
+images/h2_cssg/h2_cssg_010
+  rotate: true
+  xy: 1141, 446
+  size: 223, 202
+  orig: 340, 210
+  offset: 2, 4
+  index: -1
+images/h2_cssg/h2_cssg_012
+  rotate: true
+  xy: 1131, 206
+  size: 238, 202
+  orig: 340, 210
+  offset: 2, 4
+  index: -1
+images/h2_cssg/h2_cssg_014
+  rotate: false
+  xy: 1067, 2
+  size: 256, 202
+  orig: 340, 210
+  offset: 6, 4
+  index: -1
+images/h2_cssg/h2_cssg_016
+  rotate: true
+  xy: 1141, 671
+  size: 285, 202
+  orig: 340, 210
+  offset: 6, 4
+  index: -1
+images/h2_cssg/h2_cssg_018
+  rotate: true
+  xy: 1335, 125
+  size: 264, 190
+  orig: 340, 210
+  offset: 68, 15
+  index: -1
+images/h2_cssg/h2_cssg_020
+  rotate: true
+  xy: 1345, 742
+  size: 214, 184
+  orig: 340, 210
+  offset: 121, 15
+  index: -1
+images/h2_cssg/h2_cssg_022
+  rotate: true
+  xy: 748, 21
+  size: 209, 164
+  orig: 340, 210
+  offset: 127, 14
+  index: -1
+images/h2_cssg/h2_cssg_024
+  rotate: false
+  xy: 1345, 391
+  size: 184, 145
+  orig: 340, 210
+  offset: 152, 15
+  index: -1
+images/h2_cssg/h2_cssg_026
+  rotate: false
+  xy: 914, 90
+  size: 151, 138
+  orig: 340, 210
+  offset: 185, 15
+  index: -1
+images/h2_cssg/h2_cssg_028
+  rotate: true
+  xy: 1385, 1058
+  size: 111, 128
+  orig: 340, 210
+  offset: 225, 18
+  index: -1
+images/h2_cssg/h2_cssg_030
+  rotate: false
+  xy: 1453, 14
+  size: 69, 109
+  orig: 340, 210
+  offset: 267, 23
+  index: -1
+images/h2_k
+  rotate: false
+  xy: 2, 937
+  size: 655, 599
+  orig: 728, 600
+  offset: 37, 1
+  index: -1
+images/h2_lun1
+  rotate: false
+  xy: 364, 120
+  size: 59, 127
+  orig: 728, 600
+  offset: 35, 256
+  index: -1
+images/h2_lun2
+  rotate: false
+  xy: 1385, 1171
+  size: 128, 212
+  orig: 728, 600
+  offset: 185, 99
+  index: -1
+images/h2_yy
+  rotate: true
+  xy: 444, 250
+  size: 685, 312
+  orig: 728, 600
+  offset: 0, 55
+  index: -1
+images/star
+  rotate: true
+  xy: 1024, 45
+  size: 43, 40
+  orig: 50, 50
+  offset: 6, 5
+  index: -1

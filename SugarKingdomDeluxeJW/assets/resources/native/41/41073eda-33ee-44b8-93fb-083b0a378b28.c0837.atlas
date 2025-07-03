@@ -1,0 +1,153 @@
+
+TC_Yingfen.png
+size: 931,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg3/sg3_00000
+  rotate: false
+  xy: 298, 21
+  size: 119, 78
+  orig: 372, 84
+  offset: 14, 2
+  index: -1
+sg3/sg3_00001
+  rotate: false
+  xy: 600, 22
+  size: 132, 77
+  orig: 372, 84
+  offset: 14, 2
+  index: -1
+sg3/sg3_00002
+  rotate: true
+  xy: 872, 114
+  size: 151, 57
+  orig: 372, 84
+  offset: 14, 2
+  index: -1
+sg3/sg3_00003
+  rotate: true
+  xy: 821, 101
+  size: 164, 25
+  orig: 372, 84
+  offset: 21, 2
+  index: -1
+sg3/sg3_00004
+  rotate: false
+  xy: 2, 5
+  size: 164, 11
+  orig: 372, 84
+  offset: 41, 3
+  index: -1
+sg3/sg3_00005
+  rotate: false
+  xy: 298, 8
+  size: 164, 11
+  orig: 372, 84
+  offset: 59, 3
+  index: -1
+sg3/sg3_00006
+  rotate: true
+  xy: 848, 101
+  size: 164, 10
+  orig: 372, 84
+  offset: 77, 4
+  index: -1
+sg3/sg3_00007
+  rotate: true
+  xy: 76, 100
+  size: 165, 10
+  orig: 372, 84
+  offset: 94, 4
+  index: -1
+sg3/sg3_00008
+  rotate: true
+  xy: 100, 100
+  size: 165, 9
+  orig: 372, 84
+  offset: 111, 5
+  index: -1
+sg3/sg3_00009
+  rotate: true
+  xy: 88, 100
+  size: 165, 10
+  orig: 372, 84
+  offset: 128, 4
+  index: -1
+sg3/sg3_00010
+  rotate: true
+  xy: 860, 102
+  size: 163, 10
+  orig: 372, 84
+  offset: 146, 4
+  index: -1
+sg3/sg3_00011
+  rotate: false
+  xy: 464, 8
+  size: 163, 11
+  orig: 372, 84
+  offset: 163, 3
+  index: -1
+sg3/sg3_00012
+  rotate: false
+  xy: 629, 9
+  size: 162, 11
+  orig: 372, 84
+  offset: 180, 3
+  index: -1
+sg3/sg3_00013
+  rotate: true
+  xy: 2, 100
+  size: 165, 72
+  orig: 372, 84
+  offset: 198, 2
+  index: -1
+sg3/sg3_00014
+  rotate: false
+  xy: 734, 23
+  size: 152, 76
+  orig: 372, 84
+  offset: 216, 2
+  index: -1
+sg3/sg3_00015
+  rotate: false
+  xy: 82, 20
+  size: 134, 78
+  orig: 372, 84
+  offset: 234, 2
+  index: -1
+sg3/sg3_00016
+  rotate: false
+  xy: 419, 21
+  size: 116, 78
+  orig: 372, 84
+  offset: 252, 2
+  index: -1
+sg3/sg3_00017
+  rotate: true
+  xy: 218, 2
+  size: 97, 78
+  orig: 372, 84
+  offset: 271, 2
+  index: -1
+sg3/sg3_00018
+  rotate: true
+  xy: 2, 18
+  size: 80, 78
+  orig: 372, 84
+  offset: 288, 2
+  index: -1
+sg3/sg3_00019
+  rotate: false
+  xy: 537, 21
+  size: 61, 78
+  orig: 372, 84
+  offset: 307, 2
+  index: -1
+shuzikuang
+  rotate: false
+  xy: 111, 101
+  size: 708, 164
+  orig: 708, 164
+  offset: 0, 0
+  index: -1

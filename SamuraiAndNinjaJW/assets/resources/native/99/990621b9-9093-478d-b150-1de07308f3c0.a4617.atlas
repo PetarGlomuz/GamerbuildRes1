@@ -1,0 +1,146 @@
+
+NG_RespinBG.png
+size: 1848,1443
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dz/dz_00
+  rotate: true
+  xy: 2, 361
+  size: 282, 460
+  orig: 700, 613
+  offset: 200, 63
+  index: -1
+dz/dz_01
+  rotate: true
+  xy: 1384, 625
+  size: 278, 460
+  orig: 700, 613
+  offset: 197, 63
+  index: -1
+dz/dz_02
+  rotate: true
+  xy: 924, 329
+  size: 294, 460
+  orig: 700, 613
+  offset: 188, 63
+  index: -1
+dz/dz_03
+  rotate: true
+  xy: 462, 921
+  size: 266, 460
+  orig: 700, 613
+  offset: 202, 63
+  index: -1
+dz/dz_04
+  rotate: true
+  xy: 462, 44
+  size: 309, 460
+  orig: 700, 613
+  offset: 180, 63
+  index: -1
+dz/dz_05
+  rotate: true
+  xy: 1386, 1180
+  size: 261, 460
+  orig: 700, 613
+  offset: 212, 63
+  index: -1
+dz/dz_06
+  rotate: true
+  xy: 924, 916
+  size: 268, 459
+  orig: 700, 613
+  offset: 207, 63
+  index: -1
+dz/dz_07
+  rotate: true
+  xy: 924, 632
+  size: 282, 458
+  orig: 700, 613
+  offset: 197, 63
+  index: -1
+dz/dz_08
+  rotate: true
+  xy: 464, 355
+  size: 288, 458
+  orig: 700, 613
+  offset: 192, 63
+  index: -1
+dz/dz_09
+  rotate: true
+  xy: 1386, 322
+  size: 301, 458
+  orig: 700, 613
+  offset: 184, 63
+  index: -1
+dz/dz_10
+  rotate: true
+  xy: 924, 17
+  size: 310, 458
+  orig: 700, 613
+  offset: 181, 63
+  index: -1
+dz/dz_11
+  rotate: true
+  xy: 1384, 2
+  size: 318, 458
+  orig: 700, 613
+  offset: 186, 63
+  index: -1
+dz/dz_12
+  rotate: true
+  xy: 2, 52
+  size: 307, 458
+  orig: 700, 613
+  offset: 180, 63
+  index: -1
+dz/dz_13
+  rotate: true
+  xy: 2, 647
+  size: 275, 458
+  orig: 700, 613
+  offset: 215, 63
+  index: -1
+dz/dz_14
+  rotate: true
+  xy: 2, 924
+  size: 265, 458
+  orig: 700, 613
+  offset: 215, 63
+  index: -1
+dz/dz_15
+  rotate: true
+  xy: 2, 1191
+  size: 250, 459
+  orig: 700, 613
+  offset: 217, 63
+  index: -1
+dz/dz_16
+  rotate: true
+  xy: 925, 1186
+  size: 255, 459
+  orig: 700, 613
+  offset: 217, 63
+  index: -1
+dz/dz_17
+  rotate: true
+  xy: 463, 1189
+  size: 252, 460
+  orig: 700, 613
+  offset: 223, 63
+  index: -1
+dz/dz_18
+  rotate: true
+  xy: 1385, 905
+  size: 273, 460
+  orig: 700, 613
+  offset: 206, 63
+  index: -1
+dz/dz_19
+  rotate: true
+  xy: 462, 645
+  size: 274, 460
+  orig: 700, 613
+  offset: 206, 63
+  index: -1

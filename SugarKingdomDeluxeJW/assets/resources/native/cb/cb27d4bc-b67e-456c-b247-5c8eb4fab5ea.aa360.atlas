@@ -1,0 +1,97 @@
+
+JP_TingPai.png
+size: 906,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gd
+  rotate: false
+  xy: 2, 203
+  size: 574, 111
+  orig: 574, 141
+  offset: 0, 15
+  index: -1
+images/gr
+  rotate: false
+  xy: 2, 87
+  size: 532, 114
+  orig: 574, 141
+  offset: 21, 16
+  index: -1
+images/grg_000
+  rotate: false
+  xy: 536, 83
+  size: 350, 84
+  orig: 350, 100
+  offset: 0, 13
+  index: -1
+images/jptp/jptp_000
+  rotate: true
+  xy: 2, 5
+  size: 80, 145
+  orig: 83, 155
+  offset: 1, 5
+  index: -1
+images/jptp/jptp_001
+  rotate: false
+  xy: 827, 169
+  size: 77, 145
+  orig: 83, 155
+  offset: 3, 5
+  index: -1
+images/jptp/jptp_002
+  rotate: true
+  xy: 149, 6
+  size: 79, 145
+  orig: 83, 155
+  offset: 2, 5
+  index: -1
+images/jptp/jptp_003
+  rotate: true
+  xy: 590, 4
+  size: 77, 145
+  orig: 83, 155
+  offset: 3, 5
+  index: -1
+images/jptp/jptp_004
+  rotate: true
+  xy: 296, 6
+  size: 79, 145
+  orig: 83, 155
+  offset: 2, 5
+  index: -1
+images/jptp/jptp_005
+  rotate: false
+  xy: 578, 169
+  size: 81, 145
+  orig: 83, 155
+  offset: 1, 5
+  index: -1
+images/jptp/jptp_006
+  rotate: false
+  xy: 661, 169
+  size: 81, 145
+  orig: 83, 155
+  offset: 1, 5
+  index: -1
+images/jptp/jptp_007
+  rotate: true
+  xy: 443, 2
+  size: 79, 145
+  orig: 83, 155
+  offset: 2, 5
+  index: -1
+images/jptp/jptp_008
+  rotate: true
+  xy: 737, 4
+  size: 77, 145
+  orig: 83, 155
+  offset: 3, 5
+  index: -1
+images/jptp/jptp_009
+  rotate: false
+  xy: 744, 169
+  size: 81, 145
+  orig: 83, 155
+  offset: 1, 5
+  index: -1

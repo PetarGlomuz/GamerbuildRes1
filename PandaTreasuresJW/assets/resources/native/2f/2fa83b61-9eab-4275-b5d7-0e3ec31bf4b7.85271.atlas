@@ -1,0 +1,90 @@
+
+NG_FG.png
+size: 1186,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/CN_fg
+  rotate: false
+  xy: 2, 2
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+images/CN_fg3
+  rotate: false
+  xy: 958, 44
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+images/CN_match3
+  rotate: false
+  xy: 2, 142
+  size: 652, 64
+  orig: 652, 64
+  offset: 0, 0
+  index: -1
+images/CN_match3_000
+  rotate: false
+  xy: 656, 24
+  size: 300, 100
+  orig: 300, 100
+  offset: 0, 0
+  index: -1
+images/EN_freegame
+  rotate: false
+  xy: 84, 2
+  size: 80, 72
+  orig: 80, 72
+  offset: 0, 0
+  index: -1
+images/EN_match3
+  rotate: false
+  xy: 2, 76
+  size: 652, 64
+  orig: 652, 64
+  offset: 0, 0
+  index: -1
+images/EN_match3_000
+  rotate: false
+  xy: 704, 126
+  size: 450, 100
+  orig: 450, 100
+  offset: 0, 0
+  index: -1
+images/EN_matchany3
+  rotate: false
+  xy: 1062, 44
+  size: 102, 80
+  orig: 102, 80
+  offset: 0, 0
+  index: -1
+images/MB1
+  rotate: true
+  xy: 704, 228
+  size: 370, 480
+  orig: 370, 480
+  offset: 0, 0
+  index: -1
+images/MB1_S_000
+  rotate: false
+  xy: 834, 600
+  size: 340, 450
+  orig: 340, 450
+  offset: 0, 0
+  index: -1
+images/MB2
+  rotate: false
+  xy: 2, 610
+  size: 830, 440
+  orig: 830, 440
+  offset: 0, 0
+  index: -1
+images/MB2_S_000
+  rotate: false
+  xy: 2, 208
+  size: 700, 400
+  orig: 700, 400
+  offset: 0, 0
+  index: -1

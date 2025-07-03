@@ -1,0 +1,153 @@
+
+TC_bgkaishi_12.png
+size: 751,143
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/12
+  rotate: false
+  xy: 2, 3
+  size: 200, 138
+  orig: 200, 138
+  offset: 0, 0
+  index: -1
+images/12/1_00
+  rotate: false
+  xy: 579, 7
+  size: 20, 53
+  orig: 200, 138
+  offset: 54, 49
+  index: -1
+images/12/1_01
+  rotate: false
+  xy: 725, 81
+  size: 24, 60
+  orig: 200, 138
+  offset: 53, 42
+  index: -1
+images/12/1_02
+  rotate: false
+  xy: 697, 6
+  size: 27, 61
+  orig: 200, 138
+  offset: 52, 42
+  index: -1
+images/12/1_03
+  rotate: false
+  xy: 667, 4
+  size: 28, 63
+  orig: 200, 138
+  offset: 52, 41
+  index: -1
+images/12/1_04
+  rotate: true
+  xy: 480, 3
+  size: 56, 64
+  orig: 200, 138
+  offset: 52, 40
+  index: -1
+images/12/1_05
+  rotate: true
+  xy: 601, 2
+  size: 65, 64
+  orig: 200, 138
+  offset: 52, 40
+  index: -1
+images/12/1_06
+  rotate: true
+  xy: 594, 69
+  size: 72, 64
+  orig: 200, 138
+  offset: 53, 40
+  index: -1
+images/12/1_07
+  rotate: true
+  xy: 529, 62
+  size: 79, 63
+  orig: 200, 138
+  offset: 54, 40
+  index: -1
+images/12/1_08
+  rotate: true
+  xy: 269, 56
+  size: 85, 63
+  orig: 200, 138
+  offset: 54, 40
+  index: -1
+images/12/1_09
+  rotate: true
+  xy: 204, 55
+  size: 86, 63
+  orig: 200, 138
+  offset: 55, 41
+  index: -1
+images/12/1_10
+  rotate: true
+  xy: 334, 56
+  size: 85, 63
+  orig: 200, 138
+  offset: 60, 41
+  index: -1
+images/12/1_11
+  rotate: true
+  xy: 399, 56
+  size: 85, 63
+  orig: 200, 138
+  offset: 61, 41
+  index: -1
+images/12/1_12
+  rotate: true
+  xy: 464, 61
+  size: 80, 63
+  orig: 200, 138
+  offset: 66, 41
+  index: -1
+images/12/1_13
+  rotate: true
+  xy: 660, 69
+  size: 72, 63
+  orig: 200, 138
+  offset: 75, 41
+  index: -1
+images/12/1_14
+  rotate: true
+  xy: 291, 4
+  size: 50, 62
+  orig: 200, 138
+  offset: 97, 41
+  index: -1
+images/12/1_15
+  rotate: true
+  xy: 204, 2
+  size: 51, 61
+  orig: 200, 138
+  offset: 97, 41
+  index: -1
+images/12/1_16
+  rotate: true
+  xy: 355, 6
+  size: 48, 61
+  orig: 200, 138
+  offset: 100, 41
+  index: -1
+images/12/1_17
+  rotate: true
+  xy: 418, 14
+  size: 40, 60
+  orig: 200, 138
+  offset: 108, 41
+  index: -1
+images/12/1_18
+  rotate: false
+  xy: 546, 2
+  size: 31, 58
+  orig: 200, 138
+  offset: 116, 41
+  index: -1
+images/12/1_19
+  rotate: false
+  xy: 267, 2
+  size: 22, 51
+  orig: 200, 138
+  offset: 125, 42
+  index: -1

@@ -1,0 +1,454 @@
+
+NG_touzi.png
+size: 1926,1247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: true
+  xy: 1247, 810
+  size: 84, 79
+  orig: 259, 208
+  offset: 87, 64
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 1138, 786
+  size: 108, 107
+  orig: 259, 208
+  offset: 75, 51
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 1291, 1113
+  size: 132, 132
+  orig: 259, 208
+  offset: 63, 38
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 1133, 623
+  size: 159, 159
+  orig: 259, 208
+  offset: 47, 23
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 995, 300
+  size: 170, 171
+  orig: 259, 208
+  offset: 41, 17
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 950, 601
+  size: 181, 181
+  orig: 259, 208
+  offset: 35, 12
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 1099, 1055
+  size: 190, 190
+  orig: 259, 208
+  offset: 31, 8
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 930, 784
+  size: 206, 206
+  orig: 259, 208
+  offset: 18, 1
+  index: -1
+images/g/g_12
+  rotate: true
+  xy: 538, 253
+  size: 217, 206
+  orig: 259, 208
+  offset: 13, 0
+  index: -1
+images/g/g_14
+  rotate: true
+  xy: 420, 12
+  size: 234, 208
+  orig: 259, 208
+  offset: 6, 0
+  index: -1
+images/g/g_15
+  rotate: true
+  xy: 838, 30
+  size: 230, 208
+  orig: 259, 208
+  offset: 3, 0
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 210, 9
+  size: 237, 208
+  orig: 259, 208
+  offset: 1, 0
+  index: -1
+images/g/g_18
+  rotate: true
+  xy: 2, 2
+  size: 244, 206
+  orig: 259, 208
+  offset: 1, 0
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 746, 262
+  size: 247, 208
+  orig: 259, 208
+  offset: 2, 0
+  index: -1
+images/g/g_20
+  rotate: true
+  xy: 748, 477
+  size: 252, 200
+  orig: 259, 208
+  offset: 1, 0
+  index: -1
+images/g/g_21
+  rotate: true
+  xy: 727, 731
+  size: 254, 201
+  orig: 259, 208
+  offset: 2, 0
+  index: -1
+images/g/g_23
+  rotate: true
+  xy: 630, 2
+  size: 249, 206
+  orig: 259, 208
+  offset: 8, 1
+  index: -1
+images/g/g_24
+  rotate: true
+  xy: 728, 992
+  size: 253, 206
+  orig: 259, 208
+  offset: 6, 0
+  index: -1
+images/g/g_25
+  rotate: true
+  xy: 538, 472
+  size: 254, 208
+  orig: 259, 208
+  offset: 5, 0
+  index: -1
+images/g/g_27
+  rotate: true
+  xy: 538, 728
+  size: 257, 187
+  orig: 259, 208
+  offset: 2, 0
+  index: -1
+images/g/g_28
+  rotate: true
+  xy: 538, 987
+  size: 258, 188
+  orig: 259, 208
+  offset: 1, 0
+  index: -1
+images/g/g_29
+  rotate: true
+  xy: 936, 1040
+  size: 205, 161
+  orig: 259, 208
+  offset: 31, 28
+  index: -1
+images/g1
+  rotate: false
+  xy: 1793, 681
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/g2
+  rotate: false
+  xy: 1793, 551
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/light
+  rotate: true
+  xy: 2, 248
+  size: 997, 534
+  orig: 1170, 536
+  offset: 0, 0
+  index: -1
+images/t1
+  rotate: true
+  xy: 950, 473
+  size: 126, 133
+  orig: 126, 133
+  offset: 0, 0
+  index: -1
+images/t18
+  rotate: false
+  xy: 1628, 213
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/t2
+  rotate: false
+  xy: 1328, 811
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/t3
+  rotate: true
+  xy: 1587, 656
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/t38
+  rotate: true
+  xy: 1767, 291
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/t5
+  rotate: false
+  xy: 1609, 360
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/t8
+  rotate: false
+  xy: 1654, 509
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/t88
+  rotate: true
+  xy: 1767, 152
+  size: 137, 145
+  orig: 137, 145
+  offset: 0, 0
+  index: -1
+images/yangguang_00
+  rotate: false
+  xy: 1793, 430
+  size: 121, 119
+  orig: 128, 128
+  offset: 2, 4
+  index: -1
+images/zhuan/baitou_00
+  rotate: false
+  xy: 1467, 1096
+  size: 140, 149
+  orig: 480, 270
+  offset: 170, 57
+  index: -1
+images/zhuan/baitou_01
+  rotate: true
+  xy: 1436, 656
+  size: 137, 149
+  orig: 480, 270
+  offset: 169, 58
+  index: -1
+images/zhuan/baitou_02
+  rotate: false
+  xy: 1755, 958
+  size: 149, 141
+  orig: 480, 270
+  offset: 170, 65
+  index: -1
+images/zhuan/baitou_03
+  rotate: false
+  xy: 1048, 2
+  size: 144, 138
+  orig: 480, 270
+  offset: 170, 61
+  index: -1
+images/zhuan/baitou_04
+  rotate: false
+  xy: 1477, 11
+  size: 141, 152
+  orig: 480, 270
+  offset: 167, 57
+  index: -1
+images/zhuan/baitou_05
+  rotate: false
+  xy: 1138, 896
+  size: 151, 157
+  orig: 480, 270
+  offset: 164, 57
+  index: -1
+images/zhuan/baitou_06
+  rotate: false
+  xy: 1490, 200
+  size: 136, 150
+  orig: 480, 270
+  offset: 171, 63
+  index: -1
+images/zhuan/baitou_07
+  rotate: false
+  xy: 1219, 475
+  size: 141, 146
+  orig: 480, 270
+  offset: 166, 59
+  index: -1
+images/zhuan/baitou_08
+  rotate: true
+  xy: 1333, 5
+  size: 154, 142
+  orig: 480, 270
+  offset: 166, 65
+  index: -1
+images/zhuan/baitou_09
+  rotate: true
+  xy: 1085, 475
+  size: 124, 132
+  orig: 480, 270
+  offset: 173, 74
+  index: -1
+images/zhuan/baitou_10
+  rotate: true
+  xy: 1317, 319
+  size: 154, 147
+  orig: 480, 270
+  offset: 165, 66
+  index: -1
+images/zhuan/baitou_11
+  rotate: false
+  xy: 1466, 352
+  size: 141, 150
+  orig: 480, 270
+  offset: 172, 57
+  index: -1
+images/zhuan/baitou_12
+  rotate: false
+  xy: 1609, 969
+  size: 144, 129
+  orig: 480, 270
+  offset: 166, 69
+  index: -1
+images/zhuan/baitou_13
+  rotate: true
+  xy: 1194, 2
+  size: 138, 137
+  orig: 480, 270
+  offset: 175, 64
+  index: -1
+images/zhuan/baitou_14
+  rotate: true
+  xy: 1362, 504
+  size: 150, 149
+  orig: 480, 270
+  offset: 165, 57
+  index: -1
+images/zhuan/baitou_15
+  rotate: true
+  xy: 1755, 1101
+  size: 144, 149
+  orig: 480, 270
+  offset: 168, 57
+  index: -1
+images/zhuan/baitou_16
+  rotate: false
+  xy: 1513, 507
+  size: 139, 147
+  orig: 480, 270
+  offset: 176, 60
+  index: -1
+images/zhuan/baitou_17
+  rotate: true
+  xy: 1620, 48
+  size: 150, 133
+  orig: 480, 270
+  offset: 168, 68
+  index: -1
+images/zhuan/baitou_18
+  rotate: false
+  xy: 1467, 795
+  size: 140, 148
+  orig: 480, 270
+  offset: 171, 57
+  index: -1
+images/zhuan/baitou_19
+  rotate: false
+  xy: 1167, 318
+  size: 148, 155
+  orig: 480, 270
+  offset: 164, 57
+  index: -1
+images/zhuan/baitou_20
+  rotate: false
+  xy: 1196, 161
+  size: 145, 155
+  orig: 480, 270
+  offset: 169, 59
+  index: -1
+images/zhuan/baitou_21
+  rotate: true
+  xy: 1755, 7
+  size: 143, 139
+  orig: 480, 270
+  offset: 164, 68
+  index: -1
+images/zhuan/baitou_22
+  rotate: false
+  xy: 1609, 819
+  size: 143, 148
+  orig: 480, 270
+  offset: 172, 57
+  index: -1
+images/zhuan/baitou_23
+  rotate: true
+  xy: 1609, 1100
+  size: 145, 144
+  orig: 480, 270
+  offset: 169, 68
+  index: -1
+images/zhuan/baitou_24
+  rotate: false
+  xy: 1793, 811
+  size: 131, 145
+  orig: 480, 270
+  offset: 177, 66
+  index: -1
+images/zhuan/baitou_25
+  rotate: true
+  xy: 1294, 656
+  size: 152, 140
+  orig: 480, 270
+  offset: 163, 61
+  index: -1
+images/zhuan/baitou_26
+  rotate: true
+  xy: 1048, 142
+  size: 156, 146
+  orig: 480, 270
+  offset: 163, 60
+  index: -1
+images/zhuan/baitou_27
+  rotate: true
+  xy: 1291, 991
+  size: 120, 118
+  orig: 480, 270
+  offset: 177, 73
+  index: -1
+images/zhuan/baitou_28
+  rotate: true
+  xy: 1343, 165
+  size: 152, 145
+  orig: 480, 270
+  offset: 168, 59
+  index: -1
+images/zhuan/baitou_29
+  rotate: false
+  xy: 1467, 945
+  size: 140, 149
+  orig: 480, 270
+  offset: 170, 57
+  index: -1

@@ -1,0 +1,104 @@
+
+TC_JP_coinpiaofu.png
+size: 739,87
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin1
+  rotate: false
+  xy: 642, 41
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+coin10
+  rotate: false
+  xy: 687, 50
+  size: 50, 35
+  orig: 51, 37
+  offset: 1, 1
+  index: -1
+coin11
+  rotate: true
+  xy: 551, 10
+  size: 75, 49
+  orig: 76, 51
+  offset: 0, 1
+  index: -1
+coin12
+  rotate: false
+  xy: 316, 2
+  size: 41, 27
+  orig: 42, 28
+  offset: 0, 1
+  index: -1
+coin13
+  rotate: true
+  xy: 602, 35
+  size: 50, 38
+  orig: 52, 39
+  offset: 1, 1
+  index: -1
+coin14
+  rotate: false
+  xy: 159, 3
+  size: 155, 82
+  orig: 157, 83
+  offset: 1, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 316, 31
+  size: 90, 54
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: true
+  xy: 602, 2
+  size: 31, 32
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+coin4
+  rotate: false
+  xy: 2, 3
+  size: 155, 82
+  orig: 157, 83
+  offset: 1, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 359, 3
+  size: 35, 26
+  orig: 36, 27
+  offset: 1, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 408, 31
+  size: 90, 54
+  orig: 91, 55
+  offset: 1, 0
+  index: -1
+coin7
+  rotate: true
+  xy: 636, 2
+  size: 31, 32
+  orig: 33, 33
+  offset: 1, 1
+  index: -1
+coin8
+  rotate: false
+  xy: 670, 4
+  size: 50, 35
+  orig: 51, 37
+  offset: 0, 1
+  index: -1
+coin9
+  rotate: true
+  xy: 500, 9
+  size: 76, 49
+  orig: 77, 51
+  offset: 0, 1
+  index: -1

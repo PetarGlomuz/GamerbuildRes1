@@ -1,0 +1,153 @@
+
+BG_jinbishuzi.png
+size: 450,539
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/bao_000
+  rotate: true
+  xy: 65, 459
+  size: 78, 79
+  orig: 108, 110
+  offset: 14, 17
+  index: -1
+1/bao_001
+  rotate: true
+  xy: 2, 357
+  size: 100, 106
+  orig: 108, 110
+  offset: 2, 3
+  index: -1
+1/bao_002
+  rotate: false
+  xy: 146, 448
+  size: 89, 89
+  orig: 108, 110
+  offset: 7, 11
+  index: -1
+1/bao_003
+  rotate: false
+  xy: 237, 446
+  size: 94, 91
+  orig: 108, 110
+  offset: 5, 11
+  index: -1
+1/bao_004
+  rotate: false
+  xy: 333, 440
+  size: 101, 97
+  orig: 108, 110
+  offset: 1, 8
+  index: -1
+1/bao_005
+  rotate: false
+  xy: 110, 343
+  size: 105, 103
+  orig: 108, 110
+  offset: 0, 5
+  index: -1
+1/bao_006
+  rotate: true
+  xy: 217, 340
+  size: 104, 106
+  orig: 108, 110
+  offset: 0, 2
+  index: -1
+1/bao_007
+  rotate: true
+  xy: 325, 332
+  size: 106, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_008
+  rotate: true
+  xy: 2, 233
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_009
+  rotate: true
+  xy: 114, 230
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_010
+  rotate: true
+  xy: 226, 222
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_011
+  rotate: true
+  xy: 338, 222
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_012
+  rotate: true
+  xy: 2, 123
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_013
+  rotate: true
+  xy: 114, 120
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_014
+  rotate: true
+  xy: 226, 112
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_015
+  rotate: true
+  xy: 338, 112
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_016
+  rotate: true
+  xy: 2, 13
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_017
+  rotate: true
+  xy: 114, 10
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_018
+  rotate: true
+  xy: 226, 2
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+1/bao_019
+  rotate: true
+  xy: 338, 2
+  size: 108, 110
+  orig: 108, 110
+  offset: 0, 0
+  index: -1
+guang2_000
+  rotate: false
+  xy: 2, 476
+  size: 61, 61
+  orig: 65, 65
+  offset: 2, 2
+  index: -1

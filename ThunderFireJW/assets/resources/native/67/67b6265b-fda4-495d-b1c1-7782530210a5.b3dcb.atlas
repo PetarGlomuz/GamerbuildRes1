@@ -1,0 +1,146 @@
+
+SuoDingkuang.png
+size: 981,809
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/SDK/LZ_000
+  rotate: false
+  xy: 733, 432
+  size: 207, 168
+  orig: 220, 200
+  offset: 7, 15
+  index: -1
+images/SDK/LZ_001
+  rotate: true
+  xy: 522, 602
+  size: 205, 168
+  orig: 220, 200
+  offset: 8, 15
+  index: -1
+images/SDK/LZ_002
+  rotate: true
+  xy: 637, 16
+  size: 205, 170
+  orig: 220, 200
+  offset: 8, 14
+  index: -1
+images/SDK/LZ_003
+  rotate: true
+  xy: 809, 602
+  size: 205, 170
+  orig: 220, 200
+  offset: 8, 14
+  index: -1
+images/SDK/LZ_004
+  rotate: true
+  xy: 733, 227
+  size: 203, 170
+  orig: 220, 200
+  offset: 9, 14
+  index: -1
+images/SDK/LZ_005
+  rotate: true
+  xy: 809, 22
+  size: 203, 170
+  orig: 220, 200
+  offset: 9, 14
+  index: -1
+images/SDK/LZ_006
+  rotate: false
+  xy: 522, 430
+  size: 201, 170
+  orig: 220, 200
+  offset: 10, 14
+  index: -1
+images/SDK/LZ_007
+  rotate: false
+  xy: 2, 2
+  size: 211, 170
+  orig: 220, 200
+  offset: 5, 14
+  index: -1
+images/SDK/LZ_008
+  rotate: true
+  xy: 176, 174
+  size: 211, 168
+  orig: 220, 200
+  offset: 5, 15
+  index: -1
+images/SDK/LZ_009
+  rotate: false
+  xy: 215, 4
+  size: 211, 168
+  orig: 220, 200
+  offset: 5, 15
+  index: -1
+images/SDK/LZ_010
+  rotate: false
+  xy: 520, 223
+  size: 211, 166
+  orig: 220, 200
+  offset: 5, 16
+  index: -1
+images/SDK/LZ_011
+  rotate: true
+  xy: 176, 596
+  size: 211, 170
+  orig: 220, 200
+  offset: 5, 14
+  index: -1
+images/SDK/LZ_012
+  rotate: true
+  xy: 2, 596
+  size: 211, 172
+  orig: 220, 200
+  offset: 5, 13
+  index: -1
+images/SDK/LZ_013
+  rotate: true
+  xy: 2, 385
+  size: 209, 172
+  orig: 220, 200
+  offset: 6, 13
+  index: -1
+images/SDK/LZ_014
+  rotate: true
+  xy: 2, 174
+  size: 209, 172
+  orig: 220, 200
+  offset: 6, 13
+  index: -1
+images/SDK/LZ_015
+  rotate: true
+  xy: 176, 387
+  size: 207, 172
+  orig: 220, 200
+  offset: 7, 13
+  index: -1
+images/SDK/LZ_016
+  rotate: true
+  xy: 346, 180
+  size: 205, 172
+  orig: 220, 200
+  offset: 8, 13
+  index: -1
+images/SDK/LZ_017
+  rotate: true
+  xy: 348, 600
+  size: 207, 172
+  orig: 220, 200
+  offset: 7, 13
+  index: -1
+images/SDK/LZ_018
+  rotate: false
+  xy: 428, 8
+  size: 207, 170
+  orig: 220, 200
+  offset: 7, 14
+  index: -1
+images/SDK/LZ_019
+  rotate: true
+  xy: 350, 391
+  size: 207, 170
+  orig: 220, 200
+  offset: 7, 14
+  index: -1

@@ -1,0 +1,216 @@
+
+tc_respin_end_text_EN.png
+size: 792,537
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+collet_EN
+  rotate: false
+  xy: 316, 51
+  size: 201, 40
+  orig: 201, 40
+  offset: 0, 0
+  index: -1
+con_1/con_00
+  rotate: false
+  xy: 670, 62
+  size: 110, 37
+  orig: 392, 52
+  offset: 3, 8
+  index: -1
+con_1/con_01
+  rotate: false
+  xy: 657, 313
+  size: 134, 38
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_02
+  rotate: true
+  xy: 711, 116
+  size: 158, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_03
+  rotate: true
+  xy: 670, 101
+  size: 173, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_04
+  rotate: false
+  xy: 303, 10
+  size: 201, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_05
+  rotate: false
+  xy: 356, 131
+  size: 236, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_06
+  rotate: false
+  xy: 386, 271
+  size: 257, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_07
+  rotate: false
+  xy: 387, 312
+  size: 268, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_08
+  rotate: false
+  xy: 1, 46
+  size: 300, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_09
+  rotate: false
+  xy: 1, 126
+  size: 327, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_10
+  rotate: false
+  xy: 1, 167
+  size: 353, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_11
+  rotate: false
+  xy: 1, 249
+  size: 379, 39
+  orig: 392, 52
+  offset: 3, 7
+  index: -1
+con_1/con_12
+  rotate: false
+  xy: 1, 331
+  size: 384, 39
+  orig: 392, 52
+  offset: 4, 7
+  index: -1
+con_1/con_13
+  rotate: false
+  xy: 1, 290
+  size: 383, 39
+  orig: 392, 52
+  offset: 5, 7
+  index: -1
+con_1/con_14
+  rotate: false
+  xy: 1, 208
+  size: 360, 39
+  orig: 392, 52
+  offset: 29, 7
+  index: -1
+con_1/con_15
+  rotate: false
+  xy: 439, 392
+  size: 332, 38
+  orig: 392, 52
+  offset: 57, 8
+  index: -1
+con_1/con_16
+  rotate: false
+  xy: 1, 87
+  size: 313, 37
+  orig: 392, 52
+  offset: 76, 9
+  index: -1
+con_1/con_17
+  rotate: false
+  xy: 1, 7
+  size: 294, 37
+  orig: 392, 52
+  offset: 95, 9
+  index: -1
+con_1/con_18
+  rotate: false
+  xy: 439, 353
+  size: 269, 37
+  orig: 392, 52
+  offset: 120, 9
+  index: -1
+con_1/con_19
+  rotate: false
+  xy: 363, 172
+  size: 245, 37
+  orig: 392, 52
+  offset: 144, 9
+  index: -1
+con_1/con_20
+  rotate: false
+  xy: 330, 93
+  size: 222, 36
+  orig: 392, 52
+  offset: 167, 10
+  index: -1
+con_1/con_21
+  rotate: true
+  xy: 632, 20
+  size: 189, 36
+  orig: 392, 52
+  offset: 200, 10
+  index: -1
+con_1/con_22
+  rotate: true
+  xy: 594, 1
+  size: 169, 36
+  orig: 392, 52
+  offset: 220, 10
+  index: -1
+con_1/con_23
+  rotate: true
+  xy: 752, 126
+  size: 148, 36
+  orig: 392, 52
+  offset: 241, 10
+  index: -1
+con_1/con_24
+  rotate: false
+  xy: 657, 276
+  size: 123, 35
+  orig: 392, 52
+  offset: 266, 11
+  index: -1
+con_1/con_25
+  rotate: false
+  xy: 670, 25
+  size: 101, 35
+  orig: 392, 52
+  offset: 288, 11
+  index: -1
+congratulations_EN
+  rotate: false
+  xy: 1, 432
+  size: 784, 104
+  orig: 784, 104
+  offset: 0, 0
+  index: -1
+in_respin_bonus_EN
+  rotate: false
+  xy: 1, 372
+  size: 436, 58
+  orig: 436, 58
+  offset: 0, 0
+  index: -1
+you_won_EN
+  rotate: false
+  xy: 382, 211
+  size: 249, 58
+  orig: 249, 58
+  offset: 0, 0
+  index: -1

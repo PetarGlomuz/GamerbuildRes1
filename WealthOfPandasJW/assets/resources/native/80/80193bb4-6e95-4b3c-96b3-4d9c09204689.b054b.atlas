@@ -1,0 +1,48 @@
+
+B_Lsymbol.png
+size: 1852,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 381, 18
+  size: 325, 399
+  orig: 580, 500
+  offset: 130, 45
+  index: -1
+L2
+  rotate: false
+  xy: 1311, 14
+  size: 272, 403
+  orig: 580, 500
+  offset: 154, 46
+  index: -1
+L3
+  rotate: false
+  xy: 708, 2
+  size: 310, 415
+  orig: 580, 500
+  offset: 135, 44
+  index: -1
+L4
+  rotate: false
+  xy: 1585, 16
+  size: 265, 401
+  orig: 580, 500
+  offset: 158, 47
+  index: -1
+L5
+  rotate: false
+  xy: 2, 16
+  size: 377, 401
+  orig: 580, 500
+  offset: 117, 47
+  index: -1
+L6
+  rotate: false
+  xy: 1020, 4
+  size: 289, 413
+  orig: 580, 500
+  offset: 134, 40
+  index: -1

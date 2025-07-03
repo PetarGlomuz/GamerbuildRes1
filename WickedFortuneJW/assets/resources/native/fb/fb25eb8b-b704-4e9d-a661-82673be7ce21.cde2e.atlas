@@ -1,0 +1,20 @@
+
+TC_yfk.png
+size: 1708,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_frame
+  rotate: false
+  xy: 2, 2
+  size: 1127, 219
+  orig: 1129, 221
+  offset: 1, 1
+  index: -1
+yfkfg_00
+  rotate: false
+  xy: 1131, 102
+  size: 575, 119
+  orig: 575, 119
+  offset: 0, 0
+  index: -1

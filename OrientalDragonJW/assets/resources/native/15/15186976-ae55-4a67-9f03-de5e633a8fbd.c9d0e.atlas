@@ -1,0 +1,146 @@
+
+TC_BG_jiesuankuang.png
+size: 990,546
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGjiesuankuang
+  rotate: false
+  xy: 2, 330
+  size: 985, 214
+  orig: 985, 214
+  offset: 0, 0
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_01
+  rotate: false
+  xy: 808, 2
+  size: 70, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_02
+  rotate: false
+  xy: 852, 84
+  size: 100, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_03
+  rotate: false
+  xy: 858, 248
+  size: 130, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_04
+  rotate: false
+  xy: 807, 166
+  size: 161, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_05
+  rotate: false
+  xy: 521, 84
+  size: 191, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_06
+  rotate: false
+  xy: 584, 166
+  size: 221, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_07
+  rotate: false
+  xy: 2, 2
+  size: 251, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_08
+  rotate: false
+  xy: 300, 166
+  size: 282, 80
+  orig: 394, 86
+  offset: 0, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_09
+  rotate: false
+  xy: 2, 166
+  size: 296, 80
+  orig: 394, 86
+  offset: 16, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_10
+  rotate: false
+  xy: 301, 248
+  size: 296, 80
+  orig: 394, 86
+  offset: 46, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_11
+  rotate: false
+  xy: 2, 248
+  size: 297, 80
+  orig: 394, 86
+  offset: 76, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_12
+  rotate: false
+  xy: 2, 84
+  size: 288, 80
+  orig: 394, 86
+  offset: 106, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_13
+  rotate: false
+  xy: 599, 248
+  size: 257, 80
+  orig: 394, 86
+  offset: 137, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_14
+  rotate: false
+  xy: 292, 84
+  size: 227, 80
+  orig: 394, 86
+  offset: 167, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_15
+  rotate: false
+  xy: 255, 2
+  size: 197, 80
+  orig: 394, 86
+  offset: 197, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_16
+  rotate: false
+  xy: 454, 2
+  size: 166, 80
+  orig: 394, 86
+  offset: 228, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_17
+  rotate: false
+  xy: 714, 84
+  size: 136, 80
+  orig: 394, 86
+  offset: 258, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_18
+  rotate: false
+  xy: 622, 2
+  size: 106, 80
+  orig: 394, 86
+  offset: 288, 6
+  index: -1
+sg_BGjiesuankuang/sg_BGjiesuankuang_19
+  rotate: false
+  xy: 730, 2
+  size: 76, 80
+  orig: 394, 86
+  offset: 318, 6
+  index: -1

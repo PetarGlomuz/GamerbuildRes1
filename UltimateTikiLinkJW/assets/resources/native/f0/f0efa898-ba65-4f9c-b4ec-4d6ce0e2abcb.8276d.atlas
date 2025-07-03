@@ -1,0 +1,76 @@
+
+Ball1.png
+size: 1640,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/b1/Ball1_001
+  rotate: false
+  xy: 184, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_002
+  rotate: false
+  xy: 366, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_003
+  rotate: false
+  xy: 548, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_004
+  rotate: false
+  xy: 730, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_005
+  rotate: false
+  xy: 912, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_006
+  rotate: false
+  xy: 1094, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_007
+  rotate: false
+  xy: 1276, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_008
+  rotate: false
+  xy: 1458, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_009
+  rotate: false
+  xy: 2, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1
+images/b1/Ball1_000
+  rotate: false
+  xy: 2, 2
+  size: 180, 140
+  orig: 180, 140
+  offset: 0, 0
+  index: -1

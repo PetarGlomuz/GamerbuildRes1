@@ -1,0 +1,69 @@
+
+Unlock2.png
+size: 650,74
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/h2/H2_000
+  rotate: false
+  xy: 74, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_001
+  rotate: false
+  xy: 146, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_002
+  rotate: false
+  xy: 218, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_003
+  rotate: false
+  xy: 290, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_004
+  rotate: false
+  xy: 362, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_005
+  rotate: false
+  xy: 434, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_006
+  rotate: false
+  xy: 506, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_007
+  rotate: false
+  xy: 578, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/h2/H2_008
+  rotate: false
+  xy: 2, 2
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1

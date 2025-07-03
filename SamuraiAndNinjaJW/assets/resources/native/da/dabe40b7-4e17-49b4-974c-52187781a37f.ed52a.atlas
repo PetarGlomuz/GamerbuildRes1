@@ -1,0 +1,146 @@
+
+Bonus_qizi_wushi.png
+size: 1653,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h/h_00
+  rotate: false
+  xy: 1482, 148
+  size: 84, 316
+  orig: 240, 450
+  offset: 78, 67
+  index: -1
+h/h_01
+  rotate: false
+  xy: 1383, 137
+  size: 97, 327
+  orig: 240, 450
+  offset: 70, 64
+  index: -1
+h/h_02
+  rotate: false
+  xy: 1047, 134
+  size: 101, 330
+  orig: 240, 450
+  offset: 66, 64
+  index: -1
+h/h_03
+  rotate: false
+  xy: 822, 131
+  size: 106, 333
+  orig: 240, 450
+  offset: 61, 64
+  index: -1
+h/h_04
+  rotate: false
+  xy: 591, 130
+  size: 111, 334
+  orig: 240, 450
+  offset: 56, 63
+  index: -1
+h/h_05
+  rotate: false
+  xy: 356, 128
+  size: 116, 336
+  orig: 240, 450
+  offset: 51, 63
+  index: -1
+h/h_06
+  rotate: false
+  xy: 239, 126
+  size: 115, 338
+  orig: 240, 450
+  offset: 51, 64
+  index: -1
+h/h_07
+  rotate: false
+  xy: 121, 125
+  size: 116, 339
+  orig: 240, 450
+  offset: 51, 64
+  index: -1
+h/h_08
+  rotate: false
+  xy: 2, 124
+  size: 117, 340
+  orig: 240, 450
+  offset: 50, 64
+  index: -1
+h/h_09
+  rotate: false
+  xy: 474, 128
+  size: 115, 336
+  orig: 240, 450
+  offset: 51, 64
+  index: -1
+h/h_10
+  rotate: false
+  xy: 704, 131
+  size: 116, 333
+  orig: 240, 450
+  offset: 50, 64
+  index: -1
+h/h_11
+  rotate: true
+  xy: 2, 2
+  size: 120, 331
+  orig: 240, 450
+  offset: 47, 65
+  index: -1
+h/h_12
+  rotate: false
+  xy: 930, 132
+  size: 115, 332
+  orig: 240, 450
+  offset: 51, 66
+  index: -1
+h/h_13
+  rotate: false
+  xy: 1150, 135
+  size: 114, 329
+  orig: 240, 450
+  offset: 52, 68
+  index: -1
+h/h_14
+  rotate: false
+  xy: 1266, 136
+  size: 115, 328
+  orig: 240, 450
+  offset: 52, 69
+  index: -1
+h/h_15
+  rotate: true
+  xy: 978, 13
+  size: 117, 324
+  orig: 240, 450
+  offset: 49, 71
+  index: -1
+h/h_16
+  rotate: true
+  xy: 335, 5
+  size: 119, 321
+  orig: 240, 450
+  offset: 48, 72
+  index: -1
+h/h_17
+  rotate: true
+  xy: 658, 10
+  size: 118, 318
+  orig: 240, 450
+  offset: 46, 74
+  index: -1
+h/h_18
+  rotate: true
+  xy: 1304, 22
+  size: 112, 305
+  orig: 240, 450
+  offset: 49, 86
+  index: -1
+hongsegezi01
+  rotate: false
+  xy: 1568, 149
+  size: 83, 315
+  orig: 83, 315
+  offset: 0, 0
+  index: -1

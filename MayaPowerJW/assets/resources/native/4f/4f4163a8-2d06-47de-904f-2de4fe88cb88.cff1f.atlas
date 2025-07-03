@@ -1,0 +1,181 @@
+
+MapProgress_JieSuo.png
+size: 395,520
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jiesuo/jindutiaojiesuo_000
+  rotate: false
+  xy: 302, 420
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jiesuo/jindutiaojiesuo_012
+  rotate: false
+  xy: 302, 420
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_011
+  rotate: false
+  xy: 302, 420
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jiesuo/jindutiaojiesuo_001
+  rotate: false
+  xy: 2, 2
+  size: 284, 29
+  orig: 320, 60
+  offset: 18, 16
+  index: -1
+images/jiesuo/jindutiaojiesuo_002
+  rotate: true
+  xy: 204, 40
+  size: 290, 36
+  orig: 320, 60
+  offset: 16, 13
+  index: -1
+images/jiesuo/jindutiaojiesuo_003
+  rotate: true
+  xy: 165, 38
+  size: 292, 37
+  orig: 320, 60
+  offset: 15, 12
+  index: -1
+images/jiesuo/jindutiaojiesuo_004
+  rotate: true
+  xy: 126, 37
+  size: 293, 37
+  orig: 320, 60
+  offset: 15, 12
+  index: -1
+images/jiesuo/jindutiaojiesuo_005
+  rotate: true
+  xy: 47, 33
+  size: 297, 40
+  orig: 320, 60
+  offset: 13, 11
+  index: -1
+images/jiesuo/jindutiaojiesuo_006
+  rotate: true
+  xy: 2, 33
+  size: 297, 43
+  orig: 320, 60
+  offset: 12, 9
+  index: -1
+images/jiesuo/jindutiaojiesuo_007
+  rotate: false
+  xy: 2, 379
+  size: 298, 42
+  orig: 320, 60
+  offset: 10, 9
+  index: -1
+images/jiesuo/jindutiaojiesuo_008
+  rotate: false
+  xy: 2, 332
+  size: 297, 45
+  orig: 320, 60
+  offset: 12, 7
+  index: -1
+images/jiesuo/jindutiaojiesuo_009
+  rotate: false
+  xy: 2, 423
+  size: 301, 47
+  orig: 320, 60
+  offset: 10, 6
+  index: -1
+images/jiesuo/jindutiaojiesuo_010
+  rotate: false
+  xy: 2, 472
+  size: 303, 46
+  orig: 320, 60
+  offset: 9, 5
+  index: -1
+images/jiesuo/jindutiaojiesuo_011
+  rotate: true
+  xy: 89, 33
+  size: 297, 35
+  orig: 320, 60
+  offset: 12, 8
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_000
+  rotate: false
+  xy: 302, 362
+  size: 88, 44
+  orig: 120, 80
+  offset: 16, 18
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_001
+  rotate: false
+  xy: 288, 171
+  size: 100, 53
+  orig: 120, 80
+  offset: 6, 17
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_002
+  rotate: false
+  xy: 288, 226
+  size: 103, 49
+  orig: 120, 80
+  offset: 8, 15
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_003
+  rotate: false
+  xy: 288, 277
+  size: 103, 53
+  orig: 120, 80
+  offset: 7, 11
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_004
+  rotate: true
+  xy: 307, 411
+  size: 107, 54
+  orig: 120, 80
+  offset: 6, 10
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_005
+  rotate: false
+  xy: 281, 117
+  size: 110, 52
+  orig: 120, 80
+  offset: 5, 10
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_006
+  rotate: false
+  xy: 281, 66
+  size: 110, 49
+  orig: 120, 80
+  offset: 5, 10
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_007
+  rotate: true
+  xy: 242, 220
+  size: 110, 44
+  orig: 120, 80
+  offset: 5, 10
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_008
+  rotate: true
+  xy: 242, 108
+  size: 110, 37
+  orig: 120, 80
+  offset: 5, 11
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_009
+  rotate: true
+  xy: 363, 408
+  size: 110, 30
+  orig: 120, 80
+  offset: 5, 10
+  index: -1
+images/suo/JinDuTiaoJiesuo_S_010
+  rotate: false
+  xy: 242, 45
+  size: 107, 19
+  orig: 120, 80
+  offset: 8, 10
+  index: -1

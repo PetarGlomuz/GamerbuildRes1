@@ -1,0 +1,90 @@
+
+ShuZiChuXian.png
+size: 153,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sh/sh_01
+  rotate: false
+  xy: 94, 83
+  size: 54, 23
+  orig: 55, 25
+  offset: 1, 0
+  index: -1
+images/sh/sh_02
+  rotate: false
+  xy: 94, 56
+  size: 51, 25
+  orig: 55, 25
+  offset: 3, 0
+  index: -1
+images/sh/sh_03
+  rotate: false
+  xy: 2, 46
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+images/sh/sh_04
+  rotate: false
+  xy: 2, 19
+  size: 53, 25
+  orig: 55, 25
+  offset: 1, 0
+  index: -1
+images/sh/sh_05
+  rotate: false
+  xy: 94, 108
+  size: 54, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+images/sh/sh_06
+  rotate: true
+  xy: 59, 20
+  size: 51, 25
+  orig: 55, 25
+  offset: 2, 0
+  index: -1
+images/sh/sh_07
+  rotate: false
+  xy: 86, 2
+  size: 48, 25
+  orig: 55, 25
+  offset: 4, 0
+  index: -1
+images/sh/sh_08
+  rotate: false
+  xy: 86, 29
+  size: 50, 25
+  orig: 55, 25
+  offset: 3, 0
+  index: -1
+images/sh/sh_09
+  rotate: false
+  xy: 2, 4
+  size: 47, 13
+  orig: 55, 25
+  offset: 6, 8
+  index: -1
+images/sh/sh_10
+  rotate: false
+  xy: 150, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/sh/sh_00
+  rotate: false
+  xy: 150, 132
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/shg_00
+  rotate: false
+  xy: 2, 73
+  size: 90, 60
+  orig: 90, 65
+  offset: 0, 3
+  index: -1

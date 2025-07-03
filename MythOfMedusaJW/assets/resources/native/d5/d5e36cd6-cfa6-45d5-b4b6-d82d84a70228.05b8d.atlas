@@ -1,0 +1,181 @@
+
+NG_SC.png
+size: 1022,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chi_00000
+  rotate: true
+  xy: 827, 97
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+chibang2
+  rotate: true
+  xy: 312, 49
+  size: 153, 214
+  orig: 153, 214
+  offset: 0, 0
+  index: -1
+di
+  rotate: false
+  xy: 528, 49
+  size: 149, 153
+  orig: 149, 153
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 728, 5
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_02
+  rotate: false
+  xy: 260, 2
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_04
+  rotate: false
+  xy: 312, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_06
+  rotate: false
+  xy: 364, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_08
+  rotate: false
+  xy: 416, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_10
+  rotate: false
+  xy: 468, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_12
+  rotate: false
+  xy: 520, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_14
+  rotate: false
+  xy: 572, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_16
+  rotate: false
+  xy: 624, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_18
+  rotate: false
+  xy: 676, 4
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+ma_00000
+  rotate: true
+  xy: 794, 7
+  size: 62, 79
+  orig: 62, 79
+  offset: 0, 0
+  index: -1
+mahou
+  rotate: false
+  xy: 965, 29
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+mao
+  rotate: false
+  xy: 47, 21
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+mashen
+  rotate: false
+  xy: 916, 100
+  size: 77, 102
+  orig: 77, 102
+  offset: 0, 0
+  index: -1
+matou
+  rotate: false
+  xy: 875, 2
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+qianmao
+  rotate: false
+  xy: 2, 2
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+tu2_00
+  rotate: false
+  xy: 161, 47
+  size: 149, 155
+  orig: 149, 155
+  offset: 0, 0
+  index: -1
+tu_00
+  rotate: true
+  xy: 2, 39
+  size: 163, 157
+  orig: 163, 157
+  offset: 0, 0
+  index: -1
+ychi
+  rotate: false
+  xy: 679, 71
+  size: 72, 131
+  orig: 72, 131
+  offset: 0, 0
+  index: -1
+ychigen
+  rotate: false
+  xy: 923, 2
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+zchi
+  rotate: false
+  xy: 753, 71
+  size: 72, 131
+  orig: 72, 131
+  offset: 0, 0
+  index: -1
+zchigen
+  rotate: true
+  xy: 161, 2
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+JDT_JieSuo.png
+size: 216,985
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/js/jtjs_001
+  rotate: true
+  xy: 74, 658
+  size: 325, 68
+  orig: 330, 70
+  offset: 5, 2
+  index: -1
+images/js/jtjs_002
+  rotate: true
+  xy: 2, 657
+  size: 326, 70
+  orig: 330, 70
+  offset: 4, 0
+  index: -1
+images/js/jtjs_003
+  rotate: true
+  xy: 2, 329
+  size: 326, 70
+  orig: 330, 70
+  offset: 4, 0
+  index: -1
+images/js/jtjs_004
+  rotate: true
+  xy: 2, 5
+  size: 322, 70
+  orig: 330, 70
+  offset: 8, 0
+  index: -1
+images/js/jtjs_005
+  rotate: true
+  xy: 144, 666
+  size: 317, 70
+  orig: 330, 70
+  offset: 8, 0
+  index: -1
+images/js/jtjs_006
+  rotate: true
+  xy: 74, 340
+  size: 316, 66
+  orig: 330, 70
+  offset: 9, 2
+  index: -1
+images/js/jtjs_007
+  rotate: true
+  xy: 74, 23
+  size: 315, 64
+  orig: 330, 70
+  offset: 11, 1
+  index: -1
+images/js/jtjs_008
+  rotate: true
+  xy: 142, 352
+  size: 304, 60
+  orig: 330, 70
+  offset: 12, 3
+  index: -1
+images/js/jtjs_009
+  rotate: true
+  xy: 140, 96
+  size: 242, 54
+  orig: 330, 70
+  offset: 34, 4
+  index: -1
+images/js/jtjs_010
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/js/jtjs_000
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

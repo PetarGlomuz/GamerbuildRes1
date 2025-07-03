@@ -1,0 +1,153 @@
+
+TC_freegames.png
+size: 1666,144
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2/2_00
+  rotate: false
+  xy: 1562, 11
+  size: 76, 42
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_01
+  rotate: false
+  xy: 1563, 100
+  size: 101, 42
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_02
+  rotate: false
+  xy: 1368, 9
+  size: 116, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_03
+  rotate: false
+  xy: 940, 9
+  size: 151, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_04
+  rotate: false
+  xy: 591, 9
+  size: 175, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_05
+  rotate: false
+  xy: 1362, 99
+  size: 199, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_06
+  rotate: false
+  xy: 1135, 99
+  size: 225, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_07
+  rotate: false
+  xy: 883, 99
+  size: 250, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_08
+  rotate: false
+  xy: 294, 2
+  size: 273, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_09
+  rotate: false
+  xy: 2, 2
+  size: 290, 43
+  orig: 300, 49
+  offset: 4, 2
+  index: -1
+2/2_10
+  rotate: false
+  xy: 591, 99
+  size: 290, 43
+  orig: 300, 49
+  offset: 5, 2
+  index: -1
+2/2_11
+  rotate: false
+  xy: 591, 54
+  size: 271, 43
+  orig: 300, 49
+  offset: 24, 2
+  index: -1
+2/2_12
+  rotate: false
+  xy: 864, 54
+  size: 247, 43
+  orig: 300, 49
+  offset: 49, 2
+  index: -1
+2/2_13
+  rotate: false
+  xy: 1113, 54
+  size: 223, 43
+  orig: 300, 49
+  offset: 73, 2
+  index: -1
+2/2_14
+  rotate: false
+  xy: 1338, 54
+  size: 198, 43
+  orig: 300, 49
+  offset: 98, 2
+  index: -1
+2/2_15
+  rotate: false
+  xy: 768, 9
+  size: 170, 43
+  orig: 300, 49
+  offset: 126, 2
+  index: -1
+2/2_16
+  rotate: false
+  xy: 1093, 9
+  size: 148, 43
+  orig: 300, 49
+  offset: 148, 2
+  index: -1
+2/2_17
+  rotate: false
+  xy: 1243, 9
+  size: 123, 43
+  orig: 300, 49
+  offset: 173, 2
+  index: -1
+2/2_18
+  rotate: false
+  xy: 1563, 55
+  size: 99, 43
+  orig: 300, 49
+  offset: 197, 2
+  index: -1
+2/2_19
+  rotate: false
+  xy: 1486, 9
+  size: 74, 43
+  orig: 300, 49
+  offset: 222, 2
+  index: -1
+CONGRATULATIONS_en
+  rotate: false
+  xy: 2, 47
+  size: 587, 95
+  orig: 588, 95
+  offset: 1, 0
+  index: -1

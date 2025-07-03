@@ -1,0 +1,188 @@
+
+TC_FG_congratulations.png
+size: 723,721
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/conzi
+  rotate: false
+  xy: 2, 644
+  size: 719, 75
+  orig: 719, 75
+  offset: 0, 0
+  index: -1
+images/g/g_00
+  rotate: false
+  xy: 550, 329
+  size: 101, 61
+  orig: 719, 75
+  offset: 7, 10
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 555, 455
+  size: 134, 61
+  orig: 719, 75
+  offset: 7, 10
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 556, 518
+  size: 165, 61
+  orig: 719, 75
+  offset: 7, 10
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 250, 77
+  size: 198, 61
+  orig: 719, 75
+  offset: 7, 10
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 269, 140
+  size: 227, 61
+  orig: 719, 75
+  offset: 7, 10
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 274, 203
+  size: 259, 61
+  orig: 719, 75
+  offset: 9, 10
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 2, 392
+  size: 274, 61
+  orig: 719, 75
+  offset: 23, 10
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 275, 266
+  size: 269, 61
+  orig: 719, 75
+  offset: 61, 10
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 279, 455
+  size: 274, 61
+  orig: 719, 75
+  offset: 86, 10
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 518
+  size: 275, 61
+  orig: 719, 75
+  offset: 119, 10
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 2, 329
+  size: 273, 61
+  orig: 719, 75
+  offset: 151, 10
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 2, 266
+  size: 271, 61
+  orig: 719, 75
+  offset: 181, 10
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 2, 203
+  size: 270, 61
+  orig: 719, 75
+  offset: 213, 10
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 2, 140
+  size: 265, 61
+  orig: 719, 75
+  offset: 251, 10
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 278, 392
+  size: 272, 61
+  orig: 719, 75
+  offset: 276, 10
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 280, 581
+  size: 275, 61
+  orig: 719, 75
+  offset: 308, 10
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 2, 455
+  size: 275, 61
+  orig: 719, 75
+  offset: 339, 10
+  index: -1
+images/g/g_17
+  rotate: false
+  xy: 279, 518
+  size: 275, 61
+  orig: 719, 75
+  offset: 373, 10
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 2, 581
+  size: 276, 61
+  orig: 719, 75
+  offset: 403, 10
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 277, 329
+  size: 271, 61
+  orig: 719, 75
+  offset: 438, 10
+  index: -1
+images/g/g_20
+  rotate: false
+  xy: 2, 77
+  size: 246, 61
+  orig: 719, 75
+  offset: 466, 10
+  index: -1
+images/g/g_21
+  rotate: false
+  xy: 2, 14
+  size: 215, 61
+  orig: 719, 75
+  offset: 497, 10
+  index: -1
+images/g/g_22
+  rotate: false
+  xy: 219, 14
+  size: 182, 61
+  orig: 719, 75
+  offset: 530, 10
+  index: -1
+images/g/g_23
+  rotate: false
+  xy: 557, 581
+  size: 152, 61
+  orig: 719, 75
+  offset: 560, 10
+  index: -1
+images/g/g_24
+  rotate: false
+  xy: 552, 392
+  size: 117, 61
+  orig: 719, 75
+  offset: 595, 10
+  index: -1

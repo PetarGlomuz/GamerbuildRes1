@@ -1,0 +1,146 @@
+
+TingPai.png
+size: 656,1149
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TP/TingP_000
+  rotate: false
+  xy: 260, 12
+  size: 129, 278
+  orig: 150, 300
+  offset: 10, 12
+  index: -1
+images/TP/TingP_001
+  rotate: false
+  xy: 391, 16
+  size: 129, 277
+  orig: 150, 300
+  offset: 10, 14
+  index: -1
+images/TP/TingP_002
+  rotate: false
+  xy: 522, 17
+  size: 128, 276
+  orig: 150, 300
+  offset: 10, 13
+  index: -1
+images/TP/TingP_003
+  rotate: false
+  xy: 133, 292
+  size: 127, 284
+  orig: 150, 300
+  offset: 11, 10
+  index: -1
+images/TP/TingP_004
+  rotate: false
+  xy: 265, 578
+  size: 128, 283
+  orig: 150, 300
+  offset: 10, 8
+  index: -1
+images/TP/TingP_005
+  rotate: false
+  xy: 2, 2
+  size: 126, 285
+  orig: 150, 300
+  offset: 11, 8
+  index: -1
+images/TP/TingP_006
+  rotate: false
+  xy: 396, 864
+  size: 128, 283
+  orig: 150, 300
+  offset: 10, 9
+  index: -1
+images/TP/TingP_007
+  rotate: false
+  xy: 524, 297
+  size: 129, 280
+  orig: 150, 300
+  offset: 9, 10
+  index: -1
+images/TP/TingP_008
+  rotate: false
+  xy: 130, 5
+  size: 128, 282
+  orig: 150, 300
+  offset: 10, 11
+  index: -1
+images/TP/TingP_009
+  rotate: false
+  xy: 394, 295
+  size: 128, 281
+  orig: 150, 300
+  offset: 11, 12
+  index: -1
+images/TP/TingP_010
+  rotate: false
+  xy: 525, 581
+  size: 128, 281
+  orig: 150, 300
+  offset: 11, 12
+  index: -1
+images/TP/TingP_011
+  rotate: false
+  xy: 262, 295
+  size: 130, 281
+  orig: 150, 300
+  offset: 10, 10
+  index: -1
+images/TP/TingP_012
+  rotate: false
+  xy: 133, 578
+  size: 130, 283
+  orig: 150, 300
+  offset: 10, 8
+  index: -1
+images/TP/TingP_013
+  rotate: false
+  xy: 2, 289
+  size: 129, 283
+  orig: 150, 300
+  offset: 10, 7
+  index: -1
+images/TP/TingP_014
+  rotate: false
+  xy: 133, 863
+  size: 130, 284
+  orig: 150, 300
+  offset: 10, 8
+  index: -1
+images/TP/TingP_015
+  rotate: false
+  xy: 2, 861
+  size: 129, 286
+  orig: 150, 300
+  offset: 11, 8
+  index: -1
+images/TP/TingP_016
+  rotate: false
+  xy: 2, 574
+  size: 129, 285
+  orig: 150, 300
+  offset: 11, 8
+  index: -1
+images/TP/TingP_017
+  rotate: false
+  xy: 265, 863
+  size: 129, 284
+  orig: 150, 300
+  offset: 11, 9
+  index: -1
+images/TP/TingP_018
+  rotate: false
+  xy: 395, 579
+  size: 128, 282
+  orig: 150, 300
+  offset: 12, 11
+  index: -1
+images/TP/TingP_019
+  rotate: false
+  xy: 526, 865
+  size: 128, 282
+  orig: 150, 300
+  offset: 11, 12
+  index: -1

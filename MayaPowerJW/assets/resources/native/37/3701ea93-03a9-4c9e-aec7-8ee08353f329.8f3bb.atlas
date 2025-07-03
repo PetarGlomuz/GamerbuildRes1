@@ -1,0 +1,307 @@
+
+FGPosition.png
+size: 1599,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/H1111112
+  rotate: true
+  xy: 2, 11
+  size: 160, 148
+  orig: 160, 148
+  offset: 0, 0
+  index: -1
+images/K_000
+  rotate: false
+  xy: 565, 3
+  size: 82, 73
+  orig: 82, 74
+  offset: 0, 1
+  index: -1
+images/Star_000
+  rotate: false
+  xy: 1421, 14
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_000
+  rotate: false
+  xy: 20, 8
+  size: 1, 1
+  orig: 96, 84
+  offset: 10, 9
+  index: -1
+images/daiji/daiji_001
+  rotate: true
+  xy: 1497, 58
+  size: 9, 14
+  orig: 96, 84
+  offset: 9, 9
+  index: -1
+images/daiji/daiji_002
+  rotate: false
+  xy: 1476, 57
+  size: 19, 28
+  orig: 96, 84
+  offset: 9, 8
+  index: -1
+images/daiji/daiji_003
+  rotate: false
+  xy: 1476, 6
+  size: 33, 49
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_004
+  rotate: false
+  xy: 1380, 25
+  size: 39, 60
+  orig: 96, 84
+  offset: 1, 0
+  index: -1
+images/daiji/daiji_005
+  rotate: false
+  xy: 1283, 9
+  size: 49, 76
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_006
+  rotate: false
+  xy: 1166, 8
+  size: 58, 77
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_007
+  rotate: true
+  xy: 152, 3
+  size: 63, 82
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_008
+  rotate: true
+  xy: 479, 4
+  size: 72, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_009
+  rotate: true
+  xy: 1080, 6
+  size: 79, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_010
+  rotate: false
+  xy: 1415, 87
+  size: 86, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_011
+  rotate: false
+  xy: 1237, 87
+  size: 87, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_012
+  rotate: false
+  xy: 962, 87
+  size: 92, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_013
+  rotate: false
+  xy: 864, 87
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+images/daiji/daiji_014
+  rotate: false
+  xy: 1147, 87
+  size: 88, 84
+  orig: 96, 84
+  offset: 8, 0
+  index: -1
+images/daiji/daiji_015
+  rotate: false
+  xy: 1326, 87
+  size: 87, 84
+  orig: 96, 84
+  offset: 9, 0
+  index: -1
+images/daiji/daiji_016
+  rotate: true
+  xy: 994, 3
+  size: 82, 84
+  orig: 96, 84
+  offset: 14, 0
+  index: -1
+images/daiji/daiji_017
+  rotate: true
+  xy: 393, 2
+  size: 74, 84
+  orig: 96, 84
+  offset: 22, 0
+  index: -1
+images/daiji/daiji_018
+  rotate: true
+  xy: 817, 11
+  size: 67, 84
+  orig: 96, 84
+  offset: 29, 0
+  index: -1
+images/daiji/daiji_019
+  rotate: true
+  xy: 236, 5
+  size: 61, 77
+  orig: 96, 84
+  offset: 35, 7
+  index: -1
+images/daiji/daiji_020
+  rotate: false
+  xy: 1226, 8
+  size: 55, 77
+  orig: 96, 84
+  offset: 41, 7
+  index: -1
+images/daiji/daiji_021
+  rotate: false
+  xy: 1334, 9
+  size: 44, 76
+  orig: 96, 84
+  offset: 52, 8
+  index: -1
+images/daiji/daiji_022
+  rotate: true
+  xy: 1421, 48
+  size: 37, 53
+  orig: 96, 84
+  offset: 59, 31
+  index: -1
+images/daiji/daiji_023
+  rotate: true
+  xy: 1380, 2
+  size: 21, 39
+  orig: 96, 84
+  offset: 67, 38
+  index: -1
+images/daiji/daiji_024
+  rotate: false
+  xy: 1421, 26
+  size: 12, 20
+  orig: 96, 84
+  offset: 76, 57
+  index: -1
+images/daiji/daiji_025
+  rotate: true
+  xy: 2, 3
+  size: 6, 16
+  orig: 96, 84
+  offset: 82, 61
+  index: -1
+images/dianji/dianji_000
+  rotate: false
+  xy: 20, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/dianji/dianji_001
+  rotate: false
+  xy: 315, 3
+  size: 76, 65
+  orig: 104, 100
+  offset: 14, 18
+  index: -1
+images/dianji/dianji_002
+  rotate: false
+  xy: 731, 2
+  size: 84, 76
+  orig: 104, 100
+  offset: 10, 12
+  index: -1
+images/dianji/dianji_003
+  rotate: false
+  xy: 1056, 87
+  size: 89, 84
+  orig: 104, 100
+  offset: 7, 8
+  index: -1
+images/dianji/dianji_004
+  rotate: false
+  xy: 767, 80
+  size: 95, 91
+  orig: 104, 100
+  offset: 4, 4
+  index: -1
+images/dianji/dianji_005
+  rotate: true
+  xy: 251, 70
+  size: 101, 97
+  orig: 104, 100
+  offset: 1, 2
+  index: -1
+images/dianji/dianji_006
+  rotate: true
+  xy: 152, 68
+  size: 103, 97
+  orig: 104, 100
+  offset: 0, 1
+  index: -1
+images/dianji/dianji_007
+  rotate: true
+  xy: 1503, 69
+  size: 102, 94
+  orig: 104, 100
+  offset: 0, 3
+  index: -1
+images/dianji/dianji_008
+  rotate: false
+  xy: 561, 78
+  size: 102, 93
+  orig: 104, 100
+  offset: 1, 4
+  index: -1
+images/dianji/dianji_009
+  rotate: false
+  xy: 350, 78
+  size: 104, 93
+  orig: 104, 100
+  offset: 0, 4
+  index: -1
+images/dianji/dianji_010
+  rotate: false
+  xy: 456, 78
+  size: 103, 93
+  orig: 104, 100
+  offset: 0, 4
+  index: -1
+images/dianji/dianji_011
+  rotate: false
+  xy: 665, 80
+  size: 100, 91
+  orig: 104, 100
+  offset: 2, 5
+  index: -1
+images/dianji/dianji_012
+  rotate: true
+  xy: 903, 4
+  size: 81, 89
+  orig: 104, 100
+  offset: 3, 6
+  index: -1
+images/dianji/dianji_013
+  rotate: true
+  xy: 649, 4
+  size: 72, 80
+  orig: 104, 100
+  offset: 11, 7
+  index: -1

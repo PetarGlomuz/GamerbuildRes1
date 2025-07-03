@@ -1,0 +1,20 @@
+
+guochang_glow.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 5
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+zhezhao
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

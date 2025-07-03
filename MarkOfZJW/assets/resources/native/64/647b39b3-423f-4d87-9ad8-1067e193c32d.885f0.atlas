@@ -1,0 +1,153 @@
+
+Minor.png
+size: 870,552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+minor
+  rotate: false
+  xy: 2, 321
+  size: 481, 229
+  orig: 481, 229
+  offset: 0, 0
+  index: -1
+minor/minor_00
+  rotate: false
+  xy: 746, 49
+  size: 62, 81
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_01
+  rotate: false
+  xy: 660, 16
+  size: 84, 104
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_02
+  rotate: false
+  xy: 622, 122
+  size: 103, 110
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_03
+  rotate: false
+  xy: 536, 2
+  size: 122, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_04
+  rotate: false
+  xy: 707, 439
+  size: 142, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_05
+  rotate: false
+  xy: 383, 2
+  size: 151, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_06
+  rotate: false
+  xy: 199, 2
+  size: 182, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_07
+  rotate: false
+  xy: 2, 2
+  size: 195, 111
+  orig: 253, 136
+  offset: 11, 13
+  index: -1
+minor/minor_08
+  rotate: false
+  xy: 485, 440
+  size: 220, 110
+  orig: 253, 136
+  offset: 12, 14
+  index: -1
+minor/minor_09
+  rotate: false
+  xy: 2, 115
+  size: 226, 101
+  orig: 253, 136
+  offset: 14, 23
+  index: -1
+minor/minor_10
+  rotate: false
+  xy: 2, 218
+  size: 230, 101
+  orig: 253, 136
+  offset: 17, 23
+  index: -1
+minor/minor_11
+  rotate: false
+  xy: 234, 218
+  size: 222, 101
+  orig: 253, 136
+  offset: 26, 23
+  index: -1
+minor/minor_12
+  rotate: false
+  xy: 230, 115
+  size: 219, 101
+  orig: 253, 136
+  offset: 29, 23
+  index: -1
+minor/minor_13
+  rotate: false
+  xy: 485, 337
+  size: 194, 101
+  orig: 253, 136
+  offset: 54, 23
+  index: -1
+minor/minor_14
+  rotate: false
+  xy: 681, 336
+  size: 187, 101
+  orig: 253, 136
+  offset: 61, 23
+  index: -1
+minor/minor_15
+  rotate: false
+  xy: 451, 115
+  size: 169, 101
+  orig: 253, 136
+  offset: 79, 23
+  index: -1
+minor/minor_16
+  rotate: false
+  xy: 458, 218
+  size: 145, 101
+  orig: 253, 136
+  offset: 103, 23
+  index: -1
+minor/minor_17
+  rotate: false
+  xy: 605, 234
+  size: 121, 100
+  orig: 253, 136
+  offset: 127, 24
+  index: -1
+minor/minor_18
+  rotate: false
+  xy: 728, 234
+  size: 111, 100
+  orig: 253, 136
+  offset: 137, 24
+  index: -1
+minor/minor_19
+  rotate: false
+  xy: 727, 132
+  size: 90, 100
+  orig: 253, 136
+  offset: 158, 24
+  index: -1

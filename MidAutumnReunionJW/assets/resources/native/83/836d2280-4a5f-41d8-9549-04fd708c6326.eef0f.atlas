@@ -1,0 +1,139 @@
+
+BG_yinfen.png
+size: 1736,782
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/di/1_00
+  rotate: false
+  xy: 866, 4
+  size: 434, 168
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_01
+  rotate: false
+  xy: 2, 2
+  size: 430, 165
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_02
+  rotate: true
+  xy: 692, 353
+  size: 427, 158
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_03
+  rotate: false
+  xy: 852, 458
+  size: 423, 158
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_04
+  rotate: true
+  xy: 530, 354
+  size: 426, 160
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_05
+  rotate: false
+  xy: 868, 618
+  size: 428, 162
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_06
+  rotate: false
+  xy: 434, 2
+  size: 430, 165
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_07
+  rotate: false
+  xy: 1302, 612
+  size: 432, 168
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_08
+  rotate: true
+  xy: 356, 347
+  size: 433, 172
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_09
+  rotate: true
+  xy: 2, 347
+  size: 433, 177
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_10
+  rotate: false
+  xy: 2, 169
+  size: 434, 176
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_11
+  rotate: true
+  xy: 181, 349
+  size: 431, 173
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_12
+  rotate: false
+  xy: 438, 174
+  size: 428, 171
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_13
+  rotate: true
+  xy: 1277, 186
+  size: 424, 155
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_14
+  rotate: false
+  xy: 1302, 31
+  size: 417, 153
+  orig: 720, 250
+  offset: 154, 42
+  index: -1
+images/di/1_15
+  rotate: false
+  xy: 868, 304
+  size: 398, 152
+  orig: 720, 250
+  offset: 165, 42
+  index: -1
+images/di/1_16
+  rotate: true
+  xy: 1434, 222
+  size: 388, 148
+  orig: 720, 250
+  offset: 169, 42
+  index: -1
+images/di/1_17
+  rotate: false
+  xy: 868, 181
+  size: 376, 121
+  orig: 720, 250
+  offset: 175, 42
+  index: -1
+images/glow_00
+  rotate: false
+  xy: 1584, 482
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

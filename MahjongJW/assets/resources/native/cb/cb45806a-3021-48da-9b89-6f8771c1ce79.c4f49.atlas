@@ -1,0 +1,699 @@
+
+tc_fg_text_EN.png
+size: 2033,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anniu/anniu_00
+  rotate: false
+  xy: 1999, 74
+  size: 32, 40
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_01
+  rotate: true
+  xy: 1529, 2
+  size: 38, 44
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_02
+  rotate: false
+  xy: 1933, 114
+  size: 44, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_03
+  rotate: true
+  xy: 941, 2
+  size: 50, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_04
+  rotate: true
+  xy: 597, 66
+  size: 56, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_05
+  rotate: true
+  xy: 605, 2
+  size: 62, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_06
+  rotate: true
+  xy: 1159, 2
+  size: 69, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_07
+  rotate: false
+  xy: 1922, 66
+  size: 75, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_08
+  rotate: false
+  xy: 1255, 18
+  size: 82, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_09
+  rotate: false
+  xy: 1699, 5
+  size: 88, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_10
+  rotate: false
+  xy: 693, 34
+  size: 95, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_11
+  rotate: false
+  xy: 686, 82
+  size: 102, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_12
+  rotate: false
+  xy: 1699, 53
+  size: 109, 46
+  orig: 154, 54
+  offset: 3, 5
+  index: -1
+anniu/anniu_13
+  rotate: false
+  xy: 1220, 66
+  size: 113, 46
+  orig: 154, 54
+  offset: 6, 5
+  index: -1
+anniu/anniu_14
+  rotate: false
+  xy: 843, 84
+  size: 114, 46
+  orig: 154, 54
+  offset: 12, 5
+  index: -1
+anniu/anniu_15
+  rotate: false
+  xy: 843, 132
+  size: 115, 46
+  orig: 154, 54
+  offset: 19, 5
+  index: -1
+anniu/anniu_16
+  rotate: false
+  xy: 1125, 174
+  size: 115, 46
+  orig: 154, 54
+  offset: 27, 5
+  index: -1
+anniu/anniu_17
+  rotate: false
+  xy: 1818, 114
+  size: 113, 46
+  orig: 154, 54
+  offset: 34, 5
+  index: -1
+anniu/anniu_18
+  rotate: false
+  xy: 1810, 66
+  size: 110, 46
+  orig: 154, 54
+  offset: 41, 5
+  index: -1
+anniu/anniu_19
+  rotate: true
+  xy: 271, 2
+  size: 103, 46
+  orig: 154, 54
+  offset: 48, 5
+  index: -1
+anniu/anniu_20
+  rotate: false
+  xy: 843, 36
+  size: 96, 46
+  orig: 154, 54
+  offset: 55, 5
+  index: -1
+anniu/anniu_21
+  rotate: false
+  xy: 1397, 70
+  size: 89, 46
+  orig: 154, 54
+  offset: 62, 5
+  index: -1
+anniu/anniu_22
+  rotate: false
+  xy: 1397, 22
+  size: 82, 46
+  orig: 154, 54
+  offset: 69, 5
+  index: -1
+anniu/anniu_23
+  rotate: false
+  xy: 570, 124
+  size: 76, 46
+  orig: 154, 54
+  offset: 75, 5
+  index: -1
+anniu/anniu_24
+  rotate: false
+  xy: 1920, 18
+  size: 69, 46
+  orig: 154, 54
+  offset: 82, 5
+  index: -1
+anniu/anniu_25
+  rotate: true
+  xy: 1207, 2
+  size: 62, 46
+  orig: 154, 54
+  offset: 89, 5
+  index: -1
+anniu/anniu_26
+  rotate: false
+  xy: 1339, 30
+  size: 56, 46
+  orig: 154, 54
+  offset: 95, 5
+  index: -1
+anniu/anniu_27
+  rotate: true
+  xy: 989, 2
+  size: 50, 46
+  orig: 154, 54
+  offset: 101, 5
+  index: -1
+anniu/anniu_28
+  rotate: true
+  xy: 1481, 19
+  size: 43, 46
+  orig: 154, 54
+  offset: 108, 5
+  index: -1
+anniu/anniu_29
+  rotate: true
+  xy: 790, 24
+  size: 37, 44
+  orig: 154, 54
+  offset: 114, 5
+  index: -1
+fg_js_collect_EN
+  rotate: false
+  xy: 331, 123
+  size: 237, 47
+  orig: 237, 47
+  offset: 0, 0
+  index: -1
+fg_js_total_win_EN
+  rotate: false
+  xy: 2, 172
+  size: 644, 140
+  orig: 644, 142
+  offset: 0, 1
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_00
+  rotate: true
+  xy: 1978, 163
+  size: 33, 43
+  orig: 321, 71
+  offset: 6, 17
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_01
+  rotate: true
+  xy: 1037, 2
+  size: 50, 44
+  orig: 321, 71
+  offset: 5, 17
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_02
+  rotate: true
+  xy: 790, 63
+  size: 65, 51
+  orig: 321, 71
+  offset: 5, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_03
+  rotate: true
+  xy: 1979, 198
+  size: 77, 52
+  orig: 321, 71
+  offset: 5, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_04
+  rotate: true
+  xy: 1979, 277
+  size: 87, 52
+  orig: 321, 71
+  offset: 5, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_05
+  rotate: false
+  xy: 490, 66
+  size: 105, 55
+  orig: 321, 71
+  offset: 5, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_06
+  rotate: false
+  xy: 1917, 366
+  size: 114, 55
+  orig: 321, 71
+  offset: 5, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_07
+  rotate: false
+  xy: 473, 9
+  size: 130, 55
+  orig: 321, 71
+  offset: 6, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_08
+  rotate: false
+  xy: 1398, 161
+  size: 143, 56
+  orig: 321, 71
+  offset: 6, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_09
+  rotate: false
+  xy: 686, 165
+  size: 155, 56
+  orig: 321, 71
+  offset: 8, 12
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_10
+  rotate: false
+  xy: 1605, 312
+  size: 156, 53
+  orig: 321, 71
+  offset: 21, 15
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_11
+  rotate: false
+  xy: 1763, 308
+  size: 155, 53
+  orig: 321, 71
+  offset: 35, 16
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_12
+  rotate: false
+  xy: 1543, 164
+  size: 142, 53
+  orig: 321, 71
+  offset: 49, 16
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_13
+  rotate: false
+  xy: 1445, 259
+  size: 157, 51
+  orig: 321, 71
+  offset: 61, 18
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_14
+  rotate: false
+  xy: 1763, 255
+  size: 155, 51
+  orig: 321, 71
+  offset: 75, 18
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_15
+  rotate: false
+  xy: 1604, 259
+  size: 157, 51
+  orig: 321, 71
+  offset: 88, 18
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_16
+  rotate: false
+  xy: 1445, 312
+  size: 158, 52
+  orig: 321, 71
+  offset: 101, 17
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_17
+  rotate: false
+  xy: 331, 69
+  size: 157, 52
+  orig: 321, 71
+  offset: 115, 17
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_18
+  rotate: false
+  xy: 1605, 367
+  size: 156, 54
+  orig: 321, 71
+  offset: 130, 15
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_19
+  rotate: false
+  xy: 1445, 366
+  size: 158, 55
+  orig: 321, 71
+  offset: 142, 14
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_20
+  rotate: false
+  xy: 1763, 363
+  size: 152, 58
+  orig: 321, 71
+  offset: 159, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_21
+  rotate: true
+  xy: 1920, 217
+  size: 147, 57
+  orig: 321, 71
+  offset: 168, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_22
+  rotate: false
+  xy: 1687, 159
+  size: 129, 57
+  orig: 321, 71
+  offset: 186, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_23
+  rotate: false
+  xy: 1699, 101
+  size: 106, 56
+  orig: 321, 71
+  offset: 209, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_24
+  rotate: false
+  xy: 1115, 116
+  size: 106, 56
+  orig: 321, 71
+  offset: 210, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_25
+  rotate: false
+  xy: 1818, 162
+  size: 90, 54
+  orig: 321, 71
+  offset: 226, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_26
+  rotate: true
+  xy: 1341, 78
+  size: 77, 54
+  orig: 321, 71
+  offset: 239, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_27
+  rotate: false
+  xy: 1910, 162
+  size: 66, 53
+  orig: 321, 71
+  offset: 250, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_28
+  rotate: false
+  xy: 1488, 64
+  size: 52, 52
+  orig: 321, 71
+  offset: 264, 11
+  index: -1
+fg_js_total_win_sg/fg_js_total_win_sg_29
+  rotate: false
+  xy: 1979, 116
+  size: 37, 45
+  orig: 321, 71
+  offset: 278, 16
+  index: -1
+fg_ks_congratulations_EN
+  rotate: false
+  xy: 2, 314
+  size: 682, 107
+  orig: 682, 107
+  offset: 0, 0
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_00
+  rotate: false
+  xy: 1661, 11
+  size: 31, 31
+  orig: 341, 54
+  offset: 5, 9
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_01
+  rotate: true
+  xy: 1991, 21
+  size: 43, 33
+  orig: 341, 54
+  offset: 5, 9
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_02
+  rotate: true
+  xy: 648, 97
+  size: 60, 36
+  orig: 341, 54
+  offset: 4, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_03
+  rotate: false
+  xy: 1083, 2
+  size: 74, 38
+  orig: 341, 54
+  offset: 4, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_04
+  rotate: false
+  xy: 1542, 42
+  size: 89, 39
+  orig: 341, 54
+  offset: 4, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_05
+  rotate: false
+  xy: 1115, 73
+  size: 103, 41
+  orig: 341, 54
+  offset: 4, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_06
+  rotate: false
+  xy: 1223, 114
+  size: 116, 41
+  orig: 341, 54
+  offset: 5, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_07
+  rotate: false
+  xy: 959, 54
+  size: 131, 41
+  orig: 341, 54
+  offset: 5, 9
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_08
+  rotate: false
+  xy: 1398, 118
+  size: 145, 41
+  orig: 341, 54
+  offset: 5, 9
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_09
+  rotate: false
+  xy: 2, 2
+  size: 152, 39
+  orig: 341, 54
+  offset: 12, 12
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_10
+  rotate: false
+  xy: 319, 29
+  size: 152, 38
+  orig: 341, 54
+  offset: 27, 13
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_11
+  rotate: true
+  xy: 648, 159
+  size: 153, 36
+  orig: 341, 54
+  offset: 41, 15
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_12
+  rotate: false
+  xy: 960, 97
+  size: 153, 35
+  orig: 341, 54
+  offset: 55, 17
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_13
+  rotate: false
+  xy: 1242, 192
+  size: 154, 34
+  orig: 341, 54
+  offset: 69, 18
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_14
+  rotate: false
+  xy: 686, 130
+  size: 155, 33
+  orig: 341, 54
+  offset: 83, 19
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_15
+  rotate: false
+  xy: 1242, 157
+  size: 154, 33
+  orig: 341, 54
+  offset: 98, 19
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_16
+  rotate: false
+  xy: 1545, 83
+  size: 152, 35
+  orig: 341, 54
+  offset: 115, 17
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_17
+  rotate: false
+  xy: 1745, 218
+  size: 155, 35
+  orig: 341, 54
+  offset: 126, 17
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_18
+  rotate: false
+  xy: 1588, 219
+  size: 155, 38
+  orig: 341, 54
+  offset: 141, 14
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_19
+  rotate: false
+  xy: 1429, 219
+  size: 157, 38
+  orig: 341, 54
+  offset: 155, 13
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_20
+  rotate: false
+  xy: 968, 179
+  size: 155, 41
+  orig: 341, 54
+  offset: 172, 10
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_21
+  rotate: false
+  xy: 960, 134
+  size: 151, 43
+  orig: 341, 54
+  offset: 184, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_22
+  rotate: false
+  xy: 1545, 120
+  size: 134, 42
+  orig: 341, 54
+  offset: 202, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_23
+  rotate: false
+  xy: 843, 180
+  size: 123, 41
+  orig: 341, 54
+  offset: 213, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_24
+  rotate: false
+  xy: 1810, 23
+  size: 108, 41
+  orig: 341, 54
+  offset: 228, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_25
+  rotate: false
+  xy: 156, 2
+  size: 93, 39
+  orig: 341, 54
+  offset: 243, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_26
+  rotate: true
+  xy: 653, 2
+  size: 78, 38
+  orig: 341, 54
+  offset: 258, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_27
+  rotate: false
+  xy: 1633, 44
+  size: 64, 37
+  orig: 341, 54
+  offset: 272, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_28
+  rotate: false
+  xy: 1575, 5
+  size: 49, 35
+  orig: 341, 54
+  offset: 287, 8
+  index: -1
+fg_ks_congratulations_sg/fg_ks_congratulations_sg_29
+  rotate: true
+  xy: 1626, 6
+  size: 34, 33
+  orig: 341, 54
+  offset: 302, 8
+  index: -1
+fg_ks_free_games_EN
+  rotate: false
+  xy: 2, 107
+  size: 327, 63
+  orig: 327, 63
+  offset: 0, 0
+  index: -1
+fg_ks_start_EN
+  rotate: false
+  xy: 1242, 228
+  size: 185, 48
+  orig: 185, 48
+  offset: 0, 0
+  index: -1
+fg_ks_you_won_ENV
+  rotate: false
+  xy: 2, 43
+  size: 267, 62
+  orig: 268, 62
+  offset: 1, 0
+  index: -1
+fg_num_12
+  rotate: false
+  xy: 973, 222
+  size: 267, 199
+  orig: 267, 199
+  offset: 0, 0
+  index: -1
+fg_num_20
+  rotate: false
+  xy: 686, 223
+  size: 285, 198
+  orig: 285, 198
+  offset: 0, 0
+  index: -1
+fg_num_8
+  rotate: true
+  xy: 1242, 278
+  size: 143, 201
+  orig: 143, 201
+  offset: 0, 0
+  index: -1

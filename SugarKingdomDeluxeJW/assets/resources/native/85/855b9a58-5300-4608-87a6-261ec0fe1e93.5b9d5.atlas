@@ -1,0 +1,83 @@
+
+JDT_JiMan.png
+size: 157,969
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/jm/jtjm_001
+  rotate: true
+  xy: 51, 9
+  size: 314, 50
+  orig: 330, 60
+  offset: 7, 5
+  index: -1
+images/jm/jtjm_002
+  rotate: true
+  xy: 101, 333
+  size: 316, 52
+  orig: 330, 60
+  offset: 6, 5
+  index: -1
+images/jm/jtjm_003
+  rotate: true
+  xy: 57, 651
+  size: 316, 54
+  orig: 330, 60
+  offset: 7, 4
+  index: -1
+images/jm/jtjm_004
+  rotate: true
+  xy: 2, 648
+  size: 319, 53
+  orig: 330, 60
+  offset: 6, 5
+  index: -1
+images/jm/jtjm_005
+  rotate: true
+  xy: 2, 325
+  size: 321, 49
+  orig: 330, 60
+  offset: 4, 6
+  index: -1
+images/jm/jtjm_006
+  rotate: true
+  xy: 2, 2
+  size: 321, 47
+  orig: 330, 60
+  offset: 4, 6
+  index: -1
+images/jm/jtjm_007
+  rotate: true
+  xy: 53, 326
+  size: 320, 46
+  orig: 330, 60
+  offset: 3, 7
+  index: -1
+images/jm/jtjm_008
+  rotate: true
+  xy: 113, 660
+  size: 307, 42
+  orig: 330, 60
+  offset: 15, 8
+  index: -1
+images/jm/jtjm_009
+  rotate: true
+  xy: 103, 55
+  size: 276, 36
+  orig: 330, 60
+  offset: 16, 9
+  index: -1
+images/jm/jtjm_010
+  rotate: false
+  xy: 57, 648
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+images/jm/jtjm_000
+  rotate: false
+  xy: 57, 648
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+BG_pick_board.png
+size: 847,1123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/diban
+  rotate: false
+  xy: 2, 709
+  size: 714, 412
+  orig: 714, 412
+  offset: 0, 0
+  index: -1
+images/disg/1_00
+  rotate: true
+  xy: 631, 24
+  size: 48, 201
+  orig: 714, 412
+  offset: 178, 108
+  index: -1
+images/disg/1_01
+  rotate: true
+  xy: 2, 6
+  size: 74, 206
+  orig: 714, 412
+  offset: 178, 103
+  index: -1
+images/disg/1_02
+  rotate: true
+  xy: 639, 223
+  size: 98, 206
+  orig: 714, 412
+  offset: 178, 103
+  index: -1
+images/disg/1_03
+  rotate: false
+  xy: 718, 915
+  size: 123, 206
+  orig: 714, 412
+  offset: 178, 103
+  index: -1
+images/disg/1_04
+  rotate: true
+  xy: 216, 150
+  size: 148, 206
+  orig: 714, 412
+  offset: 178, 103
+  index: -1
+images/disg/1_05
+  rotate: true
+  xy: 639, 323
+  size: 173, 206
+  orig: 714, 412
+  offset: 178, 103
+  index: -1
+images/disg/1_06
+  rotate: true
+  xy: 430, 305
+  size: 198, 207
+  orig: 714, 412
+  offset: 178, 103
+  index: -1
+images/disg/1_07
+  rotate: false
+  xy: 217, 500
+  size: 211, 207
+  orig: 714, 412
+  offset: 191, 103
+  index: -1
+images/disg/1_08
+  rotate: false
+  xy: 2, 500
+  size: 213, 207
+  orig: 714, 412
+  offset: 214, 103
+  index: -1
+images/disg/1_09
+  rotate: false
+  xy: 430, 505
+  size: 213, 202
+  orig: 714, 412
+  offset: 238, 108
+  index: -1
+images/disg/1_10
+  rotate: false
+  xy: 216, 300
+  size: 212, 198
+  orig: 714, 412
+  offset: 264, 112
+  index: -1
+images/disg/1_11
+  rotate: false
+  xy: 2, 291
+  size: 212, 207
+  orig: 714, 412
+  offset: 289, 103
+  index: -1
+images/disg/1_12
+  rotate: false
+  xy: 2, 82
+  size: 211, 207
+  orig: 714, 412
+  offset: 315, 103
+  index: -1
+images/disg/1_13
+  rotate: false
+  xy: 645, 498
+  size: 197, 207
+  orig: 714, 412
+  offset: 339, 103
+  index: -1
+images/disg/1_14
+  rotate: true
+  xy: 430, 131
+  size: 172, 206
+  orig: 714, 412
+  offset: 364, 103
+  index: -1
+images/disg/1_15
+  rotate: true
+  xy: 638, 74
+  size: 147, 206
+  orig: 714, 412
+  offset: 389, 103
+  index: -1
+images/disg/1_16
+  rotate: false
+  xy: 718, 707
+  size: 122, 206
+  orig: 714, 412
+  offset: 414, 103
+  index: -1
+images/disg/1_17
+  rotate: true
+  xy: 215, 51
+  size: 97, 206
+  orig: 714, 412
+  offset: 439, 103
+  index: -1
+images/disg/1_18
+  rotate: true
+  xy: 423, 57
+  size: 72, 206
+  orig: 714, 412
+  offset: 464, 103
+  index: -1
+images/disg/1_19
+  rotate: true
+  xy: 210, 2
+  size: 47, 205
+  orig: 714, 412
+  offset: 489, 104
+  index: -1

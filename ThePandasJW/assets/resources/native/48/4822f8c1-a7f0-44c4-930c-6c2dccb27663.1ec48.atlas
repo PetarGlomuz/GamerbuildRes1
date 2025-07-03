@@ -1,0 +1,160 @@
+
+tc_jp_btn.png
+size: 996,168
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_1/btn_00
+  rotate: true
+  xy: 591, 6
+  size: 50, 45
+  orig: 162, 55
+  offset: 4, 8
+  index: -1
+btn_1/btn_01
+  rotate: false
+  xy: 931, 121
+  size: 64, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_02
+  rotate: false
+  xy: 901, 73
+  size: 79, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_03
+  rotate: false
+  xy: 744, 10
+  size: 94, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_04
+  rotate: false
+  xy: 481, 1
+  size: 108, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_05
+  rotate: true
+  xy: 433, 44
+  size: 123, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_06
+  rotate: true
+  xy: 337, 30
+  size: 137, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_07
+  rotate: true
+  xy: 241, 20
+  size: 147, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_08
+  rotate: true
+  xy: 193, 14
+  size: 153, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_09
+  rotate: true
+  xy: 1, 13
+  size: 154, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_10
+  rotate: true
+  xy: 49, 13
+  size: 154, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_11
+  rotate: true
+  xy: 97, 13
+  size: 154, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_12
+  rotate: true
+  xy: 145, 13
+  size: 154, 46
+  orig: 162, 55
+  offset: 4, 7
+  index: -1
+btn_1/btn_13
+  rotate: true
+  xy: 289, 23
+  size: 144, 46
+  orig: 162, 55
+  offset: 14, 7
+  index: -1
+btn_1/btn_14
+  rotate: true
+  xy: 385, 34
+  size: 133, 46
+  orig: 162, 55
+  offset: 25, 7
+  index: -1
+btn_1/btn_15
+  rotate: true
+  xy: 481, 49
+  size: 118, 46
+  orig: 162, 55
+  offset: 40, 7
+  index: -1
+btn_1/btn_16
+  rotate: false
+  xy: 638, 10
+  size: 104, 46
+  orig: 162, 55
+  offset: 54, 7
+  index: -1
+btn_1/btn_17
+  rotate: false
+  xy: 840, 10
+  size: 89, 46
+  orig: 162, 55
+  offset: 69, 7
+  index: -1
+btn_1/btn_18
+  rotate: false
+  xy: 854, 122
+  size: 75, 45
+  orig: 162, 55
+  offset: 83, 8
+  index: -1
+btn_1/btn_19
+  rotate: true
+  xy: 854, 59
+  size: 60, 45
+  orig: 162, 55
+  offset: 98, 8
+  index: -1
+btn_1/btn_20
+  rotate: false
+  xy: 931, 27
+  size: 46, 44
+  orig: 162, 55
+  offset: 112, 9
+  index: -1
+btn_collect_common
+  rotate: false
+  xy: 529, 58
+  size: 323, 109
+  orig: 323, 109
+  offset: 0, 0
+  index: -1

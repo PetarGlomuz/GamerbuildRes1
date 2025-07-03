@@ -1,0 +1,118 @@
+
+NG_L1.png
+size: 692,692
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: true
+  xy: 548, 622
+  size: 68, 84
+  orig: 68, 84
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 184, 529
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00001
+  rotate: false
+  xy: 366, 529
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00002
+  rotate: true
+  xy: 2, 347
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00003
+  rotate: true
+  xy: 2, 165
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00004
+  rotate: false
+  xy: 2, 2
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00005
+  rotate: true
+  xy: 165, 347
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00006
+  rotate: true
+  xy: 165, 165
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 184, 2
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00008
+  rotate: true
+  xy: 328, 347
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00009
+  rotate: true
+  xy: 328, 165
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00010
+  rotate: false
+  xy: 366, 2
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00011
+  rotate: false
+  xy: 491, 366
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+saoguang/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 2, 529
+  size: 180, 161
+  orig: 180, 161
+  offset: 0, 0
+  index: -1
+xx_1
+  rotate: false
+  xy: 634, 640
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 634, 588
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

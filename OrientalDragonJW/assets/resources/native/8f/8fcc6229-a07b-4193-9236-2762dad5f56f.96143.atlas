@@ -1,0 +1,146 @@
+
+TC_FG_shuzidikuang.png
+size: 866,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_shuzidikuang
+  rotate: false
+  xy: 2, 2
+  size: 398, 208
+  orig: 398, 208
+  offset: 0, 0
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_01
+  rotate: true
+  xy: 552, 2
+  size: 16, 72
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_02
+  rotate: true
+  xy: 702, 32
+  size: 28, 73
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_03
+  rotate: true
+  xy: 552, 20
+  size: 40, 73
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_04
+  rotate: true
+  xy: 402, 8
+  size: 52, 73
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_05
+  rotate: true
+  xy: 769, 68
+  size: 64, 73
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_06
+  rotate: true
+  xy: 791, 134
+  size: 76, 73
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_07
+  rotate: false
+  xy: 602, 62
+  size: 88, 73
+  orig: 159, 83
+  offset: 5, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_08
+  rotate: false
+  xy: 402, 137
+  size: 98, 73
+  orig: 159, 83
+  offset: 7, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_09
+  rotate: false
+  xy: 402, 62
+  size: 98, 73
+  orig: 159, 83
+  offset: 19, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_10
+  rotate: false
+  xy: 502, 137
+  size: 98, 73
+  orig: 159, 83
+  offset: 31, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_11
+  rotate: false
+  xy: 502, 62
+  size: 98, 73
+  orig: 159, 83
+  offset: 43, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_12
+  rotate: false
+  xy: 602, 137
+  size: 98, 73
+  orig: 159, 83
+  offset: 55, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_13
+  rotate: false
+  xy: 702, 137
+  size: 87, 73
+  orig: 159, 83
+  offset: 67, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_14
+  rotate: false
+  xy: 692, 62
+  size: 75, 73
+  orig: 159, 83
+  offset: 79, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_15
+  rotate: true
+  xy: 777, 3
+  size: 63, 73
+  orig: 159, 83
+  offset: 91, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_16
+  rotate: true
+  xy: 477, 9
+  size: 51, 73
+  orig: 159, 83
+  offset: 103, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_17
+  rotate: true
+  xy: 627, 21
+  size: 39, 73
+  orig: 159, 83
+  offset: 115, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_18
+  rotate: true
+  xy: 702, 3
+  size: 27, 73
+  orig: 159, 83
+  offset: 127, 5
+  index: -1
+sg_FG_shuzidikuang/sg_FG_shuzidikuang_19
+  rotate: true
+  xy: 627, 4
+  size: 15, 66
+  orig: 159, 83
+  offset: 139, 11
+  index: -1

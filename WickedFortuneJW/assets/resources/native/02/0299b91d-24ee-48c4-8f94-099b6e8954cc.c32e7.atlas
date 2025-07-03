@@ -1,0 +1,153 @@
+
+TC_congratulations.png
+size: 1987,130
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FG_biaoti
+  rotate: false
+  xy: 2, 42
+  size: 778, 86
+  orig: 778, 86
+  offset: 0, 0
+  index: -1
+btsg/btsg_00
+  rotate: true
+  xy: 1947, 43
+  size: 85, 38
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_01
+  rotate: false
+  xy: 1831, 8
+  size: 114, 39
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_02
+  rotate: false
+  xy: 1568, 8
+  size: 142, 39
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_03
+  rotate: false
+  xy: 1247, 7
+  size: 171, 39
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_04
+  rotate: false
+  xy: 870, 7
+  size: 199, 39
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_05
+  rotate: false
+  xy: 1683, 89
+  size: 227, 39
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_06
+  rotate: false
+  xy: 1425, 89
+  size: 256, 39
+  orig: 391, 44
+  offset: 2, 3
+  index: -1
+btsg/btsg_07
+  rotate: false
+  xy: 1109, 48
+  size: 283, 39
+  orig: 391, 44
+  offset: 3, 3
+  index: -1
+btsg/btsg_08
+  rotate: false
+  xy: 1111, 89
+  size: 312, 39
+  orig: 391, 44
+  offset: 3, 3
+  index: -1
+btsg/btsg_09
+  rotate: false
+  xy: 782, 89
+  size: 327, 39
+  orig: 391, 44
+  offset: 16, 3
+  index: -1
+btsg/btsg_10
+  rotate: false
+  xy: 782, 48
+  size: 325, 39
+  orig: 391, 44
+  offset: 45, 3
+  index: -1
+btsg/btsg_11
+  rotate: false
+  xy: 2, 2
+  size: 315, 38
+  orig: 391, 44
+  offset: 73, 3
+  index: -1
+btsg/btsg_12
+  rotate: false
+  xy: 319, 2
+  size: 288, 38
+  orig: 391, 44
+  offset: 101, 3
+  index: -1
+btsg/btsg_13
+  rotate: false
+  xy: 609, 2
+  size: 259, 38
+  orig: 391, 44
+  offset: 130, 3
+  index: -1
+btsg/btsg_14
+  rotate: false
+  xy: 1394, 49
+  size: 231, 38
+  orig: 391, 44
+  offset: 158, 3
+  index: -1
+btsg/btsg_15
+  rotate: false
+  xy: 1627, 49
+  size: 203, 38
+  orig: 391, 44
+  offset: 186, 3
+  index: -1
+btsg/btsg_16
+  rotate: false
+  xy: 1071, 8
+  size: 174, 38
+  orig: 391, 44
+  offset: 215, 3
+  index: -1
+btsg/btsg_17
+  rotate: false
+  xy: 1420, 9
+  size: 146, 38
+  orig: 391, 44
+  offset: 243, 3
+  index: -1
+btsg/btsg_18
+  rotate: false
+  xy: 1712, 9
+  size: 117, 38
+  orig: 391, 44
+  offset: 272, 3
+  index: -1
+btsg/btsg_19
+  rotate: false
+  xy: 1832, 49
+  size: 88, 38
+  orig: 391, 44
+  offset: 301, 3
+  index: -1

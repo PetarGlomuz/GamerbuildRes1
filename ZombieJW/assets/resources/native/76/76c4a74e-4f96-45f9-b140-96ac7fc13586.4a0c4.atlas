@@ -1,0 +1,132 @@
+
+NG_L3.png
+size: 863,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sg/zi/zi_00000
+  rotate: true
+  xy: 775, 68
+  size: 40, 65
+  orig: 158, 176
+  offset: 9, 35
+  index: -1
+sg/zi/zi_00001
+  rotate: false
+  xy: 524, 16
+  size: 52, 88
+  orig: 158, 176
+  offset: 9, 33
+  index: -1
+sg/zi/zi_00002
+  rotate: false
+  xy: 710, 2
+  size: 63, 106
+  orig: 158, 176
+  offset: 9, 35
+  index: -1
+sg/zi/zi_00003
+  rotate: true
+  xy: 578, 19
+  size: 87, 130
+  orig: 158, 176
+  offset: 9, 19
+  index: -1
+sg/zi/zi_00004
+  rotate: true
+  xy: 166, 2
+  size: 99, 141
+  orig: 158, 176
+  offset: 9, 16
+  index: -1
+sg/zi/zi_00005
+  rotate: false
+  xy: 754, 110
+  size: 107, 150
+  orig: 158, 176
+  offset: 12, 15
+  index: -1
+sg/zi/zi_00006
+  rotate: false
+  xy: 634, 110
+  size: 118, 150
+  orig: 158, 176
+  offset: 13, 18
+  index: -1
+sg/zi/zi_00007
+  rotate: false
+  xy: 399, 106
+  size: 125, 154
+  orig: 158, 176
+  offset: 18, 18
+  index: -1
+sg/zi/zi_00008
+  rotate: false
+  xy: 162, 103
+  size: 119, 157
+  orig: 158, 176
+  offset: 26, 15
+  index: -1
+sg/zi/zi_00009
+  rotate: false
+  xy: 283, 104
+  size: 114, 156
+  orig: 158, 176
+  offset: 34, 15
+  index: -1
+sg/zi/zi_00010
+  rotate: false
+  xy: 526, 108
+  size: 106, 152
+  orig: 158, 176
+  offset: 42, 18
+  index: -1
+sg/zi/zi_00011
+  rotate: true
+  xy: 372, 12
+  size: 90, 150
+  orig: 158, 176
+  offset: 55, 19
+  index: -1
+sg/zi/zi_00012
+  rotate: true
+  xy: 53, 9
+  size: 73, 111
+  orig: 158, 176
+  offset: 67, 59
+  index: -1
+sg/zi/zi_00013
+  rotate: false
+  xy: 309, 2
+  size: 61, 100
+  orig: 158, 176
+  offset: 79, 71
+  index: -1
+sg/zi/zi_00014
+  rotate: false
+  xy: 2, 2
+  size: 49, 80
+  orig: 158, 176
+  offset: 91, 91
+  index: -1
+sg/zi/zi_00015
+  rotate: false
+  xy: 775, 10
+  size: 34, 56
+  orig: 158, 176
+  offset: 103, 112
+  index: -1
+xx_1x
+  rotate: false
+  xy: 811, 16
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+zi
+  rotate: false
+  xy: 2, 84
+  size: 158, 176
+  orig: 158, 176
+  offset: 0, 0
+  index: -1

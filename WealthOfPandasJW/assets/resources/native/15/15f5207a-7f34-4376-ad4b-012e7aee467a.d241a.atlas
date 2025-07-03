@@ -1,0 +1,76 @@
+
+H4.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+datao
+  rotate: true
+  xy: 110, 10
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+huan
+  rotate: false
+  xy: 176, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+liangbian
+  rotate: false
+  xy: 2, 46
+  size: 106, 80
+  orig: 106, 80
+  offset: 0, 0
+  index: -1
+taoye01
+  rotate: false
+  xy: 164, 35
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+taoye02
+  rotate: true
+  xy: 45, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+taoye03
+  rotate: false
+  xy: 197, 44
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+taoye04
+  rotate: false
+  xy: 164, 14
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+taoye05
+  rotate: false
+  xy: 45, 21
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1
+wave
+  rotate: false
+  xy: 110, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+xiaotao
+  rotate: false
+  xy: 2, 2
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1

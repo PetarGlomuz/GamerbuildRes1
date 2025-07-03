@@ -1,0 +1,83 @@
+
+ScatterFGJuShu.png
+size: 710,138
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/+1
+  rotate: true
+  xy: 628, 55
+  size: 81, 63
+  orig: 88, 66
+  offset: 0, 3
+  index: -1
+images/+2
+  rotate: true
+  xy: 436, 50
+  size: 86, 62
+  orig: 88, 66
+  offset: 0, 3
+  index: -1
+images/+3
+  rotate: true
+  xy: 500, 50
+  size: 86, 62
+  orig: 88, 66
+  offset: 0, 3
+  index: -1
+images/+4
+  rotate: true
+  xy: 372, 49
+  size: 87, 62
+  orig: 88, 66
+  offset: 0, 3
+  index: -1
+images/+5
+  rotate: true
+  xy: 564, 50
+  size: 86, 62
+  orig: 88, 66
+  offset: 0, 3
+  index: -1
+images/Extra_Spins
+  rotate: false
+  xy: 372, 14
+  size: 156, 33
+  orig: 156, 34
+  offset: 0, 1
+  index: -1
+images/G1_000
+  rotate: false
+  xy: 608, 15
+  size: 100, 33
+  orig: 100, 80
+  offset: 0, 0
+  index: -1
+images/G2_000
+  rotate: true
+  xy: 144, 6
+  size: 130, 115
+  orig: 130, 130
+  offset: 0, 7
+  index: -1
+images/G3_000
+  rotate: false
+  xy: 530, 2
+  size: 76, 46
+  orig: 90, 70
+  offset: 7, 6
+  index: -1
+images/G4_000
+  rotate: true
+  xy: 261, 16
+  size: 120, 109
+  orig: 120, 120
+  offset: 0, 6
+  index: -1
+images/G5_000
+  rotate: false
+  xy: 2, 4
+  size: 140, 132
+  orig: 140, 140
+  offset: 0, 4
+  index: -1

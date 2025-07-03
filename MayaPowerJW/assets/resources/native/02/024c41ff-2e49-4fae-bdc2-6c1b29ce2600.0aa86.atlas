@@ -1,0 +1,27 @@
+
+FastJP_Coin_ShouJi.png
+size: 328,134
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Coin_ShouJI_1_000
+  rotate: false
+  xy: 256, 62
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+images/Coin_ShouJI_2_000
+  rotate: false
+  xy: 2, 2
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+images/Coin_ShouJI_3_000
+  rotate: false
+  xy: 134, 12
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

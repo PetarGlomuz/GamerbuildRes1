@@ -1,0 +1,69 @@
+
+h1.png
+size: 894,212
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_erduo
+  rotate: false
+  xy: 684, 95
+  size: 103, 115
+  orig: 103, 115
+  offset: 0, 0
+  index: -1
+R_erduo
+  rotate: true
+  xy: 582, 2
+  size: 86, 122
+  orig: 86, 122
+  offset: 0, 0
+  index: -1
+bizi
+  rotate: false
+  xy: 789, 107
+  size: 103, 103
+  orig: 103, 103
+  offset: 0, 0
+  index: -1
+di
+  rotate: true
+  xy: 427, 17
+  size: 193, 153
+  orig: 193, 153
+  offset: 0, 0
+  index: -1
+honghuang
+  rotate: false
+  xy: 2, 2
+  size: 246, 208
+  orig: 247, 209
+  offset: 1, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 250, 14
+  size: 196, 175
+  orig: 201, 175
+  offset: 5, 0
+  index: -1
+tou
+  rotate: false
+  xy: 582, 90
+  size: 100, 120
+  orig: 100, 120
+  offset: 0, 0
+  index: -1
+ya _L
+  rotate: false
+  xy: 789, 14
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+ya_R
+  rotate: true
+  xy: 839, 42
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1

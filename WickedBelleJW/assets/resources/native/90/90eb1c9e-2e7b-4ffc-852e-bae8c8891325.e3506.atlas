@@ -1,0 +1,139 @@
+
+jl_1_low.png
+size: 938,361
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihong1_0
+  rotate: true
+  xy: 653, 7
+  size: 173, 155
+  orig: 175, 175
+  offset: 1, 4
+  index: -1
+caihong4
+  rotate: false
+  xy: 232, 6
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+effect/chih1
+  rotate: true
+  xy: 2, 72
+  size: 287, 283
+  orig: 287, 283
+  offset: 0, 0
+  index: -1
+effect/lizi
+  rotate: false
+  xy: 786, 187
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+effect/suduxian
+  rotate: false
+  xy: 287, 175
+  size: 128, 184
+  orig: 128, 184
+  offset: 0, 0
+  index: -1
+shouji/s_01
+  rotate: true
+  xy: 893, 171
+  size: 36, 39
+  orig: 216, 153
+  offset: 159, 82
+  index: -1
+shouji/s_02
+  rotate: false
+  xy: 822, 145
+  size: 69, 62
+  orig: 216, 153
+  offset: 127, 81
+  index: -1
+shouji/s_03
+  rotate: false
+  xy: 2, 3
+  size: 95, 67
+  orig: 216, 153
+  offset: 100, 82
+  index: -1
+shouji/s_04
+  rotate: false
+  xy: 99, 4
+  size: 131, 66
+  orig: 216, 153
+  offset: 63, 83
+  index: -1
+shouji/s_05
+  rotate: true
+  xy: 387, 17
+  size: 156, 72
+  orig: 216, 153
+  offset: 38, 77
+  index: -1
+shouji/s_06
+  rotate: true
+  xy: 558, 2
+  size: 176, 93
+  orig: 216, 153
+  offset: 20, 55
+  index: -1
+shouji/s_07
+  rotate: true
+  xy: 417, 179
+  size: 180, 96
+  orig: 216, 153
+  offset: 15, 52
+  index: -1
+shouji/s_08
+  rotate: true
+  xy: 515, 180
+  size: 179, 96
+  orig: 216, 153
+  offset: 15, 52
+  index: -1
+shouji/s_09
+  rotate: true
+  xy: 613, 182
+  size: 177, 96
+  orig: 216, 153
+  offset: 16, 52
+  index: -1
+shouji/s_10
+  rotate: true
+  xy: 461, 2
+  size: 175, 95
+  orig: 216, 153
+  offset: 16, 52
+  index: -1
+shouji/s_11
+  rotate: true
+  xy: 298, 3
+  size: 170, 87
+  orig: 216, 153
+  offset: 16, 52
+  index: -1
+shouji/s_12
+  rotate: true
+  xy: 711, 187
+  size: 172, 73
+  orig: 216, 153
+  offset: 16, 52
+  index: -1
+tiao_5
+  rotate: false
+  xy: 786, 209
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+zhezhao1
+  rotate: true
+  xy: 805, 187
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

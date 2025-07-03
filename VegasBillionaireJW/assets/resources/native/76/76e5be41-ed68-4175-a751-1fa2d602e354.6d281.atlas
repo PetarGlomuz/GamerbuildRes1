@@ -1,0 +1,48 @@
+
+NG_H4.png
+size: 528,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+di
+  rotate: false
+  xy: 168, 10
+  size: 153, 140
+  orig: 153, 140
+  offset: 0, 0
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 14
+  size: 164, 136
+  orig: 164, 136
+  offset: 0, 0
+  index: -1
+xx_1x
+  rotate: false
+  xy: 476, 100
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 323, 91
+  size: 151, 59
+  orig: 154, 62
+  offset: 1, 1
+  index: -1
+yousaizi
+  rotate: false
+  xy: 323, 2
+  size: 91, 87
+  orig: 91, 87
+  offset: 0, 0
+  index: -1
+zuosaizi
+  rotate: true
+  xy: 416, 4
+  size: 85, 75
+  orig: 86, 75
+  offset: 0, 0
+  index: -1

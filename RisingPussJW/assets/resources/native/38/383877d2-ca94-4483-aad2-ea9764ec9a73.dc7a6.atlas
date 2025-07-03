@@ -1,0 +1,20 @@
+
+TC_kuang.png
+size: 725,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kg_000
+  rotate: false
+  xy: 2, 2
+  size: 430, 109
+  orig: 430, 120
+  offset: 0, 5
+  index: -1
+kuang
+  rotate: false
+  xy: 2, 113
+  size: 721, 181
+  orig: 721, 181
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+NG_L1.png
+size: 805,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L1
+  rotate: false
+  xy: 2, 2
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+sg/Symbol111112/Symbol111112_00000
+  rotate: false
+  xy: 751, 12
+  size: 26, 31
+  orig: 86, 78
+  offset: 11, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00001
+  rotate: false
+  xy: 716, 25
+  size: 33, 52
+  orig: 86, 78
+  offset: 11, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00002
+  rotate: false
+  xy: 677, 13
+  size: 37, 64
+  orig: 86, 78
+  offset: 11, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00003
+  rotate: false
+  xy: 532, 11
+  size: 50, 66
+  orig: 86, 78
+  offset: 11, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00004
+  rotate: false
+  xy: 427, 11
+  size: 55, 66
+  orig: 86, 78
+  offset: 12, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00005
+  rotate: false
+  xy: 312, 9
+  size: 58, 68
+  orig: 86, 78
+  offset: 15, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00006
+  rotate: false
+  xy: 69, 3
+  size: 59, 74
+  orig: 86, 78
+  offset: 16, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00007
+  rotate: false
+  xy: 130, 3
+  size: 59, 74
+  orig: 86, 78
+  offset: 16, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00008
+  rotate: false
+  xy: 191, 3
+  size: 59, 74
+  orig: 86, 78
+  offset: 16, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00009
+  rotate: false
+  xy: 252, 3
+  size: 58, 74
+  orig: 86, 78
+  offset: 17, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00010
+  rotate: false
+  xy: 372, 3
+  size: 53, 74
+  orig: 86, 78
+  offset: 22, 2
+  index: -1
+sg/Symbol111112/Symbol111112_00011
+  rotate: false
+  xy: 484, 5
+  size: 46, 72
+  orig: 86, 78
+  offset: 29, 4
+  index: -1
+sg/Symbol111112/Symbol111112_00012
+  rotate: false
+  xy: 584, 7
+  size: 39, 70
+  orig: 86, 78
+  offset: 36, 6
+  index: -1
+sg/Symbol111112/Symbol111112_00013
+  rotate: true
+  xy: 751, 45
+  size: 32, 50
+  orig: 86, 78
+  offset: 39, 26
+  index: -1
+sg/Symbol111112/Symbol111112_00014
+  rotate: false
+  xy: 779, 19
+  size: 24, 24
+  orig: 86, 78
+  offset: 47, 49
+  index: -1
+sg/Symbol111112/Symbol111112_00015
+  rotate: false
+  xy: 625, 8
+  size: 13, 17
+  orig: 86, 78
+  offset: 58, 51
+  index: -1
+xx_1x
+  rotate: false
+  xy: 625, 27
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1

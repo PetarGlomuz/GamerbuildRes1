@@ -1,0 +1,146 @@
+
+TC_JP_jpkuang.png
+size: 993,445
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JPkuang
+  rotate: false
+  xy: 2, 236
+  size: 989, 207
+  orig: 989, 207
+  offset: 0, 0
+  index: -1
+sg_JPkuang/sg_JPkuang_01
+  rotate: false
+  xy: 888, 81
+  size: 52, 75
+  orig: 396, 83
+  offset: 0, 8
+  index: -1
+sg_JPkuang/sg_JPkuang_02
+  rotate: false
+  xy: 809, 80
+  size: 77, 76
+  orig: 396, 83
+  offset: 0, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_03
+  rotate: false
+  xy: 858, 158
+  size: 103, 76
+  orig: 396, 83
+  offset: 0, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_04
+  rotate: false
+  xy: 523, 2
+  size: 129, 76
+  orig: 396, 83
+  offset: 0, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_05
+  rotate: false
+  xy: 545, 80
+  size: 154, 76
+  orig: 396, 83
+  offset: 1, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_06
+  rotate: false
+  xy: 545, 158
+  size: 178, 76
+  orig: 396, 83
+  offset: 3, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_07
+  rotate: false
+  xy: 2, 158
+  size: 179, 76
+  orig: 396, 83
+  offset: 28, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_08
+  rotate: false
+  xy: 2, 80
+  size: 179, 76
+  orig: 396, 83
+  offset: 54, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_09
+  rotate: false
+  xy: 183, 158
+  size: 179, 76
+  orig: 396, 83
+  offset: 79, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_10
+  rotate: false
+  xy: 2, 2
+  size: 179, 76
+  orig: 396, 83
+  offset: 105, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_11
+  rotate: false
+  xy: 183, 80
+  size: 179, 76
+  orig: 396, 83
+  offset: 131, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_12
+  rotate: false
+  xy: 364, 158
+  size: 179, 76
+  orig: 396, 83
+  offset: 157, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_13
+  rotate: false
+  xy: 183, 2
+  size: 179, 76
+  orig: 396, 83
+  offset: 183, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_14
+  rotate: false
+  xy: 364, 80
+  size: 179, 76
+  orig: 396, 83
+  offset: 209, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_15
+  rotate: false
+  xy: 364, 2
+  size: 157, 76
+  orig: 396, 83
+  offset: 235, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_16
+  rotate: false
+  xy: 725, 158
+  size: 131, 76
+  orig: 396, 83
+  offset: 261, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_17
+  rotate: false
+  xy: 701, 80
+  size: 106, 76
+  orig: 396, 83
+  offset: 286, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_18
+  rotate: false
+  xy: 654, 2
+  size: 80, 76
+  orig: 396, 83
+  offset: 312, 7
+  index: -1
+sg_JPkuang/sg_JPkuang_19
+  rotate: false
+  xy: 736, 3
+  size: 54, 75
+  orig: 396, 83
+  offset: 338, 8
+  index: -1

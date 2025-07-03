@@ -1,0 +1,13 @@
+
+TC_jp_tiaofu.png
+size: 734,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tiaofu
+  rotate: false
+  xy: 2, 2
+  size: 730, 294
+  orig: 730, 294
+  offset: 0, 0
+  index: -1

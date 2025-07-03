@@ -1,0 +1,188 @@
+
+jiedian1.png
+size: 768,766
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiedian1/jiedian1_00
+  rotate: false
+  xy: 295, 115
+  size: 215, 60
+  orig: 420, 249
+  offset: 76, 55
+  index: -1
+jiedian1/jiedian1_01
+  rotate: false
+  xy: 297, 177
+  size: 235, 64
+  orig: 420, 249
+  offset: 66, 59
+  index: -1
+jiedian1/jiedian1_02
+  rotate: false
+  xy: 300, 243
+  size: 256, 70
+  orig: 420, 249
+  offset: 55, 62
+  index: -1
+jiedian1/jiedian1_03
+  rotate: false
+  xy: 308, 406
+  size: 283, 82
+  orig: 420, 249
+  offset: 42, 62
+  index: -1
+jiedian1/jiedian1_04
+  rotate: false
+  xy: 0, 670
+  size: 316, 96
+  orig: 420, 249
+  offset: 26, 62
+  index: -1
+jiedian1/jiedian1_05
+  rotate: false
+  xy: 0, 573
+  size: 314, 95
+  orig: 420, 249
+  offset: 28, 62
+  index: -1
+jiedian1/jiedian1_06
+  rotate: false
+  xy: 318, 671
+  size: 311, 95
+  orig: 420, 249
+  offset: 30, 62
+  index: -1
+jiedian1/jiedian1_07
+  rotate: false
+  xy: 0, 477
+  size: 306, 94
+  orig: 420, 249
+  offset: 35, 62
+  index: -1
+jiedian1/jiedian1_08
+  rotate: false
+  xy: 0, 381
+  size: 299, 94
+  orig: 420, 249
+  offset: 41, 62
+  index: -1
+jiedian1/jiedian1_09
+  rotate: false
+  xy: 0, 286
+  size: 298, 93
+  orig: 420, 249
+  offset: 41, 62
+  index: -1
+jiedian1/jiedian1_10
+  rotate: false
+  xy: 0, 191
+  size: 295, 93
+  orig: 420, 249
+  offset: 42, 62
+  index: -1
+jiedian1/jiedian1_11
+  rotate: false
+  xy: 0, 96
+  size: 293, 93
+  orig: 420, 249
+  offset: 43, 62
+  index: -1
+jiedian1/jiedian1_12
+  rotate: false
+  xy: 0, 2
+  size: 292, 92
+  orig: 420, 249
+  offset: 43, 62
+  index: -1
+jiedian1/jiedian1_13
+  rotate: false
+  xy: 318, 580
+  size: 291, 89
+  orig: 420, 249
+  offset: 43, 62
+  index: -1
+jiedian1/jiedian1_14
+  rotate: false
+  xy: 316, 490
+  size: 287, 88
+  orig: 420, 249
+  offset: 46, 62
+  index: -1
+jiedian1/jiedian1_15
+  rotate: false
+  xy: 301, 315
+  size: 276, 89
+  orig: 420, 249
+  offset: 53, 62
+  index: -1
+jiedian1/jiedian1_16
+  rotate: false
+  xy: 295, 39
+  size: 196, 74
+  orig: 420, 249
+  offset: 95, 77
+  index: -1
+jiedian1/jiedian1_17
+  rotate: true
+  xy: 631, 570
+  size: 196, 73
+  orig: 420, 249
+  offset: 95, 78
+  index: -1
+jiedian1/jiedian1_18
+  rotate: true
+  xy: 593, 290
+  size: 196, 73
+  orig: 420, 249
+  offset: 95, 78
+  index: -1
+jiedian1/jiedian1_19
+  rotate: true
+  xy: 668, 291
+  size: 195, 72
+  orig: 420, 249
+  offset: 95, 79
+  index: -1
+jiedian1/jiedian1_20
+  rotate: false
+  xy: 558, 217
+  size: 195, 71
+  orig: 420, 249
+  offset: 95, 80
+  index: -1
+jiedian1/jiedian1_21
+  rotate: false
+  xy: 534, 145
+  size: 194, 70
+  orig: 420, 249
+  offset: 96, 81
+  index: -1
+jiedian1/jiedian1_22
+  rotate: false
+  xy: 512, 73
+  size: 193, 70
+  orig: 420, 249
+  offset: 96, 81
+  index: -1
+jiedian1/jiedian1_23
+  rotate: false
+  xy: 493, 4
+  size: 193, 67
+  orig: 420, 249
+  offset: 96, 84
+  index: -1
+jiedian1/jiedian1_24
+  rotate: true
+  xy: 706, 575
+  size: 191, 62
+  orig: 420, 249
+  offset: 97, 86
+  index: -1
+shiziguang01
+  rotate: false
+  xy: 605, 488
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

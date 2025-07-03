@@ -1,0 +1,160 @@
+
+BG_jishu.png
+size: 322,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00002
+  rotate: false
+  xy: 159, 10
+  size: 50, 38
+  orig: 73, 68
+  offset: 12, 8
+  index: -1
+1/1_00003
+  rotate: false
+  xy: 163, 50
+  size: 51, 40
+  orig: 73, 68
+  offset: 12, 6
+  index: -1
+1/1_00004
+  rotate: false
+  xy: 269, 69
+  size: 50, 49
+  orig: 73, 68
+  offset: 13, 7
+  index: -1
+1/1_00005
+  rotate: false
+  xy: 216, 80
+  size: 51, 49
+  orig: 73, 68
+  offset: 13, 7
+  index: -1
+1/1_00006
+  rotate: false
+  xy: 216, 29
+  size: 50, 49
+  orig: 73, 68
+  offset: 13, 7
+  index: -1
+1/1_00007
+  rotate: true
+  xy: 2, 2
+  size: 52, 49
+  orig: 73, 68
+  offset: 13, 8
+  index: -1
+1/1_00008
+  rotate: true
+  xy: 273, 229
+  size: 53, 47
+  orig: 73, 68
+  offset: 13, 10
+  index: -1
+1/1_00009
+  rotate: true
+  xy: 53, 2
+  size: 52, 48
+  orig: 73, 68
+  offset: 14, 9
+  index: -1
+1/1_00010
+  rotate: false
+  xy: 103, 5
+  size: 54, 43
+  orig: 73, 68
+  offset: 12, 9
+  index: -1
+1/1_00011
+  rotate: true
+  xy: 163, 92
+  size: 56, 49
+  orig: 73, 68
+  offset: 11, 9
+  index: -1
+1/1_00012
+  rotate: false
+  xy: 214, 131
+  size: 56, 49
+  orig: 73, 68
+  offset: 11, 9
+  index: -1
+1/1_00013
+  rotate: false
+  xy: 214, 233
+  size: 57, 49
+  orig: 73, 68
+  offset: 10, 9
+  index: -1
+1/1_00014
+  rotate: false
+  xy: 214, 182
+  size: 57, 49
+  orig: 73, 68
+  offset: 10, 9
+  index: -1
+1/1_00015
+  rotate: false
+  xy: 130, 150
+  size: 58, 48
+  orig: 73, 68
+  offset: 9, 10
+  index: -1
+1/1_00016
+  rotate: false
+  xy: 103, 100
+  size: 58, 48
+  orig: 73, 68
+  offset: 9, 11
+  index: -1
+1/1_00017
+  rotate: false
+  xy: 103, 50
+  size: 58, 48
+  orig: 73, 68
+  offset: 9, 11
+  index: -1
+1/1_00018
+  rotate: true
+  xy: 272, 120
+  size: 56, 48
+  orig: 73, 68
+  offset: 11, 11
+  index: -1
+1/1_00019
+  rotate: false
+  xy: 268, 19
+  size: 49, 48
+  orig: 73, 68
+  offset: 9, 11
+  index: -1
+1/1_00020
+  rotate: true
+  xy: 273, 178
+  size: 49, 46
+  orig: 73, 68
+  offset: 9, 12
+  index: -1
+baiguang_00000
+  rotate: false
+  xy: 130, 200
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+g2_00000
+  rotate: false
+  xy: 2, 56
+  size: 99, 99
+  orig: 99, 99
+  offset: 0, 0
+  index: -1
+g33_00000
+  rotate: false
+  xy: 2, 157
+  size: 126, 125
+  orig: 128, 128
+  offset: 1, 1
+  index: -1

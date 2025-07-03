@@ -1,0 +1,146 @@
+
+TingPai.png
+size: 1090,677
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/TP/TingPai_000
+  rotate: false
+  xy: 2, 141
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_001
+  rotate: false
+  xy: 138, 409
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_002
+  rotate: true
+  xy: 274, 542
+  size: 133, 267
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_003
+  rotate: false
+  xy: 138, 141
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_004
+  rotate: true
+  xy: 2, 5
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_005
+  rotate: false
+  xy: 274, 274
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_006
+  rotate: true
+  xy: 543, 542
+  size: 133, 267
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_007
+  rotate: false
+  xy: 410, 274
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_008
+  rotate: false
+  xy: 546, 274
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_009
+  rotate: false
+  xy: 682, 274
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_010
+  rotate: true
+  xy: 812, 542
+  size: 133, 267
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_011
+  rotate: false
+  xy: 818, 274
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_012
+  rotate: false
+  xy: 954, 274
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_013
+  rotate: true
+  xy: 812, 138
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_014
+  rotate: true
+  xy: 274, 139
+  size: 133, 267
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_015
+  rotate: true
+  xy: 270, 3
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_016
+  rotate: true
+  xy: 538, 3
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_017
+  rotate: true
+  xy: 806, 2
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_018
+  rotate: true
+  xy: 543, 139
+  size: 133, 267
+  orig: 140, 280
+  offset: 3, 6
+  index: -1
+images/TP/TingPai_019
+  rotate: false
+  xy: 2, 409
+  size: 134, 266
+  orig: 140, 280
+  offset: 3, 6
+  index: -1

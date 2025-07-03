@@ -1,0 +1,83 @@
+
+FG_fanpai.png
+size: 305,304
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wenjian/1111
+  rotate: false
+  xy: 2, 137
+  size: 112, 80
+  orig: 112, 80
+  offset: 0, 0
+  index: -1
+wenjian/add_0000
+  rotate: false
+  xy: 120, 224
+  size: 106, 78
+  orig: 112, 80
+  offset: 3, 2
+  index: -1
+wenjian/zhuan/zhuan_0001
+  rotate: true
+  xy: 221, 119
+  size: 97, 82
+  orig: 150, 107
+  offset: 35, 13
+  index: -1
+wenjian/zhuan/zhuan_0002
+  rotate: true
+  xy: 2, 2
+  size: 47, 84
+  orig: 150, 107
+  offset: 60, 13
+  index: -1
+wenjian/zhuan/zhuan_0003
+  rotate: false
+  xy: 103, 50
+  size: 43, 85
+  orig: 150, 107
+  offset: 51, 12
+  index: -1
+wenjian/zhuan/zhuan_0004
+  rotate: false
+  xy: 2, 51
+  size: 99, 84
+  orig: 150, 107
+  offset: 20, 12
+  index: -1
+wenjian/zhuan/zhuan_0005
+  rotate: false
+  xy: 2, 219
+  size: 116, 83
+  orig: 150, 107
+  offset: 17, 12
+  index: -1
+wenjian/zhuan/zhuan_0006
+  rotate: false
+  xy: 120, 138
+  size: 99, 84
+  orig: 150, 107
+  offset: 31, 12
+  index: -1
+wenjian/zhuan/zhuan_0007
+  rotate: false
+  xy: 148, 51
+  size: 43, 85
+  orig: 150, 107
+  offset: 56, 12
+  index: -1
+wenjian/zhuan/zhuan_0008
+  rotate: false
+  xy: 228, 218
+  size: 47, 84
+  orig: 150, 107
+  offset: 43, 13
+  index: -1
+wenjian/zhuan/zhuan_0009
+  rotate: false
+  xy: 193, 35
+  size: 97, 82
+  orig: 150, 107
+  offset: 18, 13
+  index: -1

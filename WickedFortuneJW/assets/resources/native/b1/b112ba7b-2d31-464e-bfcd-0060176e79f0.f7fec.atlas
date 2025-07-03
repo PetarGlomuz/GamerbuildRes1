@@ -1,0 +1,90 @@
+
+NG_dianji.png
+size: 543,1047
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/NG_01
+  rotate: true
+  xy: 437, 297
+  size: 112, 104
+  orig: 210, 228
+  offset: 45, 61
+  index: -1
+1/NG_03
+  rotate: true
+  xy: 402, 51
+  size: 147, 134
+  orig: 210, 228
+  offset: 29, 47
+  index: -1
+1/NG_05
+  rotate: false
+  xy: 2, 2
+  size: 151, 154
+  orig: 210, 228
+  offset: 28, 40
+  index: -1
+1/NG_07
+  rotate: false
+  xy: 214, 11
+  size: 186, 187
+  orig: 210, 228
+  offset: 12, 24
+  index: -1
+1/NG_09
+  rotate: false
+  xy: 2, 158
+  size: 210, 205
+  orig: 210, 228
+  offset: 0, 8
+  index: -1
+1/NG_11
+  rotate: false
+  xy: 225, 200
+  size: 210, 209
+  orig: 210, 228
+  offset: 0, 7
+  index: -1
+1/NG_13
+  rotate: true
+  xy: 2, 365
+  size: 210, 221
+  orig: 210, 228
+  offset: 0, 0
+  index: -1
+1/NG_15
+  rotate: true
+  xy: 229, 411
+  size: 210, 224
+  orig: 210, 228
+  offset: 0, 0
+  index: -1
+1/NG_17
+  rotate: true
+  xy: 260, 835
+  size: 210, 225
+  orig: 210, 228
+  offset: 0, 0
+  index: -1
+1/NG_19
+  rotate: true
+  xy: 260, 623
+  size: 210, 225
+  orig: 210, 228
+  offset: 0, 0
+  index: -1
+1/NG_21
+  rotate: true
+  xy: 2, 577
+  size: 210, 225
+  orig: 210, 228
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 2, 789
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

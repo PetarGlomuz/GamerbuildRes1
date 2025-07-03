@@ -1,0 +1,104 @@
+
+map_icon.png
+size: 234,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+map_icon
+  rotate: false
+  xy: 2, 175
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_01
+  rotate: false
+  xy: 117, 61
+  size: 55, 55
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+map_icon_saoguang/map_icon_saoguang_02
+  rotate: false
+  xy: 2, 60
+  size: 56, 55
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+map_icon_saoguang/map_icon_saoguang_03
+  rotate: false
+  xy: 174, 119
+  size: 55, 55
+  orig: 56, 56
+  offset: 1, 1
+  index: -1
+map_icon_saoguang/map_icon_saoguang_04
+  rotate: false
+  xy: 60, 118
+  size: 55, 56
+  orig: 56, 56
+  offset: 1, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_05
+  rotate: false
+  xy: 118, 176
+  size: 55, 56
+  orig: 56, 56
+  offset: 1, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_06
+  rotate: false
+  xy: 2, 117
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_07
+  rotate: false
+  xy: 60, 176
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_08
+  rotate: false
+  xy: 2, 2
+  size: 55, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_09
+  rotate: false
+  xy: 60, 60
+  size: 55, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_10
+  rotate: false
+  xy: 117, 118
+  size: 55, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_11
+  rotate: false
+  xy: 175, 176
+  size: 55, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+map_icon_saoguang/map_icon_saoguang_12
+  rotate: false
+  xy: 174, 62
+  size: 55, 55
+  orig: 56, 56
+  offset: 0, 1
+  index: -1
+map_icon_saoguang/map_icon_saoguang_13
+  rotate: false
+  xy: 59, 3
+  size: 55, 55
+  orig: 56, 56
+  offset: 0, 1
+  index: -1

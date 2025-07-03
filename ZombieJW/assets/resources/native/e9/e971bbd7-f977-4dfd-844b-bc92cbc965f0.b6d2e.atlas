@@ -1,0 +1,139 @@
+
+BG_panmian.png
+size: 743,774
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: true
+  xy: 677, 2
+  size: 39, 35
+  orig: 75, 73
+  offset: 22, 17
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 677, 43
+  size: 45, 32
+  orig: 75, 73
+  offset: 16, 21
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 638, 29
+  size: 46, 37
+  orig: 75, 73
+  offset: 15, 17
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 596, 31
+  size: 44, 40
+  orig: 75, 73
+  offset: 16, 15
+  index: -1
+images/g/g_04
+  rotate: true
+  xy: 552, 32
+  size: 43, 42
+  orig: 75, 73
+  offset: 17, 15
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 306, 22
+  size: 43, 53
+  orig: 75, 73
+  offset: 16, 6
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 262, 18
+  size: 42, 57
+  orig: 75, 73
+  offset: 16, 4
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 218, 17
+  size: 42, 58
+  orig: 75, 73
+  offset: 16, 4
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 174, 15
+  size: 42, 60
+  orig: 75, 73
+  offset: 17, 4
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 88, 13
+  size: 42, 62
+  orig: 75, 73
+  offset: 17, 4
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 2, 10
+  size: 41, 65
+  orig: 75, 73
+  offset: 18, 3
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 132, 10
+  size: 40, 65
+  orig: 75, 73
+  offset: 19, 4
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 45, 10
+  size: 41, 65
+  orig: 75, 73
+  offset: 19, 6
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 351, 23
+  size: 39, 52
+  orig: 75, 73
+  offset: 22, 7
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 392, 24
+  size: 39, 51
+  orig: 75, 73
+  offset: 22, 9
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 433, 23
+  size: 38, 52
+  orig: 75, 73
+  offset: 22, 10
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 513, 25
+  size: 37, 50
+  orig: 75, 73
+  offset: 22, 12
+  index: -1
+images/g/g_17
+  rotate: false
+  xy: 473, 25
+  size: 38, 50
+  orig: 75, 73
+  offset: 22, 14
+  index: -1
+images/qq_00
+  rotate: true
+  xy: 2, 77
+  size: 695, 739
+  orig: 763, 763
+  offset: 30, 12
+  index: -1

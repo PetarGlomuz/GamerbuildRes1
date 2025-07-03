@@ -1,0 +1,118 @@
+
+FG_jishupai.png
+size: 4096,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang_00003
+  rotate: false
+  xy: 2, 152
+  size: 377, 98
+  orig: 377, 98
+  offset: 0, 0
+  index: -1
+lizi/lizi_00003
+  rotate: false
+  xy: 2, 77
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00004
+  rotate: false
+  xy: 381, 177
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00005
+  rotate: false
+  xy: 2, 2
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00006
+  rotate: false
+  xy: 381, 102
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00007
+  rotate: false
+  xy: 760, 177
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00008
+  rotate: false
+  xy: 381, 27
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00009
+  rotate: false
+  xy: 760, 102
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00010
+  rotate: false
+  xy: 1139, 177
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00011
+  rotate: false
+  xy: 760, 27
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00012
+  rotate: false
+  xy: 1139, 102
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00013
+  rotate: false
+  xy: 1518, 177
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00014
+  rotate: false
+  xy: 1139, 27
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00015
+  rotate: false
+  xy: 1518, 102
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00016
+  rotate: false
+  xy: 1897, 177
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1
+lizi/lizi_00017
+  rotate: false
+  xy: 1518, 27
+  size: 377, 73
+  orig: 377, 73
+  offset: 0, 0
+  index: -1

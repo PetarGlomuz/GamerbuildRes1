@@ -1,0 +1,153 @@
+
+TC_FG_yingfenkuang.png
+size: 1070,1068
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g/g_00
+  rotate: false
+  xy: 948, 83
+  size: 117, 170
+  orig: 720, 178
+  offset: 3, 7
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 880, 255
+  size: 158, 170
+  orig: 720, 178
+  offset: 3, 7
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 676, 181
+  size: 202, 170
+  orig: 720, 178
+  offset: 3, 7
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 690, 353
+  size: 244, 170
+  orig: 720, 178
+  offset: 3, 7
+  index: -1
+images/g/g_04
+  rotate: true
+  xy: 690, 599
+  size: 287, 169
+  orig: 720, 178
+  offset: 3, 8
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 346, 216
+  size: 328, 169
+  orig: 720, 178
+  offset: 4, 8
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 2, 717
+  size: 342, 169
+  orig: 720, 178
+  offset: 33, 8
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 2, 550
+  size: 342, 165
+  orig: 720, 178
+  offset: 76, 8
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 346, 721
+  size: 342, 165
+  orig: 720, 178
+  offset: 119, 8
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 383
+  size: 342, 165
+  orig: 720, 178
+  offset: 162, 8
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 346, 554
+  size: 342, 165
+  orig: 720, 178
+  offset: 204, 8
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 2, 216
+  size: 342, 165
+  orig: 720, 178
+  offset: 247, 8
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 346, 387
+  size: 342, 165
+  orig: 720, 178
+  offset: 290, 8
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 724, 901
+  size: 344, 165
+  orig: 720, 178
+  offset: 333, 8
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 2, 48
+  size: 339, 166
+  orig: 720, 178
+  offset: 375, 7
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 343, 48
+  size: 299, 166
+  orig: 720, 178
+  offset: 418, 7
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 861, 643
+  size: 256, 170
+  orig: 720, 178
+  offset: 461, 7
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 862, 427
+  size: 214, 170
+  orig: 720, 178
+  offset: 503, 7
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 644, 9
+  size: 171, 170
+  orig: 720, 178
+  offset: 546, 7
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 817, 9
+  size: 129, 170
+  orig: 720, 178
+  offset: 588, 7
+  index: -1
+images/yingfenkuang
+  rotate: false
+  xy: 2, 888
+  size: 720, 178
+  orig: 720, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+TC_BG_mr.png
+size: 918,918
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/MR
+  rotate: false
+  xy: 2, 711
+  size: 425, 205
+  orig: 425, 205
+  offset: 0, 0
+  index: -1
+images/g/g_00
+  rotate: true
+  xy: 180, 10
+  size: 96, 131
+  orig: 425, 205
+  offset: 4, 11
+  index: -1
+images/g/g_01
+  rotate: true
+  xy: 2, 2
+  size: 121, 176
+  orig: 425, 205
+  offset: 4, 11
+  index: -1
+images/g/g_02
+  rotate: true
+  xy: 459, 183
+  size: 148, 190
+  orig: 425, 205
+  offset: 4, 11
+  index: -1
+images/g/g_03
+  rotate: true
+  xy: 649, 349
+  size: 176, 193
+  orig: 425, 205
+  offset: 4, 11
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 459, 333
+  size: 188, 193
+  orig: 425, 205
+  offset: 19, 11
+  index: -1
+images/g/g_05
+  rotate: true
+  xy: 251, 501
+  size: 208, 193
+  orig: 425, 205
+  offset: 27, 11
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 446, 528
+  size: 227, 193
+  orig: 425, 205
+  offset: 30, 11
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 2, 125
+  size: 234, 193
+  orig: 425, 205
+  offset: 44, 11
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 429, 723
+  size: 243, 193
+  orig: 425, 205
+  offset: 69, 11
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 320
+  size: 241, 191
+  orig: 425, 205
+  offset: 95, 13
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 674, 725
+  size: 239, 191
+  orig: 425, 205
+  offset: 123, 13
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 2, 513
+  size: 247, 196
+  orig: 425, 205
+  offset: 148, 8
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 675, 527
+  size: 220, 196
+  orig: 425, 205
+  offset: 192, 8
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 245, 303
+  size: 212, 196
+  orig: 425, 205
+  offset: 206, 8
+  index: -1
+images/g/g_14
+  rotate: true
+  xy: 238, 108
+  size: 193, 196
+  orig: 425, 205
+  offset: 227, 8
+  index: -1
+images/g/g_15
+  rotate: true
+  xy: 651, 181
+  size: 166, 196
+  orig: 425, 205
+  offset: 255, 8
+  index: -1
+images/g/g_16
+  rotate: true
+  xy: 436, 40
+  size: 141, 196
+  orig: 425, 205
+  offset: 280, 8
+  index: -1
+images/g/g_17
+  rotate: true
+  xy: 634, 64
+  size: 115, 179
+  orig: 425, 205
+  offset: 306, 25
+  index: -1
+images/g/g_18
+  rotate: false
+  xy: 815, 46
+  size: 85, 133
+  orig: 425, 205
+  offset: 335, 71
+  index: -1

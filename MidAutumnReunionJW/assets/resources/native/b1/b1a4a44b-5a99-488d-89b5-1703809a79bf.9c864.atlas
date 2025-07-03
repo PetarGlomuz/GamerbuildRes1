@@ -1,0 +1,146 @@
+
+TC_jp_anniu.png
+size: 1721,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/anniu/1_00
+  rotate: false
+  xy: 1629, 22
+  size: 66, 82
+  orig: 588, 196
+  offset: 149, 61
+  index: -1
+images/anniu/1_01
+  rotate: false
+  xy: 1459, 14
+  size: 88, 90
+  orig: 588, 196
+  offset: 149, 55
+  index: -1
+images/anniu/1_02
+  rotate: false
+  xy: 1346, 11
+  size: 111, 93
+  orig: 588, 196
+  offset: 148, 52
+  index: -1
+images/anniu/1_03
+  rotate: false
+  xy: 1462, 106
+  size: 132, 95
+  orig: 588, 196
+  offset: 148, 51
+  index: -1
+images/anniu/1_04
+  rotate: false
+  xy: 1096, 7
+  size: 154, 96
+  orig: 588, 196
+  offset: 148, 50
+  index: -1
+images/anniu/1_05
+  rotate: false
+  xy: 919, 7
+  size: 175, 96
+  orig: 588, 196
+  offset: 149, 50
+  index: -1
+images/anniu/1_06
+  rotate: false
+  xy: 720, 7
+  size: 197, 96
+  orig: 588, 196
+  offset: 149, 50
+  index: -1
+images/anniu/1_07
+  rotate: false
+  xy: 500, 7
+  size: 218, 96
+  orig: 588, 196
+  offset: 150, 50
+  index: -1
+images/anniu/1_08
+  rotate: false
+  xy: 262, 7
+  size: 236, 96
+  orig: 588, 196
+  offset: 154, 50
+  index: -1
+images/anniu/1_09
+  rotate: false
+  xy: 2, 7
+  size: 258, 96
+  orig: 588, 196
+  offset: 154, 50
+  index: -1
+images/anniu/1_10
+  rotate: false
+  xy: 2, 105
+  size: 261, 96
+  orig: 588, 196
+  offset: 167, 50
+  index: -1
+images/anniu/1_11
+  rotate: false
+  xy: 265, 105
+  size: 248, 96
+  orig: 588, 196
+  offset: 186, 50
+  index: -1
+images/anniu/1_12
+  rotate: false
+  xy: 515, 105
+  size: 229, 96
+  orig: 588, 196
+  offset: 208, 50
+  index: -1
+images/anniu/1_13
+  rotate: false
+  xy: 746, 105
+  size: 208, 96
+  orig: 588, 196
+  offset: 230, 50
+  index: -1
+images/anniu/1_14
+  rotate: false
+  xy: 956, 105
+  size: 188, 96
+  orig: 588, 196
+  offset: 251, 50
+  index: -1
+images/anniu/1_15
+  rotate: false
+  xy: 1146, 105
+  size: 167, 96
+  orig: 588, 196
+  offset: 273, 50
+  index: -1
+images/anniu/1_16
+  rotate: false
+  xy: 1315, 106
+  size: 145, 95
+  orig: 588, 196
+  offset: 295, 50
+  index: -1
+images/anniu/1_17
+  rotate: false
+  xy: 1596, 106
+  size: 123, 95
+  orig: 588, 196
+  offset: 317, 50
+  index: -1
+images/anniu/1_18
+  rotate: true
+  xy: 1252, 2
+  size: 101, 92
+  orig: 588, 196
+  offset: 339, 51
+  index: -1
+images/anniu/1_19
+  rotate: false
+  xy: 1549, 15
+  size: 78, 89
+  orig: 588, 196
+  offset: 361, 51
+  index: -1

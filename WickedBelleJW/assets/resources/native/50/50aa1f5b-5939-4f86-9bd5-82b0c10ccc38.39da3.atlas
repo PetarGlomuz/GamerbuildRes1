@@ -1,0 +1,27 @@
+
+239_popup_wheel01.png
+size: 1052,1052
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lizi_00000
+  rotate: false
+  xy: 2, 2
+  size: 683, 510
+  orig: 683, 510
+  offset: 0, 0
+  index: -1
+theme239_popup_bonuswheel
+  rotate: true
+  xy: 755, 605
+  size: 445, 217
+  orig: 445, 217
+  offset: 0, 0
+  index: -1
+形状 13 副本 9
+  rotate: false
+  xy: 2, 514
+  size: 751, 536
+  orig: 751, 536
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+TC_Congratulations.png
+size: 959,289
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+biaoti
+  rotate: false
+  xy: 2, 172
+  size: 698, 115
+  orig: 698, 115
+  offset: 0, 0
+  index: -1
+sg/sg_00000
+  rotate: false
+  xy: 368, 19
+  size: 63, 45
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00001
+  rotate: false
+  xy: 700, 6
+  size: 86, 45
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00002
+  rotate: false
+  xy: 508, 16
+  size: 109, 49
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00003
+  rotate: false
+  xy: 508, 67
+  size: 131, 50
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00004
+  rotate: false
+  xy: 803, 2
+  size: 154, 50
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00005
+  rotate: false
+  xy: 199, 66
+  size: 177, 51
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00006
+  rotate: false
+  xy: 446, 119
+  size: 199, 51
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00007
+  rotate: false
+  xy: 2, 119
+  size: 222, 51
+  orig: 351, 57
+  offset: 4, 2
+  index: -1
+sg/sg_00008
+  rotate: true
+  xy: 702, 53
+  size: 234, 51
+  orig: 351, 57
+  offset: 14, 2
+  index: -1
+sg/sg_00009
+  rotate: true
+  xy: 803, 54
+  size: 233, 48
+  orig: 351, 57
+  offset: 38, 5
+  index: -1
+sg/sg_00010
+  rotate: true
+  xy: 755, 53
+  size: 234, 46
+  orig: 351, 57
+  offset: 60, 7
+  index: -1
+sg/sg_00011
+  rotate: true
+  xy: 904, 55
+  size: 232, 47
+  orig: 351, 57
+  offset: 84, 6
+  index: -1
+sg/sg_00012
+  rotate: true
+  xy: 853, 55
+  size: 232, 49
+  orig: 351, 57
+  offset: 107, 4
+  index: -1
+sg/sg_00013
+  rotate: false
+  xy: 226, 119
+  size: 218, 51
+  orig: 351, 57
+  offset: 130, 2
+  index: -1
+sg/sg_00014
+  rotate: false
+  xy: 2, 66
+  size: 195, 51
+  orig: 351, 57
+  offset: 153, 2
+  index: -1
+sg/sg_00015
+  rotate: false
+  xy: 2, 14
+  size: 173, 50
+  orig: 351, 57
+  offset: 175, 2
+  index: -1
+sg/sg_00016
+  rotate: true
+  xy: 647, 20
+  size: 150, 51
+  orig: 351, 57
+  offset: 198, 1
+  index: -1
+sg/sg_00017
+  rotate: false
+  xy: 378, 66
+  size: 128, 51
+  orig: 351, 57
+  offset: 220, 1
+  index: -1
+sg/sg_00018
+  rotate: false
+  xy: 177, 16
+  size: 105, 48
+  orig: 351, 57
+  offset: 243, 1
+  index: -1
+sg/sg_00019
+  rotate: false
+  xy: 284, 19
+  size: 82, 45
+  orig: 351, 57
+  offset: 266, 1
+  index: -1

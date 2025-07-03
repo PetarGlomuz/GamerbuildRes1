@@ -1,0 +1,167 @@
+
+NG_wild_guang.png
+size: 2015,320
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00000
+  rotate: true
+  xy: 2, 164
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00002
+  rotate: true
+  xy: 2, 8
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00004
+  rotate: true
+  xy: 431, 164
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00006
+  rotate: true
+  xy: 431, 8
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00008
+  rotate: true
+  xy: 860, 164
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00010
+  rotate: true
+  xy: 860, 8
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00012
+  rotate: true
+  xy: 1289, 164
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+1/1_00014
+  rotate: true
+  xy: 1289, 8
+  size: 154, 427
+  orig: 154, 434
+  offset: 0, 3
+  index: -1
+2/2_00000
+  rotate: true
+  xy: 1820, 203
+  size: 41, 97
+  orig: 79, 117
+  offset: 19, 16
+  index: -1
+2/2_00001
+  rotate: false
+  xy: 1718, 2
+  size: 45, 86
+  orig: 79, 117
+  offset: 17, 14
+  index: -1
+2/2_00002
+  rotate: true
+  xy: 1908, 81
+  size: 49, 89
+  orig: 79, 117
+  offset: 15, 12
+  index: -1
+2/2_00003
+  rotate: true
+  xy: 1815, 79
+  size: 52, 91
+  orig: 79, 117
+  offset: 13, 10
+  index: -1
+2/2_00004
+  rotate: true
+  xy: 1921, 198
+  size: 57, 92
+  orig: 79, 117
+  offset: 10, 8
+  index: -1
+2/2_00005
+  rotate: true
+  xy: 1921, 257
+  size: 61, 92
+  orig: 79, 117
+  offset: 8, 6
+  index: -1
+2/2_00006
+  rotate: true
+  xy: 1914, 132
+  size: 64, 95
+  orig: 79, 117
+  offset: 7, 5
+  index: -1
+2/2_00007
+  rotate: true
+  xy: 1816, 133
+  size: 68, 96
+  orig: 79, 117
+  offset: 5, 5
+  index: -1
+2/2_00008
+  rotate: true
+  xy: 1820, 246
+  size: 72, 99
+  orig: 79, 117
+  offset: 3, 4
+  index: -1
+2/2_00009
+  rotate: true
+  xy: 1718, 245
+  size: 73, 100
+  orig: 79, 117
+  offset: 3, 4
+  index: -1
+2/2_00010
+  rotate: true
+  xy: 1718, 90
+  size: 75, 95
+  orig: 79, 117
+  offset: 2, 10
+  index: -1
+2/2_00011
+  rotate: true
+  xy: 1718, 167
+  size: 76, 96
+  orig: 79, 117
+  offset: 2, 9
+  index: -1
+2/2_00012
+  rotate: false
+  xy: 1765, 2
+  size: 70, 75
+  orig: 79, 117
+  offset: 2, 9
+  index: -1
+2/2_00013
+  rotate: true
+  xy: 1898, 15
+  size: 62, 58
+  orig: 79, 117
+  offset: 10, 27
+  index: -1
+2/2_00014
+  rotate: true
+  xy: 1837, 15
+  size: 62, 59
+  orig: 79, 117
+  offset: 10, 27
+  index: -1

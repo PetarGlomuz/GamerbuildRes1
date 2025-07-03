@@ -1,0 +1,153 @@
+
+TC_BG_con.png
+size: 725,723
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/conzi
+  rotate: false
+  xy: 2, 626
+  size: 718, 95
+  orig: 718, 95
+  offset: 0, 0
+  index: -1
+images/g/g_00
+  rotate: false
+  xy: 411, 290
+  size: 86, 77
+  orig: 718, 95
+  offset: 4, 8
+  index: -1
+images/g/g_01
+  rotate: false
+  xy: 184, 287
+  size: 121, 80
+  orig: 718, 95
+  offset: 4, 8
+  index: -1
+images/g/g_02
+  rotate: false
+  xy: 524, 370
+  size: 160, 81
+  orig: 718, 95
+  offset: 5, 8
+  index: -1
+images/g/g_03
+  rotate: false
+  xy: 186, 456
+  size: 174, 82
+  orig: 718, 95
+  offset: 27, 9
+  index: -1
+images/g/g_04
+  rotate: false
+  xy: 362, 456
+  size: 174, 82
+  orig: 718, 95
+  offset: 65, 10
+  index: -1
+images/g/g_05
+  rotate: false
+  xy: 538, 453
+  size: 172, 83
+  orig: 718, 95
+  offset: 103, 10
+  index: -1
+images/g/g_06
+  rotate: false
+  xy: 2, 107
+  size: 176, 84
+  orig: 718, 95
+  offset: 135, 10
+  index: -1
+images/g/g_07
+  rotate: false
+  xy: 355, 369
+  size: 167, 85
+  orig: 718, 95
+  offset: 170, 10
+  index: -1
+images/g/g_08
+  rotate: false
+  xy: 2, 21
+  size: 176, 84
+  orig: 718, 95
+  offset: 206, 11
+  index: -1
+images/g/g_09
+  rotate: false
+  xy: 2, 280
+  size: 179, 84
+  orig: 718, 95
+  offset: 243, 11
+  index: -1
+images/g/g_10
+  rotate: false
+  xy: 186, 540
+  size: 181, 84
+  orig: 718, 95
+  offset: 278, 11
+  index: -1
+images/g/g_11
+  rotate: false
+  xy: 2, 366
+  size: 180, 84
+  orig: 718, 95
+  offset: 315, 11
+  index: -1
+images/g/g_12
+  rotate: false
+  xy: 369, 540
+  size: 180, 84
+  orig: 718, 95
+  offset: 351, 11
+  index: -1
+images/g/g_13
+  rotate: false
+  xy: 2, 539
+  size: 182, 85
+  orig: 718, 95
+  offset: 388, 10
+  index: -1
+images/g/g_14
+  rotate: false
+  xy: 185, 369
+  size: 168, 85
+  orig: 718, 95
+  offset: 437, 9
+  index: -1
+images/g/g_15
+  rotate: false
+  xy: 2, 452
+  size: 181, 85
+  orig: 718, 95
+  offset: 463, 9
+  index: -1
+images/g/g_16
+  rotate: false
+  xy: 2, 193
+  size: 178, 85
+  orig: 718, 95
+  offset: 499, 8
+  index: -1
+images/g/g_17
+  rotate: false
+  xy: 551, 538
+  size: 172, 86
+  orig: 718, 95
+  offset: 537, 6
+  index: -1
+images/g/g_18
+  rotate: true
+  xy: 180, 51
+  size: 140, 84
+  orig: 718, 95
+  offset: 574, 6
+  index: -1
+images/g/g_19
+  rotate: false
+  xy: 307, 285
+  size: 102, 82
+  orig: 718, 95
+  offset: 612, 6
+  index: -1

@@ -1,0 +1,272 @@
+
+BG_jiesuan.png
+size: 4096,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1/1_00000
+  rotate: false
+  xy: 2, 554
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00001
+  rotate: false
+  xy: 2, 278
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00002
+  rotate: false
+  xy: 2, 2
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00003
+  rotate: true
+  xy: 317, 515
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00004
+  rotate: true
+  xy: 317, 200
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00005
+  rotate: false
+  xy: 593, 696
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00006
+  rotate: false
+  xy: 593, 420
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00007
+  rotate: false
+  xy: 908, 696
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00008
+  rotate: false
+  xy: 908, 420
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00009
+  rotate: false
+  xy: 1223, 696
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00010
+  rotate: false
+  xy: 1223, 420
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00011
+  rotate: false
+  xy: 1538, 696
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00012
+  rotate: false
+  xy: 1538, 420
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00013
+  rotate: false
+  xy: 1853, 696
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00014
+  rotate: false
+  xy: 1853, 420
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00015
+  rotate: false
+  xy: 2168, 696
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+1/1_00016
+  rotate: false
+  xy: 2168, 420
+  size: 313, 274
+  orig: 313, 274
+  offset: 0, 0
+  index: -1
+baiguang_00000
+  rotate: false
+  xy: 2741, 631
+  size: 164, 164
+  orig: 164, 164
+  offset: 0, 0
+  index: -1
+glow5
+  rotate: false
+  xy: 2483, 714
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_02
+  rotate: false
+  xy: 317, 25
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_03
+  rotate: false
+  xy: 593, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_04
+  rotate: false
+  xy: 2483, 539
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_05
+  rotate: false
+  xy: 2741, 797
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_06
+  rotate: false
+  xy: 795, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_07
+  rotate: false
+  xy: 2943, 797
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_08
+  rotate: false
+  xy: 997, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_09
+  rotate: false
+  xy: 3145, 797
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_10
+  rotate: false
+  xy: 1199, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_11
+  rotate: false
+  xy: 3347, 797
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_12
+  rotate: false
+  xy: 1401, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_13
+  rotate: false
+  xy: 3549, 797
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_14
+  rotate: false
+  xy: 1603, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_15
+  rotate: false
+  xy: 3751, 797
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_16
+  rotate: false
+  xy: 1805, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_17
+  rotate: false
+  xy: 2007, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_18
+  rotate: false
+  xy: 2209, 245
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+liekai_lizi/liekai_lizi_19
+  rotate: false
+  xy: 2483, 364
+  size: 200, 173
+  orig: 200, 173
+  offset: 0, 0
+  index: -1
+xian1
+  rotate: false
+  xy: 2, 830
+  size: 483, 140
+  orig: 483, 140
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+Grand_LuoXia.png
+size: 578,1060
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g2/g2_000
+  rotate: true
+  xy: 297, 416
+  size: 180, 75
+  orig: 190, 120
+  offset: 0, 15
+  index: -1
+images/g2/g2_001
+  rotate: true
+  xy: 290, 227
+  size: 187, 84
+  orig: 190, 120
+  offset: 0, 14
+  index: -1
+images/g2/g2_002
+  rotate: true
+  xy: 100, 2
+  size: 189, 91
+  orig: 190, 120
+  offset: 1, 12
+  index: -1
+images/g2/g2_003
+  rotate: true
+  xy: 193, 236
+  size: 184, 95
+  orig: 190, 120
+  offset: 0, 12
+  index: -1
+images/g2/g2_004
+  rotate: true
+  xy: 193, 50
+  size: 184, 95
+  orig: 190, 120
+  offset: 3, 16
+  index: -1
+images/g2/g2_005
+  rotate: true
+  xy: 476, 134
+  size: 170, 97
+  orig: 190, 120
+  offset: 15, 12
+  index: -1
+images/g2/g2_006
+  rotate: true
+  xy: 427, 656
+  size: 173, 104
+  orig: 190, 120
+  offset: 13, 9
+  index: -1
+images/g2/g2_007
+  rotate: true
+  xy: 471, 306
+  size: 172, 99
+  orig: 190, 120
+  offset: 8, 15
+  index: -1
+images/g2/g2_008
+  rotate: false
+  xy: 2, 385
+  size: 183, 101
+  orig: 190, 120
+  offset: 2, 14
+  index: -1
+images/g2/g2_009
+  rotate: false
+  xy: 2, 488
+  size: 183, 108
+  orig: 190, 120
+  offset: 6, 11
+  index: -1
+images/g2/g2_010
+  rotate: true
+  xy: 187, 422
+  size: 174, 108
+  orig: 190, 120
+  offset: 16, 8
+  index: -1
+images/g2/g2_011
+  rotate: true
+  xy: 376, 297
+  size: 173, 93
+  orig: 190, 120
+  offset: 12, 19
+  index: -1
+images/g2/g2_012
+  rotate: true
+  xy: 290, 50
+  size: 175, 98
+  orig: 190, 120
+  offset: 8, 18
+  index: -1
+images/g2/g2_013
+  rotate: true
+  xy: 2, 197
+  size: 186, 96
+  orig: 190, 120
+  offset: 2, 18
+  index: -1
+images/g2/g2_014
+  rotate: true
+  xy: 100, 193
+  size: 190, 91
+  orig: 190, 120
+  offset: 0, 20
+  index: -1
+images/g2/g2_015
+  rotate: true
+  xy: 2, 9
+  size: 186, 96
+  orig: 190, 120
+  offset: 4, 17
+  index: -1
+images/g2/g2_016
+  rotate: true
+  xy: 470, 480
+  size: 174, 99
+  orig: 190, 120
+  offset: 5, 14
+  index: -1
+images/g2/g2_017
+  rotate: true
+  xy: 374, 472
+  size: 182, 94
+  orig: 190, 120
+  offset: 1, 15
+  index: -1
+images/g2/g2_018
+  rotate: false
+  xy: 390, 29
+  size: 166, 90
+  orig: 190, 120
+  offset: 8, 13
+  index: -1
+images/g2/g2_019
+  rotate: true
+  xy: 390, 121
+  size: 174, 84
+  orig: 190, 120
+  offset: 2, 19
+  index: -1
+images/gd
+  rotate: false
+  xy: 2, 947
+  size: 574, 111
+  orig: 574, 141
+  offset: 0, 15
+  index: -1
+images/gr
+  rotate: false
+  xy: 2, 831
+  size: 532, 114
+  orig: 574, 141
+  offset: 21, 16
+  index: -1
+images/grg2_00
+  rotate: false
+  xy: 2, 684
+  size: 423, 145
+  orig: 425, 150
+  offset: 0, 3
+  index: -1
+images/grg_000
+  rotate: false
+  xy: 2, 598
+  size: 350, 84
+  orig: 350, 100
+  offset: 0, 13
+  index: -1
