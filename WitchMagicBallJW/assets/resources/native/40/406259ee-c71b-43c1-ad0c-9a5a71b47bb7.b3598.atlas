@@ -1,0 +1,34 @@
+
+pop_jp_frame.png
+size: 1432,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin_frame_grand
+  rotate: false
+  xy: 2, 186
+  size: 713, 182
+  orig: 713, 182
+  offset: 0, 0
+  index: -1
+coin_frame_major
+  rotate: false
+  xy: 2, 2
+  size: 713, 182
+  orig: 713, 182
+  offset: 0, 0
+  index: -1
+coin_frame_mini
+  rotate: false
+  xy: 717, 186
+  size: 713, 182
+  orig: 713, 182
+  offset: 0, 0
+  index: -1
+coin_frame_minor
+  rotate: false
+  xy: 717, 2
+  size: 713, 182
+  orig: 713, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,160 @@
+
+fg_bg.png
+size: 838,371
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gdd
+  rotate: false
+  xy: 705, 170
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 9
+  size: 360, 593
+  orig: 360, 614
+  offset: 0, 21
+  index: -1
+guangdian_00
+  rotate: false
+  xy: 597, 217
+  size: 157, 152
+  orig: 157, 152
+  offset: 0, 0
+  index: -1
+lazhu
+  rotate: true
+  xy: 756, 218
+  size: 30, 59
+  orig: 30, 61
+  offset: 0, 1
+  index: -1
+lian1
+  rotate: false
+  xy: 597, 104
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: false
+  xy: 597, 28
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+maotouying
+  rotate: false
+  xy: 756, 250
+  size: 80, 119
+  orig: 80, 121
+  offset: 0, 0
+  index: -1
+zg/1_00
+  rotate: false
+  xy: 769, 86
+  size: 25, 50
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_01
+  rotate: false
+  xy: 796, 87
+  size: 24, 49
+  orig: 46, 60
+  offset: 13, 5
+  index: -1
+zg/1_02
+  rotate: true
+  xy: 597, 2
+  size: 24, 50
+  orig: 46, 60
+  offset: 13, 5
+  index: -1
+zg/1_03
+  rotate: true
+  xy: 649, 2
+  size: 24, 50
+  orig: 46, 60
+  offset: 13, 5
+  index: -1
+zg/1_04
+  rotate: false
+  xy: 759, 138
+  size: 25, 51
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_05
+  rotate: false
+  xy: 786, 138
+  size: 25, 51
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_06
+  rotate: false
+  xy: 715, 61
+  size: 25, 52
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_07
+  rotate: false
+  xy: 742, 61
+  size: 25, 52
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_08
+  rotate: false
+  xy: 705, 115
+  size: 25, 53
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_09
+  rotate: false
+  xy: 732, 115
+  size: 25, 53
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_10
+  rotate: false
+  xy: 688, 49
+  size: 25, 53
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_11
+  rotate: true
+  xy: 715, 34
+  size: 25, 52
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_12
+  rotate: true
+  xy: 701, 7
+  size: 25, 52
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_13
+  rotate: true
+  xy: 756, 191
+  size: 25, 52
+  orig: 46, 60
+  offset: 12, 5
+  index: -1
+zg/1_14
+  rotate: false
+  xy: 769, 34
+  size: 25, 50
+  orig: 46, 60
+  offset: 12, 5
+  index: -1

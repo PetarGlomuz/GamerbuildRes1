@@ -1,0 +1,167 @@
+
+symbol_l4.png
+size: 900,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+J
+  rotate: false
+  xy: 193, 129
+  size: 97, 142
+  orig: 97, 142
+  offset: 0, 0
+  index: -1
+sg_j/sg_00
+  rotate: true
+  xy: 664, 9
+  size: 43, 53
+  orig: 152, 191
+  offset: 28, 18
+  index: -1
+sg_j/sg_01
+  rotate: false
+  xy: 719, 2
+  size: 54, 61
+  orig: 152, 191
+  offset: 28, 18
+  index: -1
+sg_j/sg_02
+  rotate: false
+  xy: 809, 118
+  size: 84, 73
+  orig: 152, 191
+  offset: 9, 15
+  index: -1
+sg_j/sg_03
+  rotate: true
+  xy: 715, 65
+  size: 98, 92
+  orig: 152, 191
+  offset: 4, 6
+  index: -1
+sg_j/sg_04
+  rotate: true
+  xy: 617, 54
+  size: 107, 96
+  orig: 152, 191
+  offset: 4, 3
+  index: -1
+sg_j/sg_05
+  rotate: true
+  xy: 582, 163
+  size: 108, 104
+  orig: 152, 191
+  offset: 4, 3
+  index: -1
+sg_j/sg_06
+  rotate: false
+  xy: 507, 29
+  size: 108, 116
+  orig: 152, 191
+  offset: 6, 3
+  index: -1
+sg_j/sg_07
+  rotate: false
+  xy: 282, 3
+  size: 112, 124
+  orig: 152, 191
+  offset: 11, 5
+  index: -1
+sg_j/sg_08
+  rotate: true
+  xy: 2, 6
+  size: 116, 140
+  orig: 152, 191
+  offset: 16, 9
+  index: -1
+sg_j/sg_09
+  rotate: true
+  xy: 144, 6
+  size: 116, 136
+  orig: 152, 191
+  offset: 20, 13
+  index: -1
+sg_j/sg_10
+  rotate: false
+  xy: 396, 3
+  size: 109, 130
+  orig: 152, 191
+  offset: 27, 19
+  index: -1
+sg_j/sg_11
+  rotate: false
+  xy: 2, 124
+  size: 94, 147
+  orig: 152, 191
+  offset: 39, 23
+  index: -1
+sg_j/sg_12
+  rotate: false
+  xy: 98, 124
+  size: 93, 147
+  orig: 152, 191
+  offset: 39, 28
+  index: -1
+sg_j/sg_13
+  rotate: false
+  xy: 292, 130
+  size: 94, 141
+  orig: 152, 191
+  offset: 38, 36
+  index: -1
+sg_j/sg_14
+  rotate: false
+  xy: 388, 135
+  size: 95, 136
+  orig: 152, 191
+  offset: 39, 41
+  index: -1
+sg_j/sg_15
+  rotate: false
+  xy: 485, 147
+  size: 95, 124
+  orig: 152, 191
+  offset: 44, 53
+  index: -1
+sg_j/sg_16
+  rotate: false
+  xy: 688, 165
+  size: 84, 106
+  orig: 152, 191
+  offset: 57, 71
+  index: -1
+sg_j/sg_17
+  rotate: true
+  xy: 809, 193
+  size: 78, 89
+  orig: 152, 191
+  offset: 62, 87
+  index: -1
+sg_j/sg_18
+  rotate: false
+  xy: 811, 45
+  size: 74, 71
+  orig: 152, 191
+  offset: 63, 102
+  index: -1
+sg_j/sg_19
+  rotate: true
+  xy: 775, 24
+  size: 39, 34
+  orig: 152, 191
+  offset: 76, 115
+  index: -1
+sg_j/sg_20
+  rotate: false
+  xy: 507, 4
+  size: 28, 23
+  orig: 152, 191
+  offset: 87, 126
+  index: -1
+xx
+  rotate: false
+  xy: 617, 7
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1

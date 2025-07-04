@@ -1,0 +1,20 @@
+
+fg_trans.png
+size: 332,274
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff/guangdian_00000
+  rotate: false
+  xy: 280, 222
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+eff/yanwu_00000
+  rotate: false
+  xy: 2, 2
+  size: 276, 270
+  orig: 346, 330
+  offset: 29, 23
+  index: -1

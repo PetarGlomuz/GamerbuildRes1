@@ -1,0 +1,41 @@
+
+ng_bg.png
+size: 697,365
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gdd
+  rotate: false
+  xy: 589, 7
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+guang
+  rotate: true
+  xy: 2, 2
+  size: 361, 585
+  orig: 361, 611
+  offset: 0, 26
+  index: -1
+lian1
+  rotate: false
+  xy: 589, 252
+  size: 106, 111
+  orig: 106, 111
+  offset: 0, 0
+  index: -1
+lian2
+  rotate: false
+  xy: 589, 54
+  size: 89, 74
+  orig: 89, 74
+  offset: 0, 0
+  index: -1
+maotouying
+  rotate: false
+  xy: 589, 130
+  size: 81, 120
+  orig: 81, 122
+  offset: 0, 0
+  index: -1

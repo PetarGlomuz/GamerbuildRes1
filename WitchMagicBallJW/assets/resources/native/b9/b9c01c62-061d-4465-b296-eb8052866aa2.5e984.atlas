@@ -1,0 +1,90 @@
+
+pop_fg_text_EN.png
+size: 1620,283
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+congratulations_EN
+  rotate: false
+  xy: 1008, 143
+  size: 609, 68
+  orig: 610, 68
+  offset: 1, 0
+  index: -1
+congratulations_ENhong
+  rotate: false
+  xy: 1008, 213
+  size: 610, 68
+  orig: 610, 69
+  offset: 0, 0
+  index: -1
+congratulations_ENzi
+  rotate: false
+  xy: 982, 73
+  size: 609, 68
+  orig: 610, 68
+  offset: 1, 0
+  index: -1
+free_games_EN
+  rotate: false
+  xy: 440, 2
+  size: 256, 37
+  orig: 256, 37
+  offset: 0, 0
+  index: -1
+in_EN
+  rotate: false
+  xy: 982, 19
+  size: 549, 52
+  orig: 549, 52
+  offset: 0, 0
+  index: -1
+random_EN
+  rotate: false
+  xy: 2, 16
+  size: 436, 70
+  orig: 436, 70
+  offset: 0, 0
+  index: -1
+random_ENhong
+  rotate: false
+  xy: 505, 113
+  size: 437, 70
+  orig: 437, 70
+  offset: 0, 0
+  index: -1
+random_ENzi
+  rotate: false
+  xy: 505, 41
+  size: 437, 70
+  orig: 437, 70
+  offset: 0, 0
+  index: -1
+total_win_EN
+  rotate: false
+  xy: 2, 185
+  size: 501, 96
+  orig: 501, 96
+  offset: 0, 0
+  index: -1
+total_win_ENhong
+  rotate: false
+  xy: 2, 88
+  size: 501, 95
+  orig: 502, 97
+  offset: 0, 1
+  index: -1
+total_win_ENzi
+  rotate: false
+  xy: 505, 185
+  size: 501, 96
+  orig: 501, 96
+  offset: 0, 0
+  index: -1
+you_won_EN
+  rotate: true
+  xy: 944, 6
+  size: 177, 36
+  orig: 177, 36
+  offset: 0, 0
+  index: -1

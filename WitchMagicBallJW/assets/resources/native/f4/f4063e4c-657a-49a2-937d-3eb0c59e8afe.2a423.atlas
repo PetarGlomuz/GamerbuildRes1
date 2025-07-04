@@ -1,0 +1,97 @@
+
+symbol_h3.png
+size: 297,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BJ
+  rotate: false
+  xy: 0, 295
+  size: 265, 217
+  orig: 265, 217
+  offset: 0, 0
+  index: -1
+L_biyan
+  rotate: true
+  xy: 267, 358
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+L_lvyanqiu
+  rotate: false
+  xy: 239, 38
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+L_yanqiu
+  rotate: false
+  xy: 239, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+R_biyan
+  rotate: false
+  xy: 267, 383
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+R_lvyanqiu
+  rotate: true
+  xy: 239, 106
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+R_yanqiu
+  rotate: true
+  xy: 239, 72
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+lian
+  rotate: true
+  xy: 0, 121
+  size: 172, 178
+  orig: 173, 178
+  offset: 1, 0
+  index: -1
+lvguang
+  rotate: true
+  xy: 267, 409
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: true
+  xy: 180, 140
+  size: 153, 114
+  orig: 153, 114
+  offset: 0, 0
+  index: -1
+paopao2
+  rotate: false
+  xy: 288, 505
+  size: 9, 7
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 0, 0
+  size: 237, 119
+  orig: 237, 119
+  offset: 0, 0
+  index: -1
+zhui
+  rotate: false
+  xy: 267, 450
+  size: 19, 62
+  orig: 19, 62
+  offset: 0, 0
+  index: -1

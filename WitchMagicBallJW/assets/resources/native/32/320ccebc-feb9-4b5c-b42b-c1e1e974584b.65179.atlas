@@ -1,0 +1,230 @@
+
+symbol_wild_light.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22huiju2_00
+  rotate: false
+  xy: 2, 93
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+Egyptcat_yugaoSZ_02
+  rotate: false
+  xy: 698, 17
+  size: 81, 20
+  orig: 81, 20
+  offset: 0, 0
+  index: -1
+gdian_00
+  rotate: false
+  xy: 2, 27
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+guangdian_00
+  rotate: false
+  xy: 68, 59
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+gx_00
+  rotate: false
+  xy: 158, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gyun115_00
+  rotate: false
+  xy: 288, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+gyun116_00
+  rotate: false
+  xy: 418, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+huiju2
+  rotate: false
+  xy: 581, 2
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+lizi_01
+  rotate: false
+  xy: 678, 126
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lizibaozha/1_01
+  rotate: false
+  xy: 678, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_02
+  rotate: false
+  xy: 819, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_03
+  rotate: false
+  xy: 960, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_04
+  rotate: false
+  xy: 1101, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_05
+  rotate: false
+  xy: 1242, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_06
+  rotate: false
+  xy: 1383, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_07
+  rotate: false
+  xy: 1524, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_08
+  rotate: false
+  xy: 1665, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_09
+  rotate: false
+  xy: 1806, 144
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_10
+  rotate: false
+  xy: 158, 14
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_11
+  rotate: false
+  xy: 299, 14
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_12
+  rotate: false
+  xy: 440, 14
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_13
+  rotate: false
+  xy: 698, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_14
+  rotate: false
+  xy: 839, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_15
+  rotate: false
+  xy: 980, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_16
+  rotate: false
+  xy: 1121, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_17
+  rotate: false
+  xy: 1262, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_18
+  rotate: false
+  xy: 1403, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+lizibaozha/1_19
+  rotate: false
+  xy: 1544, 39
+  size: 139, 103
+  orig: 139, 103
+  offset: 0, 0
+  index: -1
+quan2_00
+  rotate: false
+  xy: 1685, 45
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+sansheguang_1
+  rotate: false
+  xy: 548, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+sg_00000
+  rotate: true
+  xy: 1947, 143
+  size: 104, 98
+  orig: 104, 98
+  offset: 0, 0
+  index: -1
+tiaoguang_00
+  rotate: false
+  xy: 1794, 104
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

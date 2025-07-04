@@ -1,0 +1,34 @@
+
+pop_jp_text_EN.png
+size: 1218,528
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+grand_jackpot_EN
+  rotate: false
+  xy: 2, 265
+  size: 606, 261
+  orig: 608, 261
+  offset: 1, 0
+  index: -1
+mini_jackpot_EN
+  rotate: false
+  xy: 610, 4
+  size: 606, 259
+  orig: 608, 261
+  offset: 1, 1
+  index: -1
+minor_jackpot_EN
+  rotate: false
+  xy: 610, 265
+  size: 606, 261
+  orig: 608, 261
+  offset: 1, 0
+  index: -1
+minor_jackpot_EN1
+  rotate: false
+  xy: 2, 2
+  size: 606, 261
+  orig: 608, 261
+  offset: 1, 0
+  index: -1

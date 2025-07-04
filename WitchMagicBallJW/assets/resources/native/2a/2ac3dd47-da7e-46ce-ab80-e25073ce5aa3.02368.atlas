@@ -1,0 +1,174 @@
+
+pop_intro_light.png
+size: 1536,913
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GT11_00
+  rotate: true
+  xy: 432, 10
+  size: 72, 380
+  orig: 72, 400
+  offset: 0, 0
+  index: -1
+daiji2/1_00
+  rotate: false
+  xy: 624, 95
+  size: 69, 69
+  orig: 75, 75
+  offset: 3, 3
+  index: -1
+daiji2/1_01
+  rotate: false
+  xy: 540, 339
+  size: 68, 69
+  orig: 75, 75
+  offset: 5, 3
+  index: -1
+daiji2/1_02
+  rotate: true
+  xy: 290, 3
+  size: 65, 69
+  orig: 75, 75
+  offset: 8, 3
+  index: -1
+daiji2/1_03
+  rotate: true
+  xy: 2, 2
+  size: 60, 69
+  orig: 75, 75
+  offset: 12, 3
+  index: -1
+daiji2/1_04
+  rotate: true
+  xy: 144, 9
+  size: 53, 71
+  orig: 75, 75
+  offset: 16, 2
+  index: -1
+daiji2/1_05
+  rotate: true
+  xy: 478, 121
+  size: 43, 71
+  orig: 75, 75
+  offset: 21, 2
+  index: -1
+daiji2/1_06
+  rotate: true
+  xy: 260, 70
+  size: 32, 71
+  orig: 75, 75
+  offset: 26, 2
+  index: -1
+daiji2/1_07
+  rotate: true
+  xy: 406, 84
+  size: 18, 71
+  orig: 75, 75
+  offset: 31, 2
+  index: -1
+daiji2/1_08
+  rotate: true
+  xy: 479, 101
+  size: 18, 71
+  orig: 75, 75
+  offset: 26, 2
+  index: -1
+daiji2/1_09
+  rotate: true
+  xy: 333, 70
+  size: 32, 71
+  orig: 75, 75
+  offset: 17, 2
+  index: -1
+daiji2/1_10
+  rotate: true
+  xy: 551, 121
+  size: 43, 71
+  orig: 75, 75
+  offset: 11, 2
+  index: -1
+daiji2/1_11
+  rotate: true
+  xy: 217, 9
+  size: 53, 71
+  orig: 75, 75
+  offset: 6, 2
+  index: -1
+daiji2/1_12
+  rotate: true
+  xy: 73, 2
+  size: 60, 69
+  orig: 75, 75
+  offset: 3, 3
+  index: -1
+daiji2/1_13
+  rotate: true
+  xy: 361, 3
+  size: 65, 69
+  orig: 75, 75
+  offset: 2, 3
+  index: -1
+daiji2/1_14
+  rotate: false
+  xy: 610, 339
+  size: 68, 69
+  orig: 75, 75
+  offset: 2, 3
+  index: -1
+daxx1
+  rotate: false
+  xy: 2, 64
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+dxg
+  rotate: false
+  xy: 260, 104
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+fx_glow038_00
+  rotate: false
+  xy: 2, 322
+  size: 536, 589
+  orig: 536, 589
+  offset: 0, 0
+  index: -1
+gd
+  rotate: true
+  xy: 540, 410
+  size: 501, 490
+  orig: 512, 512
+  offset: 3, 13
+  index: -1
+ggggg_00_00
+  rotate: false
+  xy: 1032, 8
+  size: 437, 438
+  orig: 437, 438
+  offset: 0, 0
+  index: -1
+guangdian_00
+  rotate: false
+  xy: 478, 166
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+lzlz
+  rotate: false
+  xy: 552, 91
+  size: 28, 28
+  orig: 38, 38
+  offset: 5, 5
+  index: -1
+sansheguang_1
+  rotate: false
+  xy: 1032, 448
+  size: 502, 463
+  orig: 512, 512
+  offset: 5, 21
+  index: -1
